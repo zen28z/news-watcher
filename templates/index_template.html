@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>キーワードニュースウォッチャー</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #1a1d24;
+    --text: #e6e6e6;
+    --muted: #9aa0a6;
+    --accent: #5eb3ff;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  header {
+    padding: 24px 16px;
+    border-bottom: 1px solid #2a2d34;
+  }
+  header h1 { margin: 0 0 8px; font-size: 1.4rem; }
+  header p { margin: 4px 0; color: var(--muted); font-size: 0.85rem; }
+  .keywords span {
+    display: inline-block;
+    background: #24272f;
+    color: var(--accent);
+    padding: 2px 10px;
+    border-radius: 12px;
+    margin: 2px 4px 2px 0;
+    font-size: 0.8rem;
+  }
+  main {
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  .article {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 16px;
+    margin-bottom: 12px;
+  }
+  .article h2 { margin: 0 0 6px; font-size: 1.05rem; }
+  .article h2 a { color: var(--text); text-decoration: none; }
+  .article h2 a:hover { color: var(--accent); }
+  .meta { color: var(--muted); font-size: 0.78rem; margin-bottom: 8px; }
+  .summary { color: #c9cdd3; font-size: 0.9rem; }
+  .hit { color: var(--accent); font-weight: bold; }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.75rem;
+    padding: 24px 0 40px;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>キーワードニュースウォッチャー</h1>
+  <p>対象フィード: {{ feeds | length }}件 / 該当記事: {{ total_count }}件 / 最終更新: {{ generated_at_utc }}</p>
+  <div class="keywords">
+    {% for kw in keywords %}<span>{{ kw }}</span>{% endfor %}
+  </div>
+</header>
+<main>
+  {% for a in articles %}
+  <article class="article">
+    <h2><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.title }}</a></h2>
+    <div class="meta">
+      {{ a.source }} ・ {{ a.published[:16].replace("T", " ") }}
+      {% if a.matched_keywords %} ・ 一致: {% for k in a.matched_keywords %}<span class="hit">{{ k }}</span>{% if not loop.last %}, {% endif %}{% endfor %}{% endif %}
+    </div>
+    {% if a.summary %}<div class="summary">{{ a.summary[:200] }}{% if a.summary|length > 200 %}...{% endif %}</div>{% endif %}
+  </article>
+  {% else %}
+  <p>まだキーワードに一致する記事がありません。</p>
+  {% endfor %}
+</main>
+<footer>10分ごとに自動更新 (GitHub Actions)</footer>
+</body>
+</html>

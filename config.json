@@ -1,0 +1,111 @@
+{
+  "//": "ここにRSS/RDFのURLとキーワードを追加してください",
+
+  "feeds": [
+    
+  {
+    "name": "NHKニュース",
+    "url": "https://www.nhk.or.jp/rss/news/cat0.xml"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://rss.asahi.com/rss/asahi/newsheadlines.rdf"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://www.asahi.com/rss/asahi/national.rdf"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://www.asahi.com/rss/asahi/politics.rdf"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://www.asahi.com/rss/asahi/business.rdf"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://www.asahi.com/rss/asahi/international.rdf"
+  },
+  {
+    "name": "朝日新聞",
+    "url": "https://www.asahi.com/rss/asahi/culture.rdf"
+  },
+  {
+    "name": "毎日新聞",
+    "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss"
+  },
+  {
+    "name": "毎日新聞",
+    "url": "https://mainichi.jp/rss/etc/opinion.rss"
+  },
+  {
+    "name": "Yahoo!ニュース トピックス",
+    "url": "https://news.yahoo.co.jp/rss/topics/top-picks.xml"
+  },
+  {
+    "name": "Yahoo!ニュース 国内",
+    "url": "https://news.yahoo.co.jp/rss/categories/domestic.xml"
+  },
+  {
+    "name": "Yahoo!ニュース 国際",
+    "url": "https://news.yahoo.co.jp/rss/categories/world.xml"
+  },
+  {
+    "name": "Yahoo!ニュース 経済",
+    "url": "https://news.yahoo.co.jp/rss/categories/business.xml"
+  },
+  {
+    "name": "Yahoo!ニュース エンタメ",
+    "url": "https://news.yahoo.co.jp/rss/categories/entertainment.xml"
+  },
+  {
+    "name": "Yahoo!ニュース スポーツ",
+    "url": "https://news.yahoo.co.jp/rss/categories/sports.xml"
+  },
+  {
+    "name": "Yahoo!ニュース IT",
+    "url": "https://news.yahoo.co.jp/rss/categories/it.xml"
+  },
+  {
+    "name": "Yahoo!ニュース 科学",
+    "url": "https://news.yahoo.co.jp/rss/categories/science.xml"
+  },
+  {
+    "name": "Yahoo!ニュース 地域",
+    "url": "https://news.yahoo.co.jp/rss/categories/local.xml"
+  },
+  {
+    "name": "ITmedia 総合",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml"
+  },
+  {
+    "name": "東洋経済オンライン",
+    "url": "https://toyokeizai.net/list/feed/rss"
+  },
+  {
+    "name": "Impress Watch (PC Watch)",
+    "url": "https://www.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf"
+  },
+  {
+    "name": "GIGAZINE",
+    "url": "https://gigazine.net/news/rss_2.0/"
+  },
+  {
+    "name": "ハフポスト日本版",
+    "url": "https://www.huffingtonpost.jp/feeds/index.xml"
+  }
+  ],
+
+  "keywords": [
+    "ベトナム",
+    "ホーチミン"
+  ],
+
+  "options": {
+    "match_target": "title_and_summary",
+    "case_sensitive": false,
+    "max_articles": 200,
+    "max_age_days": 14
+  }
+}
