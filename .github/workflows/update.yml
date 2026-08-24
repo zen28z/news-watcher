@@ -1,0 +1,53 @@
+name: Update news watcher
+
+on:
+  schedule:
+    # GitHub Actionsの最小間隔は5分だが、10分間隔として */10 を指定
+    # 実際の実行はサーバー負荷により数分〜十数分遅れることがある(仕様上の制約)
+    - cron: "*/10 * * * *"
+  workflow_dispatch: {}   # 手動実行用ボタン
+  push:
+    branches: [main]
+    paths:
+      - "config.json"
+      - "scripts/**"
+      - "templates/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-watcher-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch feeds & build HTML
+        run: python scripts/fetch_news.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "news-watcher-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/index.html data/articles.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "chore: update news (auto)"
+            git push
+          fi
