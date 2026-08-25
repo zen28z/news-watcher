@@ -1,5 +1,50 @@
 [
   {
+    "id": "e58bd7e969f4ca0a3dcd9e3ee6c607ffa4852ea4",
+    "source": "毎日新聞",
+    "title": "カンボジアでの臓器移植あっせん事件　代表理事ら2人を不起訴",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260825/k00/00m/040/278000c",
+    "published": "2026-08-25T11:01:35+00:00",
+    "matched_keywords": [
+      "カンボジア"
+    ]
+  },
+  {
+    "id": "2e6cf27e10fe116670ecb95b893d509a2f823447",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【バレー】母・大友愛さん驚嘆「すごい」　初先発・秋本美空がフルコースの大暴れ　初得点＆サービスＡ＆ブロックでチーム１位の９得点…女子日本が第１セット先取し１次Ｌの首位突破確定、アジア選手権・ベトナム戦(スポーツ報知)",
+    "summary": "◆バレーボール女子　▽アジア選手権　１次リーグＣ組最終戦　日本ーベトナム（２５日、中国・天津）\n\n　バレーボール女子の２０２８年ロサンゼルス五輪予選を兼ねたアジア選手権は２５日、１次リーグ（Ｌ）最終戦",
+    "link": "https://news.yahoo.co.jp/articles/0a5da1e5d787dd984edf4a181ac4caba65761c1e?source=rss",
+    "published": "2026-08-25T10:56:28+00:00",
+    "matched_keywords": [
+      "ベトナム",
+      "中国"
+    ]
+  },
+  {
+    "id": "b08b9c1f1d3c276ecc21cd982c5fb9ba7f6d106f",
+    "source": "朝日新聞",
+    "title": "米国の「制裁強化」に強気のイラン　かぎ握るのは中国とUAEの対応",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV8T3DY9V8TUHBI00XM.html?ref=rss",
+    "published": "2026-08-25T10:55:52+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7b265bc8b556e9875fabb89ebc714b103eda611e",
+    "source": "朝日新聞",
+    "title": "米国の「制裁強化」に強気のイラン　かぎ握るのは中国とUAEの対応",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV8T3DY9V8TUHBI00XM.html?ref=rss",
+    "published": "2026-08-25T10:55:52+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "126d1fbdb999fb95862e1586158a4aa83b507022",
     "source": "Yahoo!ニュース スポーツ",
     "title": "【U19日本代表】「冨安２世」藤川虎三「プレッシャーあるけど、常に意識しながらやりたい」(日刊スポーツ)",
@@ -98,6 +143,17 @@
     "published": "2026-08-25T09:51:41+00:00",
     "matched_keywords": [
       "ネパール"
+    ]
+  },
+  {
+    "id": "998e7083183a4e274685185d06c09d7089ed349f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国に転売禁止のサーバーを転売　エヌビディア社員ら8人を起訴＝基隆地検／台湾(中央社フォーカス台湾)",
+    "summary": "（基隆中央社）台湾基隆地方検察署（地検）は24日、米国が厳格な輸出規制対象としている、米半導体大手エヌビディア製の特定先端半導体を搭載した、米スーパーマイクロ製の高性能AI（人工知能）サーバー74台を",
+    "link": "https://news.yahoo.co.jp/articles/f856005e80498cd0077ad973205688011e64c1f2?source=rss",
+    "published": "2026-08-25T09:48:23+00:00",
+    "matched_keywords": [
+      "中国"
     ]
   },
   {
