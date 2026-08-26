@@ -1,5 +1,38 @@
 [
   {
+    "id": "eccbda7c28a80a5248cbe0727b6b3a9222aabd2f",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "ネパール洪水 観光客約380人不明",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6593197?source=rss",
+    "published": "2026-08-26T14:49:45+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "6d056adc37e91310f6516ae87791f33f9c2194e5",
+    "source": "毎日新聞",
+    "title": "ネパールの洪水で55人死亡、384人不明　鉄砲水で家屋流される",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/389000c",
+    "published": "2026-08-26T14:21:15+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "426b884ed7dd7456880d1b4cf966ae69e244e987",
+    "source": "毎日新聞",
+    "title": "ネパールで洪水　384人行方不明、うち291人が外国人観光客か",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/338000c",
+    "published": "2026-08-26T14:06:31+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
     "id": "a986f80fa504957b9669a06704e2a64c785f850c",
     "source": "毎日新聞",
     "title": "ネパールの洪水で少なくとも9人死亡　チベット自治区でも被害か",
@@ -133,21 +166,10 @@
     ]
   },
   {
-    "id": "426b884ed7dd7456880d1b4cf966ae69e244e987",
-    "source": "毎日新聞",
-    "title": "ネパールで洪水　384人行方不明、うち291人が外国人観光客か",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/338000c",
-    "published": "2026-08-26T12:27:05+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
     "id": "47e1a3440d2c4627e4c0347ab7935ba89affaa5d",
     "source": "Yahoo!ニュース 国際",
-    "title": "ネパール洪水380人不明　46人死亡、中国でも被害(共同通信)",
-    "summary": "【北京、チェンナイ共同】ネパール中部ラスワ郡で26日、大規模な洪水が起き、地元警察や観光当局によると46人が死亡、384人が行方不明になった。中国国営通信新華社はネパールと接するチベット自治区シガツ",
+    "title": "ネパール大洪水95人死亡　外国人ら380人超不明(共同通信)",
+    "summary": "【チェンナイ、北京共同】ネパール中部ラスワ郡で26日、大規模な洪水が起き、地元警察は95人が死亡したと明らかにした。観光当局によると外国人ら384人が行方不明。中国国営通信新華社はネパールと接するチ",
     "link": "https://news.yahoo.co.jp/articles/2f83ec951c870dc7d2662ff2b6d73ffbcd9db598?source=rss",
     "published": "2026-08-26T12:19:18+00:00",
     "matched_keywords": [
