@@ -1,5 +1,60 @@
 [
   {
+    "id": "79700822b2c42d140c22ecaefebe94823038dccc",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール洪水で韓国人8人の安否不明　李大統領は総力挙げての捜索指示(聯合ニュース)",
+    "summary": "【ソウル聯合ニュース】ネパール中部ラスワ郡で26日（現地時間）に発生した大規模な洪水により、現地で水力発電所の建設作業に当たっていた韓国人8人と連絡が取れなくなっている。韓国外交部が発表した。\n\n　連",
+    "link": "https://news.yahoo.co.jp/articles/ef1d542bcf54b4228ac1140bace7cf96da20451b?source=rss",
+    "published": "2026-08-26T11:54:53+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "426b884ed7dd7456880d1b4cf966ae69e244e987",
+    "source": "毎日新聞",
+    "title": "ネパールで洪水　384人行方不明、うち291人が外国人観光客か",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/338000c",
+    "published": "2026-08-26T11:52:16+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "bbd53a47c1f6b64c5e9c2ab8088d87aca9f8b24c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国・チベット自治区で土石流　16人死亡 旅行者380人以上が行方不明か　中国メディア(テレビ朝日系（ANN）)",
+    "summary": "中国のチベット自治区で26日午前、大規模な土石流が発生し、少なくとも16人が死亡384人が行方不明になっています。\n今後、さらに死傷者が増えるとみられます。\n\n新華社通信によりますと、26日午前、チベ",
+    "link": "https://news.yahoo.co.jp/articles/145ee6a44226c54f1422bdc75311452111561d6e?source=rss",
+    "published": "2026-08-26T11:44:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "396f8090cfa4727b19d1546e1e33b1bb7595c08c",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "火災で新生児14人死亡 パキスタン",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6593181?source=rss",
+    "published": "2026-08-26T11:37:02+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
+    "id": "a32308305ee5dc513b5924a4f567efb7f122f518",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "ネパール洪水 観光客380人超不明",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6593180?source=rss",
+    "published": "2026-08-26T11:35:36+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
     "id": "d4ace0585bf61422cb3b8df453dc5340432defef",
     "source": "Yahoo!ニュース 地域",
     "title": "アジア選手権　KUROBEアクアフェアリーズ富山の山口選手　ベトナムを撃破し決勝T進出へ貢献(富山テレビ)",
@@ -171,12 +226,11 @@
     "id": "d057d2f1230274480058f95e6d020ad356d2fc8c",
     "source": "Yahoo!ニュース 国際",
     "title": "中国・チベット自治区で土石流　死傷者も　習主席が「重要指示」(テレビ朝日系（ANN）)",
-    "summary": "中国のチベット自治区で26日午前、大規模な土石流が発生し、多数の死傷者と行方不明者がでています。\n\n　新華社通信によりますと、午前、チベット自治区・シガツェ市のネパールとの国境付近でネパール側で発生し",
+    "summary": "中国のチベット自治区で26日午前、大規模な土石流が発生し、少なくとも16人が死亡、384人が行方不明になっています。今後、さらに死傷者が増えるとみられます。\n\n　新華社通信によりますと、26日午前、チ",
     "link": "https://news.yahoo.co.jp/articles/cd71d81ae89a62c59c2216772054353803bf5ddc?source=rss",
     "published": "2026-08-26T09:36:38+00:00",
     "matched_keywords": [
-      "中国",
-      "ネパール"
+      "中国"
     ]
   },
   {
