@@ -1,5 +1,94 @@
 [
   {
+    "id": "a986f80fa504957b9669a06704e2a64c785f850c",
+    "source": "毎日新聞",
+    "title": "ネパールの洪水で少なくとも9人死亡　チベット自治区でも被害か",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/350000c",
+    "published": "2026-08-26T14:06:09+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "28daee940323a95a7cb06c7b6a82f984afb21722",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール洪水の死者95人と警察(共同通信)",
+    "summary": "【チェンナイ共同】ネパール警察は26日、中部ラスワ郡で起きた洪水の死者が95人になったと明らかにした。",
+    "link": "https://news.yahoo.co.jp/articles/f43b73e1bdddd6365d6e0b6f864c379e610139a3?source=rss",
+    "published": "2026-08-26T13:55:31+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "18e9829aa30151b4233be61f577ee1c666fa4b6e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "マカオ、違法売春従事の女が強盗被害…中国本土出身の男逮捕(マカオ新聞)",
+    "summary": "マカオ司法警察局は8月25日、近日マカオのホテル客室内で違法売春従事の女が強盗被害に遭う事案が発生し、容疑者として中国本土出身の男（37）を逮捕したと発表。\n\n　同局によれば、被害者は同月20日にコ",
+    "link": "https://news.yahoo.co.jp/articles/8794139852633c9f7163600d72bc9e3dbf15c571?source=rss",
+    "published": "2026-08-26T13:50:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "eefde36f041894164347c9d4bc270dfac391a8ec",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール国境付近で大規模洪水、土石流が建物や車両巻き込む　死者55人　中国側も死傷者(産経新聞)",
+    "summary": "中国チベット自治区と接するネパール中部ラスワ郡の渓谷地帯で26日、大規模な洪水が発生し、周辺の村に流れ込んで少なくとも55人が死亡した。ロイター通信が報じた。ネパール当局によると、海外からを含む旅行者",
+    "link": "https://news.yahoo.co.jp/articles/d33d19411e6ea49cd21a7e3763de011c2bf18764?source=rss",
+    "published": "2026-08-26T13:43:38+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "ebb5104e27f6e288fcf3653e8eda5e989d87c320",
+    "source": "Yahoo!ニュース エンタメ",
+    "title": "「八嶋智人さんの奥様でびっくり」VIVANT出演女優の劇中姿に「そうなんだぁ！」「一瞬で尻に敷かれていると理解」「ゾクゾクする魅力」の声(西スポWEB OTTO!)",
+    "summary": "TBSドラマ「VIVANT」に出演中の女優・宮下今日子の劇中の姿と、夫の有名俳優との関係が話題を呼んでいる。\n\n　「TBS『VIVANT』第15話中国諜報機関『Xinxi = シンシー』責任者　樊",
+    "link": "https://news.yahoo.co.jp/articles/d2404b64fb6eaf2171455acadd947ca1db2bc244?source=rss",
+    "published": "2026-08-26T13:30:03+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f0618d74dd2da21d51025f1f4cd4d9fb11985823",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール洪水の死者46人と警察(共同通信)",
+    "summary": "【チェンナイ共同】ネパール中部ラスワ郡で起きた洪水で、地元警察は26日、死者が46人に上ったと明らかにした。",
+    "link": "https://news.yahoo.co.jp/articles/e79a05ba7817df3bbd47e07cbbe4529f3fd21647?source=rss",
+    "published": "2026-08-26T13:26:43+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "1a2df862aea06fc16a3a1bdae844fca45aa02f29",
+    "source": "朝日新聞",
+    "title": "ネパール・チベット国境で鉄砲水、22人死亡　旅行者384人が不明",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
+    "published": "2026-08-26T13:09:39+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "33970933e1b91e6d9462b95f8e10ec2c31e26a7c",
+    "source": "朝日新聞",
+    "title": "ネパール・チベット国境で鉄砲水、22人死亡　旅行者384人が不明",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
+    "published": "2026-08-26T13:09:39+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
     "id": "e7dd95a6e946bdc0b3f65800bfd5c51e688a5a02",
     "source": "Yahoo!ニュース 地域",
     "title": "日本語がわからない外国人の命を地震からどう守る?防災講習や避難所の多言語表示 ゲストハウスでの避難訓練=静岡県【わたしの防災】(静岡放送（SBS）)",
@@ -17,17 +106,6 @@
     "summary": "ネパール東部で日本時間の26日昼ごろ、洪水が発生しました。観光当局によりますと291人の外国人を含む380人以上の観光客が行方不明になっていて、軍が捜索活動を続けています。",
     "link": "https://news.web.nhk/newsweb/na/nd-20260826de46535",
     "published": "2026-08-26T12:49:39+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "a986f80fa504957b9669a06704e2a64c785f850c",
-    "source": "毎日新聞",
-    "title": "ネパールの洪水で少なくとも9人死亡　チベット自治区でも被害か",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/350000c",
-    "published": "2026-08-26T12:37:24+00:00",
     "matched_keywords": [
       "ネパール"
     ]
@@ -68,8 +146,8 @@
   {
     "id": "47e1a3440d2c4627e4c0347ab7935ba89affaa5d",
     "source": "Yahoo!ニュース 国際",
-    "title": "ネパール洪水380人不明　16人死亡、中国でも被害(共同通信)",
-    "summary": "【北京、チェンナイ共同】ネパール中部ラスワ郡で26日、大規模な洪水が起き、地元警察や観光当局によると16人が死亡、約380人が行方不明になった。中国国営通信新華社はネパールと接するチベット自治区シガ",
+    "title": "ネパール洪水380人不明　46人死亡、中国でも被害(共同通信)",
+    "summary": "【北京、チェンナイ共同】ネパール中部ラスワ郡で26日、大規模な洪水が起き、地元警察や観光当局によると46人が死亡、384人が行方不明になった。中国国営通信新華社はネパールと接するチベット自治区シガツ",
     "link": "https://news.yahoo.co.jp/articles/2f83ec951c870dc7d2662ff2b6d73ffbcd9db598?source=rss",
     "published": "2026-08-26T12:19:18+00:00",
     "matched_keywords": [
@@ -294,7 +372,7 @@
     "id": "d057d2f1230274480058f95e6d020ad356d2fc8c",
     "source": "Yahoo!ニュース 国際",
     "title": "ネパールで大規模洪水　17人死亡約380人不明　中国側でも被害　習主席「重要指示」(テレビ朝日系（ANN）)",
-    "summary": "ネパールとチベット自治区の国境付近で土石流や洪水が発生しました。大規模な洪水が起きたネパールではこれまでに少なくとも17人が死亡したほか、380人以上が行方不明になっています。\n\n　26日、ヒマラヤ山",
+    "summary": "ネパールとチベット自治区の国境付近で土石流や洪水が発生しました。大規模な洪水が起きたネパールでは、これまでに少なくとも17人が死亡したほか、380人以上が行方不明になっています。\n\n　26日、ヒマラヤ",
     "link": "https://news.yahoo.co.jp/articles/cd71d81ae89a62c59c2216772054353803bf5ddc?source=rss",
     "published": "2026-08-26T09:36:38+00:00",
     "matched_keywords": [
