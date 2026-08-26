@@ -1,5 +1,329 @@
 [
   {
+    "id": "a5ed481f02387d97b70b25f664fd8cae40581f75",
+    "source": "毎日新聞",
+    "title": "ネパール中部の大洪水、日本人5人と連絡取れず　ツアーに参加か",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260827/k00/00m/030/004000c",
+    "published": "2026-08-26T23:21:50+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "27ed6f04196be568b33647d0e56205be0e5b119c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "韓国・釜山の工場で20代外国人労働者が包装機械に挟まれ重体(中央日報日本語版)",
+    "summary": "韓国・釜山（プサン）の工場で20代の外国人労働者が機械に挟まれ、重体となる事故が発生した。\n\n27日、警察によると、前日午後7時40分ごろ、釜山沙下区の工場で外国人労働者Aさんが生地包装機に挟まれた。",
+    "link": "https://news.yahoo.co.jp/articles/2ab2cd1e3e6118715d7b363512d175f9a9b3c571?source=rss",
+    "published": "2026-08-26T23:18:55+00:00",
+    "matched_keywords": [
+      "外国人労働者"
+    ]
+  },
+  {
+    "id": "eb5bedf35a53771b4351780db696fe6bded5b2d4",
+    "source": "Yahoo!ニュース 経済",
+    "title": "Xpeng初のグローバルモデルが絶好調！　本国中国では発売から1時間で5万台も売れた!!(THE EV TIMES)",
+    "summary": "中国EVメーカーのXpengが、大衆向け電動SUV「MONA L03」を中国と欧州で同時発売しました。中国では300万円以下という価格競争力によって、発売から1時間で5万台規模の注文を獲得。さらに欧州",
+    "link": "https://news.yahoo.co.jp/articles/2938c432ade47e4c0b261d71b07d2656b6e5b7a1?source=rss",
+    "published": "2026-08-26T23:05:45+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b2a8a473367e3f2634581ac8dbfe355b41a63685",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「女優みたいな顔立ち、韓国の一番の壁」…日本が絶賛したバレーボール選手イ・ダヒョン(中央日報日本語版)",
+    "summary": "韓国女子バレーボール代表のイ・ダヒョンが日本戦で活躍し、日本のファンから注目を受けた。\n\n24日（現地時間）の日本メディアTHE ANSWERによると、韓国女子バレーボール代表は23日、中国天津で行わ",
+    "link": "https://news.yahoo.co.jp/articles/c7e55f983c5c0175b915b08d52b4bde70ef33caa?source=rss",
+    "published": "2026-08-26T23:03:55+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d7bafbdac4523774a214e00f4729f5aaec230da5",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【更新中】ネパールで大規模洪水、日本人5人と連絡取れず　これまでに死亡157人、行方不明400人以上　情報まとめ(テレビ朝日系（ANN）)",
+    "summary": "ネパールとチベット自治区の国境付近で土石流や洪水が発生しました。ネパール中部のラスワ郡では大規模な洪水が起きました。また、日本人5人と連絡が取れていないということです。情報をまとめています。",
+    "link": "https://news.yahoo.co.jp/articles/cebc000fd8d3a547af3ed9404fa871f5588a2920?source=rss",
+    "published": "2026-08-26T23:03:16+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "1f3f09666cfd1069f72af8b500ab87a4c2a52325",
+    "source": "Yahoo!ニュース 地域",
+    "title": "「捨てるのを忘れた」「海外で吸った」大麻所持・麻薬使用の疑いで広島市の23歳女逮捕(中国新聞デジタル)",
+    "summary": "広島県警広島西署は26日、広島市佐伯区のアルバイトの女（23）を麻薬取締法違反（所持、使用）の疑いで逮捕した。\n\n　逮捕容疑は、2月12日午前8時ごろ、自宅で乾燥大麻若干量を所持し、昨年11月2日か",
+    "link": "https://news.yahoo.co.jp/articles/b998348e3fecec11781c83be7e495d96590f023c?source=rss",
+    "published": "2026-08-26T23:01:11+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0534e9822bdf8cb60880864bbb0d37dfdf8a9929",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【警報級の大雨・ゲリラ豪雨】27日（木）発生しやすい地域は　北陸では線状降水帯発生情報　気象庁(RCC中国放送)",
+    "summary": "台風18号「ソウデル」は、26日午前6時現在、「強い」勢力で東シナ海をゆっくりと西南西へ進んでいます。本州付近に、直接の影響はないものの、台風からの暖かく湿った空気が、日本海に停滞する前線に向かって流",
+    "link": "https://news.yahoo.co.jp/articles/798e1c161686d7ceda47f47730016c7d18697565?source=rss",
+    "published": "2026-08-26T22:55:23+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7b6bfcb9499ee63df444e8540cf4c16fc673b831",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国人留学生殺害の中国人大学講師「20日未明に犯行」…容疑の一部を自白＝韓国(中央日報日本語版)",
+    "summary": "韓国・慶尚北道慶山（キョンサンブクド・キョンサン）で中国人女性留学生を殺害した疑いで拘束令状が請求された中国人大学講師チョン容疑者（30代）が、警察の取り調べで犯行の一部を自白したことが確認された。",
+    "link": "https://news.yahoo.co.jp/articles/f0138dbcae5071ea6e3241df8ff5303f5fca4ae9?source=rss",
+    "published": "2026-08-26T22:54:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "56673166dfce3d504639fa4431ff787c4ee23254",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国、米国の「イラン孤立作戦」に反対…９月の米中首脳会談を控え、新たな火種が浮上(ハンギョレ新聞)",
+    "summary": "米国の対イラン経済制裁が発表されたことを受け、中国は反対の意思を明確にした。米国は制裁効果を得るためには、イラン産原油の80～90%を購入している中国に圧力をかけなければならないが、それが強すぎると",
+    "link": "https://news.yahoo.co.jp/articles/6795ae3e3f7169cb5ae6b86b78861e6b2abd845d?source=rss",
+    "published": "2026-08-26T22:35:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a388c365c31925e7f26c52f60fe230220b8eafb4",
+    "source": "毎日新聞",
+    "title": "中国向けレアアース採掘、ミャンマーで急増　「紛争経済」指摘も",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/390000c",
+    "published": "2026-08-26T22:30:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9695c856684e868f7a337fa3cea713ba19f95574",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国人留学生を殺害後、遺体を損壊…中国人大学講師の逮捕状請求＝韓国(中央日報日本語版)",
+    "summary": "中国人大学院生を殺害した疑いが持たれている中国人大学講師について、警察が逮捕状を請求した。\n\n慶尚北道（キョンサンブクド）の慶山（キョンサン）警察署は26日、殺人などの疑いで中国国籍のチョン容疑者（3",
+    "link": "https://news.yahoo.co.jp/articles/b1dde2b34ebd2baa2c77c87add21ada9dbc8cb32?source=rss",
+    "published": "2026-08-26T22:28:45+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "11bfd33945d4856e5a37fc2b5fabd923b7e36dcc",
+    "source": "Yahoo!ニュース 経済",
+    "title": "「これはおもしろそう！」「アンダーボーンいいね」「かなり攻撃的な印象」など反響　ベトナムでヤマハ「エキサイター155 VVA-TCS」発表(バイクのニュース)",
+    "summary": "ヤマハのベトナム法人は、スポーツアンダーボーンモデルである新型「エキサイター155 VVA-TCS」を2026年7月に発表しました。",
+    "link": "https://news.yahoo.co.jp/articles/a04fb0054efd1fa8d737f52ab03700db7f7cbf60?source=rss",
+    "published": "2026-08-26T22:25:00+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "ca9a1ef18efedd468fcd6a5e16ff426fe63b102c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "イランの「決済エコシステム」締め付ける米国…成否はやはり中国の協力(ハンギョレ新聞)",
+    "summary": "米国のトランプ政権は、約6カ月間の軍事作戦でイランの屈服を引き出せなかったため、戦線を「経済戦」へと広げつつある。イランの原油・金融部門を中心に圧力をかけてきたこれまでの制裁から一歩踏み出し、イラン",
+    "link": "https://news.yahoo.co.jp/articles/0181637fa5e6be9779ba36c274d9142e1cb4ffd5?source=rss",
+    "published": "2026-08-26T22:24:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "51cbccf4caa0c23430cc2f56ec79cdb405052de3",
+    "source": "Yahoo!ニュース 国内",
+    "title": "首相、ネパール洪水で滞在者の状況案じる(共同通信)",
+    "summary": "高市早苗首相は27日、ネパールと中国の国境付近で起きた洪水や土石流を受け「邦人やネパール国民、諸外国の滞在者の状況を案じる」と自らのX（旧ツイッター）に投稿した。連絡が取れない5人の日本人の安否情報",
+    "link": "https://news.yahoo.co.jp/articles/6d071240725489fb9da52f67d6b185e42b1d728a?source=rss",
+    "published": "2026-08-26T22:16:28+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "b3ae0fd8ee0ee4ddc9765931ba4f9a46820c7abf",
+    "source": "Yahoo!ニュース 国際",
+    "title": "華麗なスピンを披露する最新ロボットも！ 16カ国から2000台超が参戦した「人型ロボット運動会」開幕、51種目で繰り広げられる人間顔負けの激闘 中国(ABEMA TIMES)",
+    "summary": "中国・北京で、8月22日夜から始まった「世界人型ロボット運動会」。会場では人型ロボットが、軽快なステップから華麗なスピンを見せ、キレッキレのブレイクダンスを披露する。\n\n　綱引きでは、2対2でロープ",
+    "link": "https://news.yahoo.co.jp/articles/1da49821b9efb4699d851b49f153cd2364bc7122?source=rss",
+    "published": "2026-08-26T22:00:39+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4215cff28f066955f8b38259ff9c5a3fb459e129",
+    "source": "Yahoo!ニュース IT",
+    "title": "“ドパガキ”がショート動画を止められない理由は？　fMRIを使って若者の脳活動を分析　中国チームが研究(ITmedia NEWS)",
+    "summary": "中国の浙江大学などに所属する研究者らが2月に学術誌「NeuroImage」で発表した論文「Brain activity inhibition during Short Video Viewing:",
+    "link": "https://news.yahoo.co.jp/articles/3eb073a681a16da8e25af15077f0e7cef3162dd3?source=rss",
+    "published": "2026-08-26T22:00:11+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "84362d2dbb24fa0fc62b1f9ea7706b81896164d0",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国チベット、ネパール国境付近で土砂崩れによる人的被害…道路寸断、通信途絶(中央日報日本語版)",
+    "summary": "中国チベット自治区のネパール国境地域で土砂崩れによる大規模な人的被害が発生し、現地当局が数百人の救助要員を現場に投入するなど緊急対応に乗り出した。\n\n26日、中国国営新華社通信・中国中央テレビ（CCT",
+    "link": "https://news.yahoo.co.jp/articles/384df5dc270e2ca180ca2e1d84c551f05291262f?source=rss",
+    "published": "2026-08-26T21:59:24+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "e1acb519fb4f609d9ddc8c95b571f457821d1724",
+    "source": "Yahoo!ニュース 国際",
+    "title": "現代自動車「利益率9％超える」…新車100種で勝負に出る(中央日報日本語版)",
+    "summary": "現代自動車の「本業の競争力」に対する悩みが深まっている。過去最大の売り上げを達成したが、中国製電気自動車と自動運転技術の攻勢で市場競争が激しくなり、中東の戦争と関税など地政学的不確実性で収益性はむしろ",
+    "link": "https://news.yahoo.co.jp/articles/5d7e41c73e9998e2a1d61aeba44c61b626380eba?source=rss",
+    "published": "2026-08-26T21:52:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0f286fe18a2aa877cdb051da440a08fe356426ef",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール洪水直前、チベット国境地域付近でマグニチュード4．4の地震(中央日報日本語版)",
+    "summary": "ネパール北部地域で発生した大規模洪水の直前、チベット国境地域付近でマグニチュード（M）4．4の地震が発生していたことが分かった。\n\n26日（現地時間）、ロイター通信などによると、米地質調査所（USGS",
+    "link": "https://news.yahoo.co.jp/articles/7ca4fab42f0fee747fb854018904dc8e1fb20d75?source=rss",
+    "published": "2026-08-26T21:48:55+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "118b37ecca5c4ac9ab6f25a9bb9bd1cff704666f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパールで大洪水…韓国人9人と連絡途絶(中央日報日本語版)",
+    "summary": "ネパールのラスワ地域で洪水が発生し、26日（現地時間）、韓国人9人が行方不明となった。李在明（イ・ジェミョン）大統領は「活用可能なあらゆる手段を動員し、行方不明者の捜索と救助に総力を挙げるように」と指",
+    "link": "https://news.yahoo.co.jp/articles/0fc711fcdb96d99ff2b64163646503db79ce9e62?source=rss",
+    "published": "2026-08-26T21:45:46+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "105fa9d6154910c3b1eea1d26e27f71862ffe136",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米、中国のハッキング阻止　NASAなど政府機関被害(共同通信)",
+    "summary": "【ワシントン共同】米司法省は26日、航空宇宙局（NASA）や司法省など複数の政府機関が中国政府の支援を受けたグループによるハッキング被害に遭ったと発表した。連邦捜査局（FBI）などと連携し、ハッキン",
+    "link": "https://news.yahoo.co.jp/articles/597c202f9dddbf46380154b1089db5dfe742ecd2?source=rss",
+    "published": "2026-08-26T21:41:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1a2df862aea06fc16a3a1bdae844fca45aa02f29",
+    "source": "朝日新聞",
+    "title": "ネパールで鉄砲水、157人死亡　ツアー参加の日本人5人連絡取れず",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
+    "published": "2026-08-26T21:19:18+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "33970933e1b91e6d9462b95f8e10ec2c31e26a7c",
+    "source": "朝日新聞",
+    "title": "ネパールで鉄砲水、157人死亡　ツアー参加の日本人5人連絡取れず",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
+    "published": "2026-08-26T21:19:18+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "2c6ea1ea557de49050dac843d1436599c4615d68",
+    "source": "Yahoo!ニュース IT",
+    "title": "欧州熱波で争奪戦に！ 中華エアコンバブルの正体。既存技術の最適ローカライズ、独自の販売方法が超進化。(週プレNEWS)",
+    "summary": "記録的猛暑でエアコンの需要が高まる一方の欧州。現在、各国で争奪戦が繰り広げられているのが、中国メーカーが製造・販売するエアコンだ。「中華エアコン」が爆売れする理由、その販売方法などをジャーナリストの高",
+    "link": "https://news.yahoo.co.jp/articles/7aa7781b042113f0f0660b708584773f5349a5a2?source=rss",
+    "published": "2026-08-26T21:16:50+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fb20cf5f81bcfd745ce2e1fcd48f98b75f614f0d",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "ネパール洪水日本人5人連絡取れず",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6593198?source=rss",
+    "published": "2026-08-26T21:12:53+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "c8b94c46674368df8a776873db8611b5027bdb57",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【速報】ネパールで大洪水 157人死亡　日本人5人と連絡取れず(テレビ朝日系（ANN）)",
+    "summary": "ネパールと中国の国境地帯で土石流や洪水が発生し、ネパールで157人が死亡しました。また、日本人5人と連絡が取れていないということです。\n\n　ネパールメディアによりますと26日、中部のラスワ郡で大規模",
+    "link": "https://news.yahoo.co.jp/articles/e622c7b8eaa8c12b5801803efd1bfdb1d61dbc35?source=rss",
+    "published": "2026-08-26T21:04:54+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "88a9eb5ac7d88e4aa65dda6451c517369f9dc712",
+    "source": "朝日新聞",
+    "title": "安倍首相「僕だからできた」　特定技能、移民否定が生んだ「ひずみ」",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV780TV8V78UHBI00SM.html?ref=rss",
+    "published": "2026-08-26T21:00:00+00:00",
+    "matched_keywords": [
+      "特定技能"
+    ]
+  },
+  {
+    "id": "5f4ecf3f16c03d3d7b7fab4be983fdc04003473a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【速報】ネパールで大洪水 157人死亡　日本人5人と連絡取れず(テレビ朝日系（ANN）)",
+    "summary": "ネパールと中国の国境地帯で土石流や洪水が発生し、ネパールで157人が死亡しました。また、日本人5人と連絡が取れていないということです。\n\n　ネパールメディアによりますと26日、中部のラスワ郡で大規模な",
+    "link": "https://news.yahoo.co.jp/articles/1b84d249413b0278cb3807a6dc890bfce21711fb?source=rss",
+    "published": "2026-08-26T20:50:18+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "03389420ab15052923f9a50ba6f01bb1b4bc6e0d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ツアー日本人5人行方不明　ネパール洪水死者160人(共同通信)",
+    "summary": "【チェンナイ、北京共同】ネパールと中国の国境付近で26日に起きた大規模な洪水や土石流で、在ネパール日本大使館の担当者は27日、ツアーに参加していたとみられる日本人5人と連絡が取れず、現地当局に捜索・",
+    "link": "https://news.yahoo.co.jp/articles/89c9dbabe41f8e89c197386b5e06233779ae14a1?source=rss",
+    "published": "2026-08-26T20:39:34+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
     "id": "fadcf77139b6f26dc58171ad7333e9a6216d760b",
     "source": "Yahoo!ニュース スポーツ",
     "title": "日本代表から衝撃「やっぱりうまい」　練習相手で対峙…逸材19歳が持ち帰る「世界基準」(FOOTBALL ZONE)",
@@ -19,17 +343,6 @@
     "published": "2026-08-26T20:00:35+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "a5ed481f02387d97b70b25f664fd8cae40581f75",
-    "source": "毎日新聞",
-    "title": "ネパール中部の大洪水、日本人5人と連絡取れず　ツアーに参加か",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260827/k00/00m/030/004000c",
-    "published": "2026-08-26T20:00:14+00:00",
-    "matched_keywords": [
-      "ネパール"
     ]
   },
   {
@@ -96,28 +409,6 @@
     "summary": "【チェンナイ共同】ネパール警察によると、中部ラスワ郡で26日に起きた大規模な洪水による死者が157人になった。",
     "link": "https://news.yahoo.co.jp/articles/759bc023c2bb4bd90d26d39e6de64a5b3b60357a?source=rss",
     "published": "2026-08-26T18:25:15+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "1a2df862aea06fc16a3a1bdae844fca45aa02f29",
-    "source": "朝日新聞",
-    "title": "ネパール・チベット周辺で鉄砲水、157人死亡　旅行者数百人が不明",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
-    "published": "2026-08-26T18:09:48+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "33970933e1b91e6d9462b95f8e10ec2c31e26a7c",
-    "source": "朝日新聞",
-    "title": "ネパール・チベット周辺で鉄砲水、157人死亡　旅行者数百人が不明",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASV8V45KXV8VUHBI01TM.html?ref=rss",
-    "published": "2026-08-26T18:09:48+00:00",
     "matched_keywords": [
       "ネパール"
     ]
