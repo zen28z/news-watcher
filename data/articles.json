@@ -1,5 +1,49 @@
 [
   {
+    "id": "f286a9c71a004a0a9aa5c6afdc13ca5701265801",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【ドラゴンフライズ】「とにかく健康で」Bプレミア開幕へ!厳島神社で必勝祈願　(RCC中国放送)",
+    "summary": "■宮島に集結した選手たち\n\n朝の爽やかな空気につつまれる中、広島ドラゴンフライズの選手やスタッフが笑顔で姿を現しました。\n\nチーム名の由来であるミヤジマトンボの生息地・宮島を訪れたのは、指揮を執る朝山",
+    "link": "https://news.yahoo.co.jp/articles/da8dbd4b525f677b7732d6febd62da9e6aeb58ea?source=rss",
+    "published": "2026-08-26T08:58:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d8be45237d9c023ae12336ccbd0ca3bb07cb8d95",
+    "source": "Yahoo!ニュース 地域",
+    "title": "女子バレー日本　予選ラウンド首位通過　ベトナムにストレート勝ちで3連勝　石川真佑選手も活躍　長野市・裾花中学校出身　決勝トーナメントは27日から【アジア選手権】(NBS長野放送)",
+    "summary": "ロサンゼルス五輪の出場権をかけたバレーボール女子・アジア選手権。長野市・裾花中学校出身の石川真佑選手擁する日本はベトナムに勝ち、予選ラウンド首位通過を決めました。\n\n8月25日の予選ラウンド最終戦。",
+    "link": "https://news.yahoo.co.jp/articles/f4220aa8d88ae7c5062800b87ce1390b03513998?source=rss",
+    "published": "2026-08-26T08:56:01+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "0ffa1c43bbfd84a0ab438d67cd82d566e46e2288",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「ひどすぎて逆に面白い」…母子2人で作った低予算の簡素なCG映画が、中国内外で爆発的ヒットを記録した理由(ニューズウィーク日本版)",
+    "summary": "子牛を題材にした母子チームの低予算映画が、中国で思いがけない興行的ヒットとなった。現在、中国人の観客は『牛来』を見ようと映画館に押し寄せ、製作費の2万倍もの興行収入を稼ぎ出している。\n\n「牛がやってく",
+    "link": "https://news.yahoo.co.jp/articles/00b35f92ee5e395d7a356a9a333e1343349869a3?source=rss",
+    "published": "2026-08-26T08:30:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6ba10ba0539da8aa8f9228ff0a12f9418f347737",
+    "source": "毎日新聞",
+    "title": "中国で「ホルムアルデヒド漬け白菜」見つかる　告発動画で発覚",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260826/k00/00m/030/189000c",
+    "published": "2026-08-26T08:07:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "4ce67ff621c85e7695d1d5ea1f777235549eda45",
     "source": "Yahoo!ニュース スポーツ",
     "title": "アメリカ戦ラスト2秒で託された最後のパス　立命館大・奥村倖大が涙で受け止めた世界との距離(4years.)",
@@ -46,7 +90,7 @@
   {
     "id": "2de48349aa4996ca07a333ecee0e57b43c293168",
     "source": "朝日新聞",
-    "title": "ホルムアルデヒド液に浸した白菜を出荷　中国で告発動画、韓国も検査",
+    "title": "ホルムアルデヒド液に浸した白菜を出荷　中国で発覚「対日輸出なし」",
     "summary": "",
     "link": "http://www.asahi.com/articles/ASV8V1BSBV8VUHBI020M.html?ref=rss",
     "published": "2026-08-26T06:30:00+00:00",
@@ -57,7 +101,7 @@
   {
     "id": "9253a7e6a816414bb075c11871fe57290ab2a8e7",
     "source": "朝日新聞",
-    "title": "ホルムアルデヒド液に浸した白菜を出荷　中国で告発動画、韓国も検査",
+    "title": "ホルムアルデヒド液に浸した白菜を出荷　中国で発覚「対日輸出なし」",
     "summary": "",
     "link": "https://www.asahi.com/articles/ASV8V1BSBV8VUHBI020M.html?ref=rss",
     "published": "2026-08-26T06:30:00+00:00",
