@@ -1,5 +1,53 @@
 [
   {
+    "id": "2699b7152b864d74d485474b146f4c0bf003f375",
+    "source": "朝日新聞",
+    "title": "土石流は氷河が崩れたため、中国が原因発表　ネパール側死者781人",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV8Z10JKV8ZUHBI00HM.html?ref=rss",
+    "published": "2026-08-30T15:23:54+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "76d929bd848d94937cacbbccca83f7ad1f91eab9",
+    "source": "朝日新聞",
+    "title": "土石流は氷河が崩れたため、中国が原因発表　ネパール側死者781人",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV8Z10JKV8ZUHBI00HM.html?ref=rss",
+    "published": "2026-08-30T15:23:54+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "b66dde37e17b5f123dcea073cd079806990dcd12",
+    "source": "Yahoo!ニュース 国際",
+    "title": "土石流の死者　両国で800人超える　下流域でも被害甚大　流された遺体がインドでも(テレビ朝日系（ANN）)",
+    "summary": "ネパールと中国の国境で発生した土石流の死者が800人を超えました。\n\n　ネパール警察によりますと、中国との国境地帯で発生した土石流などで死亡した人は788人に達しました。中国側と合わせて死者は804人",
+    "link": "https://news.yahoo.co.jp/articles/03fe1b1009d07ab25799b13776fb39f63d2bdfca?source=rss",
+    "published": "2026-08-30T14:45:32+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "e41652e7cdd339f89bbce2aaa55390beb654d536",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流の死者750人　トンネルに100人超閉じ込め、中印の専門家らも救助活動(産経新聞)",
+    "summary": "ネパールと中国の国境地帯で26日に発生した大規模な土石流災害で、30日までに確認された死者は750人、行方不明者は3044人となった。ロイター通信が伝えた。ネパール側で734人、中国側で16人が死亡し",
+    "link": "https://news.yahoo.co.jp/articles/fa64bdc56856a4f22eeb775f544cdccb394ac0f0?source=rss",
+    "published": "2026-08-30T13:16:53+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
     "id": "d2fb1194d8fe96928e6b9a7c31f2d0079101e826",
     "source": "NHKニュース",
     "title": "ネパール土石流 768人死亡 3000人以上不明 6歳女児を救出",
@@ -493,30 +541,6 @@
     "summary": "カトマンズ、ネパール、8月30日 (AP) ー  ネパールと中国の国境に位置するヒマラヤ地域で発生した鉄砲水と土石流の被災地では28日、救助隊が泥やがれきの中で作業を続けた。\n\n　死者が570人を超え",
     "link": "https://news.yahoo.co.jp/articles/be3e54120bfe5c2c8a5a2761471cc600f893a89f?source=rss",
     "published": "2026-08-30T03:39:54+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "2699b7152b864d74d485474b146f4c0bf003f375",
-    "source": "朝日新聞",
-    "title": "ネパール・中国土石流で死者685人に　原因は「氷河が断裂」と発表",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASV8Z10JKV8ZUHBI00HM.html?ref=rss",
-    "published": "2026-08-30T03:35:35+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "76d929bd848d94937cacbbccca83f7ad1f91eab9",
-    "source": "朝日新聞",
-    "title": "ネパール・中国土石流で死者685人に　原因は「氷河が断裂」と発表",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASV8Z10JKV8ZUHBI00HM.html?ref=rss",
-    "published": "2026-08-30T03:35:35+00:00",
     "matched_keywords": [
       "中国",
       "ネパール"
