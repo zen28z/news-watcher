@@ -1,5 +1,27 @@
 [
   {
+    "id": "bdd302eb1493f8fe8d90d88f9f7e246c952f3bf0",
+    "source": "毎日新聞",
+    "title": "焦点:土石流1週間　外国の救助　当初拒否　ネパール　影響排除狙いか",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260902/ddm/002/030/115000c",
+    "published": "2026-09-01T17:48:16+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "9f59af8ce17ee33786c86787c671b58fd35961cc",
+    "source": "毎日新聞",
+    "title": "ネパール:ネパール土石流　1週間　死者1000人　不明4400人、捜索難航",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260902/ddm/001/030/109000c",
+    "published": "2026-09-01T17:31:55+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
     "id": "c30682feb1244b1c28c69faa0d3c387919138dfd",
     "source": "Yahoo!ニュース 国際",
     "title": "専門家「これは世界の問題」行方不明者の捜索難航…ネパール土石流 死者1000人超(テレビ朝日系（ANN）)",
