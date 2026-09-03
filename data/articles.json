@@ -1,5 +1,173 @@
 [
   {
+    "id": "2e4d332fd4bf8015d3e1ccd31cbf6e90b0321cf9",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国ミサイル発射実験を太平洋諸島国が非難(共同通信)",
+    "summary": "【コロール共同】太平洋諸島フォーラム（PIF）の加盟国・地域首脳は3日、最近実施されたミサイル実験を「懸念する」との文言を盛り込んだ共同声明をまとめた。中国が7月に南太平洋に着弾させた発射実験を事実",
+    "link": "https://news.yahoo.co.jp/articles/ead32974b979a73fc759c7e89fcc74f82ddce60d?source=rss",
+    "published": "2026-09-03T13:27:41+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "39eef1ca0b86651b3ef62e3e0b55fbff0b3e44e7",
+    "source": "毎日新聞",
+    "title": "「鶏肉がぬめって…」食中毒2000人超か　インドネシア無料給食",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260903/k00/00m/030/399000c",
+    "published": "2026-09-03T13:15:52+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "cbe0e6036e3038141775406aad4cbd321baba6a8",
+    "source": "Yahoo!ニュース 国内",
+    "title": "ネパールに国際緊急援助隊派遣を決定　政府　遺体の身元確認を支援(テレビ朝日系（ANN）)",
+    "summary": "先月26日にネパールと中国の国境地帯で起きた大規模土石流について、茂木外務大臣は身元確認を支援する国際緊急援助隊を今月4日に派遣すると明らかにしました。\n\n　ネパール政府からの支援要請を受け、日本政府",
+    "link": "https://news.yahoo.co.jp/articles/52831344b746040bcf7136c0d99a1505243ff64a?source=rss",
+    "published": "2026-09-03T12:36:14+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "9c5d66de58dd738ac57df211a7cb04a19d18b804",
+    "source": "Yahoo!ニュース 国内",
+    "title": "警察庁がネパールに警察官5人を派遣　洪水と土石流で1200人超が死亡(テレビ朝日系（ANN）)",
+    "summary": "ネパールと中国の国境で起きた洪水と土石流で1200人を超える死者が確認されています。警察庁が遺体の身元確認のため、警察官を現地に派遣することが分かりました。\n\n　警察庁によりますと、ネパール政府からの",
+    "link": "https://news.yahoo.co.jp/articles/d7207228e59372d9b596cedc3924306d6a10bd99?source=rss",
+    "published": "2026-09-03T12:06:45+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "90eb1a30ac292b241bea5dd643b9d2f4f5777d84",
+    "source": "Yahoo!ニュース 国内",
+    "title": "警察庁がネパールに警察官5人を派遣　洪水と土石流で1200人超が死亡(テレビ朝日系（ANN）)",
+    "summary": "ネパールと中国の国境で起きた洪水と土石流で、1200人を超える死者が確認されています。\n\n警察庁が遺体の身元確認のため警察官を現地に派遣することがわかりました。\n\n警察庁によりますと、ネパール政府から",
+    "link": "https://news.yahoo.co.jp/articles/8c09f356a8a692ac0956be58cc4f855868e5b229?source=rss",
+    "published": "2026-09-03T11:56:57+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "c71b66cc5951fc594e077eb823229eed9914887f",
+    "source": "朝日新聞",
+    "title": "茂木氏、中国の影響懸念のモンゴルへ　会談で外相「日本は平和国家」",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV933K6DV93UTFK00DM.html?ref=rss",
+    "published": "2026-09-03T11:37:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bde5540185c94d8bc7f0515399056604c1203d52",
+    "source": "朝日新聞",
+    "title": "茂木氏、中国の影響懸念のモンゴルへ　会談で外相「日本は平和国家」",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV933K6DV93UTFK00DM.html?ref=rss",
+    "published": "2026-09-03T11:37:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d3a7ff42f18624a4189ea7f6ba21c7108bea7a10",
+    "source": "毎日新聞",
+    "title": "中国外務省「交流する用意ある」　日本の若手議員団の訪中調整に",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260903/k00/00m/030/355000c",
+    "published": "2026-09-03T11:29:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "163e7fa873f6b437f41ab2e1c41834799977cac8",
+    "source": "毎日新聞",
+    "title": "政府、ネパールに国際緊急援助隊を派遣　身元確認の専門家チーム",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260903/k00/00m/010/349000c",
+    "published": "2026-09-03T11:23:43+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "084dee6506a09b4fb383bf9b19a97279dc0c9b96",
+    "source": "Yahoo!ニュース 国内",
+    "title": "政府、ネパールに緊急援助隊派遣(共同通信)",
+    "summary": "【ウランバートル共同】茂木敏充外相は3日、ネパールに身元不明者の確認支援を担う国際緊急援助隊・専門家チーム計7人を派遣すると発表した。訪問先のモンゴルで記者団に明らかにした。",
+    "link": "https://news.yahoo.co.jp/articles/2966b9d8f688765184ed5b0c0f62d551f84cb10c?source=rss",
+    "published": "2026-09-03T10:36:14+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "374237faf340f077fd9095efd880752c8d953d00",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国の戦勝81年座談会に共産党宣伝部長が出席　最高指導部メンバーの出席は確認されず(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国の「抗日戦争勝利記念日」に当たる3日、北京で戦勝81年の「記念座談会」が開かれた。中国共産党中央宣伝部の李書磊（り・しょらい）部長が出席し、「中国人民は極めて大きな民族的な犠牲を",
+    "link": "https://news.yahoo.co.jp/articles/fd4e846f4b3cde3d878be8b88e722fc5e5f9b195?source=rss",
+    "published": "2026-09-03T10:34:12+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3f78819f3cb1097033653ae4e2a236b3044264c7",
+    "source": "Yahoo!ニュース 国際",
+    "title": "抗日戦争勝利81年で座談会　中国、続く高市政権批判(共同通信)",
+    "summary": "【北京共同】中国の抗日戦争勝利記念日に当たる3日、北京で勝利81年を記念する座談会が開かれた。共産党中央宣伝部の李書磊部長のほか、戦闘に参加した元兵士や遺族ら約200人が出席。参加者から「歴史を記憶",
+    "link": "https://news.yahoo.co.jp/articles/1177989921e1e15a0523dcbb960f45958499c38c?source=rss",
+    "published": "2026-09-03T10:21:07+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "db3407508895364d4eb2f53a27a5cbb2f8912214",
+    "source": "Yahoo!ニュース 国際",
+    "title": "韓国と北朝鮮は「二つの国」　王毅外相の発言受け中国へ厳重に問題提起(聯合ニュース)",
+    "summary": "【ソウル聯合ニュース】中国の王毅・共産党政治局員兼外相が韓国と北朝鮮を「二つの国家」と発言し、韓国政府が中国側に問題提起を行ったことが3日、分かった。\n\n　韓国青瓦台（大統領府）の魏聖洛（ウィ・ソンラ",
+    "link": "https://news.yahoo.co.jp/articles/b1f5b54f7b5e3520a336c1d543a144ac51a15284?source=rss",
+    "published": "2026-09-03T10:18:36+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9e07c9f0fbac995efb94058e1a5c56b5710a1b80",
+    "source": "Yahoo!ニュース IT",
+    "title": "偽のトークン化株式に市場熱狂、本物の米国株も一時4倍に(NADA NEWS)",
+    "summary": "中国の農産物企業Farmmi（ファーミ）の株式を装った非公式トークンを巡って投機が過熱し、本物のナスダック上場株も一時約4倍に急騰する騒動が起きた。\n\n\n暗号資産市場の動向を発信する0xSammy氏が",
+    "link": "https://news.yahoo.co.jp/articles/c3cdc37b12158bdc1f82ee23ca5929c742442de7?source=rss",
+    "published": "2026-09-03T09:28:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "58d5860bbc6c60859bb89ac9022a939e2afae555",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流　複数の水力発電所が打撃　電力の9割依存…推進の背景とは　今必要な支援は？(テレビ朝日系（ANN）)",
+    "summary": "ネパールの大規模土石流で被害を受けた水力発電所では、軍による救助が難しい中、自前での捜索が続いている。温暖化による災害リスクがこれまでも指摘される中、ネパールが水力発電所の開発を推進した事情とは?海",
+    "link": "https://news.yahoo.co.jp/articles/3c3acac829d41e71e4c1306f39513be6c4f7123c?source=rss",
+    "published": "2026-09-03T09:00:39+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
     "id": "e5b7421e9e5f6c285c754400f45716641d477f26",
     "source": "Yahoo!ニュース 国際",
     "title": "日中友好議員連盟 与野党若手が今月訪中で調整(ABEMA TIMES)",
