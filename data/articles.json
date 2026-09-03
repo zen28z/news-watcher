@@ -1,11 +1,155 @@
 [
   {
-    "id": "2e4d332fd4bf8015d3e1ccd31cbf6e90b0321cf9",
+    "id": "f75f6c675540b361e012680d525056713b575135",
+    "source": "毎日新聞",
+    "title": "茂木外相:身元確認専門家　ネパールに派遣　日本の警察庁職員ら",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260904/ddm/012/010/059000c",
+    "published": "2026-09-03T17:02:24+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "62689461aa53c7569e2996a0d7119e4c11064de6",
     "source": "Yahoo!ニュース 国際",
-    "title": "中国ミサイル発射実験を太平洋諸島国が非難(共同通信)",
-    "summary": "【コロール共同】太平洋諸島フォーラム（PIF）の加盟国・地域首脳は3日、最近実施されたミサイル実験を「懸念する」との文言を盛り込んだ共同声明をまとめた。中国が7月に南太平洋に着弾させた発射実験を事実",
-    "link": "https://news.yahoo.co.jp/articles/ead32974b979a73fc759c7e89fcc74f82ddce60d?source=rss",
-    "published": "2026-09-03T13:27:41+00:00",
+    "title": "ネパール土石流　身元特定へDNA採取開始　遺体の特定難航　不明者の家族が登録(テレビ朝日系（ANN）)",
+    "summary": "甚大な被害が出ているネパールの土石流と洪水で、身元の特定が進まないなか、行方を捜す家族のDNA登録が始まりました。\n\n　ネパール警察によりますと、先月26日の土石流で、これまでに1252人が死亡、48",
+    "link": "https://news.yahoo.co.jp/articles/4093006fd3d82390fc254a973238abf00746d747?source=rss",
+    "published": "2026-09-03T15:37:35+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "9329d7bebeec177bbb200e1e22a17f52c9763816",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【速報】ことし６月に「あべちか」で発生した強盗殺人未遂事件　新たに運転役とみられるベトナム国籍の男を逮捕(関西テレビ)",
+    "summary": "ことし６月、大阪市の地下街で女性が刺され持っていたバッグを奪われた事件で、警察は公開手配していたベトナム国籍の男を逮捕しました。\n\n強盗殺人未遂の疑いで逮捕されたのは、ベトナム国籍のクアン・バン・ジャ",
+    "link": "https://news.yahoo.co.jp/articles/a83103571604153c0f1cd6857becc3fdde25c956?source=rss",
+    "published": "2026-09-03T15:26:01+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "693f697bee42a2710a1e2e25cbcfeca7f8932a4e",
+    "source": "Yahoo!ニュース 地域",
+    "title": "「あべちか」強盗殺人未遂事件で全国指名手配のベトナム国籍の男を東京都内で逮捕(ABCニュース)",
+    "summary": "大阪市天王寺区で起きた強盗殺人未遂事件で、指名手配されていたベトナム国籍の男が、東京都内で逮捕されました。\n\n　クアン・バン・ジャオ容疑者（２６）は６月、別の男らと共謀し、天王寺区の地下街でベトナム",
+    "link": "https://news.yahoo.co.jp/articles/2bf4b764cd6c0aad72b2339d2353b5009231a24b?source=rss",
+    "published": "2026-09-03T15:20:13+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "2f94f0dcfb6c0095f3539b8422b117c95697e9b4",
+    "source": "Yahoo!ニュース 国際",
+    "title": "今日の歴史（9月4日）(聯合ニュース)",
+    "summary": "1909年：日本、朝鮮人が多く住んでいた満州（現中国東北部）の間島の領有権を清に譲る「日清協約」（間島協約）締結\n\n1951年：国連軍がソ連軍の朝鮮戦争参戦事実を発表\n\n1953年：朝鮮戦争中に北朝鮮",
+    "link": "https://news.yahoo.co.jp/articles/69d90f829f8dc10e0442f7e36420402cdfbff736?source=rss",
+    "published": "2026-09-03T15:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "32cf84aa2e8cbf3d3f37e296866930e632c6395c",
+    "source": "Yahoo!ニュース 国内",
+    "title": "大阪・あべちかの強殺未遂　公開手配中の4人目を逮捕　被害額は600万円　東京都内の入管に出頭(産経新聞)",
+    "summary": "大阪・天王寺駅の地下街「あべちか」で6月、ベトナム人女性を刃物で刺して現金入りのバッグを奪ったとして、大阪府警捜査1課は3日、強盗殺人未遂容疑で、住居、職業いずれも不詳のクアン・バン・ジャオ容疑者（2",
+    "link": "https://news.yahoo.co.jp/articles/438c71c9a6ce6ed41a16944653abf2f1df2783dd?source=rss",
+    "published": "2026-09-03T14:27:02+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "09f14dedacad5da6c7cacb280c6b2ce313d54868",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【あべちか強盗殺人未遂事件】公開手配のベトナム国籍の男を逮捕　都内の入館施設に出頭　女性を刺し現金など入ったカバン奪った疑い(MBSニュース)",
+    "summary": "今年6月、大阪市天王寺区の地下街で女性が刺され、現金などが奪われた事件で、警察は公開手配していたベトナム国籍の男を逮捕しました。\n\n警察によりますと、逮捕されたベトナム国籍で住居・職業不詳のクアン・バ",
+    "link": "https://news.yahoo.co.jp/articles/73790357f11ec3371746cb1d391e3b72dfa4773c?source=rss",
+    "published": "2026-09-03T14:22:52+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "fe4c23844f378f54114e7fc25d218289e7f24b58",
+    "source": "Yahoo!ニュース IT",
+    "title": "横長の折りたたみ「Xiaomi 18 Fold」を中国発表へ　自社開発チップ搭載、折りたたみiPhone発表前に先手？(ITmedia Mobile)",
+    "summary": "Xiaomiが、新型の折りたたみスマートフォン「Xiaomi 18 Fold」を、9月7日に中国で発表することをX公式アカウントで予告している。\n\n　本製品は、Xiaomi自社開発したプロセッサ「X",
+    "link": "https://news.yahoo.co.jp/articles/d2700c41f2bd474e65256429c99bf8f87d7890b2?source=rss",
+    "published": "2026-09-03T14:18:20+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "e252639585597b0db0af08ba3700423b11c53378",
+    "source": "Yahoo!ニュース 国際",
+    "title": "土石流死者1200人超　ネパール・中国、捜索継続(共同通信)",
+    "summary": "【カトマンズ共同】ネパール中部と中国チベット自治区の国境付近で起きた大規模な土石流と洪水で、両国の死者は3日、計1280人になった。行方不明者は大阪の日本人家族5人を含む計約5620人。捜索や救助が",
+    "link": "https://news.yahoo.co.jp/articles/705454c9d9834b265835521604bb9a1c59d20e22?source=rss",
+    "published": "2026-09-03T14:16:55+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "a2cb75d2038b205b00fdfa686cb198d19ee729b1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "マカオのカジノで別の客が賭けたチップを手のひらに貼った両面テープで盗む…中国人の女逮捕(マカオ新聞)",
+    "summary": "マカオ司法警察局は8月31日、コタイ地区にある統合型リゾート（IR）併設カジノ施設のゲーミングテーブルに置いて、複数回にわたって別の客がテーブル上にベットしたゲーミング（カジノ）チップを盗んだとして",
+    "link": "https://news.yahoo.co.jp/articles/9e53a46437b448410256eb881ab7e055e31d51f1?source=rss",
+    "published": "2026-09-03T14:10:26+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "481fd67364e48fa4b036679424325563db7851ce",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia Mobile] 横長の折りたたみ「Xiaomi 18 Fold」を中国発表へ　自社開発チップ搭載、折りたたみiPhone発表前に先手？",
+    "summary": "Xiaomiが、新型の折りたたみスマートフォン「Xiaomi 18 Fold」を、9月7日に中国で発表することを予告している。Xiaomi自社開発したプロセッサ「Xiaomi XRING O3チップ」を搭載する。ディスプレイを開くと横長になるパスポート型の形状であることが分かる。",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2609/03/news100.html",
+    "published": "2026-09-03T14:08:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "03bcbff41b9cd3fef692741af45cff870a1dcad8",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ミサイル実験で中国批判　太平洋諸島首脳が共同声明(共同通信)",
+    "summary": "【コロール共同】18カ国・地域でつくる太平洋諸島フォーラム（PIF）の加盟国・地域首脳は3日、最近実施されたミサイル実験を「懸念する」との文言を盛り込んだ共同声明をまとめた。中国が7月に南太平洋に着",
+    "link": "https://news.yahoo.co.jp/articles/07b2f8ff3d915772e35380406c30aecbe84f5d86?source=rss",
+    "published": "2026-09-03T14:02:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7c547dd93466ea3b3c5e0222d552f3b849682aab",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "U-19日本代表が怒涛8発でカンボジアに快勝! 最終節引き分け以上でU20アジア杯に自力出場確定(ゲキサカ)",
+    "summary": "[9.3 U20アジア杯予選GL第2節 日本 8-0 カンボジア プノンペン]\n\n　AFC U20アジアカップ予選は3日に各地でグループリーグ第2節を行った。山口智監督が率いるU-19日本代表は開催国",
+    "link": "https://news.yahoo.co.jp/articles/d6df0a872554b304447e8269aef65541eb8492a0?source=rss",
+    "published": "2026-09-03T13:53:01+00:00",
+    "matched_keywords": [
+      "カンボジア"
+    ]
+  },
+  {
+    "id": "daef0054fccd94cdc163194618daa3aee7eb03c3",
+    "source": "Yahoo!ニュース 地域",
+    "title": "岡山県新見市の中国自動車道で工事の足場崩れる　 けが人なし(山陽新聞デジタル)",
+    "summary": "3日午後4時11分ごろ、岡山県新見市高尾の中国自動車道の工事現場で、近くにいた作業員から「足場が落ちている」と西日本高速道路に連絡があった。現場は新見インターチェンジ（IC）―東城IC間の上り線側。",
+    "link": "https://news.yahoo.co.jp/articles/4ab30d4449dce4bf0a58f15487343992926c941a?source=rss",
+    "published": "2026-09-03T13:52:28+00:00",
     "matched_keywords": [
       "中国"
     ]
@@ -16,9 +160,20 @@
     "title": "「鶏肉がぬめって…」食中毒2000人超か　インドネシア無料給食",
     "summary": "",
     "link": "https://mainichi.jp/articles/20260903/k00/00m/030/399000c",
-    "published": "2026-09-03T13:15:52+00:00",
+    "published": "2026-09-03T13:48:23+00:00",
     "matched_keywords": [
       "インドネシア"
+    ]
+  },
+  {
+    "id": "2e4d332fd4bf8015d3e1ccd31cbf6e90b0321cf9",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国ミサイル発射実験を太平洋諸島国が非難(共同通信)",
+    "summary": "【コロール共同】太平洋諸島フォーラム（PIF）の加盟国・地域首脳は3日、最近実施されたミサイル実験を「懸念する」との文言を盛り込んだ共同声明をまとめた。中国が7月に南太平洋に着弾させた発射実験を事実",
+    "link": "https://news.yahoo.co.jp/articles/ead32974b979a73fc759c7e89fcc74f82ddce60d?source=rss",
+    "published": "2026-09-03T13:27:41+00:00",
+    "matched_keywords": [
+      "中国"
     ]
   },
   {
