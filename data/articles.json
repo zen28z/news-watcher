@@ -1,14 +1,140 @@
 [
   {
-    "id": "d119993697ae16dd83b83728b994092cb91a4bad",
-    "source": "NHKニュース",
-    "title": "ネパール土石流 外国人1人を救助 軍がSNS投稿 発災から10日",
-    "summary": "ネパール軍は5日、大規模な土石流が起きたネパールと中国との国境付近にあるネパール側のトンネルから、外国人1人が救助されたとSNSに投稿しました。\n\n詳しい健康状態などは明らかになっていませんが、先月2…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260905de48334",
-    "published": "2026-09-05T08:34:51+00:00",
+    "id": "2c9cecc5cbdaa3c6f12d4918b32967350ea53be2",
+    "source": "GIGAZINE",
+    "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+    "summary": "中国の北京で2026年8月22日から開催された「第二届世界人形机器人运动会(第2回ヒューマノイドロボット競技大会)」では、16か国から666チーム・2056台の人型ロボットが参加して51種目で競い合い、100m走でウサイン・ボルト選手の世界記録を超えた大記録などが樹立されました。そんなヒューマノイドロボット競技大会のようなロボットの競技会は技術的に人類の役に立つのかどうか、クイーンズランド工科大学ロボット工学教授のジョナサン・ロバーツ氏が解説しています。<p><b><a href=\"https://gigazine.net/news/20260905&#45;robot&#45;olympics/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20260905-robot-olympics/",
+    "published": "2026-09-05T12:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d41ba263e72b8c81b0eec1ca448285fa43d110d2",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流で民家から64歳女性を救出　発生から11日目　ヘリコプターで搬送(テレビ朝日系（ANN）)",
+    "summary": "ネパールで土石流が発生してから11日目となる5日巻き込まれた民家から64歳の女性が救出されました。この日、2人目の生存者の救出となりました。\n\n　ネパール政府などによりますと5日、ネパール警察は中部の",
+    "link": "https://news.yahoo.co.jp/articles/5e946ad06cf61973988b9737d45e76a80b29a5d2?source=rss",
+    "published": "2026-09-05T11:27:09+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "2b9053bc50a604d9f7cf71c164545c97f4c160ec",
+    "source": "朝日新聞",
+    "title": "遺体なき別れ、草の人形で弔う家族　ネパール土石流、行方不明5千人",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASV953HZ5V95UHBI01WM.html?ref=rss",
+    "published": "2026-09-05T11:26:28+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "dd4d4333173f69a5a3788ab58a7205c195e77c02",
+    "source": "朝日新聞",
+    "title": "遺体なき別れ、草の人形で弔う家族　ネパール土石流、行方不明5千人",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV953HZ5V95UHBI01WM.html?ref=rss",
+    "published": "2026-09-05T11:26:28+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "e703d18c6e406b1c5a199f8608d7d6783ef69693",
+    "source": "毎日新聞",
+    "title": "民家からも1人救出　ネパール・中国の土石流、死者1375人に",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260905/k00/00m/030/179000c",
+    "published": "2026-09-05T11:19:40+00:00",
     "matched_keywords": [
       "中国",
       "ネパール"
+    ]
+  },
+  {
+    "id": "7346a81564731b82663b300a3b8b7a33416be831",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール水力発電所で中国人を救出(ABEMA TIMES)",
+    "summary": "土石流に巻き込まれたネパールの水力発電所で、発生11日目となる5日、中国人1人が救出されました。\n\n　ネパール警察によりますと、先月26日に中国との国境地帯で発生した土石流では、ネパール国内でこれま",
+    "link": "https://news.yahoo.co.jp/articles/f3f06257865a18f9a12abfeb9b7cc443e64d8fed?source=rss",
+    "published": "2026-09-05T10:36:17+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "d119993697ae16dd83b83728b994092cb91a4bad",
+    "source": "NHKニュース",
+    "title": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
+    "summary": "ネパールと中国の国境付近で起きた大規模な土石流で、発生から10日たった、9月5日、ネパール側にあるトンネルから新たに1人が救助されました。4日も別のトンネルから2人が救助されていて、政府はさらに捜索を…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260905de48334",
+    "published": "2026-09-05T10:34:21+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "9ff52ba49aeb26680e0d6301d7fc6b4c7a543b83",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール水力発電所で中国人を救出　土石流の発生から11日目(テレビ朝日系（ANN）)",
+    "summary": "土石流に巻き込まれたネパールの水力発電所で発生11日目となる5日、中国人1人が救出されました。\n\n　ネパール警察によりますと、先月26日に中国との国境地帯で発生した土石流ではネパール国内でこれまでに1",
+    "link": "https://news.yahoo.co.jp/articles/a01c0143165c97190fdd5ec12503b5fdc4dc79b6?source=rss",
+    "published": "2026-09-05T09:40:55+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "45887ca9ed35cfa0a49399b84996c219cbe9f767",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパールでさらに2人救助　前日に続き、発電所と民家から(共同通信)",
+    "summary": "【カトマンズ共同】ネパール中部と中国チベット自治区の国境付近で起きた土石流と洪水で、ネパール首相府は5日、被災した水力発電所のトンネルで同日、中国人1人が救助されたと明らかにした。4日にネパール人2",
+    "link": "https://news.yahoo.co.jp/articles/df42838c514ffd0287943001e71c6310485efeb6?source=rss",
+    "published": "2026-09-05T09:38:17+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "208a2ba0906825dc80030b9ca71afba69f5e2052",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流　水力発電所で救出活動続く　これまでに1344人が死亡(テレビ朝日系（ANN）)",
+    "summary": "土石流に巻き込まれたネパールの水力発電所では4日に作業員2人が救出されましたが、現在も懸命の救出活動が続けられています。\n\n　ネパール警察の5日の発表によりますと、先月26日に中国との国境地帯で発生し",
+    "link": "https://news.yahoo.co.jp/articles/97b3a713429b73d45ab2e5802c2b313be1a99b25?source=rss",
+    "published": "2026-09-05T09:33:56+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "51e0f650d70ad5df9c5bcd1c85dfb48312d97273",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパールの民家から64歳女性も救助(共同通信)",
+    "summary": "【カトマンズ共同】ネパール首相府は5日、土石流で被災した中部ヌワコト郡の民家から64歳の女性が救助されたと明らかにした。発見時、意識不明の状態で、軍施設に搬送された。",
+    "link": "https://news.yahoo.co.jp/articles/bd7b519b75539fe268a067ee75c367c5a4843b1c?source=rss",
+    "published": "2026-09-05T09:32:31+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "327f3ab5187a643363b80f1a66f293960af7e385",
+    "source": "Yahoo!ニュース 国内",
+    "title": "インドネシアで大規模噴火　日本への津波の影響なし(テレビ朝日系（ANN）)",
+    "summary": "インドネシアで発生した火山の大規模な噴火について、気象庁は日本への津波の影響はないと発表しました。\n\n　気象庁によりますと、日本時間の5日午前2時50分ごろ、インドネシアのクラカタウ火山で大規模な噴火",
+    "link": "https://news.yahoo.co.jp/articles/aebda0a824cb8d0cf32b91888b20ed753cf2fb81?source=rss",
+    "published": "2026-09-05T09:01:18+00:00",
+    "matched_keywords": [
+      "インドネシア"
     ]
   },
   {
@@ -14369,17 +14495,6 @@
     "published": "2026-08-22T22:00:00+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "43a69f8575452714e297384192194b56014fc7e8",
-    "source": "GIGAZINE",
-    "title": "Waymoがロボタクシーの性能向上のためカスタムASICチップを開発",
-    "summary": "ロボタクシー事業を複数の都市で展開しているWaymoが、カスタムのASIC(特定用途向け集積回路)チップを開発しました。<p><b><a href=\"https://gigazine.net/news/20260822&#45;waymo&#45;brain/\">続きを読む...</a></b></p>",
-    "link": "https://gigazine.net/news/20260822-waymo-brain/",
-    "published": "2026-08-22T12:00:00+00:00",
-    "matched_keywords": [
-      "特定"
     ]
   }
 ]
