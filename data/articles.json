@@ -1,5 +1,27 @@
 [
   {
+    "id": "48fdcb1d6914e37fce2200927a99c02d58cfc1fd",
+    "source": "Yahoo!ニュース エンタメ",
+    "title": "風男塾、〝唐突に〟世界でバズる　柚希関汰「大きなチャンス」　2007年結成の男装アイドル、50カ国の〝アニメ女子〟に刺さった！　(サンケイスポーツ)",
+    "summary": "7人組男装グループ、風男塾（ふだんじゅく）が世界約50カ国でバズる異常現象を巻き起こしている。6月に発売したシングル「男装★超（めちゃ）メロ」がインドネシアでのX投稿をきっかけにアジア、北南米、欧州へ",
+    "link": "https://news.yahoo.co.jp/articles/c5561b3d360090c6ad65100d91df9cd51ae3b625?source=rss",
+    "published": "2026-09-09T20:00:01+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "943267c052f9e86c6c4cb8a5ff0b38733967390f",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia Mobile] AppleのAIエージェント「Siri AI」、日本語β版は10月から提供予定",
+    "summary": "一部のiPhone／iPad／Macで新OSと共に実装されるAIエージェント「Siri AI」について、日本語を含む5言語のβ版が10月から提供される見通しとなった。ただし、EU圏内と中国では利用できないので注意が必要だ。",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2609/10/news063.html",
+    "published": "2026-09-09T19:40:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "1f11444e660429cf33082e6a37b343f611eb7d91",
     "source": "毎日新聞",
     "title": "インドネシア:噴火取材の記者ら8人不明　インドネシアの火山周辺",
@@ -12997,96 +13019,6 @@
     "summary": "【チェンナイ、北京共同】ネパールと中国の国境付近で26日に起きた大規模な洪水や土石流で、在ネパール日本大使館の担当者は27日、ツアーに参加していたとみられる日本人5人と連絡が取れず、現地当局に捜索・",
     "link": "https://news.yahoo.co.jp/articles/89c9dbabe41f8e89c197386b5e06233779ae14a1?source=rss",
     "published": "2026-08-26T20:39:34+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "fadcf77139b6f26dc58171ad7333e9a6216d760b",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "日本代表から衝撃「やっぱりうまい」　練習相手で対峙…逸材19歳が持ち帰る「世界基準」(FOOTBALL ZONE)",
-    "summary": "山口智監督が率いるU-19日本代表は8月24日から26日まで、JFA夢フィールドでトレーニングを実施した。カンボジアで開催されるAFC U20アジアカップ予選の事前キャンプとなる合宿には、北海道コン",
-    "link": "https://news.yahoo.co.jp/articles/285658ac2822d728972ec1d30d0c504fcaf55221?source=rss",
-    "published": "2026-08-26T20:01:00+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "dbf24ac9797e3a48420c3840476968a252d83a80",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ラテンアメリカに〝静かに〟食い込む中国…「一帯一路」からの戦略転換、確立しつつある依存的関与(Wedge（ウェッジ）)",
-    "summary": "トランプ政権は、西半球における中国の影響力拡大の阻止をラテンアメリカ政策の柱として、これまで中国の「一帯一路」構想に基づく巨大プロジェクトを目の敵としてきた。これに対し、Foreign Affair",
-    "link": "https://news.yahoo.co.jp/articles/565978c69c7746525a12fdfe6829b16fef666939?source=rss",
-    "published": "2026-08-26T20:00:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "72b4738af9ea6abde6e71b8c6958248c24b754f6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ツアーの日本人5人と連絡取れずと大使館(共同通信)",
-    "summary": "【チェンナイ共同】ネパールで起きた大洪水で、現地日本大使館の担当者は27日、ツアーに参加していた日本人5人と連絡が取れていないと明らかにした。現地当局に捜索・救助を依頼したという。",
-    "link": "https://news.yahoo.co.jp/articles/8fe2bf389b0e4ca526d49cbadea6babbdacbf8ee?source=rss",
-    "published": "2026-08-26T19:07:43+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "80cd01cf6d31a30652e69ee445afa4410f12d141",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【衛星画像】外国人391人含む400人以上不明　ネパール土石流 川幅が3倍以上に 周囲の集落や道路消える　(テレビ朝日系（ANN）)",
-    "summary": "ネパールと中国の国境地帯で土石流や洪水が発生した。ネパールで95人が死亡したほか、外国人391人を含む400人以上が行方不明だ。中国側では265人の安否が分からない。現場付近を撮影した衛星画像からは、",
-    "link": "https://news.yahoo.co.jp/articles/a82c3c72164737be7436b720de65580adb3f0633?source=rss",
-    "published": "2026-08-26T19:03:14+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "5448d67bf42963c08cab660fde5db0f74b4b888e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール洪水で日本人5人不明と報道(共同通信)",
-    "summary": "【チェンナイ共同】ネパールメディアは、中部ラスワ郡で起きた大規模な洪水で日本人5人が行方不明になっていると報じた。",
-    "link": "https://news.yahoo.co.jp/articles/13bb253aef91563d3b9feae8e7ba32d6071f8f41?source=rss",
-    "published": "2026-08-26T19:01:15+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "08035342345c97c811cb831e10f8091a472fd6f7",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【速報】ネパール大洪水でツアー参加の日本人5人と連絡とれず　日本大使館(テレビ朝日系（ANN）)",
-    "summary": "26日に発生したネパールの大洪水でツアーに参加中の日本人5人と連絡が取れていないことが分かりました。この状況を受け、現地の日本大使館はネパール政府に捜索を要請しました。\n\n　26日、ネパール中部のラス",
-    "link": "https://news.yahoo.co.jp/articles/3bf9eb450d98cc35a3020809a07c184e4faa8e3a?source=rss",
-    "published": "2026-08-26T18:55:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "068f63501ae891fb0581a6da9785ed89c49369b7",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール大洪水の死者157人と警察(共同通信)",
-    "summary": "【チェンナイ共同】ネパール警察によると、中部ラスワ郡で26日に起きた大規模な洪水による死者が157人になった。",
-    "link": "https://news.yahoo.co.jp/articles/759bc023c2bb4bd90d26d39e6de64a5b3b60357a?source=rss",
-    "published": "2026-08-26T18:25:15+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "22fba46967d3031eb30bf7232de3c2a2b0251f0e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパールで大規模洪水　95人死亡384人不明　中国・チベット側でも265人不明(テレビ朝日系（ANN）)",
-    "summary": "ネパールと中国の国境地帯で土石流や洪水が発生しました。ネパールで95人が死亡したほか、中国側では265人の安否が分からなくなっています。\n\n　ネパールメディアによりますと26日、中部のラスワ郡で大規模",
-    "link": "https://news.yahoo.co.jp/articles/eae3a70847c48a0de7fe01bda0b4813984fd9911?source=rss",
-    "published": "2026-08-26T18:04:54+00:00",
     "matched_keywords": [
       "中国",
       "ネパール"
