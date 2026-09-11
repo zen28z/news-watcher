@@ -1,5 +1,104 @@
 [
   {
+    "id": "d0f86e165dcdccaca29c2a6c90e611d935f5e676",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国軍の情報、米AIに無断転送　アンソロピック発表、監視映像も(共同通信)",
+    "summary": "【ニューヨーク共同】人工知能（AI）開発の米新興アンソロピックは10日、生成AI「クロード」に中国のAI企業が利用者からの情報を無断で転送し、中国のAIを訓練していたと発表した。中には人民解放軍施設",
+    "link": "https://news.yahoo.co.jp/articles/eca2213ec4e0b2d6b43db0b0618454b9cd1c3489?source=rss",
+    "published": "2026-09-11T00:10:16+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "df986b80d323ebb14c0066182ee63f7de2745c08",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国の造船所で貨物船火災 25人死亡(ABEMA TIMES)",
+    "summary": "中国・山東省の青島で修理中の貨物船から火災が発生し、25人が死亡、5人がけがをして病院に搬送されました。\n\n　中国の新華社通信などによりますと青島市にある造船所、青島北海造船で、10日午前11時15",
+    "link": "https://news.yahoo.co.jp/articles/c2c994c8cbd914b0316db39cb25268680fd86027?source=rss",
+    "published": "2026-09-11T00:09:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3d2c9ebbdddb3d0121a72ff8080d09862cb15423",
+    "source": "Yahoo!ニュース 国際",
+    "title": "BRICS首脳会議、インドで開幕へ　中露「多極的世界」を誇示、G7に対抗(産経新聞)",
+    "summary": "ロシアや中国など主要新興国でつくる「BRICS」は12日、インドの首都ニューデリーで首脳会議を開く。11日には経済フォーラムや加盟国首脳陣による一連の2国間会談を実施。12日に首脳陣らが一堂に会する全",
+    "link": "https://news.yahoo.co.jp/articles/ee7ed4614008936b62c79aab69b066e7704e1e1b?source=rss",
+    "published": "2026-09-10T23:41:04+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3e15c8156d56075b3a24c177336311f74a4c82a9",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【中四国 今後の雨】中国・四国地方　14日（月）にかけて雨と風のシミュレーション【11日】(RSK山陽放送)",
+    "summary": "中国・四国地方　今後の雨は?\n\n■中国地方\n\n中国地方は、湿った空気の影響で曇り、雨の降っている所があります。\n\n11日の広島県は、湿った空気の影響でおおむね曇り、朝まで雨の降る所があるでしょう。",
+    "link": "https://news.yahoo.co.jp/articles/521268ca33383556817f219e921ed7e8335d5ef2?source=rss",
+    "published": "2026-09-10T23:26:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "08e84eb5a927681a30103003d8f052db5c16b11f",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia News] Anthropic、AI悪用レポートを公開　中国AI企業の「蒸留」、各国政府の監視・世論操作、生物兵器につながり得る研究を列挙",
+    "summary": "Anthropicは、自社AI「Claude」の悪用事例をまとめた脅威レポートを公開した。生物兵器の設計や国家機関による世論操作や反体制派監視、通常兵器開発への利用を検知、遮断したと発表。中国AI企業による組織的なモデル抽出（蒸留）の実態も報告し、危険な転用への警戒を強めている。",
+    "link": "https://www.itmedia.co.jp/news/article/2609/11/2000001390/",
+    "published": "2026-09-10T23:13:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6f4ca986b7ea69a3bec3d205f5286328084e6ec0",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流　韓国の救援隊「第2陣」現地へ出発(聯合ニュース)",
+    "summary": "【ソウル聯合ニュース】大規模な土石流と洪水が起きたネパールで捜索・救助活動にあたる韓国の海外緊急救援隊（KDRT）の第2陣が11日、軍輸送機「KC330」で現地に向け出発した。外交部が明らかにした。",
+    "link": "https://news.yahoo.co.jp/articles/47de0f465460c14e9f75c98b24f3f036d8cd0d37?source=rss",
+    "published": "2026-09-10T23:11:43+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "5e1f423ee56ee3b785290af04fc07098a0bbf7d8",
+    "source": "Yahoo!ニュース 国際",
+    "title": "BRICS首脳会議が週末に開幕　議長国インド、中国との関係改善進む(Forbes JAPAN)",
+    "summary": "世界最大の人口を抱える2カ国であるインドと中国の間で2020年、国境紛争が勃発した。この紛争は双方で死者を出すほど激化し、それまで拡大を続けていた両国の経済関係に水を差すこととなった。関係改善の兆しが",
+    "link": "https://news.yahoo.co.jp/articles/ce8085650358b891c48cfd59e02fe476878bb99b?source=rss",
+    "published": "2026-09-10T23:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "43dab3834b10f74462506dbe914b496be4c5005a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパールへの韓国救護隊第2陣、11日派遣…捜索支援・再建復旧を並行(中央日報日本語版)",
+    "summary": "韓国政府がネパールの洪水被害現場に韓国海外緊急救護隊（KDRT）第2陣を11日に派遣する。第1陣の帰国後は現地の対応体制を再編し、連絡が途絶えた韓国人の捜索支援と死亡者の身元確認などを続ける。\n\n朴斗",
+    "link": "https://news.yahoo.co.jp/articles/1020b04b7a4f3c877dbfceaff453778714cb0b4c?source=rss",
+    "published": "2026-09-10T22:49:06+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "bda0228e8049280504671603c29ef076f4a3f22b",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国青島の造船所で外国貨物船火災…25人死亡(中央日報日本語版)",
+    "summary": "中国山東省青島の造船所で修理中だった外国籍の貨物船で火災が発生し、25人が死亡した。\n\n中国国営新華社通信が10日（現地時間）に伝えたところによると、同日午前11時15分ごろ、中国船舶集団傘下の青島北",
+    "link": "https://news.yahoo.co.jp/articles/c87686fbce5052d87328d60ac21eb115ff7d5164?source=rss",
+    "published": "2026-09-10T22:21:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "5e7b4b7e47a4af178b3f0229a3069ea4cf0fea15",
     "source": "Yahoo!ニュース 経済",
     "title": "好決算なのに株価がなぜか伸びない…日本の雄｢ファナック､安川電機｣と最強AIロボット中国勢を分けるもの(プレジデントオンライン)",
@@ -12568,186 +12667,6 @@
     "link": "https://news.yahoo.co.jp/articles/95db1acb9455b4fc76a80d15d3f7a219846a3753?source=rss",
     "published": "2026-08-28T00:23:06+00:00",
     "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "26f3f852938c26260cda9c8250d018d2426cd661",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "女子バレー日本4強入りの30分後…選ばれた1枚に喝采「とにかく凄かった！」　協会が“MVP”認定(THE ANSWER)",
-    "summary": "バレーボール女子のアジア選手権が27日に中国・天津で行われ、準々決勝で世界ランク6位の日本は同37位・台湾と対戦。3-0（25-14、25-21、25-13）で撃破して準決勝に進出し、7年ぶり優勝と",
-    "link": "https://news.yahoo.co.jp/articles/34be69fd2e77c6428d29273ab02077e4760bcc2d?source=rss",
-    "published": "2026-08-28T00:10:04+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "30b7c5ddd8cf1966b64243b83d279158ba29901c",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール土石流 死者389人に 日本人5人不明(ABEMA TIMES)",
-    "summary": "ネパールと中国との国境地帯で発生した土石流を伴う洪水による死者の数は389人に上っています。日本人5人を含む900人以上の行方が分かっていません。\n\n　ネパール中部のラスワ郡で26日に起きた大規模な",
-    "link": "https://news.yahoo.co.jp/articles/18dbd6a7b411a33822f15021712259eab140c88f?source=rss",
-    "published": "2026-08-28T00:06:16+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "94d87bd312c2f3c54ba8afd1022bca7a7927b038",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「ネパール洪水で『大型天然ダム湖』形成…3日以内に決壊の危険」(中央日報日本語版)",
-    "summary": "中国当局は27日（現地時間）、ネパールと国境を接するチベット自治区で発生した大洪水によりネパールに大型の天然ダム湖が形成され、今後3日以内に氾濫する危険があると警告した。\n\n中国の環球時報によると、湖",
-    "link": "https://news.yahoo.co.jp/articles/fd5636570dbebcd124dc73266304bd22017095fb?source=rss",
-    "published": "2026-08-27T23:52:06+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "8ea15d6c0a431f300b416dbb13dc97e2e1ec9268",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール洪水、死者389人に　懸命の捜索活動続く(CNN.co.jp)",
-    "summary": "（CNN）　ネパール警察は27日、同国と中国の国境付近で26日に発生した大規模な鉄砲水による死者が少なくとも389人に上ったと発表した。当局の最新情報によると、ネパールと中国を合わせて1300人以上が",
-    "link": "https://news.yahoo.co.jp/articles/c3ea9cb24da6ce147fd3a0abfd2d51c21b64cc42?source=rss",
-    "published": "2026-08-27T23:32:00+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "d2a1376e1289a4d5019c31f03d566079cd2998b2",
-    "source": "Yahoo!ニュース 経済",
-    "title": "日中関係冷え込んでも、ジャンプ・セガ・アニメイトの出店ラッシュが続く背景【駐在員が見た中国】(36Kr Japan)",
-    "summary": "「ハイテク中国」にあるのは大きな市場や技術だけではない。\n\n本連載では、日中経済協会北京事務所副所長の宮奥俊介氏が日々中国の現場を歩き回る中で体験した熱気、興奮、期待そして期待外れや裏切りも含め、リア",
-    "link": "https://news.yahoo.co.jp/articles/7bb20f8d6be9f636dab475520983b8da2d06b05a?source=rss",
-    "published": "2026-08-27T23:30:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "09a77f92976a41f4f7fc18092583809672a5cdd8",
-    "source": "Yahoo!ニュース 経済",
-    "title": "【880万円超でも即完売】ホンダ「プレリュード」を追撃。ニッサンがインドネシアで「Z」を初披露した本当の狙いとは？(carview！)",
-    "summary": "2026年7月30日から8月9日にかけて、インドネシアの首都ジャカルタ近郊で「GIIAS（ガイキンド・インドネシア・インターナショナル・オートショー）2026」が開催されました。\n\n開幕前日の7月29",
-    "link": "https://news.yahoo.co.jp/articles/ff09f3fd7a8fba9cce161e27bc5355df396f0b93?source=rss",
-    "published": "2026-08-27T23:30:10+00:00",
-    "matched_keywords": [
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "b9c1a3a0cb4397e209e9e3da91f6ef8958c022b4",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国、日本議員団に「首相の台湾発言撤回しなければ対日政策変わらない」(中央日報日本語版)",
-    "summary": "中国を訪問した日本の与野党議員団は27日、北京で中国共産党対外連絡部の陸慷副部長と会談したが、台湾問題をめぐる両国の緊張した立場の違いを再確認しただけだった。\n\n今回の訪中は、昨年11月に高市早苗首相",
-    "link": "https://news.yahoo.co.jp/articles/61fcb55a4c31d33021c1e4f985977ce10edf5b13?source=rss",
-    "published": "2026-08-27T23:28:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "971733ef964fd02af0da5c03e0abd242085aed9d",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国　ネパールに軍多目的機の投入決定＝救援物資など輸送へ(聯合ニュース)",
-    "summary": "【ソウル聯合ニュース】韓国政府は大規模な洪水により韓国人9人を含む数百人が行方不明となっているネパールでの捜索・救助作業を支援するため、空軍の多目的空中給油輸送機「KC330」を投入することを決めた。",
-    "link": "https://news.yahoo.co.jp/articles/611f906f949bf9d44ecb938976582df63fbd80b7?source=rss",
-    "published": "2026-08-27T23:21:46+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "15bca9dd5cbd640bc0d4dd29c55183dbc26964eb",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール大洪水で崩壊した6億4700万ドルの水力発電所…そこから最後の連絡「避難する」＝韓国(中央日報日本語版)",
-    "summary": "ネパールで発生した大洪水で韓国人職員との連絡が途絶えた場所は、水力発電所「アッパートリシュリ－1（UT－1）」の建設現場だ。総事業費6億4700万ドル（約1030億円）で、ネパールの首都カトマンズから",
-    "link": "https://news.yahoo.co.jp/articles/f350d9a56ed5892c98ceb44bca69e42a2a660020?source=rss",
-    "published": "2026-08-27T23:14:50+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "c937c997b17fc32db065acc509f370407384468f",
-    "source": "毎日新聞",
-    "title": "クウェートとパキスタンが共同防衛協定　イラン情勢受け安保強化",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260828/k00/00m/030/012000c",
-    "published": "2026-08-27T23:13:51+00:00",
-    "matched_keywords": [
-      "パキスタン"
-    ]
-  },
-  {
-    "id": "733316f2cbfb03cdf07295ecbab8b19457200128",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【台風情報】台風18号・22号・熱帯低気圧　予想進路　22号と熱帯低気圧は日本に直接影響なし　太平洋沿岸はうねり到達の可能性　18号の高波注意　中国大陸は荒天(テレビ静岡NEWS)",
-    "summary": "気象庁によりますと、台風22号(アータウ)は28日午前6時現在、ウェーク島近海にあって、時速15キロの速さで北に進んでいます。\n\n北上して日本のはるか東へ向かう予想です。西進してくることはない見通しで",
-    "link": "https://news.yahoo.co.jp/articles/3d956cfe706ec5bd9352a3903a21776577c626fd?source=rss",
-    "published": "2026-08-27T23:06:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "37e45ada5fc8c32e67fcdc466ae81153e36986e1",
-    "source": "Yahoo!ニュース 国内",
-    "title": "民家で10代女性に不同意性交、容疑で男3人逮捕(中国新聞デジタル)",
-    "summary": "山口県警柳井署は27日、同県柳井市の土木作業員の男（22）と、熊毛郡の土木作業員の男（21）、宇部市の無職の男（19）の3容疑者を不同意性交の疑いで逮捕した。\n\n　逮捕容疑は5月14日から15日まで",
-    "link": "https://news.yahoo.co.jp/articles/9f983fe77b9e7cfdb7901b56cba82607929982b4?source=rss",
-    "published": "2026-08-27T23:00:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "8aa1a5d295cfe4a2be322e4d201d87fbd9232a75",
-    "source": "Yahoo!ニュース 国際",
-    "title": "立ち上る黒煙と逃げ惑う人々…ロシア極東の巨大ガス工場で火災 7人死亡、150人超負傷の惨事 中国人労働者も犠牲に(ABEMA TIMES)",
-    "summary": "逃げ惑う人々…。巨大な建物から煙が立ち上る様子をカメラが捉えた。　　　　　　　　　　　　　　\n\n　ロシア極東・アムール州にあるガス化学コンビナートで火災が発生。SNSに投稿された動画には、大勢の作業",
-    "link": "https://news.yahoo.co.jp/articles/8b1c94ddc2835b927a20493105957382d64f20ff?source=rss",
-    "published": "2026-08-27T23:00:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0d67fa15d1863b5355f4066197a7a58780c763a4",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国主要紙の朝刊ヘッドライン（8月28日）(聯合ニュース)",
-    "summary": "＜朝鮮日報＞光州の軍空港を代替する格納庫　ミサイル・ドローンに無防備\n\n＜東亜日報＞崩落したヒマラヤ山脈の氷河　ネパール洪水惨事を引き起こす\n\n＜中央日報＞溶け落ちたヒマラヤ山脈の氷河　大規模洪水災害",
-    "link": "https://news.yahoo.co.jp/articles/c9c8da75be85e85ff2633f21c0c59cd13d71e9e2?source=rss",
-    "published": "2026-08-27T23:00:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "6b5d78972b6b9d89334d3d3c2e23ef37083da2d3",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国外交部「ネパール大洪水で韓国人行方不明者9人がいた建物は流失…孤立していた9人は安全地域に移送」(中央日報日本語版)",
-    "summary": "韓国の李在明（イ・ジェミョン）大統領は27日、ネパールで発生した大規模な洪水で韓国人9人が行方不明になったことに関連し、「過剰対応はないという覚悟で、動員可能な資源を総動員してほしい」と指示した。韓国",
-    "link": "https://news.yahoo.co.jp/articles/bd1f9667e5c430551659ef357953382cfebbff43?source=rss",
-    "published": "2026-08-27T22:44:11+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "25c361f770a67f07d6c537a2ea96671fe22e0387",
-    "source": "Yahoo!ニュース 国際",
-    "title": "１２００メートル崩壊したネパール氷河、川を塞いで決壊…「次の洪水迫る」(ハンギョレ新聞)",
-    "summary": "26日（現地時間）午前、ネパールと中国チベットの国境地域を襲い、数千人の人的被害をもたらした大洪水は、標高7200メートル台のランタン・リルン山から崩落した大規模な氷河・岩石が川に落下したことで発生",
-    "link": "https://news.yahoo.co.jp/articles/6115df80e8998787b1452ec19f6b628ad26372f0?source=rss",
-    "published": "2026-08-27T22:19:33+00:00",
-    "matched_keywords": [
-      "中国",
       "ネパール"
     ]
   }
