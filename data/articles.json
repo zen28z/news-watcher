@@ -1,5 +1,137 @@
 [
   {
+    "id": "5c78cf8445c82f550067b7d5118b44b3056644d5",
+    "source": "Yahoo!ニュース 地域",
+    "title": "「日本でお金を稼ぐためにネパールに帰りませんでした」不法残留の疑いなどでネパール国籍の男らを逮捕　福岡・南区(RKB毎日放送)",
+    "summary": "13日夜、福岡市で不法残留の疑いなどでネパール国籍の男ら2人が逮捕されました。\n\nネパール国籍の男は「日本でお金を稼ぐためにネパールに帰りませんでした」などと話し、容疑を認めているということです。",
+    "link": "https://news.yahoo.co.jp/articles/28b213ac1c7c9e329290d06cb42aa4c841ca42dc?source=rss",
+    "published": "2026-09-13T23:26:14+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "49359133bf8892eed76635de576417d706bb15d1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「天候が悪い」との連絡を最後に交信途絶える…243人乗りのインドネシア旅客船が海難事故(中央日報日本語版)",
+    "summary": "240人余りが乗ったインドネシアの旅客船が悪天候による海難事故に遭い、6人が死亡、130人が行方不明となっている。当初、死者は1人とされていたが、その後の救助隊による捜索で、新たに5人の遺体が見つかっ",
+    "link": "https://news.yahoo.co.jp/articles/dd314dc8e29acfeca26f2bb7e57a77cd7dc96f1f?source=rss",
+    "published": "2026-09-13T23:13:26+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "1a7e2abe49aafc6a142fb494a02f748427ec83f2",
+    "source": "Yahoo!ニュース 経済",
+    "title": "「硬さ」が変わるロボット関節、中国新興が20億円調達　人との協働に照準(36Kr Japan)",
+    "summary": "ロボットの関節モジュールを開発する中国スタートアップ「航墨科技（HAMOOBot）」はこのほど、エンジェルラウンドで1億元（約20億円）近くを調達した。出資には中投万方（Zhongtou Wanfan",
+    "link": "https://news.yahoo.co.jp/articles/b62632773d3182f80539fa7fbe07aae5c74690b5?source=rss",
+    "published": "2026-09-13T23:10:33+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c94e32b771aacc33cc627bf61c173efa78ff7095",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国で「はま寿司」が約50店→200店超に急拡大！コスパ路線でスシローとすみ分け、火鍋や炙りブリュレで女性客つかむ(東洋経済オンライン)",
+    "summary": "回転寿司チェーン「スシロー」の中国での人気ぶりがたびたび話題になるが、その陰で、はま寿司も中国での店舗数を猛烈に伸ばしている。\n\n　はま寿司が上海に中国1号店を出したのは2014年。進出後の約10年",
+    "link": "https://news.yahoo.co.jp/articles/deff344d71f2a4fff7ec6aebcf0b1ea53c25c643?source=rss",
+    "published": "2026-09-13T23:00:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "78768b13ea04be1287cc65cc2cfa05938325cdd6",
+    "source": "Yahoo!ニュース 国際",
+    "title": "トランプ氏 AI開発規制の議論をけん制(ABEMA TIMES)",
+    "summary": "アメリカのトランプ大統領は「AI＝人工知能の開発を規制すべき」という議論をけん制しました。\n\n　トランプ大統領は13日AI開発をめぐり「アメリカは中国をリードしていて最も先進的な国だ」としたうえで、",
+    "link": "https://news.yahoo.co.jp/articles/36f2da2f8374f88d0a3f0a3932eb03baab8ad6d5?source=rss",
+    "published": "2026-09-13T23:00:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7dfb7d0048e84973c87cdf8ca02e580ffa3fcdb8",
+    "source": "Yahoo!ニュース 国際",
+    "title": "韓国主要紙の朝刊ヘッドライン（9月14日）(聯合ニュース)",
+    "summary": "＜朝鮮日報＞性平等家族相候補　指名辞退し議員職死守…与党は法相候補死守\n\n＜東亜日報＞性平等家族相候補「与党が身を引けと言った」　指名を自ら辞退\n\n＜中央日報＞中国半導体の猛攻　信じていたHBMでも追",
+    "link": "https://news.yahoo.co.jp/articles/29bc6d16c78f09579621824caecb0a63ca8f118b?source=rss",
+    "published": "2026-09-13T23:00:03+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "140ee5c491022d8796bc129b1c05b3e1c1e488bb",
+    "source": "Yahoo!ニュース 国内",
+    "title": "【告発】「本当に狂っています」中国で白菜をホルムアルデヒドに漬けて出荷　地元政府も事実認める｢輸送中の鮮度保持が目的｣　発がん性指摘も…日本への影響は？(読売テレビ)",
+    "summary": "中国のSNSに投稿された告発動画が、食の安全を揺るがす大問題に発展しています。中国最大の白菜生産地である河北省で、鮮度保持のために有害な化学物質『ホルムアルデヒド』に白菜を浸すという業界の”暗黙のル",
+    "link": "https://news.yahoo.co.jp/articles/b821a524f8d8c0b34cfb24181bc3ca799d1b11a0?source=rss",
+    "published": "2026-09-13T23:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0033e8fe0971955ee6b352b51b3c65894cc1b720",
+    "source": "東洋経済オンライン",
+    "title": "中国で｢はま寿司｣が約50店→200店超に急拡大！コスパ路線でスシローとすみ分け､火鍋や炙りブリュレで女性客つかむ | ライフ | 東洋経済オンライン",
+    "summary": "中国で急速に店舗数を拡大する｢はま寿司｣。その人気の舞台裏には､地元の嗜好を取り入れた多彩なメニュー展開や､コストパフォーマンスを重視する消費者心理があるようです。",
+    "link": "https://toyokeizai.net/articles/-/957766?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-09-13T23:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "39aa5db9fd3c3ead9fc83e1666958923c3017907",
+    "source": "Yahoo!ニュース IT",
+    "title": "トランプ氏、AI開発減速に消極姿勢　中国への優位維持を理由に(CNET Japan)",
+    "summary": "米大統領のドナルド・トランプ氏は9月13日、AI開発の減速に消極的な姿勢を示した。AP通信などが同日報じた。中国に対する米国の優位を維持したいとの考えを強調したという。\n\n　報道によると、トランプ氏",
+    "link": "https://news.yahoo.co.jp/articles/a117decf4345e5527a53b1bd3ec245c5e1ad5863?source=rss",
+    "published": "2026-09-13T22:34:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "723f506eb120c4aa5eec47b5afab9ac5f56e49bf",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【事件】スカート下にカメラ付きの靴　広島の商業施設で盗撮未遂疑い(中国新聞デジタル)",
+    "summary": "広島県警広島中央署は13日午後2時40分ごろ、広島県府中町の会社員の男（35）を性的姿態撮影処罰法違反（撮影未遂）の疑いで現行犯逮捕した。\n\n　逮捕容疑は、広島市中区大手町2丁目の商業施設で女性のス",
+    "link": "https://news.yahoo.co.jp/articles/08bb94565fc93dca58acad4e3958f68e0625f306?source=rss",
+    "published": "2026-09-13T22:31:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b31a98c14c2b691e7ab62d251b1569a9e4ad667a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "《丸刈り男性が上裸で無理やり…外国人“納豆ハラスメント”動画が拡散》「飲み込め！」オエっと箸が止まる人に“竹刀”を持って先輩が巡回、日本でのトラブルがインドネシアで大炎上(NEWSポストセブン)",
+    "summary": "上半身裸で床に座らされた男性たち。いずれも丸刈りで、彼らはみんな日本に来て間もないインドネシア人のようだ。手に持っているのは箸と納豆。「飲み込め！」「全部食べろ！」と怒号が飛んでいた──。",
+    "link": "https://news.yahoo.co.jp/articles/6a897db276ecabe1dc9edded4f3c2f2e4329eb92?source=rss",
+    "published": "2026-09-13T22:15:00+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "166c1226695b0d8a95ea97427949dcae76eb7b50",
+    "source": "Yahoo!ニュース 国際",
+    "title": "信じていたHBMまで…韓国半導体の核心動力も中国が追い上げる(中央日報日本語版)",
+    "summary": "韓国半導体の核心動力である広帯域メモリー（HBM）でも中国との技術格差が大きく縮まった。中国はDRAM市場で稼いだ莫大な収益を基にHBM追撃の速度をさらに引き上げるものと予想される。\n\n韓国半導体産業",
+    "link": "https://news.yahoo.co.jp/articles/76aa1b56e89cd84eab61f4b2dfc8dd1aff90ae12?source=rss",
+    "published": "2026-09-13T22:05:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "b801add9bfaa141b53f427de51afc6b1e167cb3e",
     "source": "Yahoo!ニュース スポーツ",
     "title": "韓国優勝、日本準優勝、チャイニーズ・タイペイが3位で来年のWBSC U-18W杯出場権を獲得(高校野球ドットコム)",
@@ -91,7 +223,7 @@
     "id": "ad64267065455156935ebddbc86ea1f8e5d83653",
     "source": "Yahoo!ニュース 国際",
     "title": "トランプ氏　AI規制議論をけん制　中国との覇権争い「アメリカがリード」(テレビ朝日系（ANN）)",
-    "summary": "アメリカのトランプ大統領は「AI（人工知能）の開発を、規制すべき」という議論を牽制（けんせい）しました。\n\nトランプ大統領\n「（AIについて）一定の規制を設けることはできるが、必要以上に問題視する否定",
+    "summary": "アメリカのトランプ大統領は「AI（人工知能）の開発を、規制すべき」という議論を牽制（けんせい）しました。\n\nアメリカ　トランプ大統領\n「（AIについて）一定の規制を設けることはできるが、必要以上に問題",
     "link": "https://news.yahoo.co.jp/articles/300a767f816a4229bf2af719aebcb71738768d37?source=rss",
     "published": "2026-09-13T16:34:47+00:00",
     "matched_keywords": [
@@ -12113,129 +12245,6 @@
     "summary": "中国のロボット大手、宇樹科技（Unitree Robotics）の創業者で最高経営責任者（CEO）の王興興氏は、2026世界ロボット大会（WRC 2026）で講演し、人型ロボット（ヒューマノイド）の商",
     "link": "https://news.yahoo.co.jp/articles/ad36efc1a18893d8dc56f846170df0ec0f89816a?source=rss",
     "published": "2026-08-30T23:30:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "070422c8a95a04f3ea5bc28352dfe47bfb687fa6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "1972年生まれの上海市長が誕生…中国に「70後」旋風(中央日報日本語版)",
-    "summary": "人口が2500万人にのぼり中国で経済規模1位の上海市の市長が「70後」（1970年代生まれ）の朱忠明氏（54）に交代した。\n\n来年下半期に開催される第21回中国共産党大会を控え「70後」の躍進が続く中",
-    "link": "https://news.yahoo.co.jp/articles/4b7f261ef61705f3c019e5f9003740028dde23da?source=rss",
-    "published": "2026-08-30T23:23:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "5fec3ba7da78c99d574477b6c63b999b4c8460d7",
-    "source": "Yahoo!ニュース 国際",
-    "title": "何がランタン・リルンを崩壊させたのか…氷河崩壊が「液体コンクリート」の津波に（1）(中央日報日本語版)",
-    "summary": "26日午前10時52分（中国時間）。ネパールと中国チベット自治区の国境に近いランタン・リルン（7234メートル）の北斜面から崩れ落ちた氷河・岩石が谷に流れ込んだ。この物質は谷に沿って流れ下るうちに土石",
-    "link": "https://news.yahoo.co.jp/articles/a610118a2fcec984101e022485caab23354a3412?source=rss",
-    "published": "2026-08-30T23:06:38+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "7369b799a43c1588017c39ba8ed52294b7576eac",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール・中国 土石流と洪水の死者は804人に(ABEMA TIMES)",
-    "summary": "ネパールと中国の国境地帯で発生した土石流と洪水の死者は800人を超えました。\n\n　ネパール警察によりますと、これまでに788人の死亡が確認され、中国側と合わせた死者は804人となりました。\n\n　最も",
-    "link": "https://news.yahoo.co.jp/articles/06fe7519f8afdb08f8f339a17b4d0a2a126afb6d?source=rss",
-    "published": "2026-08-30T23:06:18+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "dbae5fe4767de93b1b764e80f96ac2d19646026b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【ネパール・ルポ】「姉、義兄、甥らは死亡…３歳の末っ子だけでも生きていてほしい」(ハンギョレ新聞)",
-    "summary": "「この子だけでも生きていてほしい。天使のような子です。どうか助けてください」\n\n　29日午後（現地時間）、ネパール・カトマンズのトリブバン大学附属病院の前。ヌワコットから来たユベラズ・ラマさん（29",
-    "link": "https://news.yahoo.co.jp/articles/1c6929cecaf117e06c01f83b692e4aef22c90b6e?source=rss",
-    "published": "2026-08-30T22:19:16+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "360728533e27a11755e9ddbabead31f39c8518e4",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール洪水で孤立後に救助された斗山現場所長「発電所を出ると水しぶき、3～4時間現場を確認できず」(中央日報日本語版)",
-    "summary": "ネパールの洪水で孤立した水力発電所の現場で最後まで職員を守り、最後に救助された斗山（トゥサン）エナビリティの現場所長Aさんは「残る行方不明者が家族のもとに帰れるよう、捜索チームや政府関係者を最大限支援",
-    "link": "https://news.yahoo.co.jp/articles/907eb848728a38a57df4930b8f3a8e9a99f31644?source=rss",
-    "published": "2026-08-30T22:02:14+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "1d2efb7517c6006389723260d61f65acd8fb9db8",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「全ての交流がない」“最悪”の日中関係？ 訪中した公明・伊佐議員に聞く…目的は？ 専門家「ビジョンがない中でミッションをどこに走らせてもしょうがない」(ABEMA TIMES)",
-    "summary": "日中関係が「国交正常化されて以来、最悪」とも言われるなか、超党派の国会議員団が中国を訪問し、中国共産党・中央対外連絡部の陸慷副部長と会談した。今年2月に日本側から働きかけ、5月に中国側から受け入れる",
-    "link": "https://news.yahoo.co.jp/articles/1108570235f96723167ef93c638e3a946cd4a0f8?source=rss",
-    "published": "2026-08-30T22:00:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "806df9359ebfe60a8f84e713cd61fd6f66173209",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「液体に漬けると鮮度が保てる」〈中国発がん性物質漬け白菜〉、日本政府の呑気な対応に不安噴出(週刊女性PRIME)",
-    "summary": "中国産の“ホルムアルデヒド漬け白菜”が物議を醸している。\n\n　事の発端は、8月22日に中国のブロガーがSNSに投稿した告発動画だった。中国北部にある河北省張家口市康保県で、白菜の買い付け業者が白菜を",
-    "link": "https://news.yahoo.co.jp/articles/c7b472197bf2a1c76a43c0ec3b250b1ac78d3920?source=rss",
-    "published": "2026-08-30T22:00:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4f112e1ede806cb31aed43c92c1e2c6bd647bd4b",
-    "source": "Yahoo!ニュース 経済",
-    "title": "スズキ、軽自動車サイズの『アルト』『エブリイ』をブルネイで販売開始…海外生産軽自動車の輸出は初(レスポンス)",
-    "summary": "スズキのブルネイ代理店であるブーステッド社（Boustead Sdn. Bhd）は、スズキのパキスタン子会社パックスズキモーター社で生産された軽自動車サイズの『アルト』と『エブリイ』の販売を開始した。",
-    "link": "https://news.yahoo.co.jp/articles/15dcfba064d01189cd604f58e8788e5db6f8adb0?source=rss",
-    "published": "2026-08-30T22:00:03+00:00",
-    "matched_keywords": [
-      "パキスタン"
-    ]
-  },
-  {
-    "id": "2865da8909b6440b3b9eff8ede7ffbedf0cc35e6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「コリアン？ 弟も発電所に通っていたんだけど…」 ビラを手にした姉の絶叫＝ネパール（2）(中央日報日本語版)",
-    "summary": "30日午前、ネパール大洪水の被災地域の一つであるバグマティ州ダーディンで会ったホム・バハドゥルさん（66）は、泥に埋まった家を眺めながら大きなため息をついた。40年以上、妻と暮らしてきた場所だという。",
-    "link": "https://news.yahoo.co.jp/articles/3dbd6d075beb2b567abae991a911f122b993f6c9?source=rss",
-    "published": "2026-08-30T21:47:38+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "1e9f491acd71b3904222536ba04f945aec5b0b8f",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「コリアン？ 弟も発電所に通っていたんだけど…」 ビラを手にした姉の絶叫＝ネパール（1）(中央日報日本語版)",
-    "summary": "予想不可能な水害が爪痕を残した場所は、灰色の泥にまみれていた。29日午後（現地時間）に訪れたネパール・バグマティ州ビドゥルの至る所に折れた木の枝や岩、建築物の残骸が散乱していた。空には救助ヘリが絶え間",
-    "link": "https://news.yahoo.co.jp/articles/19538e0607b627d609fc5c47a3800ba1aa2500ba?source=rss",
-    "published": "2026-08-30T21:47:35+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "29fe509ec6c7c240c88adc92f20c9eef69db48e0",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "銅メダル獲得も…看過できない“自滅”のタイ戦　中国メディアが課題を指摘「波があまりにも大きかった」「サーブレシーブが崩れ、ミドルからの攻撃も機能不全に」(CoCoKARAnext)",
-    "summary": "バレーボール女子日本代表は現地時間8月30日、アジア選手権（中国・天津）の3位決定戦でイラン代表を3－0（25ー21、25－16、26ー24）で破り、銅メダルを獲得した。これで2028年ロサンゼルス",
-    "link": "https://news.yahoo.co.jp/articles/4ea51984809639ac2ba51afe4b89f12dbb8144d3?source=rss",
-    "published": "2026-08-30T21:40:43+00:00",
     "matched_keywords": [
       "中国"
     ]
