@@ -1,5 +1,115 @@
 [
   {
+    "id": "018b7bca2c95d9329e23e057b50125f95fa80957",
+    "source": "Yahoo!ニュース IT",
+    "title": "アップル、日本語でのSiri AIの10月提供開始を正式発表　EUと中国では規制対応で当初利用不可(アスキー)",
+    "summary": "アップルは14日、iOS 27／iPadOS 27／macOS 27／watchOS 27／visionOS 27の目玉機能であるSiri AIについて、10月から日本語でもベータ版で提供開始するこ",
+    "link": "https://news.yahoo.co.jp/articles/67848f8284684a495dcdfb7a8fa40a18a5b363b6?source=rss",
+    "published": "2026-09-15T14:30:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ad4be93bf4852fb767c558dedae3a13afc225311",
+    "source": "Yahoo!ニュース 地域",
+    "title": "法人売買を装い銀行口座を違法に売買か　男4人を逮捕　口座は中国の特殊詐欺組織が使用か　愛知県警(中京テレビＮＥＷＳ)",
+    "summary": "法人売買を装い、法人名義の銀行口座を売買したとして、男4人が愛知県警に逮捕されました。\n\n逮捕されたのは、福岡市の無職・新岡正光容疑者（57）と福岡市の自称会社役員・西原順平容疑者（41）、山形県の自",
+    "link": "https://news.yahoo.co.jp/articles/3a42a80b6c32ccf0723cba184c155b808f374fcd?source=rss",
+    "published": "2026-09-15T14:26:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "8c7afa780f008d4f5012504134db6bbb9c9a066d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国、自国民の出国制限可能に　出入国管理の新規定を施行…SNSで影響懸念の声(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国で15日、出入国管理に関する新規定が施行された。海外への技術流出を防止するため、自国民の出国制限を可能とする規定を盛り込んだ。中国政府が重点分野と位置付ける人工知能（AI）などの",
+    "link": "https://news.yahoo.co.jp/articles/9e8b9263ad2d666521aa2778a9542e5efa6a321f?source=rss",
+    "published": "2026-09-15T12:19:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3b6bf700e6d4c764f37323d2025881807707862f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「中朝鴨緑江大橋」10月開通か　韓国報道、関係復調を象徴(共同通信)",
+    "summary": "【ソウル、北京共同】韓国の主要紙、ハンギョレは15日、中国と北朝鮮の国境の鴨緑江に架かる「中朝鴨緑江大橋」が中朝国交樹立77年となる10月6日に開通する可能性が高いと報じた。この橋は2014年秋の本",
+    "link": "https://news.yahoo.co.jp/articles/4b6a94a0a4ba035de5ad267a3b9984f355011a0e?source=rss",
+    "published": "2026-09-15T12:05:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b38c1bbbca6635dcfc497c7af24e4a2c1e421f1e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国外務省　高市首相発言が「深刻な困難の最大要因」日本の議員団に伝えた内容明かす(テレビ朝日系（ANN）)",
+    "summary": "中国外務省は14日に日本の超党派議員らと面会したことを受け、日中関係が正常な軌道に戻るには日本側の行動が必要との認識を示しました。\n\n中国外務省　郭嘉昆副報道局長\n「中国側は、高市首相の台湾を巡る誤っ",
+    "link": "https://news.yahoo.co.jp/articles/5d9faaba87622f640dae11956ab2b89246a7d6a5?source=rss",
+    "published": "2026-09-15T11:33:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1599741cb701186912ae6a3ab7cd095d9ebcc377",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国小売売上高の伸び率縮小、8月は0.4％増　工業生産は輸出に支えられ5.2％増(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国国家統計局が15日発表した8月の主要統計によると、消費動向を示す小売売上高は前年同月比0.4％増だった。伸び率は7月の0.6％から縮小した。不動産不況を背景とした内需不足が続いて",
+    "link": "https://news.yahoo.co.jp/articles/f46c1ba0bff267ad90557d4293740f152f6d0ea5?source=rss",
+    "published": "2026-09-15T11:25:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c88345125a428f9411411465b58e80a71ba6eec1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国外務省 高市首相発言が「深刻な困難の最大要因」日本の議員団に伝えた内容明かす(テレビ朝日系（ANN）)",
+    "summary": "中国外務省は、14日に日本の超党派議員らと面会したことを受け日中関係が正常な軌道に戻るには日本側の行動が必要との認識を示しました。\n\n【中国外務省・郭嘉昆副報道局長】\n「中国側は、高市首相の台湾をめぐ",
+    "link": "https://news.yahoo.co.jp/articles/4a0002b1626892a9024e50a2e1c6c075a5a85bd0?source=rss",
+    "published": "2026-09-15T11:12:58+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "833d08b343b8d5daeff0f7201cae509aca423298",
+    "source": "Yahoo!ニュース 国際",
+    "title": "AI企業「開発減速を」懸念相次ぐ　トランプ氏けん制(テレビ朝日系（ANN）)",
+    "summary": "AI企業トップから開発の減速を求める声が相次いでいることについて、トランプ大統領は中国を利するだけだと牽制（けんせい）しました。なぜ今、開発する側から減速を求める声が出ているのでしょうか。",
+    "link": "https://news.yahoo.co.jp/articles/e02666276031422c6d2da34d2871c76fb6b1b543?source=rss",
+    "published": "2026-09-15T10:57:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1bccf6aebe3aa63e5f3841ee906162ace3bbcbda",
+    "source": "Yahoo!ニュース 国内",
+    "title": "ネパールにDNA型鑑定支援で3億円供与　政府(テレビ朝日系（ANN）)",
+    "summary": "茂木外務大臣は大規模な土石流が発生したネパールにDNA型を鑑定する機材を送るため、約3億円の資金協力をすると発表しました。\n\n茂木外務大臣\n「本日、DNA型鑑定機材供与のための200万ドル（約3億円）",
+    "link": "https://news.yahoo.co.jp/articles/8b9549d9697a4ca4c82ed768809d4de1117e136d?source=rss",
+    "published": "2026-09-15T10:53:42+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "f1529a477212d8ebd21711f88184217fada2897c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "鳩山元首相が中国の安保論壇で「『一つの中国』政策の尊重」訴え　日本政府関係者招かれず(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国人民解放軍系シンクタンクが主催する安全保障に関する国際会議「香山フォーラム」が15日、北京で開幕した。香港紙の明報（電子版）によると、日本政府関係者は招待されなかった。\n\n昨年参",
+    "link": "https://news.yahoo.co.jp/articles/e9f28dd4ed3bdd75dcc1e9288940f07437458a76?source=rss",
+    "published": "2026-09-15T10:25:55+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "6ecb4a2777ce57427535f1d401c7d665fa136a41",
     "source": "Yahoo!ニュース 国際",
     "title": "航空便の運航を妨げる濃い煙霧　ボルネオ島では視界1キロ未満に(AP通信)",
@@ -11313,235 +11423,6 @@
     "link": "https://mainichi.jp/articles/20260902/ddm/001/030/109000c",
     "published": "2026-09-01T17:31:55+00:00",
     "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "c30682feb1244b1c28c69faa0d3c387919138dfd",
-    "source": "Yahoo!ニュース 国際",
-    "title": "専門家「これは世界の問題」行方不明者の捜索難航…ネパール土石流 死者1000人超(テレビ朝日系（ANN）)",
-    "summary": "ネパールと中国の国境で起きた洪水と土砂崩れから、まもなく1週間。これまでに両国で1000人を超える死者が確認されました。\n\n高市総理\n「ネパールとの友好関係に鑑みて、被災者の方々を支援をすべく、テント",
-    "link": "https://news.yahoo.co.jp/articles/58454bb261491ac8ee4fba1a085ac2aa9d01905b?source=rss",
-    "published": "2026-09-01T14:51:18+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "51a549f88d2c858dd6bd322aad8bc779f3c45b35",
-    "source": "Yahoo!ニュース 国際",
-    "title": "上海協力機構閉幕「ビシケク宣言」欧米対抗打ち出す　「歴史改ざんに対抗」日本意識か(テレビ朝日系（ANN）)",
-    "summary": "中央アジアのキルギスで開かれていた中国が主導する上海協力機構の首脳会議が閉幕し、西側の制裁などに対抗していく姿勢を明確に打ち出しました。\n\n　会議は1日に中国やロシア、インド、中央アジアの国々などの首",
-    "link": "https://news.yahoo.co.jp/articles/a87ded29a82cdd80a52a9166219c4ef60639e40b?source=rss",
-    "published": "2026-09-01T13:37:15+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "186e5a4cad41cd3ad5566a90910721cb9949d3ef",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「第二の故郷」日本から毎日お見舞いのメール　東京在住のネパール人夫婦が不明の親族捜索(産経新聞)",
-    "summary": "【カトマンズ＝西見由章】ネパールと中国の国境付近で8月26日に発生した土石流災害は2日で1週間となり、4000人を超す行方不明者の家族や知人は不安と焦りを募らせる。日本で生活するネパール人の中にも、近",
-    "link": "https://news.yahoo.co.jp/articles/8adb5dd4df60db570c67498c75a52ea507eaecdb?source=rss",
-    "published": "2026-09-01T13:24:13+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "d7e4c663abd9ada8332028ec2996753ef3292c8f",
-    "source": "Yahoo!ニュース 地域",
-    "title": "ネパールと中国の国境の土石流　安否不明日本人は大阪府立学校の教諭と家族か　2人は大阪市立小学校の児童　市がカウンセラー派遣(読売テレビ)",
-    "summary": "ネパールと中国の国境地帯で8月26日に発生した大規模な土石流では、日本人5人の安否が依然分からないままとなっています。\n\n　大阪府によりますと、安否不明者と同じ名前の教諭が府立学校に在籍していて、教",
-    "link": "https://news.yahoo.co.jp/articles/0477bd3c06b1b88b588300571931be7a0c75b54d?source=rss",
-    "published": "2026-09-01T13:24:00+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f4cf9afdebb07550624745f224c5846727209a54",
-    "source": "Yahoo!ニュース 地域",
-    "title": "シュノーケリング中の事故　中国籍女性が意識不明、台湾の男女が心肺蘇生措置　宮古島市(RBC琉球放送)",
-    "summary": "観光で宮古島市のビーチを訪れていた30代の中国籍女性がシュノーケリング中に溺れ、意識不明の重体です。\n\n事故があったのは、宮古島市平良下里のパイナガマビーチです。\n\n宮古島海上保安部によると、1日午後",
-    "link": "https://news.yahoo.co.jp/articles/673b26021bd4ca83047bb965fcd285e8fe26b4c0?source=rss",
-    "published": "2026-09-01T13:04:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "02fbfd9a7efa9b8cb44f2bbde76589bb8085894b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【解説】インドに巨額投資する日本企業、中国関連リスクが深まるなか(BBC News)",
-    "summary": "ニキル・イナムダー記者（ムンバイ）\n\nインドのピユシュ・ゴヤル商工相は8月24日、日本との貿易・投資関係の拡大を目指し、インド史上最大規模の経済使節団を率いて日本を訪問した。アジア第3位の経済大国であ",
-    "link": "https://news.yahoo.co.jp/articles/db79215df9d815f542d8f1c90b4227d0d45387ba?source=rss",
-    "published": "2026-09-01T12:32:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b87bc24be82b22099d6edd7fa72fedd9fdca90f6",
-    "source": "Yahoo!ニュース 科学",
-    "title": "中国Galactic Energy、新型ロケット「Pallas-1（智神星1号）」の初飛行に成功(sorae 宇宙へのポータルサイト)",
-    "summary": "中国の民間宇宙企業Galactic Energy（星河動力）は日本時間2026年9月1日、新型ロケット「Pallas-1（智神星1号）」の初飛行に成功したと発表しました。\n\n打ち上げに関する情報は以下",
-    "link": "https://news.yahoo.co.jp/articles/644f7b5804909ca973af985635c53f4b7944a17f?source=rss",
-    "published": "2026-09-01T12:30:34+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "5db4ee205d2dd43bb1a4db165a5a93b53d85dae6",
-    "source": "NHKニュース",
-    "title": "ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも",
-    "summary": "ネパールと中国の国境付近で起きた大規模な土石流で、死亡が確認された人は1019人となり、現地では4400人以上の行方不明者の捜索や救助活動が続いています。\nさらに、国連は、およそ6万5000人が水や衛…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260901de47575",
-    "published": "2026-09-01T11:54:09+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "2597f816822b2cd4be98d1f9637c0852792fbeae",
-    "source": "朝日新聞",
-    "title": "高市首相、ネパール首相と電話協議　行方不明の邦人救助に協力要請",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASV913HSJV91UTFK00JM.html?ref=rss",
-    "published": "2026-09-01T11:30:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "dc661728850d6aad88211b88149356dba47073d3",
-    "source": "朝日新聞",
-    "title": "高市首相、ネパール首相と電話協議　行方不明の邦人救助に協力要請",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASV913HSJV91UTFK00JM.html?ref=rss",
-    "published": "2026-09-01T11:30:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "5cfbf8d7d52800b02a6d285ad27db4f8a1f1ec09",
-    "source": "Yahoo!ニュース 国内",
-    "title": "高市総理がネパール首相と電話会談　日本人5人の救援に協力要請(テレビ朝日系（ANN）)",
-    "summary": "高市総理大臣は大規模な土石流と洪水の被害を受けたネパールのシャハ首相と電話で会談し、行方不明となっている日本人5人の救援に協力を求めました。\n\n高市総理大臣\n「連絡が取れていない日本人5名の一刻も早い",
-    "link": "https://news.yahoo.co.jp/articles/13b56ec7aed0276ddc4a65914b7f47c2d1caed9d?source=rss",
-    "published": "2026-09-01T11:18:44+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "bce766fbd4b669566b0b384ef42c6712b460b662",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール外相、気候変動が原因と主張　米中印に「補償責任」　死者1000人、物資不足深刻(産経新聞)",
-    "summary": "【カトマンズ＝西見由章】ネパールと中国の国境付近で発生した土石流災害は2日で発生から1週間となる。ネパールのカナル外相は1日放送された地元テレビ局のインタビューで、地球規模の気候変動と温暖化によるヒマ",
-    "link": "https://news.yahoo.co.jp/articles/d94a82cc1e1ccd349adb13a08d882080185fd312?source=rss",
-    "published": "2026-09-01T10:45:21+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "930999998b854f05e377a97c3d5e9c30018240c6",
-    "source": "Yahoo!ニュース 国内",
-    "title": "安倍首相と違う、高市首相は対中外交をやっていない...元外務審議官らが厳しく批判(J-CASTニュース)",
-    "summary": "2026年8月31日のBS-TBS「報道1930」は、高市早苗首相の対中外交は「無策」、トランプ米国大統領へは「盲目的な追従」姿勢だとして、元外務省の田中均・外務審議官は「これは長続きしない。中国に",
-    "link": "https://news.yahoo.co.jp/articles/85b555bdad6164017dbf1bb58b7186b937b6e9fe?source=rss",
-    "published": "2026-09-01T10:45:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "cc5053cc8c059aef50a67b78c9438832fceead91",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパールのインフラ建設に従事する中国人作業員たち、洪水後に消息途絶える　家族らに安否情報届かず(CNN.co.jp)",
-    "summary": "北京（CNN）　CNNがリリという仮名で報じたその中国人女性は、何度も何度も夫に電話をかけ続けたが、相手が出ることはなかった。リリさんによれば夫は8月26日の午前8時27分に友人と会話をしている。その",
-    "link": "https://news.yahoo.co.jp/articles/c20d92d8dddd9adc7231f59ba97202e08394181f?source=rss",
-    "published": "2026-09-01T10:45:00+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "e18ecd2b3c9c68e2eeba0c8e4320697ee9b696be",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール・中国の土石流　死者1000人超　日本人も不明(テレビ朝日系（ANN）)",
-    "summary": "大規模な土石流と洪水による死者は1000人を超えました。\n\n　ネパール当局は1日、死者が1010人に増えたと明らかにしました。\n\n　中国側の16人と合わせて1026人になります。\n\n　依然、日本人5人",
-    "link": "https://news.yahoo.co.jp/articles/d24181d04d2cc45c040e8c4a2ca8eef115a0f14d?source=rss",
-    "published": "2026-09-01T10:40:00+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "e9c77b692e7ab68d293d59f26550223ea1cfc0df",
-    "source": "Yahoo!ニュース 国内",
-    "title": "高市総理　ネパール首相と電話会談(テレビ朝日系（ANN）)",
-    "summary": "高市総理大臣がネパールのシャハ首相と電話で会談しました。\n\n　電話会談は1日午後4時すぎから10分間行われました。\n\n　ネパールと中国の国境地帯で大規模な土石流と洪水が発生してから初めてとなります。",
-    "link": "https://news.yahoo.co.jp/articles/a888f7775685d75866dc316a98a1d1da1ac0d548?source=rss",
-    "published": "2026-09-01T10:33:26+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f6986f5f55729be21c4671ae93cfd2c62fb74688",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中露首脳、欧米主導の秩序打破へ結束要請　イラン連帯も表明　上海協力機構首脳会議(産経新聞)",
-    "summary": "ロシアと中国が主導する国際組織「上海協力機構」（SCO）は1日、中央アジア・キルギスの首都ビシケクで首脳会議を行った。プーチン露大統領は「SCOは形成されつつある多極的世界の中心の一つになった」と演説",
-    "link": "https://news.yahoo.co.jp/articles/fb0507c176dc3599254bf3e77bd994c9a4740456?source=rss",
-    "published": "2026-09-01T10:32:21+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2b744d5282f4e3b236f6f7d93f1f6a06bb80b301",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「次世代が核の恐ろしさ理解を」　ベトナム国連大使、広島知事面会(共同通信)",
-    "summary": "今年の核拡散防止条約（NPT）再検討会議で議長を務めたベトナムのドー・フン・ビエット国連大使が1日、広島県庁を訪れ横田美香知事と面会した。ビエット氏は、核兵器廃絶に向けて「次世代が核兵器の恐ろしさを",
-    "link": "https://news.yahoo.co.jp/articles/ee3d3a0872744dc92e87e67540ff55aa0c7cf61d?source=rss",
-    "published": "2026-09-01T10:32:12+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "e4fa50c542f74c57f73a976eecea24e6db96cb44",
-    "source": "Yahoo!ニュース 国際",
-    "title": "土石流トンネル3百人閉じ込めか　ネパール、発電所被災(共同通信)",
-    "summary": "【カトマンズ共同】土石流被害を受けたネパールの水力発電プロジェクト施設で、行方不明者の捜索活動が続いている。電力事業者の業界団体は1日、中部ラスワ、ヌワコト両郡の施設11カ所で労働者ら約900人の安",
-    "link": "https://news.yahoo.co.jp/articles/009f2625e59624bcedb970ea125479c468576845?source=rss",
-    "published": "2026-09-01T10:28:02+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "8c4a2965b72313cc59ebc33b8e74d21df70ca5dd",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国がネパール支援を強調　専門家を現地派遣、土石流の警報めぐる批判打ち消す動きも(産経新聞)",
-    "summary": "【北京＝三塚聖平】中国は、ネパールとの国境付近で8月26日に発生した土石流災害後、ネパール側への支援姿勢を強調している。中国が警報を迅速に発しなかったという批判がネパール側の一部にあり、それを打ち消そ",
-    "link": "https://news.yahoo.co.jp/articles/b955c5ee38061ed03b024be75b4fb03fa843e14f?source=rss",
-    "published": "2026-09-01T10:27:30+00:00",
-    "matched_keywords": [
-      "中国",
       "ネパール"
     ]
   }
