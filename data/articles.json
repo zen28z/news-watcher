@@ -1,5 +1,193 @@
 [
   {
+    "id": "bac5a843f954dcaa5fed8f1e5dbb34e534a02d4b",
+    "source": "Yahoo!ニュース 国際",
+    "title": "北朝鮮国防次官「核保有国の地位は不可逆的…非核化という妄想を捨てるべき」(ハンギョレ新聞)",
+    "summary": "北朝鮮国防省の副相（次官）が国際社会に対し、非核化の要求を放棄すべきだとして、核保有国の地位は不可逆的なものだと主張した。\n\n　17日、中国・北京の国際会議センターで開かれた第13回北京香山フォーラ",
+    "link": "https://news.yahoo.co.jp/articles/05a69d3fb6cb157051d326b70821fd172ddb7787?source=rss",
+    "published": "2026-09-18T05:09:12+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "32ddca4ab93394b9503a6d81734e077926cb48d2",
+    "source": "Yahoo!ニュース 地域",
+    "title": "長崎～上海便　2027年3月まで欠航　中国東方航空「市場原因」　長崎県「情報収集を続けたい」(KTNテレビ長崎)",
+    "summary": "2025年12月から欠航が続いている長崎と中国・上海を結ぶ国際定期便が、2027年3月末まで全便欠航することになりました。\n\n長崎～上海便を運航する中国東方航空は、9月10日、長崎県に、上海便を202",
+    "link": "https://news.yahoo.co.jp/articles/72b077b0ac3e5ceea15149c39ae78a2962ca53d7?source=rss",
+    "published": "2026-09-18T04:56:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "389afea31496f007f1709a8d38d4f9946e3c143d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "自衛隊大型ヘリ消火活動を開始　インドネシアで災害支援の自衛隊(AP通信)",
+    "summary": "ポンティアナク、インドネシア、9月18日 (AP) ー 自衛隊は16日、広範囲に及ぶ森林および原野の火災に対処するため、インドネシア東部ボルネオ島のポンティアナク周辺で航空消火活動を開始した。\n\n　自",
+    "link": "https://news.yahoo.co.jp/articles/bfe102b6cde2605a8d0a1bb8a5197b860d97f734?source=rss",
+    "published": "2026-09-18T04:55:41+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "7a755bd3713769ab6eb159e1d833dbd8d1ef1152",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール・中国国境の土石流、「気候変動が一因の可能性」と科学者ら　ネパールは国連基金に支援要請へ(BBC News)",
+    "summary": "ネパールと中国・チベットの国境沿いの地域で先月末に発生した大規模な土石流について、国際的な科学者グループが17日、気候変動との関連性を示す新しい分析結果を発表した。ネパールはこれを、気候変動によって土",
+    "link": "https://news.yahoo.co.jp/articles/fa1dd494b63869e1cd24d59edab34a7bfc9945aa?source=rss",
+    "published": "2026-09-18T04:50:00+00:00",
+    "matched_keywords": [
+      "中国",
+      "ネパール"
+    ]
+  },
+  {
+    "id": "3b99584a632be23e55692b4cb8e6a5bb5a4ada8a",
+    "source": "Yahoo!ニュース 国内",
+    "title": "日米首脳会談、現地22日で調整　対中政策擦り合わせ(共同通信)",
+    "summary": "日米両政府は、今月下旬に米ニューヨークで開かれる国連総会に合わせ、高市早苗首相とトランプ大統領による会談を現地時間22日に実施する方向で調整に入った。24日に予定するトランプ氏と中国の習近平国家主席",
+    "link": "https://news.yahoo.co.jp/articles/ff0b64cf4e7b162022847a09f9d822f94b47d0e1?source=rss",
+    "published": "2026-09-18T04:49:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a357b09814066dd1a26f5e5663c4e98eda664fac",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国人の海外旅行、2025年は16％増の1.68億回、ラグジュアリーや文化・学びの旅に注目、AI活用も加速(トラベルボイス)",
+    "summary": "世界最大級の旅行・観光産業界の展示会・国際会議「ITB」の中国版「ITB China」は、「ITB China Travel Trends Report 2026/27（ITB China旅行トレンド",
+    "link": "https://news.yahoo.co.jp/articles/c0429c7078ec5d600ee70714240c73cc825b0539?source=rss",
+    "published": "2026-09-18T04:30:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7d2446b2da5b5f6c5f5b81cbad77d5284df7b1d6",
+    "source": "GIGAZINE",
+    "title": "Z.aiが中国製AIインフラで「GLM-5.3-Flash」の本番サービスを提供したノウハウを共有、AIエージェントでインフラを管理してNVIDIA GPUと同等まで効率化",
+    "summary": "中国のAI企業であるZ.aiが、「GLM-5.3-Flash」の本番サービスを提供するためにどのようにして独自の推論インフラストラクチャを構築したのかをブログで解説しています。<p><b><a href=\"https://gigazine.net/news/20260918&#45;how&#45;glm&#45;built&#45;inference&#45;infrastructure/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20260918-how-glm-built-inference-infrastructure/",
+    "published": "2026-09-18T04:29:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "de04f8df4885fe2922955521c8e34d54a8bf6e91",
+    "source": "Yahoo!ニュース 経済",
+    "title": "Fi Asia、インドネシアで開幕　30回の記念開催、700社超が出展(健康産業速報)",
+    "summary": "食品原料の展示会Fi Asiaが9月16日、インドネシア・ジャカルタで開幕した。30回目の節目を迎えた今回は、700社を超える企業が出展。事前登録者数も前回比を上回るなど、大きな期待が寄せられるなか",
+    "link": "https://news.yahoo.co.jp/articles/7c3c7b3b9f264ed27e805317fd3c0cc23e0abf83?source=rss",
+    "published": "2026-09-18T04:26:24+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "2b2535a5c5f71165a2aa45c89947a4f8d7f91874",
+    "source": "東洋経済オンライン",
+    "title": "アメリカや中国とは異なる日本流のAIとの向き合い方とは　実は新しいテクノロジーが大好きだった日本人のこれから | ビジネス | 東洋経済オンライン",
+    "summary": "AIと私たちの未来に対する期待と不安が交錯する中､全米で話題の『エンパイア･オブ･AI』日本語版が上陸。AI活用における日米中の違いや､日本人ならではのロボット観とは？テクノロジーとのつきあい方を今…",
+    "link": "https://toyokeizai.net/articles/-/956107?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-09-18T04:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "415142da9f253762267a91f7d33d3f62cd90d600",
+    "source": "Yahoo!ニュース 国際",
+    "title": "異例　習主席が米国到着の際 トランプ大統領が自ら出迎えへ(テレビ朝日系（ANN）)",
+    "summary": "来週、中国の習近平国家主席がアメリカに到着する際、トランプ大統領が自ら出迎えることが分かりました。\n\n　ホワイトハウスの当局者はANNの取材に対して、習主席が23日に米中首脳会談のためワシントン近郊の",
+    "link": "https://news.yahoo.co.jp/articles/805f600c6c158145c65c583baf1029e76cc6326a?source=rss",
+    "published": "2026-09-18T03:31:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "68542782d3ae0383b784217af23e0d5cae3023e2",
+    "source": "Yahoo!ニュース 国内",
+    "title": "半導体情報を中国企業に流出か　旭化成の元社員の男逮捕(テレビ朝日系（ANN）)",
+    "summary": "大手化学メーカー旭化成の営業秘密が中国企業に流出した事件で、元社員の男が逮捕されました。男は営業秘密にあたる複数の企業の情報を保管していたことが分かりました。\n\n　旭化成の元社員・古川祥一容疑者（66",
+    "link": "https://news.yahoo.co.jp/articles/cbec8ca09ce40230883a117707e77a2cf8e999b4?source=rss",
+    "published": "2026-09-18T03:29:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b5b88e7d9d2707ab9d0696b08e9cf146e5df321a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "北朝鮮の地下核実験で想定外の地震が増大、断層活動誘発させた可能性(CNN.co.jp)",
+    "summary": "（CNN）　北朝鮮が2017年に大規模な核実験を行って以来、豊渓里（プンゲリ）の核実験場で想定外の長期的な地震活動が増えているという研究結果を、韓国と中国の研究チームが発表した。\n\n北朝鮮は06年から",
+    "link": "https://news.yahoo.co.jp/articles/c8fa295fb4dbddf8f48e793f6605903277c2369e?source=rss",
+    "published": "2026-09-18T03:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "20b77b056c579983f9f45316720785908f02e46b",
+    "source": "NHKニュース",
+    "title": "高市首相 来週トランプ大統領と会談を調整 中国で意見交換か",
+    "summary": "高市総理大臣は来週、国連総会にあわせてアメリカでトランプ大統領と首脳会談を行う方向で調整に入りました。日米同盟の重要性を改めて確認するとともに、米中首脳会談を前に中国をめぐる認識をすりあわせたい考えで…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260918de50983",
+    "published": "2026-09-18T02:59:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6d4ae46fea4fa4ef1c1d991c35ee3f3349b7245b",
+    "source": "ハフポスト日本版",
+    "title": "「金麦」「本麒麟」「クリアアサヒ」など“第三のビール”がビールに昇格。10月から“酒税一本化”でビール市場の価格帯が再編",
+    "summary": "<div class=\"content-list-component text\"><p><span style=\"font-weight: 400;\">ビール大手4社が、看板ブランドだった「第三のビール」を相次いで「ビール」に切り替えている。背景にあるのは、</span><span style=\"font-weight: 400;\">10月に迫る酒税改正だ。</span></p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6aab9217e4b05a5eaee3b1c5\">ビールファンに朗報…！10月1日から“酒税一本化”で値下げへ。各社の動向に大注目</a></p><h2><strong>10月1日から酒税改正で税率差が縮小</strong></h2></div><div><img alt=\"酒税改正による「ビール値下げ」のPOP（オーケー藤沢店）\" src=\"https://img.huffingtonpost.com/asset/6aac8f69170000caa3201b86.jpg?cache=moNGYcEO4U&amp;ops=scalefit_630_noupscale\" />酒税改正による「ビール値下げ」のPOP（オーケー藤沢店）</div><div class=\"content-list-component text\"><p><span style=\"font-weight: 400;\">ビール類飲料は麦芽使用比率などにより、酒税法上「ビール」「発泡酒」「第三のビール」に区分され、それぞれ税率が異なる。</span></p><p><span style=\"font-weight: 400;\">2018年の法改正で段階的な税率統一が進められており、2026年10月にその最終<a href=\"https://www.mof.go.jp/tax_policy/summary/consumption/d08.htm\" rel=\"noopener noreferrer\" target=\"_blank\">段階を迎える</a>。350ml缶1本あたりの酒税額は、次のように変わる。</span></p><p><strong>ビール：63.35円 → 54.25円（9.1円の減税）</strong></p><p><strong>発泡酒・第3のビール：46.99円 → 54.25円（7.26円の増税）</strong></p><p><span style=\"font-weight: 400;\">これまで16円以上あった両者の税額差が解消され、すべて54.25円に統一される。</span></p><p><span style=\"font-weight: 400;\">ビールは値下がり方向、第三のビールは値上がり方向に動くことになり、これまで「割安さ」を理由に第三のビールを選んでいた消費者が、価格差の縮まったビールへ流れる可能性が高まる。</span><span style=\"font-weight: 400;\">各社はこの機会をとらえ、看板商品の仕様を変更してビールへと「格上げ」する動きを進めている。</span></p><h2><strong>大手4社の動きに注目</strong></h2><p><span style=\"font-weight: 400;\">各社の動きは、看板の第三のビールを「ビール化」するだけでなく、既存のビール価格を見直す動きとセットになっている。</span></p><p><strong>サントリー</strong><span style=\"font-weight: 400;\">：サントリーは第三のビール「<a href=\"https://www.suntory.co.jp/news/article/2026/15085.html\" rel=\"noopener noreferrer\" target=\"_blank\">金麦</a>」について、麦芽使用率を50%未満から50%以上に引き上げるなどしてビールに仕様変更し、10月6日に発売する。同時に、コクと飲みごたえを強めた新商品「金麦〈豊潤〉」を10月13日に投入するが、こちらは最初からビールとして新たに設計された商品だ。</span></p><p><strong>アサヒビール</strong><span style=\"font-weight: 400;\">：酒税改正で減税されるビールの代表格「アサヒスーパードライ」を値下げする一方、増税対象となる第三のビール「<a href=\"https://www.nikkei.com/article/DGXZQOUC222CZ0S6A520C2000000/\" rel=\"noopener noreferrer\" target=\"_blank\">クリアアサヒ</a>」については麦芽比率を引き上げてビール区分に切り替える。減税・増税それぞれの動きに合わせ、看板2商品の価格戦略を同時に見直す形だ。</span></p><p><strong>キリンビール</strong><span style=\"font-weight: 400;\">：</span>酒税改正で減税されるビールについては価格を見直して値下げする一方、増税対象となる主力の第三のビール「<a href=\"https://www.kirinholdings.com/jp/newsroom/release/2026/0527_02.html\" rel=\"noopener noreferrer\" target=\"_blank\">本麒麟</a>」については麦芽比率を引き上げ、麦100％のビールへと刷新。発売は酒税改正から1カ月後の11月4日から。</p><p><strong>サッポロビール</strong><span style=\"font-weight: 400;\">：減税されるビールの主力である「黒ラベル」を値下げする一方、増税対象となる第三のビール「GOLD STAR」「麦とホップ」の2ブランドについては、麦芽比率を引き上げてビール区分へ<a href=\"https://www.sapporobreweries.com/newsroom/release/detail/20260617000032.html\" rel=\"noopener noreferrer\" target=\"_blank\">切り替える</a>。</span></p><p><span style=\"font-weight: 400;\">減税されるビールは値下げ、増税される第三のビールは値上げという構図に加え、各社の看板商品そのものがビールへ生まれ変わる。</span></p><p>ビール市場には、高価格帯のプレミアムビールを筆頭に、「アサヒスーパードライ」や「黒ラベル」といった主力ビール、そして今回ビールへ切り替わる「金麦」「本麒麟」「クリアアサヒ」「GOLD STAR」といった手頃な価格帯のビール、という3つの価格帯が新たに生まれる見込みだ。</p><h2><strong>クラフトビールも値下げへ</strong></h2><p>クラフトビールファンにとっても見逃せない動きがある。「よなよなエール」を手がけるヤッホーブルーイングは、ビール区分の減税分を反映し、主力の缶製品の希望小売価格を9円引き下げると<a href=\"https://yohobrewing.com/press_room/story/liquortax_pricechange/\" rel=\"noopener noreferrer\" target=\"_blank\">発表した</a>。</p><p><span style=\"font-weight: 400;\">同社によると、「よなよなエール」（缶）の希望小売価格（税抜）は9円引き下げられるといい、これはビール区分の減税幅（9.1円）にほぼ見合う水準だ。</span></p><p><span style=\"font-weight: 400;\">今回の改正について、これまで税制上有利だった発泡酒・新ジャンルを開発する動機となってきた「歪み」が解消される契機だと位置づけている。</span></p><p><span style=\"font-weight: 400;\">大手ビールとクラフトビールの絶対的な価格差自体は残るものの、これまでクラフトビールが背負っていた税制上のハンデが縮まることで、スーパーやコンビニの店頭で両者が同じ「ビール」という土俵に並び、価格だけでなく味わいや個性での競争が一段と重視される局面に入りそうだ。</span></p><h2><strong>小売各社も「PBビール」で参戦</strong></h2><p><span style=\"font-weight: 400;\">この流れに乗じて動いているのは、メーカーだけではない。減税でビールが値ごろになることを見据え、小売各社もプライベートブランド（PB）のビールを相次いで投入している。</span></p><p><span style=\"font-weight: 400;\">ホームセンター大手のカインズは2026年4月、PB「黄金」シリーズ初の本格ビール「黄金ラガービール」（330ml）を1本138円という業界最安値級の価格で<a href=\"https://www.huffingtonpost.jp/entry/story_jp_69e97d43e4b0cc34aae447b0\">発売した</a>。</span></p><p><span style=\"font-weight: 400;\">海外メーカーと連携してベトナムで生産することでコストを抑えたといい、発売から1カ月で約30万本を<a href=\"https://retail-biz.media/%E3%82%AB%E3%82%A4%E3%83%B3%E3%82%BA%E3%80%81%E9%BB%84%E9%87%91%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%93%E3%83%BC%E3%83%AB%E3%81%8C%E7%99%BA%E5%A3%B2%E3%81%8B%E3%82%891%E3%81%8B%E6%9C%88%E3%81%A7%E8%B2%A9/\" rel=\"noopener noreferrer\" target=\"_blank\">販売</a>。夏場には一時125円まで値下げして販売するなど、酒税改正を先取りする形で攻めの価格戦略をとっている。</span></p><p>セブン&amp;アイ・ホールディングス系でも、イトーヨーカ堂が9月16日、価格訴求型PB「セブン・ザ・プライス」から初めてビールを発売した。海外メーカーへの製造委託や包材コストの見直しなどで価格を抑え、1本あたり173円（10月の酒税改正後はさらに引き下げる方針）と、スーパー業界で最安値級の水準を<a href=\"https://www.nikkei.com/article/DGXZQOUC1490D0U6A910C2000000/\" rel=\"noopener noreferrer\" target=\"_blank\">打ち出している</a>。</p><p><span style=\"font-weight: 400;\">従来、PBのビール系飲料は税率の低い第三のビールや発泡酒が主流だったが、酒税の一本化をにらみ、PBの世界でも「ビール」そのものへの参入が広がっている形だ。</span></p><p><span style=\"font-weight: 400;\">大手メーカーの看板ブランドがビールへ切り替わるのと歩調を合わせ、小売のPBもビール区分へ軸足を移しつつあり、10月の酒税改正は店頭の価格競争そのものの構図を塗り替えつつある。</span></p><h2><strong>看板ブランドなき「第三のビール」、静かな幕引き</strong></h2><p dir=\"ltr\">第三のビールは、2003年の発泡酒増税を機に、税率の低さを狙って各社が開発した経緯を持つ。低価格を武器に支持を広げてきたが、酒税改正で価格差が縮まるにつれ市場は縮小が続いていた。</p><p dir=\"ltr\">なお、酒税法上の「第三のビール」という区分自体がなくなるわけではない。キリンの「のどごし〈生〉」のように、ビール化を明言せず第三のビールとして残る見通しの銘柄もある。それでも主力ブランドの多くが看板を下ろす以上、カテゴリーとしての存在感は縮むことになりそうだ。</p><p dir=\"ltr\">今回のビール化は、各社が主力ブランドを「お得な代替品」から「本来のビール」へ再定義し、新たな需要を取り込む試みだ。ただしチューハイやノンアルコール飲料との競争も強まっており、ビールへ生まれ変わった各ブランドが、こうした競争相手に埋もれず選ばれ続けられるかどうかが、今後を左右することになる。</p><p dir=\"ltr\">【合わせて読みたい】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_69e97d43e4b0cc34aae447b0\">「第3のビール」が「ビール」に。大手は昇格ラッシュ、カインズは138円のPB商品を投入　酒税一本化で二極化？</a></p></div><p><a href=\"https://www.huffingtonpost.jp/news/money/\"><img src=\"https://img.huffingtonpost.com/asset/6904817c2300002a86be1fbb.jpg\" width=\"100%\" /></a></p><div class=\"content-list-component text\"></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aab9217e4b05a5eaee3b1c5\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aac8f69170000caa3201b86.jpg?cache=moNGYcEO4U&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aab9217e4b05a5eaee3b1c5\">【画像】「金麦」「本麒麟」「クリアアサヒ」など“第三のビール”がビールに昇格。10月から“酒税一本化”でビール市場の価格帯が再編</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aa8f718e4b0477c43bf292d\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aab78013c0000cc8f4e7590.jpg?cache=LSXKlbzLv6&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aa8f718e4b0477c43bf292d\">高市内閣、税制改正大綱決定。飲食料品消費税「1％」で暮らしへの影響や事業者の対応は？減税・給付・残る課題を読み解く</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aa67a6ee4b054da7a22c839\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aa21648170000ebb1200f8c.jpg?cache=GblTGIpncT&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aa67a6ee4b054da7a22c839\">片山財務相、ベッセント氏「胴元」発言に「日本語の語感だとちょっと怖い」、急速な円高には「対応方針変わらず」と強調</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6aab921ae4b00c07b744bfc5\">...クリックして全文を読む</a></p>",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_6aab921ae4b00c07b744bfc5",
+    "published": "2026-09-18T02:39:49+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "2596c867b44a51f9ce9ef3b223762182b79480e0",
+    "source": "Yahoo!ニュース 科学",
+    "title": "中国ランドスペース、「朱雀2号改良型」を打ち上げ　通信衛星「千帆」10機を軌道投入(sorae 宇宙へのポータルサイト)",
+    "summary": "中国の民間宇宙企業LandSpace（ランドスペース／藍箭航天）は日本時間2026年9月15日、酒泉衛星発射センターにある東風商業航天創新試験区から「朱雀2号改良型」遥7ロケットを打ち上げ、搭載されて",
+    "link": "https://news.yahoo.co.jp/articles/d5a6d029d6822ea4af2c788613d7c20f4c646cad?source=rss",
+    "published": "2026-09-18T02:38:03+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9b45a97d7d44d329f1db9fbaa24dd1b8149309df",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「Coupang、NAVERでSK-IIや高麗銀丹を買ったのに中国製の偽物」…機能性も皆無(朝鮮日報日本語版)",
+    "summary": "【TV朝鮮】（アンカー）\n　クーパン（Coupang）やネイバー（NAVER）といった有名なプラットフォームで化粧品をよく購入されることでしょう。中国製の偽物である可能性があります。偽物を正規品であ",
+    "link": "https://news.yahoo.co.jp/articles/11718908ef73ea4cb81d52126081b7750c3a6b61?source=rss",
+    "published": "2026-09-18T02:23:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fdaf4778fccd32b674c3e666b9dc214d1cab37c6",
+    "source": "朝日新聞",
+    "title": "中国の若者失業率が最悪水準に　高学歴化も受け皿不足、AIも要因",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASV9K4TBRV9KUHBI01FM.html?ref=rss",
+    "published": "2026-09-18T01:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "1dcd944d11771f7972ad86317f4ec314fecaeacf",
     "source": "Yahoo!ニュース スポーツ",
     "title": "「可愛いが大渋滞！」　バド大人気の29歳が上海満喫　同行メンバーにも熱視線「本当に嬉しい」(THE ANSWER)",
@@ -10726,205 +10914,6 @@
     "matched_keywords": [
       "中国",
       "ネパール"
-    ]
-  },
-  {
-    "id": "699b178471f0de850687b4b821e1bbc3479072d7",
-    "source": "Yahoo!ニュース 国内",
-    "title": "臓器移植手術あっせん事件　大阪府の医師の男性（73）を書類送検    警視庁(テレビ朝日系（ANN）)",
-    "summary": "カンボジアでの臓器移植の手術をあっせんしたとしてNPO法人の元理事長が逮捕された事件で、移植手術のための紹介状を書いて手術あっせんの対価を受けるほう助をしたとして73歳の医師の男性が書類送検されました",
-    "link": "https://news.yahoo.co.jp/articles/3f2a09954bcf88da7a1977be8a59970807c55cd9?source=rss",
-    "published": "2026-09-04T05:13:12+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "6959d05ae1748e9994ddc3b1413c3a842b8e2f2a",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパールの発電所トンネルで2人救助と報道(共同通信)",
-    "summary": "【カトマンズ共同】ネパールメディアは4日、土石流で被災した水力発電所のトンネルから2人が救助されたと報じた。土石流発生の8月26日から行方が分からなくなっていた。",
-    "link": "https://news.yahoo.co.jp/articles/931cbccb214d218437b2432a2b9b8ca92d8a047c?source=rss",
-    "published": "2026-09-04T04:51:02+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "59e298c9ceee4baa1a69c000e21ce045d2ce65f6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパールの洪水被災発電所、多数が取り残される中男性2人を救助(CNN.co.jp)",
-    "summary": "ネパール・カトマンズ（CNN）　ヒマラヤ地域の複数のエネルギー開発現場で、大規模な鉄砲水と土砂崩れにより数百人の作業員が取り残されてから9日目、被災したネパールの水力発電所のトンネル内から2人が救助さ",
-    "link": "https://news.yahoo.co.jp/articles/8f9c80136d37a76919c3703c765227b3f5e3ea23?source=rss",
-    "published": "2026-09-04T04:43:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f2df1cfaa6eac3b56fd9e8d1577cbe5f266e2977",
-    "source": "Yahoo!ニュース トピックス",
-    "title": "ネパール 生存者2人救出と報道",
-    "summary": "",
-    "link": "https://news.yahoo.co.jp/pickup/6594198?source=rss",
-    "published": "2026-09-04T04:42:04+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f5f399967f5842242ddc04db85afbc6dd48465a7",
-    "source": "Yahoo!ニュース 国内",
-    "title": "国際緊急援助隊　ネパールに4日到着予定(テレビ朝日系（ANN）)",
-    "summary": "木原官房長官はネパールと中国の国境付近で起きた大規模な土石流を受け、日本の国際緊急援助隊が4日に現地に到着し、遺体の身元確認に向けた支援にあたる予定だと説明しました。\n\n木原官房長官\n「政府としては連",
-    "link": "https://news.yahoo.co.jp/articles/c21bd46ebbac8bc095ae7080a5ac986e21679c33?source=rss",
-    "published": "2026-09-04T04:38:19+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
-    ]
-  },
-  {
-    "id": "bb302bd955e6e21bc12c7cf68b4c6619f3b057c1",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国、台湾以東の海域でパトロールや調査　海巡署が反発　「管轄権ない」(中央社フォーカス台湾)",
-    "summary": "（北京、台北中央社）中国が台湾以東の海域での活動を活発化させている。中国自然資源省第2海洋研究所は今年8月、22日間にわたり海洋調査を行ったと発表した。また、中国海警局の普陀山艦編隊は3日から常態化し",
-    "link": "https://news.yahoo.co.jp/articles/8cf1677303b202f63a8ecd870e808e3369cc35bd?source=rss",
-    "published": "2026-09-04T04:25:18+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "21a6aec96dea73c00df94b2c4c1d691e1d9e567f",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国軍がジブリ風の短編アニメで、日本の防衛費増加など批判。プロパガンダに使われるケース増。長崎の被爆地を現代風に描いた描写も(ハフポスト日本版)",
-    "summary": "中国人民解放軍のXアカウント（@ChinaMilBugle）は9月2日、日本の防衛費増加などを強く批判する「ジブリ風」の生成AI短編アニメを公開し、物議を醸している。\n\n中国の動画共有サイトでは以前か",
-    "link": "https://news.yahoo.co.jp/articles/2c1a672a27a701f1d5792600d8ec5758fac3b858?source=rss",
-    "published": "2026-09-04T03:57:05+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "accaa213d5ac481d1061dbfb713d5db7d8dfcb70",
-    "source": "ハフポスト日本版",
-    "title": "中国軍がジブリ風AIアニメで、日本の防衛費増加など批判。長崎の被爆地を現代風に描いた描写も。プロパガンダに使われるケース増",
-    "summary": "<div class=\"content-list-component text\"><p>中国人民解放軍のXアカウント（@ChinaMilBugle）は9月2日、日本の防衛費増加などを強く批判する「ジブリ風」の生成AI短編アニメを公開し、物議を醸している。</p><p>中国の動画共有サイトでは以前から、日本の政治などを批判するジブリ風のAI短編アニメが発信されており、今回は軍の公式SNSが類似のアニメを公開した形だ。</p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6a9a3a28e4b031dd47146e34\">中国軍が公開したジブリ風AIアニメのキャプチャ</a></p></div><div><img alt=\"中国軍のXアカウントが発信したジブリ風のAI短編アニメ\" src=\"https://img.huffingtonpost.com/asset/6a9a36e61700000be0d4469b.jpg?ops=scalefit_630_noupscale\" />中国軍のXアカウントが発信したジブリ風のAI短編アニメ</div><div class=\"content-list-component text\"><h2>「ジブリ風AI作成」がプロパガンダに利用されるケース増</h2><p>2025年頃から、「ジブリ風AI画像」を作ってSNSにあげる動きが<a href=\"https://www.huffingtonpost.jp/entry/story_jp_67e618dee4b0da7de4274676\">トレンド</a>になり、当初は個人的に楽しく利用するユーザーが多かったが、アメリカのホワイトハウスやイスラエルなど、<strong>国家がプロパガンダに利用するケースも増えてきている。</strong></p><p>ホワイトハウスが移民強制送還を称賛する<a href=\"https://www.huffingtonpost.jp/entry/story_jp_67e5eb4de4b0da7de4273335\">ジブリ風イラストを投稿</a>するなど、ネガティブな文脈でも使われた。</p><p>イスラエルは、<strong>イスラエルの国旗が掲げられた要塞で銃を構えて警備する歩兵や、対空砲を背に仲間と通信する水兵、戦闘機に乗るパイロット</strong>などをジブリ風AIで<a href=\"https://www.huffingtonpost.jp/entry/story_jp_67ea13dee4b011f09d73892f\">描き</a>、多くの批判が巻き起こった。</p><p>今回、公開された約2分の動画では、<strong>高市政権における改憲の動きや、アメリカやフィリピンとの合同軍事演習実施、防衛費増加</strong>などを批判している。</p><p>日本語で歌われている『平和の仮面』という楽曲の歌詞では、「平和の仮面を脱ぎ捨てる」などと、日本の「軍事化」を指摘。</p><p>「暮らしを削りミサイルを積む」「保育は来年度 基地なら今年。介護は検討 軍備は前倒し。値上げだけはご理解ください。軍事予算だけ待ったなし」と、防衛費増額を非難した。</p><p>日本の防衛省は2027年度当初予算の概算要求で、過去最高となる<a href=\"https://www.mod.go.jp/j/budget/yosan_gaiyo/fy2027/yosan_20260831.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">8兆8908億円</a>を要求している。</p><p>アニメでは、街中で「NO WAR」「戦争反対」とのプラカードを掲げて抗議する人々も描かれた。</p><h2>アメリカ、フィリピンとの合同軍事演習も批判</h2><p>「サムおじさんに目配せをする」という歌詞の箇所では、高市首相がアメリカを擬人化したキャラクター「アンクル・サム」と、フィリピンを指すと思われる、バナナの模様の竹笠をかぶった男性と共に、机の上で船を差し出す様子が描かれている。</p><p>この様子は、<strong>アメリカとフィリピンが長年継続している、フィリピンでの合同軍事演習「バリカタン」への日本の参加を批判した描写と考えられる。</strong></p><p>バリカタンをめぐっては、日本はこれまでオブザーバーとして参加していたが、2026年は初めて本格的に<a href=\"https://www.mod.go.jp/js/activity/training/bk.html\" rel=\"noopener noreferrer\" target=\"_blank\">参加</a>。実射訓練なども行なった。</p><p>中国とフィリピンは南シナ海・スカボロー礁などの領有権や排他的経済水域（EEZ）を巡って長年にわたり激しく対立し、衝突も起こっている。</p><p>アニメの中では日米は艦艇を差し出しているのにも関わらず、フィリピンは現地で「バンカ」と呼ばれる木・竹製とみられるボートを差し出しており、フィリピンに対する差別的意識も見受けられる。</p><p>なお、日本政府はこれまで、政府開発援助（ODA）を通じて10年以上にもわたり、フィリピン沿岸警備隊に大型巡視船や多目的船などを<a href=\"https://www.asahi.com/articles/ASS5K53T1S5KUHBI028M.html\" rel=\"noopener noreferrer\" target=\"_blank\">支援</a>し、海上保安庁はフィリピン沿岸警備隊に対し、<a href=\"https://www.kaiho.mlit.go.jp/info/kouhou/post-1055.html\" rel=\"noopener noreferrer\" target=\"_blank\">能力向上支援</a>なども行なっている。</p><p>中国は南シナ海で、フィリピンの漁船や巡視艇に対し繰り返し放水砲を発射したり、衝突したりしする、<a href=\"https://jp.reuters.com/world/security/5N5MMZCK4FNMHAU37CUUPDZXTY-2026-07-21/\" rel=\"noopener noreferrer\" target=\"_blank\">妨害行為</a>を行なっている。</p><h2>長崎の「一本柱鳥居」背景に、現代風街並みのイラスト</h2><p>アニメでの「平和を捨てて何を守る」の歌詞の箇所では、1945年8月9日の原子爆弾投下により被爆した<a href=\"https://sannou-jinjya.jp/pages/17/\" rel=\"noopener noreferrer\" target=\"_blank\">山王神社</a>（長崎市）の「一本柱鳥居」が描かれているが、<strong>背景には1945年の被爆当時の街並みではなく、現代風のビルが倒壊している。</strong></p><p>爆心地から南東約800ｍの高台にあった山王神社では、社殿などはすべて焼失。一本柱鳥居は、爆風で半分が吹き飛ばされて半分だけ残り、現在も一本足で立っている。</p><p>そのシーンの直後には、第二次世界大戦を生きた兄妹を描いたジブリ映画『火垂るの墓』の登場人物、節子を思わせるような少女が、爆撃された現代風の街並みの中で泣いている様子が描かれた。</p><p>【あわせて読む】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_67e618dee4b0da7de4274676\">「ジブリ風」の生成AI画像をChatGPTなどで世界中の人が作成。著作権の問題は？ジブリにも聞いた</a></p></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6a9a3a28e4b031dd47146e34\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6a9a3abc1900009d746bc1f4.jpg?cache=VFGSQGgvTh&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6a9a3a28e4b031dd47146e34\">【画像】中国軍がジブリ風AIアニメで、日本の防衛費増加など批判。長崎の被爆地を現代風に描いた描写も。画像キャプチャ一覧</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_67e5eb4de4b0da7de4273335\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/67e604b41600000c08883eee.jpeg?cache=Eso0A1WP1F&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_67e5eb4de4b0da7de4273335\">「ジブリ風」生成AI画像でホワイトハウスが移民の強制送還を称賛。「グロテスクだ」など批判相次ぐ</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6a8101c8e4b0ddd9c1b227cd\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6a811e40230000e21c7c9738.jpeg?cache=Xrqn4MxBaX&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6a8101c8e4b0ddd9c1b227cd\">サンリオキャラ、一斉に平和のメッセージ。広島・長崎原爆投下日に投稿のキャラも。創業者は毎年、空襲体験つづり「戦争は絶対にいけない」</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6a9a1dd4e4b0e51a2d9242ba\">...クリックして全文を読む</a></p>",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_6a9a1dd4e4b0e51a2d9242ba",
-    "published": "2026-09-04T03:54:39+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3cfd4351b7c49b3f408e6204334c11697207b9b0",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「落ちたのは8割が岩盤」ネパール大規模土石流 見えてきたメカニズム 地元研究者「予測も想定も出来ず」(テレビ朝日系（ANN）)",
-    "summary": "高さ20m（6階建て相当）以上の建物を丸ごと飲み込む強力な土石流がなぜ起きたのか。山から何が落ちてきて、なぜあれほどの速さと規模で下流を襲ったのか。専門家の取材を進めていくと、徐々にその発生メカニズム",
-    "link": "https://news.yahoo.co.jp/articles/7c6255d469df3b3ad299b7fb73d0f6a7229e9961?source=rss",
-    "published": "2026-09-04T03:45:32+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "3720680e475fd094c5413c9890ba2d1b6665da92",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール土石流　生存の可能性　水力発電所の上階は未浸水か(テレビ朝日系（ANN）)",
-    "summary": "土石流に巻き込まれたネパールの複数の水力発電所で救助活動が続くなか、発電を統括する政府機関の理事が作業員らの生存の可能性を明らかにしました。\n\n　土石流に巻き込まれた複数の水力発電所では、少なくとも作",
-    "link": "https://news.yahoo.co.jp/articles/f112c31562733e03d0ab78b50161edccc2df244f?source=rss",
-    "published": "2026-09-04T03:31:47+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "45cba124b16a555cbdbceb2d8b06786f3c48f15a",
-    "source": "朝日新聞",
-    "title": "カンボジア臓器移植あっせん事件、患者書類送検「ドナー見つからず」",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASV940CNBV94UTIL00SM.html?ref=rss",
-    "published": "2026-09-04T03:10:00+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "40edd59fbaf6c34fb9fede16498c21372160340d",
-    "source": "朝日新聞",
-    "title": "カンボジア臓器移植あっせん事件、患者書類送検「ドナー見つからず」",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASV940CNBV94UTIL00SM.html?ref=rss",
-    "published": "2026-09-04T03:10:00+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "00d8c0066f38f7b5710debf2a125ffce2977906a",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ネパール水害の1週間前…衛星写真に氷河崩壊の兆候が捉えられていた(朝鮮日報日本語版)",
-    "summary": "8月26日に発生したネパールの水害において、氷河崩壊の兆候が惨事の1週間前から衛星に捕捉されていたという分析結果が出た。今すぐ衛星やAI（人工知能）を活用し、ヒマラヤの氷河や岩石の崩壊リスクを常時監",
-    "link": "https://news.yahoo.co.jp/articles/a53f23a2d0a469b53bb05c2a9390b55453d9c7ff?source=rss",
-    "published": "2026-09-04T03:05:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "4fd5da44bb964f042aaf09234a1fee92cf3facbb",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国政府、ネパールに1億3000万ウォン相当の救援物資を追加支援(中央日報日本語版)",
-    "summary": "韓国政府は、大洪水で被害を受けたネパールに、1億3000万ウォン（約1500万円）相当の緊急救援物資を追加で提供する。\n\n韓国外交部は4日、ネパールの洪水被災地域の被災者に、緊急用保温毛布3万6000",
-    "link": "https://news.yahoo.co.jp/articles/be18df4ee8e7fbafbe0395bb7e7c86c8aafc3f8f?source=rss",
-    "published": "2026-09-04T02:45:24+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f012f3d0406320ebfc15309a85bfdcc23f1ebfe9",
-    "source": "Yahoo!ニュース 地域",
-    "title": "台風２４号迷走　宮崎県内の観光地など影響懸念(宮崎日日新聞)",
-    "summary": "台風２４号の“迷走”が予想される中、宮崎県内の観光地や漁業・農業の関係者らが気をもんでいる。中国大陸から張り出した高気圧が台風の進路を阻むことで動きが複雑になり、雨や海のしけなど影響が長期化する恐れ",
-    "link": "https://news.yahoo.co.jp/articles/29f7077e69f6b7a75569c4406c415607c04c23fe?source=rss",
-    "published": "2026-09-04T01:20:57+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "106d74aaa9505fd6c9dafb111f1cf71b97292e05",
-    "source": "Yahoo!ニュース 経済",
-    "title": "技能五輪国際大会の出場選手　大府市長に抱負語る(中部経済新聞)",
-    "summary": "【半田】第48回技能五輪国際大会に出場する人間環境大学看護学部の川澄姫詩（ひなた）さんと豊田自動織機の宮堂頌也（のぶただ）さんが１日、大府市の岡村秀人市長を訪問した。22日から中国・上海で開催される",
-    "link": "https://news.yahoo.co.jp/articles/942061954fee61a2d999e1db33158c3caef0a7b8?source=rss",
-    "published": "2026-09-04T01:05:26+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6c9502c39a0dce337ef6d9fbf7bf18f54c516f0e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国作家たち、「台湾館」の名称に抗議し光州ビエンナーレのパビリオンから最終的に撤収(中央日報日本語版)",
-    "summary": "韓国・光州（クァンジュ）で翌日に開幕を控えた第16回光州ビエンナーレで、中国側がパビリオン（特別館）の展示を最終的に撤収することを決めた。台湾側が展示館の名称に「台湾館（Taiwan Pavilion",
-    "link": "https://news.yahoo.co.jp/articles/f5b184f153350a94d21d1746d028f181c4612a9a?source=rss",
-    "published": "2026-09-04T00:58:25+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "e543d3647f1766617d1f14c6c1d9f5e910202dd7",
-    "source": "Yahoo!ニュース 国内",
-    "title": "太陽光発電所から銅線ケーブル盗んだ疑いでラオス国籍の男逮捕　6人と共謀(テレビ朝日系（ANN）)",
-    "summary": "警察によりますと、自称労働者のラオス国籍の男（31）はおととし10月、外国籍の6人と共謀して、静岡県浜松市にある太陽光発電所から時価およそ540万円相当の銅線ケーブルを盗んだ疑いで逮捕されました。",
-    "link": "https://news.yahoo.co.jp/articles/43700db48daa5dc41f17d74ed9ca725e7ff771cf?source=rss",
-    "published": "2026-09-04T00:49:57+00:00",
-    "matched_keywords": [
-      "ラオス"
     ]
   }
 ]
