@@ -1,5 +1,38 @@
 [
   {
+    "id": "a02d674b4ff79918be55e7dff09c75516d182745",
+    "source": "毎日新聞",
+    "title": "ＡＩ新世紀:開発減速論、中国冷ややか　「発展封じ込め」と非難",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260921/ddm/002/020/085000c",
+    "published": "2026-09-20T17:15:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "807cbf67ee22d10c19dd9854afad9a42fdc7923d",
+    "source": "Yahoo!ニュース IT",
+    "title": "中国ステップファンが旗艦AI「Step 5 Preview」発表、10月15日にオープンソース化(ビジネス＋IT)",
+    "summary": "中国のAI開発企業ステップファン（階躍星辰）が、実世界のエージェント型業務向けの旗艦基盤モデル「Step 5 Preview」を発表した。総パラメータ6,000億の疎なMoE構成で、1トークンあたり",
+    "link": "https://news.yahoo.co.jp/articles/b072965eb6fe19a8364374714d41df979ca3381c?source=rss",
+    "published": "2026-09-20T16:10:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6a9edda8fe5e74ad521c4681b09e03203d1c998c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中閣僚、AIや貿易問題を協議　首脳会談前にすり合わせ(共同通信)",
+    "summary": "【ニューヨーク、ワシントン共同】ベセント米財務長官と中国の何立峰副首相が20日、ニューヨークで会談した。24日のワシントンでの首脳会談に向け、主要議題の人工知能（AI）の安全性や貿易問題で論点を整理",
+    "link": "https://news.yahoo.co.jp/articles/145da92ea87c5adb83e4bc24cfa17fed54be008d?source=rss",
+    "published": "2026-09-20T15:04:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "0925e250b165c17c69788d6dfa36ff8c263e43ff",
     "source": "Yahoo!ニュース 経済",
     "title": "【フィジカルAI開発競争が加速】産学が挑む“創薬と再生医療”ニッポンの勝ち筋は？(テレビ朝日系（ANN）)",
@@ -10415,18 +10448,6 @@
     "published": "2026-09-06T20:31:12+00:00",
     "matched_keywords": [
       "ベトナム"
-    ]
-  },
-  {
-    "id": "fceb610106b4a4f04db20b689e3cdc941d5460e6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【独自】氷河崩壊の瞬間映像入手 ネパール土石流発生の要因は？「永久凍土」融解か(テレビ朝日系（ANN）)",
-    "summary": "ネパールと中国の国境地帯で起きた土石流。今も約5000人が行方不明となっています。番組が独自に入手した、氷河が崩壊した瞬間とみられる映像。土石流によって大量の “土けむり”が発生していて、雲の間から立",
-    "link": "https://news.yahoo.co.jp/articles/b9f9f4e4641e94b33b31dc9ed130d1bde8c60180?source=rss",
-    "published": "2026-09-06T16:48:16+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
     ]
   }
 ]
