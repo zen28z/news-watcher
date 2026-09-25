@@ -1,5 +1,93 @@
 [
   {
+    "id": "0ebc200c0b571d39e9ca18f337396e3893686232",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習氏、訪米日程終え帰国の途へ(共同通信)",
+    "summary": "【ワシントン共同】中国の習近平国家主席は25日（日本時間26日午前）、トランプ米大統領との会談など一連の訪米日程を終え、ワシントン郊外のアンドルーズ空軍基地を専用機で出発し、帰国の途に就いた。中国外",
+    "link": "https://news.yahoo.co.jp/articles/fc25fb84115e41b82fdb20192ae327e4e6e348e3?source=rss",
+    "published": "2026-09-25T18:17:16+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "76b07d28b3f1812295feb5fed78fbb316ad39dc8",
+    "source": "毎日新聞",
+    "title": "質問なるほドリ:台湾パビリオン、表記もめたの？　韓国の芸術祭　略称に中国の影＝回答・林哲平",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260926/ddm/003/070/128000c",
+    "published": "2026-09-25T17:25:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ac4cd560fc8d70602e57b5475aa53f743de5afe9",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国主席、訪米日程終える(共同通信)",
+    "summary": "【ワシントン共同】中国の習近平国家主席は25日、トランプ米大統領と共に国立公文書館を見学し、一連の訪米日程を終えた。",
+    "link": "https://news.yahoo.co.jp/articles/62fd162a904ec3fd52ef21dde109d2382436cbce?source=rss",
+    "published": "2026-09-25T16:14:57+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "72af7027c58165169287b2be82d84355f86f3727",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米大統領と中国主席、国立公文書館に到着(共同通信)",
+    "summary": "【ワシントン共同】トランプ米大統領夫妻は25日、中国の習近平国家主席夫妻と共に、米建国250年の関連資料を展示する国立公文書館に到着した。",
+    "link": "https://news.yahoo.co.jp/articles/a170c23801030526f81932b7ea1e2b7a7573d053?source=rss",
+    "published": "2026-09-25T15:56:21+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a8fe08c86bfca7f4fb440f2a23fbb290f03e0081",
+    "source": "Yahoo!ニュース 国際",
+    "title": "トランプ氏と「年内に2回会える」と習氏(共同通信)",
+    "summary": "【ワシントン共同】中国の習近平国家主席はトランプ米大統領に対し「年内にあと2回会えるでしょう」と述べ、米中両国で開かれる国際会議での再会に言及した。",
+    "link": "https://news.yahoo.co.jp/articles/2f0a8fad4f7dbb4ccc15f5a360e2999a4531e544?source=rss",
+    "published": "2026-09-25T15:29:32+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9c45250d5a44de5129c68f2db845d8fc797765b7",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中関係「大きく前進」とトランプ氏(共同通信)",
+    "summary": "【ワシントン共同】トランプ米大統領は、ホワイトハウスで開かれた中国の習近平国家主席との茶会で、習氏訪米について「両国にとって非常に前向きで、大きな前進を遂げた」と述べた。",
+    "link": "https://news.yahoo.co.jp/articles/708d8c5b91b7062519d400cc428d3fcb5cde9ea6?source=rss",
+    "published": "2026-09-25T15:28:48+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "76dd39efcb3391f7352e5ee96f2c773ba51dee26",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国、米国産農産物の購入拡大か(共同通信)",
+    "summary": "【ワシントン共同】トランプ米大統領は25日、米中首脳会談を受け「米国の農家が大喜びすると思う」と述べた。中国が米国産農産物購入の拡大を決めた可能性がある。",
+    "link": "https://news.yahoo.co.jp/articles/12e78248debdfaf68e589865f8760bab4022a508?source=rss",
+    "published": "2026-09-25T15:24:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b610a9376ff9042b25a0190f5bbdad067cf8c278",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「最高レベルの礼遇に感謝」と習氏(共同通信)",
+    "summary": "【ワシントン共同】中国の習近平国家主席は25日、米ホワイトハウスで開かれたトランプ大統領との茶会で「最高レベルの礼遇に感謝する」と述べた。",
+    "link": "https://news.yahoo.co.jp/articles/842dfc1a144b6f6f31a7384b6312f9d2cd77273f?source=rss",
+    "published": "2026-09-25T15:21:12+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "9187bb71bf7bad19cf757d4a08412785f4a0be14",
     "source": "Yahoo!ニュース 国際",
     "title": "「家族失い何も考えられない」ネパール土石流からあすで1カ月　4000人近くが避難　(テレビ朝日系（ANN）)",
@@ -11155,28 +11243,6 @@
     "summary": "南鳥島周辺の深海に眠るレアアース泥が、大きな注目を集めている。世界有数の資源量、高品位、放射性元素が少ないこと、中国依存からの脱却――。こうした言葉だけを並べれば、日本にとって夢のような国産資源に見",
     "link": "https://news.yahoo.co.jp/articles/81a16d063a99039fe8f8392d1d3a914321b00d9c?source=rss",
     "published": "2026-09-11T20:00:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b7e2fd1ee5aaae046b72d7a8b89bb929e8af2b6f",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "バレー日本4強の裏で…中国に広がる落胆「実力もなければ人気もない」　名将にも酷評「口だけは達者だ」【アジア選手権】(THE ANSWER)",
-    "summary": "福岡で開催中のバレーボール男子アジア選手権で、中国は準々決勝敗退。優勝で得られる2028年ロサンゼルス五輪の出場切符はもちろん、上位3チームに与えられる来年のワールドカップ（W杯、ポーランド）の出場",
-    "link": "https://news.yahoo.co.jp/articles/85004d5dbfb95084fca5881ab77359ccd6a7d189?source=rss",
-    "published": "2026-09-11T19:13:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ba796536035cfe6f0cae908b12323323fde50e56",
-    "source": "Yahoo!ニュース 国際",
-    "title": "APECエネルギー相会合で共同声明まとまる　日中で短時間の接触も(テレビ朝日系（ANN）)",
-    "summary": "中国・北京で開催されたAPEC（アジア太平洋経済協力会議）の会合で経済産業省の政務官が中国のエネルギー局長との接触があったと明らかにしました。\n\n　北京で開かれたAPECエネルギー相会合に出席した経済",
-    "link": "https://news.yahoo.co.jp/articles/05a8c0335a849a36980d138233f6df5068783932?source=rss",
-    "published": "2026-09-11T16:08:38+00:00",
     "matched_keywords": [
       "中国"
     ]
