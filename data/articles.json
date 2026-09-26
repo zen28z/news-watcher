@@ -1,5 +1,71 @@
 [
   {
+    "id": "9203cef21b5ee58b2f27ece7bd24c6b04558db4c",
+    "source": "毎日新聞",
+    "title": "愛知・名古屋アジア大会:愛知・名古屋アジア大会　「台湾」タオル応援、制止　野球中国戦　「政治的」現場判断",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260927/ddm/035/050/040000c",
+    "published": "2026-09-26T17:02:05+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0760020234e50a86227245d0b8261c19038547b5",
+    "source": "毎日新聞",
+    "title": "ネパール:ネパール土石流1カ月　気候災害「世界への警告」",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20260927/ddm/007/030/031000c",
+    "published": "2026-09-26T17:01:55+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "308ab2c966e6dd6ff2fb46457b836f10d7702eff",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中が首脳会談の成果文書をそれぞれ公表　中国は「SI」に理解　台湾問題は含まれず(テレビ朝日系（ANN）)",
+    "summary": "アメリカと中国がそれぞれ首脳会談の成果文書を公表し、関税問題などの貿易摩擦についていわゆる「休戦状態」を延長することで合意しました。\n\n　米中両政府は合意した内容をそれぞれ発表し、両国が今後、相互関税",
+    "link": "https://news.yahoo.co.jp/articles/2329756c9c60a86cd31332f123c978946d4fc810?source=rss",
+    "published": "2026-09-26T16:52:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3aea5e52820e20ae20c9661f031b9e7708ae2f8a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国副主席、国連演説で「途上国利益守る」　グローバルサウスに照準、対米直接批判避ける(産経新聞)",
+    "summary": "【ニューヨーク＝三塚聖平】中国の韓正・国家副主席は26日、米ニューヨークで開催中の国連総会の一般討論演説で、中国は「途上国の正当な権利と利益を守り、グローバルガバナンスの仕組みがより公正で合理的な方向",
+    "link": "https://news.yahoo.co.jp/articles/47e92a724adf8573a00e3656a351956151aaa948?source=rss",
+    "published": "2026-09-26T16:00:50+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ecb62309c59ceaf494d6ae750d8d30849d3486b5",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "小久保玲央ブライアン、ナイジェリア国籍に変更報道を完全否定「こんなのやめてくれよと…」(サンケイスポーツ)",
+    "summary": "サッカー日本代表は26日、ベネズエラ戦（28日）に向けて広島市内で練習を行った。GK小久保玲央ブライアン（シントトロイデン）が、ナイジェリアに国籍を変更するという海外報道があったことに言及し、完全否定",
+    "link": "https://news.yahoo.co.jp/articles/ae2cf31fd93aadd9041cfc9c5432723d5b97928d?source=rss",
+    "published": "2026-09-26T15:04:46+00:00",
+    "matched_keywords": [
+      "ナイジェリア"
+    ]
+  },
+  {
+    "id": "e9233d6a2431cdc50a55c50b37e527f5f132c01d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "今日の歴史（9月27日）(聯合ニュース)",
+    "summary": "1484年：昌慶宮完工\n\n1962年：ソウル運動場（後の東大門運動場）オープン\n\n1985年：韓国が開発に参加した初の海外油田、インドネシア・マドゥラ油田が生産開始\n\n1986年：全国教職員労働組合（",
+    "link": "https://news.yahoo.co.jp/articles/1baeb9576d8daefffd14e5bca007d27a33935163?source=rss",
+    "published": "2026-09-26T15:00:00+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
     "id": "464395084fde71af5599093b56be78fe5c8da122",
     "source": "Yahoo!ニュース 国際",
     "title": "習氏は台湾を巡る自身の立場理解と米大統領(共同通信)",
@@ -11572,72 +11638,6 @@
     "summary": "イタリアで開催された第８３回ベネチア国際映画祭の授賞式が１２日（日本時間１３日）に行われ、最高賞の金獅子賞を競うコンペティション部門に選出されていた塚本晋也監督の「ネルソンさん、あなたは人を殺しまし",
     "link": "https://news.yahoo.co.jp/articles/dedad503713c642a89ec1920c680702870008498?source=rss",
     "published": "2026-09-12T18:55:27+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "9a40d3a613c49cdee52200c35eea3e35a0309d42",
-    "source": "毎日新聞",
-    "title": "ネパール:ネパール首相に試練　ラッパーから転身　国政経験少なく　土石流対応に疑問符",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260913/ddm/007/030/098000c",
-    "published": "2026-09-12T17:43:23+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "8e47d09e6ea90f1e781476dc115516eb53f681ab",
-    "source": "毎日新聞",
-    "title": "インドネシア:無料給食食中毒　政府機関を告発　インドネシア",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20260913/ddm/007/030/086000c",
-    "published": "2026-09-12T17:02:35+00:00",
-    "matched_keywords": [
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "b9ae0e07dc0e27e62f5f07c1eedbc95346590539",
-    "source": "Yahoo!ニュース 国際",
-    "title": "BRICS首脳会議「デリー宣言」で制裁・関税など“欧米批判”も結束示せず(テレビ朝日系（ANN）)",
-    "summary": "インドのデリーでBRICS首脳会議が開かれ、参加国の様々な思惑のなか、西側諸国からの制裁やアメリカの関税政策批判で一致しました。\n\n　BRICS首脳会議はインド、中国、ロシアに加えてイラン、UAE＝ア",
-    "link": "https://news.yahoo.co.jp/articles/9094e70553d4989b27a34a95fbf3c26fb28d415e?source=rss",
-    "published": "2026-09-12T16:45:30+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c48e31e9b81d442815a299c46049942cffba579b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国とインド首脳が会談　発展を挑戦と見なさず機会と捉えようと習主席(テレビ朝日系（ANN）)",
-    "summary": "中国の習近平主席は12日、BRICS首脳会議に出席したのに合わせ、インドのモディ首相とも会談、二国間関係の改善と協力推進で一致しました。\n\n　習主席はニューデリーで開かれているBRICS首脳会議で演説",
-    "link": "https://news.yahoo.co.jp/articles/9576f4bf5d72e4e750a8e2196b1dd26b94421086?source=rss",
-    "published": "2026-09-12T16:30:52+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d6e1d1eb292032469e1e2583a9a5ba835d934ca1",
-    "source": "Yahoo!ニュース 国際",
-    "title": "習近平氏、インド首相に関係安定化呼びかけ　「中国は戦略的、長期的に中印関係を発展」(産経新聞)",
-    "summary": "【北京＝三塚聖平】中国の習近平国家主席は12日、BRICS首脳会議が開かれているインドの首都ニューデリーでモディ首相と会談した。習氏のインド訪問は2019年10月以来の約7年ぶり。香港メディアによると",
-    "link": "https://news.yahoo.co.jp/articles/17a4397fb897ecf9d688f86fd94f5f0e7627a7cc?source=rss",
-    "published": "2026-09-12T15:17:39+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "bb763359e64d945834ebee23cd687fea316aec21",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "≒JOY逢田珠里依1st写真集が本日発売、新規カット3枚公開(音楽ナタリー)",
-    "summary": "本日9月13日に発売される逢田珠里依（≒JOY）の1st写真集「夏はジュリイ」より、新たなカットが公開された。\n\n「アイドルの王道写真集」をテーマに掲げ、ベトナムを舞台にウォーターパークやビーチ、伝統",
-    "link": "https://news.yahoo.co.jp/articles/8454e63871196b3730e11149c80633f5bf760366?source=rss",
-    "published": "2026-09-12T15:01:05+00:00",
     "matched_keywords": [
       "ベトナム"
     ]
