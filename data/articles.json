@@ -1,11 +1,44 @@
 [
   {
+    "id": "6ce024c0f367d91a6923c4c11c01cb471f2061ea",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国、治安維持向けロボット開発　警棒や盾装備し威圧感、試験運用(共同通信)",
+    "summary": "【北京共同】中国で暴動対策など治安部門での活用を見据えた人型ロボットの開発が進んでいる。北京で8月に開かれた「世界ロボット大会」では、警棒や盾を装備した威圧感のある人型ロボットが登場。開発関係者によ",
+    "link": "https://news.yahoo.co.jp/articles/31c264df300eb840c4086b9a4e0ef6e140ff44ad?source=rss",
+    "published": "2026-09-27T20:15:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "998428575168a1ecdf7be40a1ac5315b64c13bf6",
+    "source": "Yahoo!ニュース 地域",
+    "title": "ベトナムの首都ハノイに事務所開設へ、神奈川県とＫＩＰ　企業誘致を加速(カナロコ by 神奈川新聞)",
+    "summary": "神奈川県と神奈川産業振興センター（ＫＩＰ）は１８日、ベトナムの首都ハノイに海外事務所を１１月１日に開設すると発表した。高い経済成長率を保っているベトナムとは近年経済交流が活発に進んでいる。企業誘致を",
+    "link": "https://news.yahoo.co.jp/articles/5c82a11637b632a3f69e3afb8da1aad67c26c71c?source=rss",
+    "published": "2026-09-27T20:10:40+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "66a4ef772bfba42dd3842f22bab010e0f9748e78",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "日本代表が初戦を勝利で飾る！ 中国は苦しみながらもフルセット勝ち【男子アジア大会】(バレーボールキング)",
+    "summary": "27日（日）、アジア競技大会2026男子バレーボールの予選ラウンド初日を迎えた。アジアの16チームが参加する男子バレーボールは、愛知県の岡崎中央総合公園総合体育館と、小牧市スポーツ公園総合体育館で行",
+    "link": "https://news.yahoo.co.jp/articles/c2a7976d7cf3b16ef67b4300c4c70a4af02cd055?source=rss",
+    "published": "2026-09-27T20:05:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "3a120c0306eb2525a0a51dd14752eb4fc2f87e95",
     "source": "毎日新聞",
     "title": "ネパール:ネパール土石流1カ月（その1）　想像絶した「山津波」　住民「家族も家も流された」",
     "summary": "",
     "link": "https://mainichi.jp/articles/20260928/ddm/001/030/172000c",
-    "published": "2026-09-27T17:03:32+00:00",
+    "published": "2026-09-27T17:59:08+00:00",
     "matched_keywords": [
       "ネパール"
     ]
@@ -16,7 +49,7 @@
     "title": "ネパール:ネパール土石流1カ月（その2止）　上流から警告、命拾い　信じず　のまれた人も",
     "summary": "",
     "link": "https://mainichi.jp/articles/20260928/ddm/003/030/120000c",
-    "published": "2026-09-27T17:02:44+00:00",
+    "published": "2026-09-27T17:49:11+00:00",
     "matched_keywords": [
       "ネパール"
     ]
@@ -11792,28 +11825,6 @@
     "published": "2026-09-13T20:53:42+00:00",
     "matched_keywords": [
       "インドネシア"
-    ]
-  },
-  {
-    "id": "3072522fc2ec77113ca7c85a5bfe76a3fe5c42ed",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "卓球・松島の怒りに中国賛否「傲慢不遜だ」「レベル低い人もいる」　会場警備の緩さ指摘する声も(THE ANSWER)",
-    "summary": "卓球の国際大会、WTTチャンピオンズマカオは12日、男子シングルス準々決勝が行われ、世界ランク3位の19歳・松島輝空は同7位ウーゴ・カルデラノ（ブラジル）に2-4（9-11、12-10、5-11、1",
-    "link": "https://news.yahoo.co.jp/articles/df749ff26c4101565e5872adb8898eb3cc742c4e?source=rss",
-    "published": "2026-09-13T19:24:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0a915bfcc02fdec328bb36500bffe54e1760995b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "BRICS首脳会議閉幕　インドが暗に中国けん制…各国の思惑違い浮き彫りに(テレビ朝日系（ANN）)",
-    "summary": "インドで開かれていたBRICS首脳会議は13日、2日間の日程を終え閉幕しました。西側への対抗を強く打ち出す一方、加盟国同士のすれ違いも目立つ結果になりました。\n\n　2日目の会合では中国の習近平国家主席",
-    "link": "https://news.yahoo.co.jp/articles/8a7b7bb6a17567dcd973e964fdf554df0c0117d4?source=rss",
-    "published": "2026-09-13T17:49:59+00:00",
-    "matched_keywords": [
-      "中国"
     ]
   }
 ]
