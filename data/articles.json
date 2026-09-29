@@ -1,5 +1,71 @@
 [
   {
+    "id": "5a4d5f77388cfc9853c20040db8c1b3b8d9ae6b3",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "車いす席なのに…動き回る中国女性ファンに疑問「2人が交代で乗っていた」　卓球決勝の“異様な光景”を海外報道(THE ANSWER)",
+    "summary": "28日に行われた愛知・名古屋アジア大会の卓球男子シングルス決勝は、世界ランク8位の林詩棟が同1位の王楚欽を4-0で破って金メダル。中国勢同士の頂上決戦では、会場のスカイホール豊田に異様な光景が広がって",
+    "link": "https://news.yahoo.co.jp/articles/ec331b878f37d6a903db3ad805f274feae29e3ab?source=rss",
+    "published": "2026-09-29T19:13:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4957ecb6128254f75cc9c4a4b9a9707a3693e69e",
+    "source": "NHKニュース",
+    "title": "岩屋前外相が中国副首相と会談　中国高官との会談は2日連続",
+    "summary": "日中関係の悪化した状態が続くなか、岩屋前外務大臣が訪問先の中国で経済政策を統括する何立峰副首相と会談しました。\n中国の高官が岩屋前外務大臣と会談するのは2日連続です。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260929de53225",
+    "published": "2026-09-29T16:59:28+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0bd2ee5cee7572e3cc5524f920072e2f4d821e15",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "日本勢メダルは183個で過去最多の218個に迫る　30日からはお家芸の柔道、レスリング開始／アジア大会(サンケイスポーツ)",
+    "summary": "愛知・名古屋アジア大会は29日、第11日が行われた。日本選手団はここまで183個（金45、銀71、銅67）を獲得。メダルランキングでは中国の254個（金143、銀62、銅49）に次ぐ、2位に付けている",
+    "link": "https://news.yahoo.co.jp/articles/36c75f505dedc4886b91b48402e31269bf0690f9?source=rss",
+    "published": "2026-09-29T16:48:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "23ab21de0cfce9c5d734622bb2ae0d152f1f028d",
+    "source": "Yahoo!ニュース 地域",
+    "title": "カンボジア拠点のニセ電話詐欺グループ「かけ子」リーダーか　男2人逮捕(RKB毎日放送)",
+    "summary": "カンボジアからうその電話をかけ、女性から現金をだまし取ろうとしたとして、ニセ電話詐欺グループのリーダー格だったとみられる男ら2人が逮捕されました。詐欺未遂の疑いで逮捕されたのは住居・職業不詳の大井拓実",
+    "link": "https://news.yahoo.co.jp/articles/30c8b3b949022a0b7d092219ddbcd3c099209959?source=rss",
+    "published": "2026-09-29T15:30:35+00:00",
+    "matched_keywords": [
+      "カンボジア"
+    ]
+  },
+  {
+    "id": "e89798709f9daefa074337e1a383520537d0a132",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国の思惑は？関係冷え込む中…中国指導部が岩屋前大臣と会談(テレビ朝日系（ANN）)",
+    "summary": "中国を訪問している岩屋前外務大臣は、29日は何立峰副首相と、そして28日は王毅外相と相次いで会談しました。日中関係が冷え込んで以来、中国の指導部が日本の政治家と公式に会談するのは初めてのことです。中国",
+    "link": "https://news.yahoo.co.jp/articles/7e2d00f50bb32b027e744b7cbbe66209826e134c?source=rss",
+    "published": "2026-09-29T15:24:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "99a901ffb8a135c78a99adf7cf09ed91c1565b1e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "マカオ、マンション転用の無認可違法宿泊施設3つ摘発…中国本土居民19人発見(マカオ新聞)",
+    "summary": "マカオ治安警察局は9月28日、無認可の違法宿泊施設として使われている可能性があるとの通報をきっかけに、マカオ半島の皇朝区および北区に所在する3つのマンションの部屋に対する摘発を実施したと発表。 皇朝区",
+    "link": "https://news.yahoo.co.jp/articles/cac1e3659329ba5a161b51d1dd7efd92d243a2dc?source=rss",
+    "published": "2026-09-29T14:10:20+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "f914a3d352d2885e241e4060c9a19093e0812cf0",
     "source": "毎日新聞",
     "title": "中国副首相、高市政権を批判も「困難乗り越える」　岩屋氏と面会",
@@ -12287,61 +12353,6 @@
     "summary": "●　「中国人全員がスパイ化」は本当か？\n\n　8月28日に中国全国人民代表大会（全人代＝国会）常務委員会で、有事の際に国家主席が動員令を発する手順を規定した「国防動員法」の改正案が可決され、早くも10月",
     "link": "https://news.yahoo.co.jp/articles/3df34d0d9d17802a2f71fb9b2ca8856426989b8a?source=rss",
     "published": "2026-09-15T20:00:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "8a4c448bfd09bfeeef776dea60606f71aae84b55",
-    "source": "Yahoo!ニュース 国際",
-    "title": "米中閣僚が週末に会談へ　首脳会談へ地ならしか(共同通信)",
-    "summary": "【ワシントン共同】ベセント米財務長官は15日、米下院の委員会で「中国の何立峰副首相と今週末に会談する」と明らかにした。今月下旬にワシントンで開かれる米中首脳会談の地ならしが目的とみられる。対イラン制",
-    "link": "https://news.yahoo.co.jp/articles/7031886eb3ff83caaaef08eb63209f213a7dbfd0?source=rss",
-    "published": "2026-09-15T15:43:55+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f82d11758c242732dd7e66e0176583b933ac81ad",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「任務が滞るリスクも」空自の無人偵察機が墜落か…通信が途絶え行方不明に(テレビ朝日系（ANN）)",
-    "summary": "航空自衛隊の大型無人偵察機が15日午後、鳥取県沖で墜落したとみられます。自衛隊が保有するアメリカ製の『グローバルホーク』3機のうちの1機で、中国軍やロシア軍が活動する周辺海域の監視が任務と言われていま",
-    "link": "https://news.yahoo.co.jp/articles/c8bd21fedead3c7652510156abce9dcddfdb4e62?source=rss",
-    "published": "2026-09-15T15:00:38+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0d2b9b3e80bcc92e7237254350e7445695c2e9db",
-    "source": "Yahoo!ニュース 経済",
-    "title": "米中閣僚が今週末に会談へ(共同通信)",
-    "summary": "【ワシントン共同】ベセント米財務長官は15日、今週末に中国の何立峰副首相と会談すると明らかにした。今月下旬にワシントンで予定する米中首脳会談の地ならしが目的とみられる。",
-    "link": "https://news.yahoo.co.jp/articles/f0ee85f723a038d7498acab530f9d90dcdc1885f?source=rss",
-    "published": "2026-09-15T14:58:59+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "018b7bca2c95d9329e23e057b50125f95fa80957",
-    "source": "Yahoo!ニュース IT",
-    "title": "アップル、日本語でのSiri AIの10月提供開始を正式発表　EUと中国では規制対応で当初利用不可(アスキー)",
-    "summary": "アップルは14日、iOS 27／iPadOS 27／macOS 27／watchOS 27／visionOS 27の目玉機能であるSiri AIについて、10月から日本語でもベータ版で提供開始するこ",
-    "link": "https://news.yahoo.co.jp/articles/67848f8284684a495dcdfb7a8fa40a18a5b363b6?source=rss",
-    "published": "2026-09-15T14:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ad4be93bf4852fb767c558dedae3a13afc225311",
-    "source": "Yahoo!ニュース 地域",
-    "title": "法人売買を装い銀行口座を違法に売買か　男4人を逮捕　口座は中国の特殊詐欺組織が使用か　愛知県警(中京テレビＮＥＷＳ)",
-    "summary": "法人売買を装い、法人名義の銀行口座を売買したとして、男4人が愛知県警に逮捕されました。\n\n逮捕されたのは、福岡市の無職・新岡正光容疑者（57）と福岡市の自称会社役員・西原順平容疑者（41）、山形県の自",
-    "link": "https://news.yahoo.co.jp/articles/3a42a80b6c32ccf0723cba184c155b808f374fcd?source=rss",
-    "published": "2026-09-15T14:26:00+00:00",
     "matched_keywords": [
       "中国"
     ]
