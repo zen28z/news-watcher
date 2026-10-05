@@ -1,5 +1,127 @@
 [
   {
+    "id": "55ea2ec44ad95481346670eb955f7a023008d2d0",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【トリプル台風情報】台風27号+28号「ノロ」・29号「コグマ」が発生　日本近海へ接近か　※雨と風のシミュレーション(RCC中国放送)",
+    "summary": "5日午前9時現在、大型で非常に強い台風27号が、小笠原近海を時速20kmの速さで北北西へ進んでいます。また、東や南東海上には新たに28号と29号が発生しました。それぞれ、週末にかけて日本近海に近付く予",
+    "link": "https://news.yahoo.co.jp/articles/3fb7e0f1626b92d2d442f8cf50dda045caa17d2f?source=rss",
+    "published": "2026-10-05T01:45:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4a734a5206cdd40ec90718367e747058efcf3945",
+    "source": "毎日新聞",
+    "title": "日本選手権中国予選　準決勝2試合を順延、敗者復活1回戦は実施",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261005/k00/00m/050/021000c",
+    "published": "2026-10-05T01:43:56+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "22ee65a42b78ca89c995b5407f085c2d03f9ef07",
+    "source": "Yahoo!ニュース 国際",
+    "title": "韓国、金39個で44年ぶり低水準…アーチェリー・テコンドー・女子ゴルフも「屈辱」＝アジア大会(朝鮮日報日本語版)",
+    "summary": "韓国は4日に閉幕した愛知・名古屋アジア大会で、金メダル39個を含め計150個（銀43個、銅68個）のメダルを獲得し、中国、日本に次いで総合3位となった。韓国選手団は当初、金メダル40－45個を目標に掲",
+    "link": "https://news.yahoo.co.jp/articles/a18496e61c736403c44ac5511cd4646825917332?source=rss",
+    "published": "2026-10-05T01:42:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ead749fb8f70345eeb8c08d75759d05e8b29f877",
+    "source": "Yahoo!ニュース IT",
+    "title": "日本ペイント、アクゾノーベルの東南アジア塗料事業を2,160億円で買収　Duluxなど獲得(ビジネス＋IT)",
+    "summary": "日本ペイントホールディングスは10月5日、オランダのアクゾノーベルの東南アジア建築用塗料事業を13億5,000万ドル（約2,160億円）で買収すると発表した。ベトナムやインドネシアなど7カ国で「Dul",
+    "link": "https://news.yahoo.co.jp/articles/883d26e3cf96b2ef217379c2047756f2d94cc82d?source=rss",
+    "published": "2026-10-05T01:40:10+00:00",
+    "matched_keywords": [
+      "ベトナム",
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "9905c9fd72596a26f610bd179949123e68a927f2",
+    "source": "Yahoo!ニュース 科学",
+    "title": "欧中の科学衛星「Smile」が科学観測開始へ　紫外線で捉えたオーロラの映像をESAが公開(sorae 宇宙へのポータルサイト)",
+    "summary": "ESA（ヨーロッパ宇宙機関）は2026年9月30日付で、CAS（中国科学院）との共同ミッション「Smile」の衛星による科学観測の準備が整ったことを発表し、搭載する観測装置で捉えた地球のオーロラの映像",
+    "link": "https://news.yahoo.co.jp/articles/5d5b84833f58d782edda9c810a9a036ef6f552b6?source=rss",
+    "published": "2026-10-05T01:31:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "91418bca02e7e509a50eb473af94b0e936fe6f2c",
+    "source": "Yahoo!ニュース 地域",
+    "title": "男2人を逮捕…許可ない男女5人に不法就労させた疑い　5人に対する捜査から判明　共同経営する作業場で勤務を指示　5人には時給1200円程度が支払われていた(埼玉新聞)",
+    "summary": "ベトナム人に資格外活動をさせたとして、埼玉県警組織犯罪総合対策本部は1日、入管難民法違反（不法就労助長）の疑いで、いずれもリサイクル業の志木市上宗岡5丁目、29歳男、東京都豊島区南池袋1丁目、24歳男",
+    "link": "https://news.yahoo.co.jp/articles/434457c648f0a9f88aba028cce854eef6b82b01a?source=rss",
+    "published": "2026-10-05T01:26:24+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "662989a00f38cb1354896c686f2fdd051357fff1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「中国の植民地支配は現在進行形」民族自決権支持を訴え　亡命チベット人詩人に聞く（上）(産経新聞)",
+    "summary": "インド生まれの亡命チベット人2世の詩人で活動家、テンジン・ツゥンドゥ氏（53）が初来日し、産経新聞のインタビューに応じた。「山や谷、湖、川には神々がいる」と述べ、中国政府がチベットの山や草原を開発し、",
+    "link": "https://news.yahoo.co.jp/articles/a2a5f031b54304717a2349b514c26f7bef90264e?source=rss",
+    "published": "2026-10-05T01:07:07+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "77ee21a7110911cb6ff9102f16dfb784d5724eec",
+    "source": "Yahoo!ニュース 経済",
+    "title": "手持ちスマートカメラ、世界出荷57％増　中国「DJI」がシェア7割超(36Kr Japan)",
+    "summary": "米調査会社IDCによると、2026年4～6月の世界のハンドヘルド（手持ち式）スマートカメラ出荷台数は、前年同期比57％増の約589万台となった。売上高は50％増の157億元（約3600億円）弱だった。",
+    "link": "https://news.yahoo.co.jp/articles/2653148f254512de51faa93e373e1240e9239dcd?source=rss",
+    "published": "2026-10-05T01:01:31+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5700dedd3b73012d5eaac2a379339d3606b0aa94",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国AI、7割安で猛追…米国勢、高級型値上げ・普及型値下げ(朝鮮日報日本語版)",
+    "summary": "中国の人工知能（AI）モデルの利用料金は、米国の競合モデルに比べ平均70％安いことが分かった。中国企業が低価格を前面に出して市場を拡大する中、米国企業は最上位モデルには高い価格を設定し、普及型モデルは",
+    "link": "https://news.yahoo.co.jp/articles/b4d7ea66de1a8ba878bdbf5a6fab299e76661c29?source=rss",
+    "published": "2026-10-05T00:55:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "44abcb76942564419cb812b95fc9076b5c64e928",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米、各州選管への情報提供停止　中国、ロシア介入で対策困難(共同通信)",
+    "summary": "【ワシントン共同】米紙ワシントン・ポスト電子版は4日、トランプ政権が11月3日の中間選挙を前に中国やロシアによる選挙介入を懸念しながらも、投開票の実務を担う各州の選挙管理委員会への情報提供を事実上停止",
+    "link": "https://news.yahoo.co.jp/articles/2511b8ea20d9f63c7b1caabd10e334f4eccf69e1?source=rss",
+    "published": "2026-10-05T00:21:18+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6340e7ba6f9450397e1bba8ebacf7b6dafdf278a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "突然「金正恩」の名前を口にしたトランプ大統領…「北朝鮮は核112発を保有」(中央日報日本語版)",
+    "summary": "北朝鮮が保有する核兵器の数を57発と特定していたトランプ米大統領が今回、北朝鮮が「核ミサイル112発」を保有していると述べた。特に中国の習近平国家主席について「巨大な核保有国の指導者らとは仲良くするべ",
+    "link": "https://news.yahoo.co.jp/articles/c72f378c27b3055c7e257df38830f4c164cc2647?source=rss",
+    "published": "2026-10-04T23:44:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "db52635a49e78b373b571a301ddc7a4ecf17b108",
     "source": "Yahoo!ニュース 国際",
     "title": "米中首脳会談で「空白の5時間」　中国、習近平氏の休憩時間要求、昼食会も拒否と米紙報道(産経新聞)",
@@ -11312,193 +11434,6 @@
     "summary": "",
     "link": "https://www.asahi.com/articles/ASV9N3V2XV9NUHBI00FM.html?ref=rss",
     "published": "2026-09-21T02:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "10846c25171af223e14f270d42c0f9758b6aba5c",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【アジア大会】U-23北朝鮮代表、退場者出して数的不利もUAEと0-0　2戦未勝利、決勝T進出かけて最終節のイラン戦へ(フットボールチャンネル)",
-    "summary": "第20回アジア競技大会（2026／愛知・名古屋）の男子サッカー・グループB第2節が20日に行われ、U-23北朝鮮代表はU-23UAE代表と0-0で引き分けた。初戦でU-23中国代表に1-2で敗れてい",
-    "link": "https://news.yahoo.co.jp/articles/cd148e9cdbe5874a36a480a53f02b39e8687158d?source=rss",
-    "published": "2026-09-21T01:33:23+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "5b686aa93c42082b11ec179bf5a80c99207bd6f5",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "良知真次ら出演、白居易と元稹の生涯を描く中国発ミュージカル「夢微之」日本公演開幕(ステージナタリー)",
-    "summary": "ミュージカル「夢微之」が9月19日に東京・東京芸術劇場 シアターイーストにて開幕した。\n\n中国発のミュージカル「夢微之」は、中唐時代の大唐を舞台に、実在した詩人官僚・白居易と元稹の固い絆と生涯を描いた",
-    "link": "https://news.yahoo.co.jp/articles/6355907cf09775d68f53c9e68857fc5ada97e4c2?source=rss",
-    "published": "2026-09-21T01:30:11+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "a34719ff8c631a705a1c269d5a57e120e980fa64",
-    "source": "Yahoo!ニュース 国際",
-    "title": "AIで通知制度の導入提案　米国が中国に、透明性向上へ(共同通信)",
-    "summary": "【ニューヨーク共同】ベセント米財務長官は20日、ニューヨークで実施した中国の何立峰副首相との会談後に取材に応じ、人工知能（AI）を巡り安全保障上の問題が生じた場合などに通知し合う制度の導入を、中国に",
-    "link": "https://news.yahoo.co.jp/articles/658bb9d08a427153aa3b9df4721b9edb531c6c7a?source=rss",
-    "published": "2026-09-21T01:23:43+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "40d4bdc7f3439899a6b04b55d16032fe9d1dee26",
-    "source": "Yahoo!ニュース 経済",
-    "title": "なぜ｢インド料理店｣は似ている店が多いのか…名前も看板もメニューも\"没個性な店\"が大量発生したカラクリ(プレジデントオンライン)",
-    "summary": "近年、日本にはインド料理店増え、インド料理が身近な存在になっている。しかし、日本のインド料理店の多くは、ネパール人が経営していることが多いという。一体どういうことなのか。インド料理調査会著、アジアハン",
-    "link": "https://news.yahoo.co.jp/articles/b88f35a33aeb5f6f283ca9a157b0e60231357ef5?source=rss",
-    "published": "2026-09-21T01:15:41+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "2f8dcc6bdfc0bb20f3f238c9628e84ce5b7230dc",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【卓球】２２歳の木原美悠が優勝　世界５位中国選手を破ったカットマン・佐藤瞳との日本人対決を制してダブルスと２冠…ＷＴＴスターコンテンダー・アスタナ(スポーツ報知)",
-    "summary": "◆卓球　▽ＷＴＴスターコンテンダー・アスタナ（２０日、カザフスタン）\n\n　女子シングルス決勝が行われ、世界ランク２５位の木原美悠（トップ名古屋）が同１３位のカットマン・佐藤瞳（日本ペイント）を４―３で",
-    "link": "https://news.yahoo.co.jp/articles/31da785ad515802821111b82422620a19f1bc239?source=rss",
-    "published": "2026-09-21T01:13:41+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "5abca879439fd62f6a1d6fe1c27024f9b14d000f",
-    "source": "Yahoo!ニュース 地域",
-    "title": "「免許はいらない。どんどん表現すればいい」　触れて楽しむ「木梨憲武展　TOUCH」　開催直前に会場で描いた作品も　広島(RCC中国放送)",
-    "summary": "タレントでアーティストの木梨憲武さんの個展が、三次市で始まっています。開催前の会場で、木梨さんを取材しました。\n\n木梨憲武さん64歳。翌日から始まる個展のレイアウトを最終確認するため真剣な表情でフロア",
-    "link": "https://news.yahoo.co.jp/articles/81a127b23a39545d0499278a4f56f0a2a69d858a?source=rss",
-    "published": "2026-09-21T01:00:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "982527982bda8ac7a2608ec2bc08b87c70c5fcce",
-    "source": "Yahoo!ニュース 国際",
-    "title": "硫黄で燻蒸処理したタケノコ、中国業者を摘発…韓国食品医薬品安全処「輸入実績なし」(中央日報日本語版)",
-    "summary": "中国広東省のある業者がタケノコを硫黄で燻蒸処理していたことが確認され、物議を醸している中、韓国食品医薬品安全処は中国産タケノコは農産物の形態では輸入されていないと明らかにした。\n\n中国現地メディアなど",
-    "link": "https://news.yahoo.co.jp/articles/6dc380ed1c6578ce70d163435b3f1d1fc62fcd3e?source=rss",
-    "published": "2026-09-21T00:50:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "aeaae9cdd3e680d8505c5a9b6f09c9a86a0932e4",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国が進める人型ロボットの軍事化計画　5〜10年後には実用化の恐れも(クーリエ・ジャポン)",
-    "summary": "8月に開催された世界ヒューマノイドロボット競技大会で高い性能を披露した中国の人型ロボット。実はこれらの技術が、戦場での活用を想定した研究へと急速にシフトしている。中国軍は都市戦から敵陣への潜入作戦まで",
-    "link": "https://news.yahoo.co.jp/articles/c2df2ae202465591b141eb5e219203abd860c206?source=rss",
-    "published": "2026-09-21T00:40:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "8c5e490e47e97917a33f63466e5b3b830264974f",
-    "source": "Yahoo!ニュース 経済",
-    "title": "米、AIを巡る通知制度の導入を提案(共同通信)",
-    "summary": "【ニューヨーク共同】ベセント米財務長官は、人工知能（AI）を巡って安全保障上の問題が生じた場合などに通知し合う制度の導入を中国に提案していると明らかにした。",
-    "link": "https://news.yahoo.co.jp/articles/f119cedd469c7c87c64d160e13a8b87905385cf7?source=rss",
-    "published": "2026-09-21T00:30:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4caf20e9052adaad652e6d1725437131bdb21a1e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "AIの誤った報告で戦争になるところだった…米軍、中国船舶爆撃直前に中止(中央日報日本語版)",
-    "summary": "米軍が中国船舶を対象にした軍事作戦を実行直前で中止していたことがわかった。人工知能（AI）が作った情報に基づいて作戦を準備していたが間違いを発見したためだ。\n\nCNNが18日に報道した内容によると、イ",
-    "link": "https://news.yahoo.co.jp/articles/fe8dff3a355b9a3654fedb281eff928c541c7b81?source=rss",
-    "published": "2026-09-21T00:29:59+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ae1df3ef4ca2e00ae68434df043f1f6bb523eee4",
-    "source": "Yahoo!ニュース 経済",
-    "title": "AI対話の構築を議論と米長官(共同通信)",
-    "summary": "【ニューヨーク共同】ベセント米財務長官は、中国との閣僚級協議で、人工知能（AI）を巡る対話の枠組みの構築について議論したと話した。再び会談することに合意したとしている。",
-    "link": "https://news.yahoo.co.jp/articles/14cc3a84bae537a940cfa20421170b780454bf06?source=rss",
-    "published": "2026-09-21T00:25:20+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "cca527e27dd1621ec2b93aa563f48c567212c75f",
-    "source": "朝日新聞",
-    "title": "新入社員107人に離職迫った中国大手　「新卒資格失う」怒る社会",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASV9G1TMPV9GUHBI017M.html?ref=rss",
-    "published": "2026-09-21T00:20:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "86a736c53efb3983542daf5327552aad8f22c764",
-    "source": "朝日新聞",
-    "title": "新入社員107人に離職迫った中国大手　「新卒資格失う」怒る社会",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASV9G1TMPV9GUHBI017M.html?ref=rss",
-    "published": "2026-09-21T00:20:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "099bae5b8ae0b21677992357f82e6c5bc22a2f5c",
-    "source": "Yahoo!ニュース 経済",
-    "title": "「貿易とAIで有意義な協議」と米財務長官(共同通信)",
-    "summary": "【ニューヨーク共同】ベセント米財務長官は20日、ニューヨークで実施した中国の何立峰副首相との会談に関し「貿易と人工知能（AI）について、とても有意義な協議をした」と話した。",
-    "link": "https://news.yahoo.co.jp/articles/5268993d3bf1e1a416515f346630e71c0d5eefb7?source=rss",
-    "published": "2026-09-21T00:16:27+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2c17709d45b7ef7f74378d8f6f8fd8adb19c4b1c",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国Violoop、PCにAIの「目と手」を外付け　API不要で既存ソフトを操作(36Kr Japan)",
-    "summary": "生成AIの役割が、「質問に答える」ことから「人に代わってPCを操作する」ことへと広がりつつある。AIエージェントは、ユーザーの目的を理解してタスクを分解し、さまざまなツールを使い分けながら、メール処理",
-    "link": "https://news.yahoo.co.jp/articles/c6ee4cba6ba73d01057c1247948c1710c8c53d41?source=rss",
-    "published": "2026-09-21T00:01:18+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4c3237e5409811f540441339e90df43272a57a6c",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【台風情報】大型で強い台風25号が接近中　このあと関東甲信･東海地方で「線状降水帯」発生おそれ　土砂災害などに厳重警戒　※気象庁21日朝発表　　(RCC中国放送)",
-    "summary": "東日本から東北地方の太平洋側では、22日にかけて土砂災害に厳重に警戒し、きょう21日は低い土地の浸水・河川の増水や氾濫に厳重に警戒してください。伊豆諸島では21日は、うねりを伴う高波に厳重に警戒してく",
-    "link": "https://news.yahoo.co.jp/articles/013ddce1ee7a9758817af1c72ef7d06963a0d3c3?source=rss",
-    "published": "2026-09-20T23:30:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ef39893fa13e0fe3b3ddff764f1cc9594e3fb818",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "「常識外れなスコア」予選2戦で202得点の衝撃連勝！　女子バスケ日本代表に中国メディアも愕然「今の日本は信じられないほど強い」【アジア大会】(CoCoKARAnext)",
-    "summary": "28年ぶりの金メダル獲得へ。女子バスケットボール日本代表の快進撃が続いている。\n\n　9月20日、愛知国際アリーナで行われたアジア大会愛知・名古屋のバスケットボール女子グループリーグ第2戦で、カザフス",
-    "link": "https://news.yahoo.co.jp/articles/02ce55987c133f74b45e0c107889f152c94e596e?source=rss",
-    "published": "2026-09-20T23:02:48+00:00",
     "matched_keywords": [
       "中国"
     ]
