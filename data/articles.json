@@ -1,5 +1,71 @@
 [
   {
+    "id": "a02c03a851e2bbcecccf6a7f7800a7527661801f",
+    "source": "Yahoo!ニュース 経済",
+    "title": "「スター技術者」の米国 vs「チーム戦」の中国——米研究者が明かした中国AI強さの真相(36Kr Japan)",
+    "summary": "AI開発をめぐる米中の姿勢の違いは、これまで業界内で繰り返し論じられてきたテーマだ。よく語られるのは、「イノベーションの米国、産業化の中国」という構図だ。ただ、こうした議論の多くは、AIモデルの性能や",
+    "link": "https://news.yahoo.co.jp/articles/6e9330f7f721b21e7b63faa08b8cc56fbb4c0656?source=rss",
+    "published": "2026-10-10T23:30:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b9712e783ee5bae3556c7fd2c28179e8c1e8b8bf",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【事故】広島市中心部で路面電車とバスが衝突　女性1人軽傷(中国新聞デジタル)",
+    "summary": "10日午後4時35分ごろ、広島市中区の八丁堀交差点で、広島電鉄の路面電車と広島バスの路線バスが衝突した。広島中央署などによると、バスに乗っていた女性1人が軽いけがをした。 路面電車は直進中で、前を走っ",
+    "link": "https://news.yahoo.co.jp/articles/36f9a479fe66799ddc35bce086b801e45372489f?source=rss",
+    "published": "2026-10-10T23:03:41+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fa8e6d58364f65eb0350c09d86a9ba7cb41e5764",
+    "source": "Yahoo!ニュース 国内",
+    "title": "トップの感情が引き金になることはある…中国が｢わずか1カ月で膨大な戦死者を出し撤退｣した1970年代の戦争(プレジデントオンライン)",
+    "summary": "戦争はどのようにして始まるのか。地政学者・戦略学者の奥山真司さんは「私の師であるコリン・グレイ氏は、戦争の原因として古代ギリシアの歴史家・トゥキディデスを引用しながら、恐怖、名誉、利益の3つを挙げてい",
+    "link": "https://news.yahoo.co.jp/articles/74070c76beeea597170887c4c79df9768b38e453?source=rss",
+    "published": "2026-10-10T22:15:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "30fe34ed602c33a12248bdc45d52afe351544ee9",
+    "source": "Yahoo!ニュース IT",
+    "title": "POCO F9 Ultraのベースモデル「REDMI K100 Pro Max」はバッテリー容量とカラバリに違いがある(ITmedia Mobile)",
+    "summary": "XiaomiのPOCOシリーズはコストパフォーマンスの高さから、日本でも人気を集めています。しかし、中国ではREDMIシリーズの中の「K」モデルとして販売されています。POCOの最新モデル「POCO",
+    "link": "https://news.yahoo.co.jp/articles/14a20db7691bd88c7781dd9529e5e3140282dd33?source=rss",
+    "published": "2026-10-10T21:05:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "e02fb9cb2e7245de1aea6549d27265eb0a8c42ff",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia Mobile] POCO F9 Ultraのベースモデル「REDMI K100 Pro Max」はバッテリー容量とカラバリに違いがある",
+    "summary": "POCOの最新モデル「POCO F9 Ultra」は、185HzディスプレイやBoseスピーカーを搭載していますが、中国では「REDMI K100 Pro Max」として扱われています。",
+    "link": "https://www.itmedia.co.jp/mobile/articles/2610/11/news001.html",
+    "published": "2026-10-10T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "87f339910630901826c582876d7c898726b728d1",
+    "source": "東洋経済オンライン",
+    "title": "中国の大卒新社会人｢残酷物語｣…入社1カ月で理由なき一斉解雇の絶望､SNS炎上で企業側もイメージ低下の代償 | ビジネス | 東洋経済オンライン",
+    "summary": "大学を卒業して就職したばかりの新入社員を､わずか1カ月余りで一斉解雇――。自動車用ランプ大手の星宇車灯で明るみに出た\"事件\"は､安定雇用を軽視する中国企業の実態を改めて浮き彫りにしました。弱い立場に…",
+    "link": "https://toyokeizai.net/articles/-/960438?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-10-10T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "dd1e93d552513a9fd6cb6843707c623b29eee6d4",
     "source": "Yahoo!ニュース スポーツ",
     "title": "日本女子初の快挙に王手！ 世界7位の中国撃破した“ほぼ無名”28歳に卓球王国震撼「日本人選手との難易度は格段に上がった」(THE DIGEST)",
@@ -8499,138 +8565,6 @@
     "summary": "3Dスキャン・モデリング技術を手がける中国発スタートアップ「KIRI Innovations（麒砺創新）」はこのほど、シリーズAで資金を調達し、調達額が累計で数億元（数十億円）に達した。出資には、ファ",
     "link": "https://news.yahoo.co.jp/articles/7b13375ed0fbff3047b856ca2a5779990db2f8e2?source=rss",
     "published": "2026-09-27T00:01:39+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f7d12acb6511b93315e061ed5f2d4b7f65f19617",
-    "source": "Yahoo!ニュース 国際",
-    "title": "トランプ氏、台湾問題「あまり話さなかった」　中国側は米の立場「理解している」と主張(産経新聞)",
-    "summary": "【ワシントン＝塩原永久】トランプ米大統領は26日、23～25日に訪米した中国の習近平国家主席と台湾問題について「あまり深く話さなかった」と述べた。「（習氏は）私がどのように感じているか理解している」と",
-    "link": "https://news.yahoo.co.jp/articles/da45c06edefd46fa5bed29e2cb708c920beab806?source=rss",
-    "published": "2026-09-26T23:22:12+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "02e23e4fb8d43212d7d81b4e7afb3fd1439f0404",
-    "source": "Yahoo!ニュース 国内",
-    "title": "台湾有事が起こるとしたら中国側から…防衛研究所上席研究官が読み解く｢中国が侵攻を開始する3つの原因｣(プレジデントオンライン)",
-    "summary": "台湾海峡有事が起こるとしたら、それはどのように始まるのか。防衛研究所上席研究官の高橋杉雄さんは「台湾の側から中国大陸に進攻する可能性は現実的には存在しない一方で、中国は台湾統一のための武力行使を公式に",
-    "link": "https://news.yahoo.co.jp/articles/ed2274607207381a138360ccc71244e9bc0f44c7?source=rss",
-    "published": "2026-09-26T23:15:44+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d09f1b2815f1b6e50c3e5c48084a420bf8089b5d",
-    "source": "Yahoo!ニュース 地域",
-    "title": "日中国際アニメAI映画祭、来年5月に開催へ　名を改め、埼玉・所沢で　世界のクリエイターやファンが交流、新たな表現に触れる場を目指して実施　「AIを取り入れ、より新たなアニメの世界観を表現」(埼玉新聞)",
-    "summary": "今年5月に初開催された日中国際アニメ映画祭（角川文化振興財団主催）が、「第2回日中国際アニメAI映画祭」と名称を改め、2027年5月28～30日の3日間、埼玉県所沢市東所沢和田の「角川武蔵野ミュージ",
-    "link": "https://news.yahoo.co.jp/articles/bf22118d885a7866ab2f24f41b2335a7689e11dc?source=rss",
-    "published": "2026-09-26T23:14:51+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "855c418345ffad20ad04a2c8aabc0b49b51fce47",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "VIVANT・拉致別班員たちの「最悪なお粥」実際に作った動画に反響　「これは死ぬ」「カロリーが」「筋肉しぼむ」「味もヤバそう」(マグミクス)",
-    "summary": "TBS系日曜劇場『VIVANT』第2シーズンでは、中国の諜報組織・シンシーに拉致された5人の別班員たちの悲惨な状況に視聴者から同情の声が相次いでいます。凄惨な拷問はもちろん、彼らがぐちゃぐちゃの大麦",
-    "link": "https://news.yahoo.co.jp/articles/2dbe4e987b304592e1a6e27b958c19aa5a354535?source=rss",
-    "published": "2026-09-26T22:40:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "051c5cd7ced66ddc639e50e4cbb08f047eb8c9a6",
-    "source": "Yahoo!ニュース 経済",
-    "title": "アンソロピック、オープンAIが提唱する「AI開発減速論」は一枚岩ではない　半導体関連の需給が逼迫する中“AI開発の引き潮”は深刻な影響を及ぼす(マネーポストWEB)",
-    "summary": "AIの急速な普及から一転、いま “AIが人類を脅かす未来”を警戒して「AI開発減速論」も提唱されるようになった。だが、その見解についても世界で一枚岩となっているわけではない。中国株アナリスト・田代尚",
-    "link": "https://news.yahoo.co.jp/articles/d5c5a19d1f2bf23f91a414511760f7251ccc5307?source=rss",
-    "published": "2026-09-26T22:15:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c951aad9942ebeeb8e5afd5ce29e0cfadfa8fadc",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国「国連守り強化を」　一般討論、対日批判触れず(共同通信)",
-    "summary": "【ニューヨーク共同】中国の韓正国家副主席は26日、国連総会一般討論で演説し、多国間主義を堅持するため「各国は協力して国連を守り、より強い組織にすべきだ」と述べた。トランプ米政権が国連を軽視し複数の機",
-    "link": "https://news.yahoo.co.jp/articles/72b85c857e90dba90102a1d77b8a745b80435ba0?source=rss",
-    "published": "2026-09-26T22:12:12+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "01785ebd6ecf67a1a1ee85d10bcf0faf189dadad",
-    "source": "Yahoo!ニュース 経済",
-    "title": "日本市場はただの「箔付け」。爆売れ中のBYD軽EV「ラッコ」に隠された「世界獲り」という本当の狙い(WEB CARTOP)",
-    "summary": "中国BYDの日本法人BYD Auto Japanは2026年8月10日に、2026年7月28日に正式発売した軽自動車規格BEVラッコが、発売2週間での累計受注台数が1000台を突破したことを発表した",
-    "link": "https://news.yahoo.co.jp/articles/90b1aa1fb499410ca670f827d8a9be02f18b729e?source=rss",
-    "published": "2026-09-26T22:10:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ae6cda4202e0678d62391d5d8ce085be43e64f13",
-    "source": "Yahoo!ニュース 国内",
-    "title": "旧ソ連支援の越国立サーカス、創設70周年　娯楽多様化の中、独自の演出も(共同通信)",
-    "summary": "ベトナムの首都ハノイを拠点とする国立サーカス団「中央サーカス」が今年で創設70周年を迎えた。サーカス大国、旧ソ連の支援でつくられたが、現在はベトナム色を織り込んだ独自の演出に取り組む。娯楽が多様化す",
-    "link": "https://news.yahoo.co.jp/articles/cba88be4401a5dee2dc18afd83f170da909676e6?source=rss",
-    "published": "2026-09-26T22:00:02+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "816829f15683e89276156eb0d8cf1061cd2996be",
-    "source": "東洋経済オンライン",
-    "title": "トリップ･ドットコムの最新決算が映す中国｢プラットフォーム規制｣の着地点 罰金を機に価格の裁量をホテルに返す？ | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "中国の規制当局から多額の罰金を科されたトリップ･ドットコム･グループは､この逆風を成長のチャンスと捉え事業戦略を大きく転換しました。価格の裁量をホテルに返し､エンタメ起点の新たな旅行需要や富裕層市場…",
-    "link": "https://toyokeizai.net/articles/-/958501?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-09-26T22:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f216d4d7556461775c9aabea46c6b9fd0a67aadd",
-    "source": "東洋経済オンライン",
-    "title": "中国ファーウェイ\"スマートカー連合\"に吹き始めた隙間風…主力ブランド｢問界｣の主導権が提携先のセレスに | ビジネス | 東洋経済オンライン",
-    "summary": "中国の華為技術（ファーウェイ）が主導するスマートカー連合｢鴻蒙智行（HIMA）｣。その最量販ブランド｢問界（AITO）｣の主導権が､ファーウェイから提携先のセレスに移りました。提携見直しの裏を探ると…",
-    "link": "https://toyokeizai.net/articles/-/958901?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-09-26T21:20:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4b509bfb4bf30ccff5e45c64f8c091ac7791a8cf",
-    "source": "Yahoo!ニュース IT",
-    "title": "Xiaomiの新しいEV「SkyNomad」を見てきた(ITmedia Mobile)",
-    "summary": "スマートフォンを次々と送り出しているXiaomiですが、中国では電気自動車（EV）の新しい製品も出しています。2026年7月には新ラインアップとして「SkyNomad（小米澎程）」が登場しました。現",
-    "link": "https://news.yahoo.co.jp/articles/c93a6a5217f85399629d555e7cbb0deada882904?source=rss",
-    "published": "2026-09-26T21:05:08+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3e359b3eea26c81185dd0840102c58840540e3fb",
-    "source": "Yahoo!ニュース 国際",
-    "title": "日米関係は「強固で重要」　ウォルツ国連大使(共同通信)",
-    "summary": "【ワシントン共同】ウォルツ米国連大使は26日のFOXニュースの番組で、中国の習近平国家主席の訪米が終了した直後に、トランプ大統領は高市早苗首相と電話で会談したとし「現在、日米関係は非常に強固で極めて",
-    "link": "https://news.yahoo.co.jp/articles/760416d1caba8eca108eb25afdffb3196a1aac49?source=rss",
-    "published": "2026-09-26T20:51:31+00:00",
     "matched_keywords": [
       "中国"
     ]
