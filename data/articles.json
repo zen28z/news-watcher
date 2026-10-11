@@ -1,5 +1,170 @@
 [
   {
+    "id": "42958b9f12169c5999c28138669b5f62ed1c317f",
+    "source": "Yahoo!ニュース 経済",
+    "title": "さすが王者N-BOX!!　でも操縦性はラッコが優勢!?　比べてわかったラッコの完成度(ベストカーWeb)",
+    "summary": "日本独自の規格である軽自動車。今までは当然のように外国メーカーからの参入はほとんどなかったのだが、時代はEV。「だったらウチの得意分野です」とばかりに、中国の大手BYDが軽EVに参入。軽キング・ホンダ",
+    "link": "https://news.yahoo.co.jp/articles/43776a0151534b0d5b607d06ad9b4437f9e0d7f7?source=rss",
+    "published": "2026-10-11T15:10:43+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c9d918e6b82936562725fe47f3c06d798f0991e3",
+    "source": "Yahoo!ニュース IT",
+    "title": "開発費年4.6兆円のHuawei開発拠点「松山湖キャンパス」はテーマパークを超えていた＝最新Watch＆スマホにタッチ!!(アスキー)",
+    "summary": "ファーウェイが中国・深圳地域へのプレスツアーを開催し、ヘルステックラボや開発拠点を公開した。グローバル発表された新製品や、スマホ製品、深圳のフラッグシップストアや自動運転のクルマなど、ファーウェイ・ワ",
+    "link": "https://news.yahoo.co.jp/articles/f73693b469c02b8db8f7a9823d125a48f359646e?source=rss",
+    "published": "2026-10-11T15:01:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cc819d324d33cbb7431b8163d4dc56ca88bebd08",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "ネパールで再び土石流 5人不明",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6598442?source=rss",
+    "published": "2026-10-11T14:36:25+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "e21d7c8e31f4138fded1a9aa35ea7fa1922670f8",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【モトGP・第17戦インドネシアGP】小椋藍は表彰台まであと一歩の4位　「今回はパフォーマンスが高くなかった」　ホルヘ・マルティンが3位に入りランク首位を再奪取　(中日スポーツ)",
+    "summary": "ロードレース世界選手権第17戦インドネシアGPは11日、マンダリカサーキットでモトGPクラスの決勝を行い、トラックハウスレーシングの小椋藍は4位でゴールした。7番グリッドからスタートで出遅れ、9番手ま",
+    "link": "https://news.yahoo.co.jp/articles/21288b22e8add4d90cfa218904ee654386f81513?source=rss",
+    "published": "2026-10-11T14:13:34+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "4b7a8e548ab9abc642b0fa737940ad24449dccde",
+    "source": "毎日新聞",
+    "title": "ネパールで再び土石流　少なくとも5人不明　家屋30軒流されたか",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261011/k00/00m/030/175000c",
+    "published": "2026-10-11T13:28:20+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "0230f3e6c6135fb981ce7ab5333aa7244e807cbb",
+    "source": "Yahoo!ニュース 国際",
+    "title": "パキスタン北西部州に軍隊配備命令(共同通信)",
+    "summary": "【イスラマバード共同】パキスタン政府は11日、非常事態宣言を出した北西部カイバル・パクトゥンクワ州に、軍隊を配備する命令を出した。",
+    "link": "https://news.yahoo.co.jp/articles/40acb07f5694e48457d6f88ea2a9905eda418355?source=rss",
+    "published": "2026-10-11T13:25:10+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
+    "id": "d00406d8a989917cc70014b2288af1c128419d0d",
+    "source": "NHKニュース",
+    "title": "ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める",
+    "summary": "ことし8月、大規模な土石流が発生したネパールで11日再び土石流が発生し、5人の行方が分からなくなっていて軍による救助活動が行われています。\n\nネパール軍によりますと11日中部ゴルカ郡で土砂崩れが発生し…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261011de58027",
+    "published": "2026-10-11T13:17:19+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "92dfe5042b7bff7c52f164a7797bda5b817121ae",
+    "source": "朝日新聞",
+    "title": "木曽川で水難事故、ベトナム国籍の男性死亡　愛知・扶桑町",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASVBC4413VBCOIPE00CM.html?ref=rss",
+    "published": "2026-10-11T13:15:00+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "360c45840dbc53e6fddf2eff3ecf60d03998f0c6",
+    "source": "朝日新聞",
+    "title": "木曽川で水難事故、ベトナム国籍の男性死亡　愛知・扶桑町",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBC4413VBCOIPE00CM.html?ref=rss",
+    "published": "2026-10-11T13:15:00+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "04e52f734387b99acd94e989f499aa76552cef29",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール土石流で5人不明　相次ぐ災害、避難呼びかけ(共同通信)",
+    "summary": "【カトマンズ共同】ネパール中部ゴルカ郡で11日、土石流が発生し、災害対策当局によると、5人が行方不明となった。軍などが捜索を続けている。【写真】ネパール土石流、捜索中断 邦人含む6千人不明 5日",
+    "link": "https://news.yahoo.co.jp/articles/ae67653dc7a35ba8297422ee692be6214dc49eb4?source=rss",
+    "published": "2026-10-11T12:43:49+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "9852e0ef5fe1282d57327c7163f8d98a1b19575e",
+    "source": "Yahoo!ニュース 国内",
+    "title": "深い所で水深約8m…木曽川で遊んでいたベトナム国籍とみられる25歳男性が流され死亡 友人と3人で訪れ行方不明に(東海テレビ)",
+    "summary": "愛知県扶桑町で11日午後、川で遊んでいた25歳の男性が流され死亡しました。 警察や消防によりますと、11日午後0時40分ごろ、愛知県扶桑町の木曽川で「川に入っていた男性が見えなくなった」と119番通報",
+    "link": "https://news.yahoo.co.jp/articles/be5d234c10c61dfaf446f0c0f3954af4437c6ce0?source=rss",
+    "published": "2026-10-11T12:08:00+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "a540e3567df02c748765153e7025af1e4d32bbe7",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパールで新たに土石流、5人不明(共同通信)",
+    "summary": "【カトマンズ共同】ネパール中部ゴルカ郡で11日、土石流が発生し、災害対策当局によると、5人が行方不明となった。同国では8月にも大規模な土石流があり、当局は被災地域の住民に避難を呼びかけた。",
+    "link": "https://news.yahoo.co.jp/articles/b708d68c8438ffd4f8df1da5172463d246212789?source=rss",
+    "published": "2026-10-11T12:06:42+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "1a67a762bb029305ab7b4b9f3eb3cb378b5f2b45",
+    "source": "Yahoo!ニュース 国際",
+    "title": "パキスタンが非常事態宣言　北西部の州、治安対策巡り(共同通信)",
+    "summary": "【イスラマバード共同】パキスタンのザルダリ大統領は11日、北西部カイバル・パクトゥンクワ州に非常事態を宣言した。武装勢力によるテロが相次ぎ治安が悪化する中、州政府が十分な対策に取り組んでいないと主張。",
+    "link": "https://news.yahoo.co.jp/articles/434d02559fcf4afbeb1de349ebe6ad159c8101f9?source=rss",
+    "published": "2026-10-11T11:36:15+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
+    "id": "daac629351e7a7516304b07ad84d855e60366647",
+    "source": "NHKニュース",
+    "title": "ベトナムのドクさん 鹿児島で水俣病の被害者らと意見交換",
+    "summary": "ベトナム戦争で使われた枯れ葉剤の影響とみられる障害で双子の兄と下半身がつながって生まれた「ベトちゃんドクちゃん」のグエン・ドクさんが鹿児島県を訪れ、水俣病の被害者などと意見交換しました。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261011de58003",
+    "published": "2026-10-11T11:19:06+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "26493dcab4aef0241bde45d07dc804dd8d9ce571",
+    "source": "Yahoo!ニュース 国際",
+    "title": "パキスタン北西部州に非常事態宣言(共同通信)",
+    "summary": "【イスラマバード共同】パキスタンのザルダリ大統領は11日、北西部のカイバル・パクトゥンクワ州に非常事態を宣言し、州政府の権限を停止した。テロが相次ぐ中で州政府が十分な対策に取り組んでいないと主張した。",
+    "link": "https://news.yahoo.co.jp/articles/1688ff74c4a44fb9914e3388542de368dc120020?source=rss",
+    "published": "2026-10-11T10:49:34+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
     "id": "7b8a819af5a935a4a03511ff9b62bb53c1f0c10b",
     "source": "Yahoo!ニュース スポーツ",
     "title": "「ちょっと寂しくなった」デュラントが元相棒ウエストブルックの引退に本音「あと５、６年はできると思っていた」＜DUNKSHOOT＞(THE DIGEST)",
@@ -8105,160 +8270,6 @@
     "published": "2026-09-27T17:02:34+00:00",
     "matched_keywords": [
       "ネパール"
-    ]
-  },
-  {
-    "id": "daec927b8d468408edd3ec05e8a858393d7cf7de",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【卓球】王曼昱＆孫穎莎「世界のトップレベル」と早田ひな＆張本美和を大絶賛　最後は笑顔で自撮り(東スポWEB)",
-    "summary": "絶対王者の中国選手2人が、日本の早田ひな（日本生命）と張本美和（木下グループ）を大絶賛した。\n\n　愛知・名古屋アジア大会の卓球女子シングルス決勝（27日、スカイホール豊田）が行われ、世界ランキング6",
-    "link": "https://news.yahoo.co.jp/articles/9891c97d299dc294248212b9ee0fc733e5c2fffe?source=rss",
-    "published": "2026-09-27T15:40:21+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "59ef1aaabd458d7e9825f0338da20f6fe547f73f",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【陸上】北口榛花、銀に涙も「世界と戦いたいという意思表示はできた」「切り替えて頑張りたい」(日刊スポーツ)",
-    "summary": "＜愛知・名古屋アジア大会:陸上＞◇27日◇女子やり投げ決勝◇パロマ瑞穂スタジアム\n\n　女子やり投げの北口榛花（26＝JAL）は銀メダルだった。1回目に18歳の厳子怡（中国）に大会新記録の70メートル4",
-    "link": "https://news.yahoo.co.jp/articles/9415f5679d722f6e18752777cfb254953ab33bad?source=rss",
-    "published": "2026-09-27T15:22:56+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "79989354fd4bf86ce01311ca3066ca8141470e06",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【アジア大会】リレー侍決勝へ　桐生「笑顔で金メダルを見せたい」試運転オーバーハンドパスで予選1着通過(スポニチアネックス)",
-    "summary": "◇愛知・名古屋アジア大会第9日　陸上（2026年9月27日　パロマ瑞穂スタジアム）\n\n　男子400メートルリレー予選が行われ、日本（小室歩久斗、桐生祥秀）は38秒71の2組1着に入り、中国に次ぐ全体",
-    "link": "https://news.yahoo.co.jp/articles/7d841a9cccf51db60d13505733ef35bf6f16e33e?source=rss",
-    "published": "2026-09-27T15:19:56+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7f5c2af395e05d423ad587d9010857281c15cbf2",
-    "source": "Yahoo!ニュース 地域",
-    "title": "音更町で乗用車と大型バイクが正面衝突　大型バイクを運転していた男性が死亡　(HTB北海道ニュース)",
-    "summary": "２７日午後音更町で乗用車と大型バイクが正面衝突し大型バイクを運転していた男性が死亡しました。\n\n警察は乗用車を運転していたベトナム国籍の男を逮捕しています。\n\n大破したバイクと前方に大きく衝突した痕跡",
-    "link": "https://news.yahoo.co.jp/articles/f7d3a4df412090600e24fd68d639c4d3e2a9890a?source=rss",
-    "published": "2026-09-27T14:25:12+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "dffa9ea98080735d3d443069b652c8fc9cfd496c",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国本土からマカオへの食品密輸入事案摘発…運び屋による越境フードデリバリーか(マカオ新聞)",
-    "summary": "澳門海關（マカオ税関）は9月25日、水際措置の強化により、マカオと中国本土の間の通関利便性を悪用した違法な越境「運び屋」による密輸行為に対して厳格に臨む中、同月24日に横琴イミグレーションの税関検査",
-    "link": "https://news.yahoo.co.jp/articles/c73d318f91bf1bd1e4d40af30266e1e2752d26b4?source=rss",
-    "published": "2026-09-27T13:40:12+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "15c829b5d23cb5623987e2bf7a84d39e5d87eec3",
-    "source": "Yahoo!ニュース 地域",
-    "title": "乗用車と大型のオートバイが正面衝突し60代男性ライダー死亡　乗用車を運転のベトナム国籍の31歳男を過失運転致死容疑で逮捕　北海道音更町の片側1車線の直線道路(HBCニュース北海道)",
-    "summary": "9月27日午後、北海道音更町で乗用車と大型のオートバイが衝突し、62歳の男性ライダーが運ばれた病院で死亡しました。\n\n事故があったのは、音更町東音更幹線の町道です。\n\n27日午後2時ごろ、乗用車と排気",
-    "link": "https://news.yahoo.co.jp/articles/61b1e168a95eb041f1512030964b36ca1fbd033d?source=rss",
-    "published": "2026-09-27T13:17:14+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "d24b1cec3996afd66bee1b7c11b0af769a15c356",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【陸上】銀メダルの村竹ラシッド　試行錯誤の今季を回想「自分の弱さに向き合った１年」(東スポWEB)",
-    "summary": "リベンジならず…。愛知・名古屋アジア大会男子110メートル障害決勝（27日、パロマ瑞穂スタジアム）で、日本記録保持者の村竹ラシッド（JAL）は13秒29で銀メダル。陳円将（中国）に0秒14差で屈した",
-    "link": "https://news.yahoo.co.jp/articles/f4843880dac1bb02e7935bf996657fd1b8bb27a8?source=rss",
-    "published": "2026-09-27T12:45:31+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c5e965469dd9e04ea3342815618f1859769e2100",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【バドミントン】「いい集中でいいプレーができていて、それが楽しい」（中西貴映）「次もしっかり気持ちをつくって、自分が前で勝負にいきたい」（岩永鈴）＜愛知・名古屋アジア大会個人戦2日目・選手コメント7＞(バド×スピ！／バドミントン・マガジン)",
-    "summary": "4年に一度、アジアの頂点を決めるアジア競技大会7日目の26日、女子ダブルス2回戦で賈一凡／張殊賢（中国）に2-1で勝利した中西貴映＆岩永鈴のコメントを紹介する。\n\n――試合を振り返って\n\n中西　1ゲー",
-    "link": "https://news.yahoo.co.jp/articles/234ef4d05ae06415a4ee424f6cfd076496a4492d?source=rss",
-    "published": "2026-09-27T12:40:08+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "417de0794a6cd2f9d9d956dae31b90414d8152fe",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国のパンダ2頭、米到着　習主席「友情の使者」(共同通信)",
-    "summary": "【ワシントン、北京共同】中国が貸与するジャイアントパンダ2頭が27日、中国四川省から米南部ジョージア州アトランタに到着した。CNNテレビが報じた。中国の習近平国家主席は24日、トランプ米大統領との首",
-    "link": "https://news.yahoo.co.jp/articles/cdfae38249d0f5487d94d7337b05b536b87110ee?source=rss",
-    "published": "2026-09-27T12:34:34+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "590019464f4d887a93fa9880373fe9370ebf858d",
-    "source": "Yahoo!ニュース 地域",
-    "title": "ネパールでの土石流受け鹿児島市の建設会社「渡辺組」が救援金贈呈　ネパール出身の社員も　被災者支援にーー(ＫＹＴ鹿児島読売テレビ)",
-    "summary": "8月、ネパールで発生した大規模な土石流で被災した人たちを支援しようと、鹿児島市の総合建設会社が救援金136万8000円を日本赤十字社に寄付しました。\n\n　救援金を寄付したのは鹿児島市の「渡辺組」です",
-    "link": "https://news.yahoo.co.jp/articles/2058fa385fc4bec568bc4304eae3c94bd3bf4281?source=rss",
-    "published": "2026-09-27T12:00:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "ddabd60464bcee75b6dd5d4e86a8d187fa732a2e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "《鍋にカビの生えた骨、ネズミが走り、風呂場に穴…》被害者が告発、虐待発覚した北海道の農業法人“あまりに劣悪な職場環境”「“罰金”引かれ給料7万円」「日本は憧れの国だった」(NEWSポストセブン)",
-    "summary": "北海道・京極町の農業法人で「特定技能」の在留資格で働いていたミャンマー人への虐待が疑われている問題。「日本人のご主人様は誰だ」などと言った暴言の録音音声や胸ぐらを掴み引きずると言った暴力行為の動画が",
-    "link": "https://news.yahoo.co.jp/articles/d70051035c206598d2126f2d0602823fca6e4ab1?source=rss",
-    "published": "2026-09-27T11:59:00+00:00",
-    "matched_keywords": [
-      "特定技能"
-    ]
-  },
-  {
-    "id": "cbadf332d7eaa4274c5939a3748dfc79e7c23f47",
-    "source": "Yahoo!ニュース 国際",
-    "title": "パンダ2頭が米到着(共同通信)",
-    "summary": "【ワシントン共同】米CNNテレビによると、中国が貸与するジャイアントパンダ2頭が27日、米南部ジョージア州アトランタに到着した。",
-    "link": "https://news.yahoo.co.jp/articles/acbd387f922f92e0d8eaee9c3c3b99ad30ad7dab?source=rss",
-    "published": "2026-09-27T11:12:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3e4b8a27a77c0714df2e610b31e57ce2847bda0d",
-    "source": "Yahoo!ニュース 国内",
-    "title": "石垣島沖EEZで中国海洋調査か　海保が中止要求(共同通信)",
-    "summary": "第11管区海上保安本部（那覇）は27日午後0時10分ごろ、沖縄県・石垣島の北約72キロの排他的経済水域（EEZ）で、中国の海洋調査船「科学」がワイヤのような物を海中へ延ばしているのを確認した。日本側",
-    "link": "https://news.yahoo.co.jp/articles/92c4a7084edafd70b922e02cd92a65bd32cabc41?source=rss",
-    "published": "2026-09-27T10:31:11+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "a2f04df02e3076d9587c2f92bb3f8523027eca7d",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国 「意外な場所」に婚姻登記所(ABEMA TIMES)",
-    "summary": "中国では、結婚する人が減っています。中国の地方当局は、婚姻数を回復させ、少子化の流れを食い止めようと従来の役所だけではなく、観光地などでも婚姻届の受理を始めています。\n\n　中国・大連にある遊園地には",
-    "link": "https://news.yahoo.co.jp/articles/1da1f1a038b45bc536560dc4ae5f1a86560a63d3?source=rss",
-    "published": "2026-09-27T10:27:16+00:00",
-    "matched_keywords": [
-      "中国"
     ]
   }
 ]
