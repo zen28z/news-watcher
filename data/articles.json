@@ -1,5 +1,38 @@
 [
   {
+    "id": "91f837e3508aed5d3bfa9b27cd7cedb0ca8b7f03",
+    "source": "NHKニュース",
+    "title": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+    "summary": "パキスタンで学校の校舎の屋根が崩落し子どもと教師、あわせて33人が死亡し、警察は校舎の建築構造に問題があった可能性があるとみて調べています。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261015de60119",
+    "published": "2026-10-15T15:13:00+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
+    "id": "0f68f80517ce92b7070af16d98cfa5ef4d97688f",
+    "source": "Yahoo!ニュース 国内",
+    "title": "ベトナム人窃盗グループのメンバーか 男2人逮捕 岐阜・美濃加茂市(CBCテレビ)",
+    "summary": "岐阜県美濃加茂市の住宅から指輪を盗んだとして、ベトナム国籍の男ら2人が逮捕されました。逮捕されたのは、住居不定のレー・ヴァン・タイ容疑者らベトナム国籍の20代の男2人です。警察によりますと、2人はこと",
+    "link": "https://news.yahoo.co.jp/articles/844894c3acc38269305bc0f315c80671f3212945?source=rss",
+    "published": "2026-10-15T15:10:25+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "db02f180ee910f9ed53896cfd6f00ad2ed452f0b",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国の狙いはレアメタル？完成から12年…中朝国境“開かずの橋”が開通(テレビ朝日系（ANN）)",
+    "summary": "中国と北朝鮮を結ぶ“新たな橋”が15日に開通しました。ですが、この橋は2014年に完成していたもの。なぜ12年の時を経て開通することになったのでしょうか。【画像】中国の狙いはレアメタル?完成から12年",
+    "link": "https://news.yahoo.co.jp/articles/f1439c42b9cd988e78518b0f3b37aee9ebbee06b?source=rss",
+    "published": "2026-10-15T15:03:16+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "ce693196ff98f94b7aa2bb05c551ec56d673b521",
     "source": "Yahoo!ニュース スポーツ",
     "title": "【自転車トラック競技】中野慎詞が男子ケイリンで銅メダル！！　ラブレイセンが金～世界選手権(スポーツ報知)",
@@ -47,7 +80,7 @@
     "id": "96e8fb8869cfa060397ee4fc9187ed3d091cb848",
     "source": "Yahoo!ニュース 国際",
     "title": "生徒30人以上死亡　学校で屋根崩落　パキスタン　教師も1人死亡　学校所有者を逮捕(テレビ朝日系（ANN）)",
-    "summary": "パキスタンで学校の屋根が崩落して生徒30人以上が死亡しました。 現地メディアによりますと、15日、パキスタン北部のペシャワルにある学校で屋根が崩落しました。 当時、建物には100人以上の生徒がいたとみ",
+    "summary": "パキスタンで学校の屋根が崩落して生徒30人以上が死亡しました。 現地メディアによりますと15日、パキスタン北部のペシャワルにある学校で屋根が崩落しました。 当時、建物には100人以上の生徒がいたとみら",
     "link": "https://news.yahoo.co.jp/articles/4a3f0fc8c1b8cfb4e77efa7d5929e1ac20ccca0e?source=rss",
     "published": "2026-10-15T12:49:31+00:00",
     "matched_keywords": [
@@ -7469,28 +7502,6 @@
     "summary": "",
     "link": "https://www.asahi.com/articles/ASVB151XVVB1BQBQ27TM.html?ref=rss",
     "published": "2026-10-01T21:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "84aa58528f52c7fc85678a79b418873ec2b119f6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "今日の歴史（10月2日）(聯合ニュース)",
-    "summary": "1920年：日本が中国の馬賊と謀り満州・間島地方の朝鮮人や独立運動家を大量虐殺した間島事件（琿春事件）が発生1948年：暴動鎮圧のために済州島に派遣された軍警備隊が反乱1973年：江原道の昭陽江に多目",
-    "link": "https://news.yahoo.co.jp/articles/e24c10e77cb089909292142220505ca4dd836f88?source=rss",
-    "published": "2026-10-01T15:00:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "57e35f9a33bc518f8de8b7dfa4b8131eb9e3f05a",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "伊藤あおい 完敗でWTA1000初戦敗退、世界41位にストレート負け＜女子テニス＞(tennis365.net)",
-    "summary": "女子テニスのチャイナ・オープン（中国/北京、ハード、WTA1000）は1日、シングルス1回戦が行われ、世界ランク361位の伊藤あおいは同41位のK・ビレル（オーストラリア）に1-6, 1-6のストレー",
-    "link": "https://news.yahoo.co.jp/articles/1a0bd4e63b56b0fed10b904e1fe6d7742137aa82?source=rss",
-    "published": "2026-10-01T14:57:20+00:00",
     "matched_keywords": [
       "中国"
     ]
