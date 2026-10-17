@@ -1,5 +1,49 @@
 [
   {
+    "id": "1afeff637ceef802e885507b03334a0ec0fcb591",
+    "source": "NHKニュース",
+    "title": "インドネシア森林火災 煙が周辺国へ拡散し影響広がる",
+    "summary": "インドネシアの森林などで続く大規模な火災の煙が、マレーシアをはじめ周辺の国にまで広がり、学校が休みになるなど影響が出ています。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261017de61042",
+    "published": "2026-10-17T15:44:18+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "f612d4b59ec6055a28b161a53687b82588885543",
+    "source": "Yahoo!ニュース 国内",
+    "title": "高市首相の真榊奉納と閣僚の靖国参拝「強く非難」　中国大使館報道官が談話(産経新聞)",
+    "summary": "在日本中国大使館は17日夜、高市早苗首相が靖国神社に「真榊（まさかき）」を奉納し、閣僚が参拝したことを「強く非難する」とする報道官談話を出した。",
+    "link": "https://news.yahoo.co.jp/articles/d1b75c98fc48c0a1faf81aa92e567b70348a120f?source=rss",
+    "published": "2026-10-17T14:33:05+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d108b8ca2c420d97ed55fef42cc877574cb6db61",
+    "source": "Yahoo!ニュース IT",
+    "title": "DeepSeek新Flash、アクティブ160億でOpus 5超え主張 1タスク約30円、米勢の1割以下(ビジネス＋IT)",
+    "summary": "中国DeepSeekは10月17日、AIモデル「DeepSeek-V4.1-Flash-1017」を公開した。1トークンあたりのアクティブパラメータは最大160億にとどまる小型の構成ながら、同社の評価",
+    "link": "https://news.yahoo.co.jp/articles/20d16f1a5b107442a187aafaccaf39c87e53ffe7?source=rss",
+    "published": "2026-10-17T14:20:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2c515bae8449ce7ddb9a6eb6c08b67f1fe8bb0ff",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国、首相の靖国供物奉納を非難(共同通信)",
+    "summary": "【北京共同】在日本中国大使館は17日、高市早苗首相が靖国神社に「真榊」を奉納し、閣僚が参拝したことを「強く非難する」とする報道官談話を出した。",
+    "link": "https://news.yahoo.co.jp/articles/a97c7cafdd31704f13833ebc0d4fb13e19863754?source=rss",
+    "published": "2026-10-17T13:57:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "1daebff4608619efc0a6c10b6e0c63e5a6e06be4",
     "source": "Yahoo!ニュース 経済",
     "title": "中国のBYD「ラッコ」試乗 両側スライドドア＆快適装備を備える新型「軽スーパーハイトワゴン」の実力とは(くるまのニュース)",
@@ -72,6 +116,17 @@
     "summary": "（CNN） 中国政府は16日、トランプ米政権の大統領報道官を解任されたケイティ・ザカリア氏に対し、もっと頻繁に中国を訪れるよう招待した。ザカリア氏が最近のインタビューで「（中国には）まともなトイレがな",
     "link": "https://news.yahoo.co.jp/articles/5406f2e885527a4934a0a251c716da20097ad661?source=rss",
     "published": "2026-10-17T07:58:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d1b3daa4a3d9153ace3e0bccaab0be490143d591",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中韓「非難」と「失望」　高市首相の靖国供物奉納(共同通信)",
+    "summary": "【北京、ソウル共同】在日本中国大使館は17日、高市早苗首相が靖国神社に「真榊」と呼ばれる供物を奉納し、閣僚が参拝したことを強く非難し「軍国主義と完全に決別し、国際社会の信頼を得るよう厳重に促す」とする",
+    "link": "https://news.yahoo.co.jp/articles/e3e144a20a88044569f6519abb4d16ea69c4dd68?source=rss",
+    "published": "2026-10-17T07:50:47+00:00",
     "matched_keywords": [
       "中国"
     ]
@@ -7695,28 +7750,6 @@
     "published": "2026-10-03T20:00:00+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "6d64191b9abbcee65c17071f2ba995f1082fd3b1",
-    "source": "Yahoo!ニュース 経済",
-    "title": "“脱レアアース”へ リサイクルや代替本格化　“すでにEV搭載”(テレビ朝日系（ANN）)",
-    "summary": "中国による輸出規制が長期化するなか、日本企業はレアアースのリサイクル利用や、代わりになる技術の開発を加速化させています。私たちの身の回りで大きな変化が起き始めています。（サタデーステーション10月3日",
-    "link": "https://news.yahoo.co.jp/articles/8192112d0b8ff9dd8f20dcf45a825c08b7388cfc?source=rss",
-    "published": "2026-10-03T16:00:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "5707400b775b1da0ed8604b3e806717ab72b53ee",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "フェザー級の新星・武藤涼太が初防衛　亡くなった神足さんの教えを胸にTKO(スポニチアネックス)",
-    "summary": "◇プロボクシングWBO―APフェザー級タイトルマッチ10回戦同級王者・武藤涼太（松田）《TKO5回2分48秒》同級14位ヴァン・ハイ・グエン（ベトナム） （2026年10月3日 東京・後楽園ホール）",
-    "link": "https://news.yahoo.co.jp/articles/6050f983e88d9daf3f09138e5f74bb50961a50c9?source=rss",
-    "published": "2026-10-03T15:09:19+00:00",
-    "matched_keywords": [
-      "ベトナム"
     ]
   }
 ]
