@@ -1,5 +1,104 @@
 [
   {
+    "id": "5c11f326ca085b2bf347c3822f1594d3fe415518",
+    "source": "Yahoo!ニュース 地域",
+    "title": "尖閣周辺に中国船4隻  70日連続航行(沖縄八重山日報)",
+    "summary": "第十一管区海上保安本部によると、尖閣諸島（石垣市）周辺の領海外側にある接続水域では17日、中国海警局の艦船4隻が航行している。尖閣周辺で中国艦船が航行するのは70日連続。 4隻は「海警2308」「海警",
+    "link": "https://news.yahoo.co.jp/articles/6d8d6f5edf97a71ee3b59571425974475a231ed4?source=rss",
+    "published": "2026-10-17T05:35:16+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4ba814680abeaf75c32a87c43f049d9b06b8ef46",
+    "source": "Yahoo!ニュース 経済",
+    "title": "日本に帰ってきたパンダは\"ジャイアント\"ではなく\"グランデ\"！　369万円から買える「グランデパンダ」の気になる中身(WEB CARTOP)",
+    "summary": "2026年1月27日、上野動物園の人気者であったパンダのシャオシャオとレイレイが中国に返還された。これにより、いま、日本の動物園にはパンダが1頭もいないんだとか。そんなパンダが日本に帰ってきた。ただし",
+    "link": "https://news.yahoo.co.jp/articles/a44f1f2e10dd271fbc946e5f046f4f0b03e61cf8?source=rss",
+    "published": "2026-10-17T04:40:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7a91a45a5c584250758ddc46a45bee482ef0041e",
+    "source": "Yahoo!ニュース IT",
+    "title": "韓国大手金融機関を襲った中国AIツールが世界に拡散、世界規模のパンデミック攻撃も(ビジネス＋IT)",
+    "summary": "中国で開発されたAI侵入テストツール「ARTEX（アルテックス）」が、韓国の大手銀行などを狙った大規模サイバー攻撃に悪用された疑いが浮上し、世界のセキュリティー業界に衝撃が広がっている。韓国金融当局が",
+    "link": "https://news.yahoo.co.jp/articles/5a500201814f3bcf855459051568dd079c37448f?source=rss",
+    "published": "2026-10-17T03:55:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1c5d1046ec88edb2bafae8e233710118309cbc3f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "高市首相、靖国神社に供え物を奉納…参拝は見送り(中央日報日本語版)",
+    "summary": "高市早苗首相が17日、東京の靖国神社に供え物を奉納した。ただ、韓国や中国など周辺国の反発を考慮して参拝は見送る方針だと伝えられた。共同通信とNHKによると、高市首相はこの日始まった靖国神社の秋季例大祭",
+    "link": "https://news.yahoo.co.jp/articles/59e5cf5fd5d15134bf721672f830e9a9b0be4340?source=rss",
+    "published": "2026-10-17T03:40:12+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c61be315b8801d6048ffb0f3a122b82c1873b89d",
+    "source": "Yahoo!ニュース 経済",
+    "title": "DeepSeekに中国産業界の巨額マネー　調達額2.4兆円規模、CATLが追加出資(36Kr Japan)",
+    "summary": "中国の生成AIスタートアップ「DeepSeek（ディープシーク）」の2回目の資金調達が間もなく完了する。調達額は当初計画の500億元（約1兆2000億円）から約1000億元（約2兆4000億円）規模に",
+    "link": "https://news.yahoo.co.jp/articles/beacd2ad5159614e1c387a4a26ee88e808cad13f?source=rss",
+    "published": "2026-10-17T03:30:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a1e61211a6511b7bf73f72096d262b6258ccd760",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国、イスラエルに入植地の「強制的建設」停止を要求　ヨルダン川西岸(BBC News)",
+    "summary": "コー・ユー記者中国外務省は16日、王毅外相がイスラエルに対し、パレスチナ・ヨルダン川西岸地区における入植地の「強制的な建設」を中止し、その行動を撤回するよう求めたと発表した。王氏は15日、アゼルバイジ",
+    "link": "https://news.yahoo.co.jp/articles/ea83c03a5496ccdd748b2b6bce00fcd8ca028de4?source=rss",
+    "published": "2026-10-17T03:28:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "53004a17f8a68c7c1f060f16b53a126bf03eeb1a",
+    "source": "Yahoo!ニュース 国内",
+    "title": "共産主義に「独裁的な抑圧社会」印象を懸念　山添拓氏、綱領改定で「レッテルはがしたい」(産経新聞)",
+    "summary": "共産党の山添拓政策委員長は16日の記者会見で、社会主義や共産主義について「独裁的な自由のない抑圧社会を思い浮かべる人が少なからずいる」と述べ、旧ソ連や現在の中国、北朝鮮と結び付けて受け止められている現",
+    "link": "https://news.yahoo.co.jp/articles/fef391329d0a48f670055a5feef7313e4ea8b5ca?source=rss",
+    "published": "2026-10-17T03:12:05+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "580ea15318d631746589a94d5429cbd89941e2d9",
+    "source": "東洋経済オンライン",
+    "title": "｢金正恩をプーチンに奪われる｣中国･習近平の焦り､12年間放置された中朝国境の巨大橋が突然開通した理由 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "中国と北朝鮮を結ぶ｢新鴨緑江大橋｣が12年の沈黙を破り､ついに開通します。裏には中ロ朝三国の思惑と衝突､そして習近平主席の焦燥がありました。国境を越える巨大インフラは､東アジアのパワーバランスをどう…",
+    "link": "https://toyokeizai.net/articles/-/961320?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-10-17T03:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "74ff69617efc73bb951f227a0d77ebf83cb52623",
+    "source": "Yahoo!ニュース 国際",
+    "title": "トランプ大統領も“弁護士”と紹介…ホワイトハウスの新報道官が“経歴詐称”でスピード退任「試験は中国で…」(ABEMA TIMES)",
+    "summary": "アメリカのホワイトハウスの新報道官に、経歴詐称疑惑が浮上した。FOXニュースなど保守系メディアのコメンテーターとして活躍していたザカリア報道官だ。【映像】「どの州で合格？」→ザカリア氏が「中国」と回答",
+    "link": "https://news.yahoo.co.jp/articles/df93c14bb961c51e1278d8dca780ff03ef7190b1?source=rss",
+    "published": "2026-10-17T02:30:36+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "2c7969ad07ea99b011b0cecdffc68326e114d894",
     "source": "Yahoo!ニュース 地域",
     "title": "劇団四季「マンマ・ミーア!」舞台裏を子どもたちが取材!「ダメだと思っても続けること」出演俳優にもインタビュー　「椅子には裏設定が…」広島(RCC中国放送)",
@@ -7583,61 +7682,6 @@
     "summary": "昨年11月、高市早苗総理が国会で台湾有事に関する発言をして以降、日中関係は急速に冷え込んだ。中国側はこの発言の撤回を要求し、日本への渡航自粛や日本産水産物の事実上の輸入停止などの対抗措置を相次いで講じ",
     "link": "https://news.yahoo.co.jp/articles/fde593f703037d3d622da818f72275053d6481a0?source=rss",
     "published": "2026-10-03T06:15:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "54adea1af30a01d683088f4269b08ebbaea2d3ce",
-    "source": "Yahoo!ニュース 国際",
-    "title": "マカオ、国慶節GW2日目まで累計インバウンド旅客数は34.9万人…単日平均23.4%増の17.4万人(マカオ新聞)",
-    "summary": "中国本土で大型連休となる国慶節ゴールデンウィーク（「十・一」黄金周）はインバウンド旅客のうち7割を中国本土旅客が占めるマカオにとって年に複数ある書き入れ時のひとつに数えられる。今年（2026年）の国慶",
-    "link": "https://news.yahoo.co.jp/articles/96e3d3f582aff688feae04b594ee8c4755445908?source=rss",
-    "published": "2026-10-03T05:30:09+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d0084b1cd07726bcf48dd19c15196c9da13c4280",
-    "source": "Yahoo!ニュース 経済",
-    "title": "車内の会話が筒抜け？　情報機関がスマートカーで「機密話すな」警告、中国勢がシェア拡大(産経新聞)",
-    "summary": "IT技術を活用した「スマートカー」に関連し、オランダ当局は2日までに、外部からマイクやカメラが操作されたり、位置情報が取得されたりする恐れがあると警告した。中国製のシェア拡大に伴って、情報漏洩（ろうえ",
-    "link": "https://news.yahoo.co.jp/articles/3e7b3a467c54348218a5ceb3e6b817d5396c20e2?source=rss",
-    "published": "2026-10-03T05:27:10+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0182bd45f7bb95b92808b48b197ee01f96f0eb0a",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国、3タイプに大学改革　人材需給ギャップ解消狙い(共同通信)",
-    "summary": "【北京共同】中国共産党・政府は、大学を研究型や地域への貢献を目指す応用型など3タイプに分けてそれぞれの特色を追求することを柱とした改革方針を公表した。多くの大学がこれまで進めてきた一律的な発展路線を見",
-    "link": "https://news.yahoo.co.jp/articles/bbba90a91948e9c16717b68342b11f26416ca5c6?source=rss",
-    "published": "2026-10-03T05:15:59+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "aec447e2048676987e90d891eddcf7ae2a22d0bc",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【速報】崇徳―尾道　秋季広島県高校野球大会2回戦(中国新聞デジタル)",
-    "summary": "秋季広島県高校野球大会は3日、2回戦があり、ぶんちゃんしまなみ球場で対戦中の崇徳―尾道は、6回裏終了時点で尾道が1―0でリードしている。【勝ち上がり表】2026年秋の高校野球広島大会",
-    "link": "https://news.yahoo.co.jp/articles/9b5dab9a14b0694020f3a339434f8bf1e4a59ee3?source=rss",
-    "published": "2026-10-03T05:04:27+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "376b6d688aee32967298130fd0f2fd5dce03b406",
-    "source": "Yahoo!ニュース 経済",
-    "title": "人型より「ロボット犬」で稼ぐ　中国DEEP Robotics、売上倍増見通しでIPOへ(36Kr Japan)",
-    "summary": "中国のロボットメーカー「雲深処科技（DEEP Robotics；ディープ・ロボティクス）」はこのほど、上海証券取引所の新興テック企業向け市場「科創板（Star Market）」への上場に向けた目論見書",
-    "link": "https://news.yahoo.co.jp/articles/c9ca80adc2fbad9b7ae61d9df2de2deba44c2cdb?source=rss",
-    "published": "2026-10-03T03:30:53+00:00",
     "matched_keywords": [
       "中国"
     ]
