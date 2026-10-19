@@ -1,5 +1,60 @@
 [
   {
+    "id": "f321cfe4f8dd04c060392039fc8c592e2152667a",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "中国の卓球絶対女王が異例の声明「私の名前で…」　ファンに呼びかけ「強く願っています」(THE ANSWER)",
+    "summary": "卓球女子シングルスの世界ランキング2位、中国の孫穎莎が19日、自身のSNSで異例の声明を発表した。11月4日に26歳の誕生日を控える中、「私の名前で応援のイベントなどを立ち上げたり、宣伝したりしないよ",
+    "link": "https://news.yahoo.co.jp/articles/fea82160531d9f36e8a6000b6066a2ac81634215?source=rss",
+    "published": "2026-10-19T19:38:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5af65abb8e1741bbf636c7a16d0c35d555fd39d4",
+    "source": "毎日新聞",
+    "title": "中国:中国GDPやや改善　輸出の「花」　雲南活況",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261020/ddm/008/020/063000c",
+    "published": "2026-10-19T18:09:25+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "09cd0fb1de1a385d8cd90251cf53323c736f5d4f",
+    "source": "毎日新聞",
+    "title": "中国:中国GDP4．5％増　内需低迷、輸出が下支え　7～9月期",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261020/ddm/001/030/096000c",
+    "published": "2026-10-19T17:37:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "93a98e3c9f5867816956442c753c91894ab0a260",
+    "source": "Yahoo!ニュース IT",
+    "title": "ファーウェイのヘルスケア事業と開発体制、中国本社で見た「TruSense System」と巨大研究施設の裏側(ケータイ Watch)",
+    "summary": "日本ではウェアラブル製品を中心に展開するファーウェイ。今回、日本のメディアが中国の同社本社に招かれ、取材する機会を得た。本稿では、ウェアラブル開発責任者との交流会や、研究施設「HUAWEI Healt",
+    "link": "https://news.yahoo.co.jp/articles/2998714e76600e0c3d0d53224d63f028cd006390?source=rss",
+    "published": "2026-10-19T15:30:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d112fc6b87f649c17d7f32093f32b4b6772fe49e",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "特定技能「給食」受け入れ再開へ",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6599400?source=rss",
+    "published": "2026-10-19T13:32:39+00:00",
+    "matched_keywords": [
+      "特定技能"
+    ]
+  },
+  {
     "id": "8b6cde230edd4c1b1b2cac6c66a9f5947aa73a5a",
     "source": "Yahoo!ニュース スポーツ",
     "title": "青山修子／リャン・エンシュオは1回戦でウインブルドン優勝ペアのグオ・ハンユー／ムラデノビッチにストレート負け [寧波オープン／テニス](テニスマガジンONLINE)",
@@ -8041,30 +8096,6 @@
     "published": "2026-10-05T19:59:57+00:00",
     "matched_keywords": [
       "パキスタン"
-    ]
-  },
-  {
-    "id": "ac181bc76622ef82a8d6601d021eb3dc668e993f",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国、ラオスに軍事施設を設置　国外拠点になる可能性との見方(共同通信)",
-    "summary": "【北京共同】中国国防省は5日までに、ラオスの飛行場に両国軍が共同で運営する合同支援・訓練センターを設置し、9月29日に運用を開始したと発表した。ラオス空軍のパイロット養成が目的としているが、軍事専門家",
-    "link": "https://news.yahoo.co.jp/articles/d069d4c9ab116161788cba0696d10953d78a62f7?source=rss",
-    "published": "2026-10-05T18:34:47+00:00",
-    "matched_keywords": [
-      "ラオス",
-      "中国"
-    ]
-  },
-  {
-    "id": "583921fa31c64811dfba99a6723aecfeaea1b65b",
-    "source": "NHKニュース",
-    "title": "ネパール土石流 専門家「経済復興と災害リスク軽減が課題」",
-    "summary": "ことし8月にネパールと中国の国境付近で発生した大規模な土石流について、現地で調査した日本の専門家が報告会を開き、再び災害が起こるリスクを見据えたインフラの復旧が課題だと指摘しました。",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261005de54910",
-    "published": "2026-10-05T14:44:28+00:00",
-    "matched_keywords": [
-      "中国",
-      "ネパール"
     ]
   }
 ]
