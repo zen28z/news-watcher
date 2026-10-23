@@ -1,5 +1,181 @@
 [
   {
+    "id": "e8adaab7398edce54114d8efdaf7bafd17f3fe6c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ベトナムで韓国航空会社の旅行記録２千万件強が露出…９年分の乗客のパスポート番号も(ハンギョレ新聞)",
+    "summary": "2017年1月7日から今年4月30日までの間にベトナムの空港を経由した旅行者の情報2億2078万件が、6月に「ホワイトハッカー」グループによって確認されるまで無防備な状態でさらされていたことが判明した",
+    "link": "https://news.yahoo.co.jp/articles/770ce42369aff07f6c8fa740e0757adb052439a2?source=rss",
+    "published": "2026-10-23T00:09:39+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "ac12ee84722fd5ef7ef3708783fc1334060456f8",
+    "source": "Yahoo!ニュース 経済",
+    "title": "【なぜBYDは軽市場へ？】薄利多売の日本に「ラッコ」を投入した理由。月販目標1000台の裏にある世界戦略(carview！)",
+    "summary": "中国の自動車メーカー「BYD」が、輸入車初の軽EVとして今年7月28日に発売した軽スーパーハイトワゴン「RACCO（ラッコ）」は、9月末の時点で累計受注台数が約1900台となった。【画像】BYD「ラッ",
+    "link": "https://news.yahoo.co.jp/articles/3f8026e2a434e202a87f348b3f5f0cdf93679edf?source=rss",
+    "published": "2026-10-23T00:00:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c4ec2018b4c19ef968ef6f565e877fd3f37b8760",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国政府系ハッカー「Storm―0940」AI悪用し侵入　3時間で接続権限を奪取(産経新聞)",
+    "summary": "【ワシントン＝塩原永久】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるハッカー集団「Storm―0940」が人工知能（AI）を悪用し、大規模なサイバー攻撃を展開していたと公表した。標的",
+    "link": "https://news.yahoo.co.jp/articles/50299a448b81671bd50f03a82187798538f78666?source=rss",
+    "published": "2026-10-22T23:52:31+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "e5a5032e7f29f289854dfebf9bd347d405076c53",
+    "source": "Yahoo!ニュース 国内",
+    "title": "インドネシア、四国分の面積焼失　森林火災、煙害各国に(共同通信)",
+    "summary": "インドネシア各地で森林火災が続発し、今年1～9月に四国4県ほどの面積が焼失したと推定されている。野焼きの延焼が相次ぐ中、エルニーニョ現象により雨期の到来が遅れ、政府は被害の拡大を警戒する。大気汚染で呼",
+    "link": "https://news.yahoo.co.jp/articles/4a59cafd95561c32427f7a2b2484750ca0394cff?source=rss",
+    "published": "2026-10-22T23:38:38+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "8107ca3f54510c12e61611ed0fc938f5b1c71126",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国チベット自治区地震で16人死亡(共同通信)",
+    "summary": "【北京共同】中国国営中央テレビは23日、チベット自治区ナクチュで起きた地震で、16人が死亡し、46人が負傷したと伝えた。",
+    "link": "https://news.yahoo.co.jp/articles/18daaf2cd7935952579b410b0122d0e1107127fa?source=rss",
+    "published": "2026-10-22T23:36:34+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "27ddaa62085a1368989ba7c2867a4304583fa4fa",
+    "source": "Yahoo!ニュース 国際",
+    "title": "カンボジア詐欺拠点で“臓器売買”か…詐欺集団は「恐怖心を与える側面も」売る側は「貧困により自分の体の一部を物として扱ってしまう」犯罪心理学者が分析(ABEMA TIMES)",
+    "summary": "犯罪心理学者の出口保行氏がABEMA的ニュースショーに出演した際に、国際特殊詐欺拠点に設けられた医療施設や臓器売買の心理的背景について語る場面があった。【映像】臓器売買の痕跡…カンボジア詐欺拠点の内部",
+    "link": "https://news.yahoo.co.jp/articles/f00765913bc562c11fe0fc45df1d5f88c8c89623?source=rss",
+    "published": "2026-10-22T23:30:38+00:00",
+    "matched_keywords": [
+      "カンボジア"
+    ]
+  },
+  {
+    "id": "01c14359b0ac9ed75eff5edeb8523057ef1a54ab",
+    "source": "NHKニュース",
+    "title": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+    "summary": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
+    "published": "2026-10-22T23:30:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d7cd5752fba00301648caed0c8f739d6c1eb4255",
+    "source": "Yahoo!ニュース 経済",
+    "title": "トップ層は年収20億円、新卒でも1億円超！中国「AI人材争奪戦」の舞台裏(36Kr Japan)",
+    "summary": "AIモデルの開発競争が激しさを増すなか、中国ではAI人材の報酬水準が大きく変わりつつある。業界の第一線で活躍する1998年生まれのアルゴリズム研究者は、大手テック企業への転職を機に、年収が100万元（",
+    "link": "https://news.yahoo.co.jp/articles/5060b90d6329c4a1e43a42e57307bd9d8896b0e0?source=rss",
+    "published": "2026-10-22T23:04:47+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "db330ed2ffbdc049f54961e4d701ac52250e1dc0",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国製EVが「爆売れ」状態!? 中南米では前年比2倍超！ 日欧メーカーが直面する脅威(ベストカーWeb)",
+    "summary": "世界的に勢いを取り戻しつつあるEV販売。特に中国メーカーが送り出すEVの勢いには目を見張るものがある。これを受け、国際エネルギー機関(IEA)が日欧メーカーのEVシェア喪失の可能性を指摘。なんとも面白",
+    "link": "https://news.yahoo.co.jp/articles/34ed4ebffd80a90d4cc74809ea1236976b48b357?source=rss",
+    "published": "2026-10-22T23:01:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b85ec76d9f78d25b887baae0671833dba0268dba",
+    "source": "Yahoo!ニュース IT",
+    "title": "中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告(ITmedia NEWS)",
+    "summary": "米Microsoftは10月21日（現地時間）、中国国家と連携する攻撃者「Storm-0940」がAIエージェントを使った侵入テストフレームワーク「ARTEX」で攻撃を自動化し、世界の数百の組織を標的",
+    "link": "https://news.yahoo.co.jp/articles/8648bb99155ab73dfa4029effe6b8482bbd9c4e8?source=rss",
+    "published": "2026-10-22T22:47:55+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fe2a31afa28e00aa87fb948fd1872d37ae84b160",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia News] 中国系攻撃者がAIエージェントで攻撃を自動化、「ConnectWise」のサプライチェーン攻撃に関与　Microsoftが警告",
+    "summary": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。",
+    "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002531/",
+    "published": "2026-10-22T22:45:34+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6ab4aa74ba97a71f185764ebe00703e9a4319ec5",
+    "source": "Yahoo!ニュース 国際",
+    "title": "チベット・ナクチュで大きな揺れ…M7．0の地震で16人死亡・32人負傷(中央日報日本語版)",
+    "summary": "中国チベット（西蔵）自治区ナクチュ（那曲）市バチェン（巴青）県で22日夜、マグニチュード（M）7．0の地震が発生し、少なくとも16人が死亡、32人が負傷した。当局は被害規模の調査を続けており、人的・物",
+    "link": "https://news.yahoo.co.jp/articles/71e49247e88acc16be8719e0c4eaa35960eadaf8?source=rss",
+    "published": "2026-10-22T22:35:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "98f8ae0365c0180b0354fb4f6d904d4dbdc93af2",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国チベット自治区でM7.0の地震　16人の死亡を確認　ナクチュ市で発生(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国南西部のチベット自治区ナクチュ市で22日夜、マグニチュード（M）7.0の地震があった。中国国営中央テレビ（電子版）は23日、16人が死亡し、46人が重軽傷を負ったことを地元当局が",
+    "link": "https://news.yahoo.co.jp/articles/b17bcfb69a60b26fa9d4b67f473f7c8a23936393?source=rss",
+    "published": "2026-10-22T22:33:31+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b0b647cb3a214748ad176ad7586db7ee2c759966",
+    "source": "Yahoo!ニュース 国際",
+    "title": "大地が真っ赤に染まり国境へ迫る巨大な炎…！ 消防士ら3400人超が投入され懸命の消火作業、激闘の末に封じ込めた大規模な草原火災の様子 中国・内モンゴル自治区(ABEMA TIMES)",
+    "summary": "まるで火の海…モンゴルの自然保護区で10月8日、大規模な火災が発生した。 【映像】真っ赤に染まる大地＆懸命の消火活動の様子 撮影された映像では、草原を大規模に焼く炎やもくもくと煙が立ち上っている自然保",
+    "link": "https://news.yahoo.co.jp/articles/514539144d2648dee53ba4cda03104a46dee3c00?source=rss",
+    "published": "2026-10-22T22:30:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "860cb647aa5c26cb2653463bbaf2605896b6f83c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "インドネシアの森林火災でシンガポールの街は暗灰色の煙で覆われた…一時は世界最悪の大気汚染都市に（海外）(BUSINESS INSIDER JAPAN)",
+    "summary": "インドネシアの大規模森林火災による煙が、周辺諸国に深刻な煙害（ヘイズ）をもたらしている。シンガポールではマリーナベイ・サンズをはじめとする象徴的な高層ビル群も煙で覆われている。10月16日、大気汚染は",
+    "link": "https://news.yahoo.co.jp/articles/dfaa764a010aa801fd7a8efc2789da609bf8ae9c?source=rss",
+    "published": "2026-10-22T22:10:02+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "9409be1574ca4971fc786398a58bb64b8ee5d7ee",
+    "source": "Yahoo!ニュース 国内",
+    "title": "九州～東海で次第に雨や雷雨　台風接近で沖縄は暴風・大雨　今日23日(金)の天気(tenki.jp)",
+    "summary": "今日10月23日は、台風30号が接近中の沖縄の先島諸島は大荒れの天気でしょう。暴風・高波・大雨に厳重な警戒が必要です。前線の影響で、九州や四国は雨や雷雨で非常に激しい雨の降る所があるでしょう。中国地方",
+    "link": "https://news.yahoo.co.jp/articles/d6723e49c23851e45d756f89cf9fc72a983dc321?source=rss",
+    "published": "2026-10-22T21:54:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "e8431c99e74c523bcc1e876176d2bc426a6c7fae",
     "source": "Yahoo!ニュース 経済",
     "title": "土屋圭市や谷口信輝が集結！ 過去最大規模となったインドネシアIMXの熱気(Auto Messe Web)",
@@ -116,17 +292,6 @@
     "summary": "中国政府が新エネルギー車の輸出還付税率を13%から9%へ引き下げると発表しました。爆発的な新エネ車輸出増加の裏で､海外との貿易摩擦など悪影響が顕在化。中国の次なる一手は何か､注目が集まります。",
     "link": "https://toyokeizai.net/articles/-/961562?utm_source=rss&utm_medium=http&utm_campaign=link_back",
     "published": "2026-10-22T21:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "01c14359b0ac9ed75eff5edeb8523057ef1a54ab",
-    "source": "NHKニュース",
-    "title": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
-    "summary": "アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261023de63956",
-    "published": "2026-10-22T20:47:20+00:00",
     "matched_keywords": [
       "中国"
     ]
@@ -8662,105 +8827,6 @@
     "published": "2026-10-09T00:36:10+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "9c5f054df73857cec91d93a40dac4bee797f3df8",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国金融界ハッキング犯は26歳の中国人？…「むしろ自分の電話番号を盗用された」(中央日報日本語版)",
-    "summary": "最近、韓国の金融界で起きたハッキング事件の攻撃者として指摘された20代の中国人男性が、むしろ自分の携帯電話番号が盗用されたとし、ハッキングとは無関係だと主張していることが分かった。8日、韓国警察による",
-    "link": "https://news.yahoo.co.jp/articles/6921e3b01be91cf33eeb2bf851f7ba387a08aad0?source=rss",
-    "published": "2026-10-09T00:00:05+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b27bfdf5fd7684b4f8c89a20d6cbb171b54708e8",
-    "source": "Yahoo!ニュース 国際",
-    "title": "元同僚の車に赤いラッカースプレーで落書きした中国人「小言が不愉快だったから」＝韓国(中央日報日本語版)",
-    "summary": "韓国で、不愉快な小言を言われたという理由で元同僚の車を傷つけた30代の中国人に実刑判決が言い渡された。【写真】ラッカースプレーで落書きされた車仁川（インチョン）地方法院（地裁）刑事2単独のキム・ジフ判",
-    "link": "https://news.yahoo.co.jp/articles/e9ac8c840db16fdc22aa9ac6738f75d44fd96db8?source=rss",
-    "published": "2026-10-08T22:46:24+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c29b6f5c7b43ed2a3ba2c4359b5a17cbdc399f0e",
-    "source": "Yahoo!ニュース 経済",
-    "title": "トヨタ、中国合弁会社と戦略提携　合弁2社を広州汽車傘下に集約　中国事業の効率向上へ(日刊自動車新聞)",
-    "summary": "トヨタ自動車は10月8日、中国合弁会社2社と新たな戦略提携に関する枠組み協定を結んだと発表した。中国国有自動車大手の広州汽車集団が、トヨタと中国第一汽車の合弁会社である一汽トヨタの株式50％を取得する",
-    "link": "https://news.yahoo.co.jp/articles/d3e6c67db4a3d7a007e1c829309e941b54da5ab2?source=rss",
-    "published": "2026-10-08T22:45:43+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7bd52ad0e61dbb0f869279f9240505bb8be777b7",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "古市憲寿氏、外務省による高市首相「指導者」呼びに疑問「わざわざ『指導者』を用いたのか謎」(日刊スポーツ)",
-    "summary": "社会学者の古市憲寿氏が8日夜、Xを更新。中国外務省幹部が会見で高市早苗首相を呼び捨てにした件に対して日本外務省が出した「見解」をめぐり、私見をつづった。【写真】古市憲寿氏のXから 中国外務省の郭嘉昆副",
-    "link": "https://news.yahoo.co.jp/articles/81fba6e5977e83f51755529bf5576f990d46ea20?source=rss",
-    "published": "2026-10-08T22:30:24+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "9439a3f5440fb14daeace76433480fdd44f0d593",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "坂本怜vsルブレフ 上海マスターズ2回戦で激突、注目の初対決は本日13時開始＜男子テニス＞(tennis365.net)",
-    "summary": "男子テニスのロレックス・上海マスターズ（中国/上海、ハード、ATP1000）は9日、予選勝者で世界ランク137位の坂本怜と第23シードのA・ルブレフのシングルス2回戦がショーコート3の第1試合に組まれ",
-    "link": "https://news.yahoo.co.jp/articles/418030a1070412be102fa07807d2ff70624b177f?source=rss",
-    "published": "2026-10-08T22:13:50+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ad8e8da7a0c6839f6264293a3720fa859e221709",
-    "source": "Yahoo!ニュース 国内",
-    "title": "表示ラベルだけでは分からない！　スーパーの「中国産食材」全1148商品を総点検「実名リスト」(デイリー新潮)",
-    "summary": "食欲の秋となりスーパーには全国各地で収穫された食材が並ぶ。生鮮品の売り場では、旬のたまねぎやじゃがいもならば原産地が「北海道産」などと表記されているのはお馴染みの光景だろう。だが、レトルトやインスタン",
-    "link": "https://news.yahoo.co.jp/articles/ea0d2e00b9f3a395c84a2534fb8f3cec30e5c891?source=rss",
-    "published": "2026-10-08T22:10:51+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b2043cf1f99567dc773617b948955ba6b298cbcb",
-    "source": "Yahoo!ニュース 地域",
-    "title": "「1階の窓から火炎」広島市で住宅1軒が全焼　焼け跡から2人の遺体見つかる(RCC中国放送)",
-    "summary": "警察と消防によりますと、9日午前4時20分ごろ、広島市安佐北区落合で「1階の窓から火炎」など付近の住民から複数の通報がありました。【写真を見る】「1階の窓から火炎」広島市で住宅1軒が全焼 焼け跡から2",
-    "link": "https://news.yahoo.co.jp/articles/f9d2c43d6fbcd0573f7dec9e499ae49d49ca5440?source=rss",
-    "published": "2026-10-08T22:04:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "edf38d16737ac07c87702a8f73679d2f89ee90d0",
-    "source": "Yahoo!ニュース 国内",
-    "title": "東北～中国地方で秋晴れで汗ばむ陽気　九州や沖縄は雷雨に注意　今日9日(金)の天気(tenki.jp)",
-    "summary": "今日9日(金)は、本州付近は高気圧に覆われて、東北から中国地方にかけて広く秋晴れとなる見込みです。一方、北海道では一部でにわか雨があり、西日本や沖縄では雨や雷に注意が必要です。",
-    "link": "https://news.yahoo.co.jp/articles/56431333e2aa8aeab1e96bd40d2a75ed83a3ae37?source=rss",
-    "published": "2026-10-08T22:04:09+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b3d1c440f6d0f9d05568ec86aba5e89c3c2ffd00",
-    "source": "Yahoo!ニュース 国内",
-    "title": "横断歩道を渡っていたベトナム国籍の男性が軽自動車にはねられ意識不明の重体 運転していた85歳男を現行犯逮捕(東海テレビ)",
-    "summary": "岐阜県笠松町で8日夜、横断歩道を渡っていた男性が軽自動車にはねられ、意識不明の重体となっています。 警察によりますと、8日午後9時45分ごろ、笠松町円城寺で信号機のない横断歩道を歩いて渡っていた38歳",
-    "link": "https://news.yahoo.co.jp/articles/94e33ae15f04eaf23790b0b4d0517d3d44da9843?source=rss",
-    "published": "2026-10-08T21:54:42+00:00",
-    "matched_keywords": [
-      "ベトナム"
     ]
   }
 ]
