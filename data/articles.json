@@ -1,5 +1,71 @@
 [
   {
+    "id": "de3db17fe68ab771fc454eb035611b90a6ef1962",
+    "source": "朝日新聞",
+    "title": "中国、南シナ海で人工島建設　3千メートル級滑走路か　衛星画像分析",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBS25SCVBSUTFK002M.html?ref=rss",
+    "published": "2026-10-24T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2b00673a8d57edbfe197b665ef61a4fd68f2e557",
+    "source": "東洋経済オンライン",
+    "title": "BYD､吉利…ヨーロッパで｢主役｣の座に躍り出た中国の自動車メーカーたち　パリ･モーターショーで見えた現実 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "かつては脇役だった中国の自動車メーカーが､今やパリ･モーターショーで存在感を放ち､ヨーロッパ市場で｢大きな変化｣を起こし始めています。",
+    "link": "https://toyokeizai.net/articles/-/962307?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-10-24T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c8d70462035448ad4a563940723de808a1e7a4eb",
+    "source": "東洋経済オンライン",
+    "title": "中国のネット大手が｢AI医師｣サービスに続々参入　アント､京東､バイトダンス…ビジネスモデルはまだ手探り | ビジネス | 東洋経済オンライン",
+    "summary": "中国のネットサービス大手が｢AI医師｣サービスに続々参入しています。名医の診療経験をAIに学習させて\"デジタル分身\"を作成し､一般患者向けの健康相談や医療従事者向けサポートを24時間提供。しかしビジ…",
+    "link": "https://toyokeizai.net/articles/-/962057?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-10-24T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9c66dee3b31a540f1eb1b15e1b91875a24269167",
+    "source": "NHKニュース",
+    "title": "キム総書記訪中 米朝交渉再開可能性見据え意思疎通のねらいか",
+    "summary": "北朝鮮のキム・ジョンウン（金正恩）総書記は、24日、中国東北部の都市を訪問し、中国共産党の最高指導部のメンバーと会談しました。北朝鮮が今後のアメリカとの交渉再開の可能性も踏まえ、中国と意思疎通を図るね…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261024de64966",
+    "published": "2026-10-24T20:15:25+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1599646e588cbc856ca98fa74ec42fb25649efd4",
+    "source": "Yahoo!ニュース 地域",
+    "title": "ナイフで同僚の左胸を刺し…殺人未遂の容疑でフィリピン国籍の男（28）を逮捕 愛知・半田市の社員寮(中京テレビＮＥＷＳ)",
+    "summary": "24日、愛知県半田市で職場の同僚の男性をナイフで刺し殺害しようとしたとしてフィリピン国籍の技能実習生の男が逮捕されました。殺人未遂の疑いで逮捕されたのはフィリピン国籍の技能実習生、ソンビロン・エドガー",
+    "link": "https://news.yahoo.co.jp/articles/1f731ddbf46409c471d8c32c89fac6e302dd01a2?source=rss",
+    "published": "2026-10-24T20:07:00+00:00",
+    "matched_keywords": [
+      "技能実習"
+    ]
+  },
+  {
+    "id": "313c022b222f0d7545c441c25a8a674fc8482f5c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "孔子学院は「安保上の脅威」　米国防総省、中国語教育機関に(共同通信)",
+    "summary": "【ワシントン共同】ヘグセス米国防長官は23日、米国内の大学にある中国語教育機関「孔子学院」について、米国の国家安全保障上の脅威に指定したと発表した。交流サイト（SNS）に投稿した動画で「知的財産を盗み",
+    "link": "https://news.yahoo.co.jp/articles/5f3d8673d21be667f5ec21822c4bc2d1be69dca1?source=rss",
+    "published": "2026-10-24T19:10:56+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "8989e4c2585d63e91438e0cc8df97777d19c56a7",
     "source": "Yahoo!ニュース 経済",
     "title": "チェリー（奇瑞汽車）、2027年に日本市場へ参入か オモダ＆ジェイクーのイベントで発表(Car Watch)",
@@ -9153,61 +9219,6 @@
     "summary": "戦争はどのようにして始まるのか。地政学者・戦略学者の奥山真司さんは「私の師であるコリン・グレイ氏は、戦争の原因として古代ギリシアの歴史家・トゥキディデスを引用しながら、恐怖、名誉、利益の3つを挙げてい",
     "link": "https://news.yahoo.co.jp/articles/74070c76beeea597170887c4c79df9768b38e453?source=rss",
     "published": "2026-10-10T22:15:42+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "30fe34ed602c33a12248bdc45d52afe351544ee9",
-    "source": "Yahoo!ニュース IT",
-    "title": "POCO F9 Ultraのベースモデル「REDMI K100 Pro Max」はバッテリー容量とカラバリに違いがある(ITmedia Mobile)",
-    "summary": "XiaomiのPOCOシリーズはコストパフォーマンスの高さから、日本でも人気を集めています。しかし、中国ではREDMIシリーズの中の「K」モデルとして販売されています。POCOの最新モデル「POCO",
-    "link": "https://news.yahoo.co.jp/articles/14a20db7691bd88c7781dd9529e5e3140282dd33?source=rss",
-    "published": "2026-10-10T21:05:09+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "e02fb9cb2e7245de1aea6549d27265eb0a8c42ff",
-    "source": "ITmedia 総合",
-    "title": "[ITmedia Mobile] POCO F9 Ultraのベースモデル「REDMI K100 Pro Max」はバッテリー容量とカラバリに違いがある",
-    "summary": "POCOの最新モデル「POCO F9 Ultra」は、185HzディスプレイやBoseスピーカーを搭載していますが、中国では「REDMI K100 Pro Max」として扱われています。",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2610/11/news001.html",
-    "published": "2026-10-10T21:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "87f339910630901826c582876d7c898726b728d1",
-    "source": "東洋経済オンライン",
-    "title": "中国の大卒新社会人｢残酷物語｣…入社1カ月で理由なき一斉解雇の絶望､SNS炎上で企業側もイメージ低下の代償 | ビジネス | 東洋経済オンライン",
-    "summary": "大学を卒業して就職したばかりの新入社員を､わずか1カ月余りで一斉解雇――。自動車用ランプ大手の星宇車灯で明るみに出た\"事件\"は､安定雇用を軽視する中国企業の実態を改めて浮き彫りにしました。弱い立場に…",
-    "link": "https://toyokeizai.net/articles/-/960438?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-10-10T21:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "dd1e93d552513a9fd6cb6843707c623b29eee6d4",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "日本女子初の快挙に王手！ 世界7位の中国撃破した“ほぼ無名”28歳に卓球王国震撼「日本人選手との難易度は格段に上がった」(THE DIGEST)",
-    "summary": "卓球のWTTツアー最上格の「グランドスマッシュ」に位置付けられる「WTTチャイナスマッシュ（中国・北京）」が現地10月10日に行なわれ、世界ランク13位の佐藤瞳が同7位の陳幸同（中国）に4-1（2-1",
-    "link": "https://news.yahoo.co.jp/articles/1b2a41f6355a6764987bd36d367a8ad1524d5fc4?source=rss",
-    "published": "2026-10-10T20:31:12+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f298610d486649df1db1baf2a081a2e7c628c937",
-    "source": "Yahoo!ニュース 国内",
-    "title": "平和へ脅威、世論調査で米国2位　「大統領が悪影響」8割超(共同通信)",
-    "summary": "公益財団法人「新聞通信調査会」は10日、メディアに関する全国世論調査の結果を公表した。世界平和への脅威となる国に米国を挙げた人が昨年から9.3ポイント増え、最多の中国（32.5％）に次ぐ26.8％とな",
-    "link": "https://news.yahoo.co.jp/articles/7f016f49ccb51e5868385b5a9ff324abe3c08185?source=rss",
-    "published": "2026-10-10T20:00:02+00:00",
     "matched_keywords": [
       "中国"
     ]
