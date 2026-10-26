@@ -1,5 +1,335 @@
 [
   {
+    "id": "ffd5456a490567a1694cd34ca228677d664bbd3a",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国DeepSeek、約150億ドル調達と報道。テンセントやCATLが出資、IPO準備も(あたらしい経済)",
+    "summary": "中国のAI開発企業ディープシーク（DeepSeek）が、最新の資金調達ラウンドで約1,000億元（約150億ドル、約2兆3,500億円）を調達したと、米「ブルームバーグ（Bloomberg）」が10月",
+    "link": "https://news.yahoo.co.jp/articles/632232fc1a7afdb7e3b822f362e7d0a3123d5e8b?source=rss",
+    "published": "2026-10-26T07:00:59+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "87c1a61f9544dc146e27acf17d5f4395fa3cce73",
+    "source": "Yahoo!ニュース 地域",
+    "title": "10年に1度の寒さ　11月1日頃から　平年に比べ北海道で-2.4℃以下、東北で-2.0℃以下　農作物の管理などに注意を呼びかけ　【早期天候情報・北海道・東北・関東甲信・北陸・東海・近畿・中国・四国・九州・奄美・沖縄の2週間気温予報】(UTYテレビ山梨)",
+    "summary": "気象庁は10月26日に早期天候情報を発表しました。それによりますと、5日間平均気温平年差が北海道で-2.4℃以下、東北で-2.0℃以下と、11月1日頃から平年よりかなりの低温になる見込みです。【写真で",
+    "link": "https://news.yahoo.co.jp/articles/431ce933c5ecbcacbf0f728e39c7799208947505?source=rss",
+    "published": "2026-10-26T07:00:33+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cc3f23ed97850976237c4941c4b22d07360f91c5",
+    "source": "Yahoo!ニュース 国内",
+    "title": "福田康夫元首相が死去「あなたとは違うんです」総理辞任時の会見話題に　中国との関係改善に尽力(日刊スポーツ)",
+    "summary": "第91代内閣総理大臣を務め、小泉純一郎内閣の官房長官としても存在感をみせた福田康夫（ふくだ・やすお）さんが22日、亡くなった。90歳。26日、自民党が発表した。葬儀は近親者のみで行われ、後日、本葬が営",
+    "link": "https://news.yahoo.co.jp/articles/3b694b76b3a9d689cecc3e504b553ed67ddb88d1?source=rss",
+    "published": "2026-10-26T06:58:49+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "16d52f9a500f218c4c9eb4d1c108fb1f65aa9af6",
+    "source": "Yahoo!ニュース 国際",
+    "title": "台湾を衛星で撮影・作成 中国政府が精密映像公開(ABEMA TIMES)",
+    "summary": "中国の国防省は、台北市にある故宮博物院など台湾の主要スポットを衛星で撮影したとする精密な映像を公開しました。【映像】中国政府が公開した精密な映像 国防省が25日に公開した映像には、台湾の故宮博物院や橋",
+    "link": "https://news.yahoo.co.jp/articles/8f3322c94ed882b4a0c454d1de33e8692d0a12db?source=rss",
+    "published": "2026-10-26T06:54:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c9f6a9a104247d89df50d0d56747f178d5e0180a",
+    "source": "Yahoo!ニュース 経済",
+    "title": "機体、桜を前面にデザイン刷新　スプリング・ジャパン(共同通信)",
+    "summary": "成田空港を拠点に中国路線を中心に展開する格安航空会社（LCC）「スプリング・ジャパン」は26日、桜をモチーフに刷新したブランドロゴや機体のデザインを公開した。浅見達朗社長は記者会見で「最高にかわいい。",
+    "link": "https://news.yahoo.co.jp/articles/0d997a28af68c78ee6d6e61deb5d87cb1ceabddb?source=rss",
+    "published": "2026-10-26T06:39:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "e2b340c598d4429f0fd9c8a11540ecef92ec1589",
+    "source": "Yahoo!ニュース 国内",
+    "title": "福田氏は日中関係を大事にしたと石破氏(共同通信)",
+    "summary": "石破茂前首相は26日、福田康夫元首相の死去を受け、記者団に「本当に立派な方だった。中国との関係を誠心誠意、大事にしなければならないということが、福田氏の教えだった」と述べた。",
+    "link": "https://news.yahoo.co.jp/articles/69b870586d8ca613bc042d65e4ede455ddefb5a7?source=rss",
+    "published": "2026-10-26T06:29:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d7201ebeed4bcccda98e2737dac30c6a7e851712",
+    "source": "Yahoo!ニュース 国際",
+    "title": "メッカ防衛同盟の高官がイラン訪問へ(共同通信)",
+    "summary": "【テヘラン共同】イラン国営テレビは26日、中東地域での集団防衛の枠組み「メッカ防衛同盟」に参加するサウジアラビア、トルコ、パキスタンの高官がイランの首都テヘランを訪問すると報じた。中東情勢について意見",
+    "link": "https://news.yahoo.co.jp/articles/a806341de5bd45fe0c8cf5c0af602bc2ec00f528?source=rss",
+    "published": "2026-10-26T06:16:25+00:00",
+    "matched_keywords": [
+      "パキスタン"
+    ]
+  },
+  {
+    "id": "cebda04abf9001a2dadb4cb76002b23c0575a579",
+    "source": "Yahoo!ニュース 国内",
+    "title": "＜評伝＞福田康夫氏死去『影』でこそ出せた存在感、中国は「面倒な隣人でも付き合わねば」(産経新聞)",
+    "summary": "第91代首相を務めた福田康夫（ふくだ・やすお）氏が22日、死去した。90歳だった。群馬県出身。昭和11年に後の第67代首相、福田赳夫（たけお）氏の長男として生まれ、平成19年に憲政史上初となる親子での",
+    "link": "https://news.yahoo.co.jp/articles/c9d8a6c7250981c9a5de7fb00e048677ad2318e5?source=rss",
+    "published": "2026-10-26T06:10:03+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cad627322d8e49210471f53d2eb7a2c37bb41be5",
+    "source": "Yahoo!ニュース 経済",
+    "title": "「完成車メーカー上位10社のうち6社が中国企業になる」(ニュースイッチ)",
+    "summary": "「2035年までに世界の完成車メーカー（OEM）上位10社のうち6社が中国企業になる」。KPMGが22日発表した「第26回グローバル・オートモーティブ・エグゼクティブ・サーベイ2026」によると、世界",
+    "link": "https://news.yahoo.co.jp/articles/02061963e47cd52e06736c27591bf4c6561e65cf?source=rss",
+    "published": "2026-10-26T06:10:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "35169ac4012e3438327d926aac9d8541b174381b",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国で5中総会が開幕　習総書記が活動報告、主要議題の「厳格な党内統治」を説明(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国国営新華社通信は26日、中国共産党の重要会議である「第20期中央委員会第5回総会（5中総会）」が同日午前に北京で開幕したと伝えた。会議では「厳格な党内統治」が主要議題となる。26",
+    "link": "https://news.yahoo.co.jp/articles/73eaec3558ae381593ba034d794e6c92e28b9e7e?source=rss",
+    "published": "2026-10-26T06:08:57+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cd6beb26f0e6b2db8fc0fdb8f67e53a825a72486",
+    "source": "朝日新聞",
+    "title": "中国、なぜ再び「反腐敗」？　5中全会に臨む習近平指導部の狙いは",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASVBT2H4PVBTUHBI01LM.html?ref=rss",
+    "published": "2026-10-26T06:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6ccfc903e69797365a5cd0fa9e446d0394f7c648",
+    "source": "朝日新聞",
+    "title": "中国、なぜ再び「反腐敗」？　5中全会に臨む習近平指導部の狙いは",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBT2H4PVBTUHBI01LM.html?ref=rss",
+    "published": "2026-10-26T06:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7a2f4c5801943bda3b8a4071ba11d14b8968be1e",
+    "source": "Yahoo!ニュース 経済",
+    "title": "レトロ顔に現代の電子機能が融合！ 奇瑞汽車の新型SUV「iCAUR V25」登場(Auto Messe Web)",
+    "summary": "中国の奇瑞汽車グループが展開する新ブランド「iCAUR」が、新型SUV「V25」を中国・蕪湖で世界初公開。クラシックな丸型ヘッドライトと角張ったボディを組み合わせた「Future-Classic」デザ",
+    "link": "https://news.yahoo.co.jp/articles/cade856b0e1421cc74cb7251dd292c80ae397fa3?source=rss",
+    "published": "2026-10-26T05:40:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3e8d9bc3c477593f0e02db1c30e5563f70d1d6ab",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「厳格な党統治の推進」議論へ　中国共産党の重要会議「5中全会」開幕(テレビ朝日系（ANN）)",
+    "summary": "中国共産党の重要会議「5中全会」が26日から始まりました。近年相次ぐ党幹部の汚職問題などを念頭に「厳格な党統治」を継続するための重要方針が議論されます。 中国メディアによりますと、習近平国家主席ら指導",
+    "link": "https://news.yahoo.co.jp/articles/c5e53920cf20308633ab3a7a8f790826ef2e67a9?source=rss",
+    "published": "2026-10-26T05:34:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "67c272c4bfcd4960b96b1e478bf62158484f6ced",
+    "source": "Yahoo!ニュース トピックス",
+    "title": "福田元首相が死去 中国でも速報",
+    "summary": "",
+    "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss",
+    "published": "2026-10-26T05:26:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "041d9b40db091be1d2e12f7422f152c4d21fafb7",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia PC USER] AI連携機能も備えた小型軽量ボイスレコーダー「RoroLee」　Makuakeで先行販売を開始",
+    "summary": "KamaCrafyは、中国Deotaland製となる小型軽量ボイスレコーダー「RoroLee」の国内取り扱いを開始する。",
+    "link": "https://www.itmedia.co.jp/pcuser/articles/2610/26/news066.html",
+    "published": "2026-10-26T05:25:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "69f03ec9582413bd60a9d0601fea9c973094ccdf",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国政府が精密映像公開　台湾を衛星で撮影・作成(テレビ朝日系（ANN）)",
+    "summary": "中国の国防省は、台北市にある故宮博物院など台湾の主要スポットを衛星で撮影したとする精密な映像を公開しました。 国防省が25日に公開した映像には、台湾の故宮博物院や橋などの衛星画像のほかに、衛星を使って",
+    "link": "https://news.yahoo.co.jp/articles/3da77140635e1ef523ab8b991ee07ede4db2439d?source=rss",
+    "published": "2026-10-26T05:21:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6e03f30d2d066b9850537bf7f9a1786065547544",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国南方航空が「マカオ～広州線」を新設…12月10日より毎日運航、C919型機も投入(マカオ新聞)",
+    "summary": "マカオ国際空港の運営会社にあたる澳門國際機場專營股份有限公司（CAM）と中国南方航空は10月23日、マカオ国際空港で合同会見を開き、中国南方航空がマカオと広州（広州白雲国際空港）を結ぶ新路線を2026",
+    "link": "https://news.yahoo.co.jp/articles/fe6f39dd1b838ea577fcdaf3f90ba3983085088f?source=rss",
+    "published": "2026-10-26T05:20:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ae13a00063e2fda8e01d1db643a56971c9d4bb93",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国国営通信が福田元首相の死去速報(共同通信)",
+    "summary": "【北京共同】中国国営通信新華社は26日、日本メディアの報道を引用して福田康夫元首相の死去を速報した。",
+    "link": "https://news.yahoo.co.jp/articles/7174bf25cada28900cfc71553b37550fe3f9835d?source=rss",
+    "published": "2026-10-26T05:14:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9b66c7b98eba783c6b6f252b3b3bf74ebfe3c21b",
+    "source": "朝日新聞",
+    "title": "【そもそも解説】中国で始まった「5中全会」って?　注目点を解説",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASVBT15BDVBTUHBI014M.html?ref=rss",
+    "published": "2026-10-26T05:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "38fb9306ad0524e55df3fb90773c8f0f2f65fc06",
+    "source": "朝日新聞",
+    "title": "【そもそも解説】中国で始まった「5中全会」って?　注目点を解説",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBT15BDVBTUHBI014M.html?ref=rss",
+    "published": "2026-10-26T05:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "256c74ab032067fb185fbdccd8a831afef15367d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "金正恩氏と相次いで会った中国の王滬寧氏…朝中関係でカギ握る人物に(ハンギョレ新聞)",
+    "summary": "24日に中国の丹東で北朝鮮の金正恩（キム・ジョンウン）国務委員長を出迎えた中国の権力序列4位の王滬寧全国人民政治協商会議（政協）主席が、朝中関係と朝鮮半島情勢における主要人物として浮上している。 王滬",
+    "link": "https://news.yahoo.co.jp/articles/3df4112b04085aea2351b085cface0730dbc048b?source=rss",
+    "published": "2026-10-26T04:49:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "02b38fe55f5357828103767c1429d732eb765ce3",
+    "source": "Yahoo!ニュース 国際",
+    "title": "日帰り旅行のように…車で中国に渡った金正恩委員長、その背後にある計算（2）(中央日報日本語版)",
+    "summary": "◆序列2位ではなく4位を派遣した習主席…「米国に負担を感じたか」こうした表現は、今年6月に中国の習近平国家主席が平壌（ピョンヤン）を訪問した際には見られなかった。北朝鮮は通常5年や10年単位の「周年」",
+    "link": "https://news.yahoo.co.jp/articles/99c47363045ba5a2ed7a1a75430c9557785610c4?source=rss",
+    "published": "2026-10-26T04:44:58+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5c1b043d60ddeafc5aca6682ed55ac1e10dbf9cd",
+    "source": "Yahoo!ニュース 国際",
+    "title": "日帰り旅行のように…車で中国に渡った金正恩委員長、その背後にある計算（1）(中央日報日本語版)",
+    "summary": "誰もいない新鴨緑江（アムノッカン）大橋を黒のメルセデスベンツのマイバッハが滑るように走行した。中国遼寧省丹東に到着したマイバッハから降りてきたのは北朝鮮の金正恩（キム・ジョンウン）国務委員長だった。中",
+    "link": "https://news.yahoo.co.jp/articles/d49c81564d6c1be7adb83eb5be1937bb15f178fa?source=rss",
+    "published": "2026-10-26T04:44:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fbe5a9dba6005fc576376670a40e6b755a9b6941",
+    "source": "朝日新聞",
+    "title": "中国共産党「5中全会」が開幕　習氏の4期目向け、党内引き締めへ",
+    "summary": "",
+    "link": "http://www.asahi.com/articles/ASVBV1FCQVBVUHBI02DM.html?ref=rss",
+    "published": "2026-10-26T04:41:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "37dcf0e2259e133a62027f559974ac3495ae9a07",
+    "source": "朝日新聞",
+    "title": "中国共産党「5中全会」が開幕　習氏の4期目向け、党内引き締めへ",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBV1FCQVBVUHBI02DM.html?ref=rss",
+    "published": "2026-10-26T04:41:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "eba214e5acfea25cebb66bdbdb68cc58b3f0865d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "金総書記の訪中、朝米首脳会談の再開のシグナルか？…「年内会談の可能性は低い」(ハンギョレ新聞)",
+    "summary": "北朝鮮の金正恩（キム・ジョンウン）国務委員長の中国訪問を機に、朝米首脳会談が再開される可能性に関心が集まっている。だが、今回の訪問の性格や朝米間の接触状況などから、首脳会談に向けた事前調整の可能性は低",
+    "link": "https://news.yahoo.co.jp/articles/dacdcab4c25227973962786af34c34e69b80d4cb?source=rss",
+    "published": "2026-10-26T04:28:26+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7bfe40c7a771fd67783e82a00d3061c825b4e849",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国共産党、「5中総会」が開幕　「厳格な党統治の推進」を討議(共同通信)",
+    "summary": "【北京共同】中国共産党の重要会議、第20期中央委員会第5回総会（5中総会）が26日、北京で始まった。新華社が報じた。「厳格な党統治の推進」が主な議題で会期は29日まで。5年に1度の共産党大会を来年後半",
+    "link": "https://news.yahoo.co.jp/articles/5f0b687b2937d1127c0bd8481183653e8397ee85?source=rss",
+    "published": "2026-10-26T04:27:26+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "45aa885a516fdaab79706859ffef288c4c3431cf",
+    "source": "Yahoo!ニュース 国際",
+    "title": "モンゴルの自然保護区を焼失させたKDDI子会社　地元メディアの反応は(クーリエ・ジャポン)",
+    "summary": "10月8日、モンゴル東部のヌムルグ自然保護区で大規模な草原火災が発生し、火は中国国境近くまで燃え広がった。【画像】中国メディアは「我々にも謝罪を」と要求モンゴル環境気候変動省が発表した暫定値によると、",
+    "link": "https://news.yahoo.co.jp/articles/c7c939f5fb810a5f1f499698c22bebd5f23805ab?source=rss",
+    "published": "2026-10-26T04:05:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "47532e2e3d24091989519aa5cc51227274ae2351",
+    "source": "ハフポスト日本版",
+    "title": "良品計画が最高益、営業益は初の1000億円超。来期は売上1兆円視野。無印良品では冬の定番「ボンボンショコラ」も話題",
+    "summary": "<div class=\"content-list-component text\"><h2><strong>冬の定番「ボンボンショコラ」が話題</strong></h2><p>肌寒さが増すこの時期、「無印良品」の店頭で注目を集めているのが、10月上旬に発売された季節限定の「ボンボンショコラ」だ。</p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6adb0af0e4b027da9ae5495a\">美味しそう…！無印で話題の「ボンボンショコラ」</a></p><p>「<a href=\"https://www.muji.com/jp/ja/store/cmdty/detail/4550583828318\" rel=\"noopener noreferrer\" target=\"_blank\">ヘーゼルナッツ＆塩キャラメル</a>」「<a href=\"https://www.muji.com/jp/ja/store/cmdty/detail/4550583483500\" rel=\"noopener noreferrer\" target=\"_blank\">宇治抹茶＆ほうじ茶</a>」「<a href=\"https://www.muji.com/jp/ja/store/cmdty/detail/4550584445576\" rel=\"noopener noreferrer\" target=\"_blank\">ラムレーズン＆フィグブランデー</a>」の3種類で、いずれも2つの味を3粒ずつ詰め合わせた6粒入り、税込550円。濃厚な味わいとなめらかな口どけが特長で、SNSでは「すぐ売り切れる」との声も上がっている。ネットストアでの販売は11月中旬からの予定だ。</p><h2><strong>営業利益、初の1000億円超え</strong></h2><p>「無印良品」を展開する良品計画が10月14日に発表した2026年8月期（25年9月〜26年8月）の<a href=\"https://ssl4.eir-parts.net/doc/7453/tdnet/2894570/00.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">連結決算</a>は、売上高にあたる営業収益が前期比17.7％増の9235億円、本業のもうけを示す営業利益が40.1％増の1034億円だった。営業利益が1000億円を超えるのは初めて。純利益も50.3％増の764億円と大きく伸びた。</p><p>国内外での出店で店舗数が増えたことに加え、特に海外事業の売り上げが伸び、円安も追い風となった。同社は7月に通期の営業利益予想を980億円へ上方修正していたが、実績はこれも上回った。</p><p>利益率も改善した。生産体制の内製化による原価の引き下げや、値下げの抑制が効き、営業利益率は前期の9.4％から11.2％に上昇した。</p><p>地域別では、国内事業の利益が21.6％増の633億円、中国などの東アジア事業が44.2％増の616億円となり、海外の利益が国内にほぼ並ぶ水準まで育っている。</p><h2><strong>来期は売上1兆円超え、配当38円を維持</strong></h2><p>2027年8月期については、営業収益が9.8％増の1兆140億円と初めて1兆円の大台に乗る計画だ。営業利益は10.2％増の1140億円を見込み、4期連続の過去最高を目指す。</p><p>一方、純利益は4.5％減の730億円を予想している。株主への還元では、2026年8月期の期末配当を当初予定の16円から22円に引き上げ、年間配当を38円とした。来期も年間38円を維持する方針だ。</p><h2><strong>好決算受け、株価急伸</strong></h2></div><div><img alt=\"Trading View提供「良品計画」（7453）株価チャート（6カ月）\" src=\"https://img.huffingtonpost.com/asset/6adead04180000ae50250a54.png?ops=scalefit_630_noupscale\" />Trading View提供「良品計画」（7453）株価チャート（6カ月）</div><div class=\"content-list-component text\"><p>市場は決算を好感した。決算翌日の10月15日、良品計画の株価は前日比9.5％高の4804円で取引を終え、取引時間中には4855円まで上昇して年初来高値を<a href=\"https://finance.yahoo.co.jp/quote/7453.T/history\" rel=\"noopener noreferrer\" target=\"_blank\">更新</a>した。同日は日経平均株価が下落しており、逆行高が際立った。</p><p>その後は利益確定売りに押され、26日午前は4600円台で推移した。それでも年初来安値（1月8日の2770円）から約7割高い水準にある。</p><p></p><p>※本記事は、事例として取り上げた金融商品の売買を勧めるものではありません。本記事に記載した情報によって読者に発生した損害や損失に関しては、発行媒体は一切責任を負いません。投資における最終決定はご自身の判断で行ってください。</p><p>※株価データは2026年10月26日時点。</p><p> 【合わせて読みたい】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6a6ad887e4b098352c30b0ab\">無印良品、肌の潤いを守るインナー『着るスキンケア』発売。好決算の良品計画、海外事業けん引で成長続く</a></p></div><p><a href=\"https://www.huffingtonpost.jp/news/money/\"><img src=\"https://img.huffingtonpost.com/asset/6904817c2300002a86be1fbb.jpg\" width=\"100%\" /></a></p><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6adb0af0e4b027da9ae5495a\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6adc19da140000641be01407.jpg?cache=85axf44Y6r&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6adb0af0e4b027da9ae5495a\">【画像】良品計画が最高益、営業益は初の1000億円超。来期は売上1兆円視野。無印良品では冬の定番「ボンボンショコラ」も話題</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad7004ae4b061c2be45e552\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6ad70b061c0000dc70265bd6.jpg?cache=EeAsUkoyKW&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad7004ae4b061c2be45e552\">ファストリ株が2%高と反発、ユニクロ「感動」シリーズ値上げを市場が好感。靴下まとめ買いも終了へ</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad2c974e4b0dccf572c226f\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6ad4630b2700005d9b989e8e.jpg?cache=wpOOM9j1iX&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad2c974e4b0dccf572c226f\">片山さつき財務相、日本初の世銀・IMF合同開発委議長に。高市首相「とても誇りに思う」議長の役割とは？</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6adb0af3e4b027da9ae5495b\">...クリックして全文を読む</a></p>",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_6adb0af3e4b027da9ae5495b",
+    "published": "2026-10-26T02:36:23+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "e41a648685ccf8280e9562df6163e54bcc9d0b3d",
     "source": "Yahoo!ニュース スポーツ",
     "title": "完勝ルバキナ 自身初の大会連覇で15度目ツアー制覇、世界1位として初V飾り東京へ＜女子テニス＞(tennis365.net)",
@@ -9420,116 +9750,6 @@
     "published": "2026-10-12T07:04:24+00:00",
     "matched_keywords": [
       "ネパール"
-    ]
-  },
-  {
-    "id": "ed0204d904d6199ab291ffc390c64cb50b2eb427",
-    "source": "毎日新聞",
-    "title": "オピ注目:濁流にのまれた街「土地さえ無い」　NGOが見たネパール被災地",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261009/k00/00m/030/150000c",
-    "published": "2026-10-12T07:00:15+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "6d9064acb5702f932202e3dd4ea556c3ac2533bf",
-    "source": "Yahoo!ニュース 国際",
-    "title": "台湾の林昀儒が準優勝　卓球チャイナスマッシュ・男子シングルス　決勝で松島に惜敗(中央社フォーカス台湾)",
-    "summary": "（台北中央社）卓球のチャイナスマッシュは11日、男子シングルス決勝が中国の北京で行われ、台湾の林昀儒（世界ランク6位）は日本の松島輝空（同1位）に3―4で敗れ、準優勝となった。同大会はワールドテーブル",
-    "link": "https://news.yahoo.co.jp/articles/50f4d53f61e6ce3c2526ff421f22ad8f055ff4df?source=rss",
-    "published": "2026-10-12T06:53:21+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3b539266e46c2fec54ac7644153b74133806f7f1",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【速報】中国道でトラック炎上　消火活動続く　けが人はなし　西宮山口ジャンクション付近(ABCニュース)",
-    "summary": "１２日正午前、中国自動車道下りの西宮山口ジャンクション付近でトラックが燃えました。けが人は確認されていないということです。マツタケ狩りのため入山した高齢男性 6.4ｍ下の河原に滑落し死亡 奈良・十津川",
-    "link": "https://news.yahoo.co.jp/articles/a927a13e97bda61041d6c0c073240bc0b177393b?source=rss",
-    "published": "2026-10-12T03:53:22+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f85fa890f49687252461db201d2cc2889c6e92fa",
-    "source": "Yahoo!ニュース 経済",
-    "title": "吉利、NIOの電池交換子会社に30%出資へ　配車向けEVの充電時間「1日最大90分短縮」(36Kr Japan)",
-    "summary": "中国の自動車大手・吉利グループ（Geely）と電気自動車（EV）メーカー「蔚来汽車（NIO）」は2026年9月28日、EVの充電・電池交換事業をめぐる戦略的提携を結んだと発表した。両社は互いに相手方の",
-    "link": "https://news.yahoo.co.jp/articles/4a30fbdc1c5063400d9b11bd405f16d839191640?source=rss",
-    "published": "2026-10-12T03:30:32+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "777513e79cde4c9ca8653840b5d757cbed96f312",
-    "source": "Yahoo!ニュース 経済",
-    "title": "広島－鳥取を直結する「ナナメ横断バイパス」どこまでできた？ 芸備線と伯備線をショートカット！ 最長トンネル貫通もなお課題(乗りものニュース)",
-    "summary": "国土交通省 中国地方整備局は2026年10月、国道183号「鍵掛（かっかけ）峠道路」の事業再評価を実施しました。【中国山地ナナメ横断の\"鍵”】これが「鍵掛峠道路」の進捗です（地図／画像） この事業は、",
-    "link": "https://news.yahoo.co.jp/articles/db29d4e3fb2ca7e8a77131bdb0504cc027bbdf62?source=rss",
-    "published": "2026-10-12T03:12:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f6c353cc1f821628284d68351d2ddd2a6f7a99aa",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「アジアのマドンナ」と呼ばれた香港の女優、故アニタ・ムイさんの骨壺が消える(中央日報日本語版)",
-    "summary": "香港の伝説的な女優で歌手の故アニタ・ムイさん（中国名・梅艶芳）の骨壺がなくなり、現地警察が捜査に乗り出していたことが後になって明らかになった。12日（現地時間）、香港メディアによると、アニタ・ムイさん",
-    "link": "https://news.yahoo.co.jp/articles/b66a31cae769448637ac4080c4f50033020fb8c3?source=rss",
-    "published": "2026-10-12T03:00:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7b37b5dc792bf2c57b52e5772ea9b74f65f88e6c",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ブディ･ガンダキ川で鉄砲水発生　ネパール北部で住民が緊急避難(AP通信)",
-    "summary": "カトマンズ、ネパール、10月12日 (AP) ー ネパール中北部を流れるブディ・ガンダキ川沿いの地域で11日、家屋やその他の構造物を破壊する勢いの鉄砲水が発生したため、住民が高台へ避難を余儀なくされた",
-    "link": "https://news.yahoo.co.jp/articles/16d38d5f332cbeb7a80c4098aa01bc0a9db721f4?source=rss",
-    "published": "2026-10-12T02:41:11+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "c7fa9ad90c0206afc5eac6f2bbe3dc5c955b41c2",
-    "source": "Yahoo!ニュース 経済",
-    "title": "【イベント告知】ハーレーダビッドソン「BLUE SKY MEETING 広島福山」11月3日に開催、中国・四国エリアでは初(Webikeプラス)",
-    "summary": "ハーレーダビッドソン ジャパンは、ライダーや家族連れを対象にした1Dayカルチャーイベント「BLUE SKY MEETING 広島福山」を、11月3日（火・祝）に広島県福山市の芦田川かわまち広場/親水",
-    "link": "https://news.yahoo.co.jp/articles/a9e585b04b6cc8986e348923176d5cfec979f519?source=rss",
-    "published": "2026-10-12T02:40:05+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "335a6f3495f82096f9867288506d1c2cbdbbeeeb",
-    "source": "Yahoo!ニュース 国際",
-    "title": "徐坰徳教授、アリランやパンソリなど中国文化遺産指定に「積極的に対応すべき」(中央日報日本語版)",
-    "summary": "韓国誠信（ソンシン）女子大学の徐坰徳（ソ・ギョンドク）教授が、中国が「アリラン」と「パンソリ」など韓国の伝統文化を自国の国家級無形文化遺産に指定した事例と関連し、韓国政府の積極的な対応を促した。徐教授",
-    "link": "https://news.yahoo.co.jp/articles/441878a841cfca6384abbcfeb05f8ca34ad777c2?source=rss",
-    "published": "2026-10-12T02:28:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "eab1ee034707afa10c012c87ec5388649bfddf30",
-    "source": "Yahoo!ニュース 国際",
-    "title": "テスラに韓国市場を奪われるか…就任６年目の現代自動車グループ会長の課題は(ハンギョレ新聞)",
-    "summary": "現代自動車の韓国市場における地位が揺らいでいる。今年の韓国国内での乗用車のモデル別販売台数で、テスラの「モデルY」が現代自動車の代表車種「グレンジャー」を上回った。中国で製造される電気自動車（EV）が",
-    "link": "https://news.yahoo.co.jp/articles/5285d64d0ebaf92a1d6a3e12a423a822bebda3ac?source=rss",
-    "published": "2026-10-12T01:49:53+00:00",
-    "matched_keywords": [
-      "中国"
     ]
   }
 ]
