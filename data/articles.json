@@ -1,5 +1,193 @@
 [
   {
+    "id": "bd8c333b72f571b3bc63400d50fe5ff67a6d88b5",
+    "source": "Yahoo!ニュース 国際",
+    "title": "工事責任者の起訴求める　ベトナムのプール事故で捜査当局(共同通信)",
+    "summary": "【ハノイ共同】ベトナム南部のリゾートホテルのプールで2022年、ホーチミン市在住の会社員塙義一さんの長男幸士さん＝当時（10）＝がプール壁面の排水口に引きつけられて溺死した事故で、プールの工事関係者の",
+    "link": "https://news.yahoo.co.jp/articles/cf821f4b6fecb2825d91edff2cf74b2268001be4?source=rss",
+    "published": "2026-10-30T15:22:48+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "6981b72cb9385e952dc341fec22245e5db68cae6",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "奈良岡功大は準々決勝敗退　バドミントンのハイロ・オープン(共同通信)",
+    "summary": "バドミントンのハイロ・オープンは30日、ドイツのザールブリュッケンで行われ、男子シングルスの奈良岡功大（NTT東日本）は準々決勝でジョナタン・クリスティ（インドネシア）に1―2で敗れた。（共同）",
+    "link": "https://news.yahoo.co.jp/articles/4ce69c32e4812633a11460fae3f89ff8488efb49?source=rss",
+    "published": "2026-10-30T15:10:35+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "fbbd7aa6f0997f09b2dc14506fdad294aae1dc58",
+    "source": "Yahoo!ニュース 国際",
+    "title": "今日の歴史（10月31日）(聯合ニュース)",
+    "summary": "1953年：大韓商工会議所と24の地方商工会議所が公法人として認可され改編・発足1959年：ブラジルと国交樹立1961年：オーストラリアと国交樹立1964年：ベトナムと韓国軍派兵に関する協定を締結19",
+    "link": "https://news.yahoo.co.jp/articles/cf85f8c4f3241bc8678b2d817e2a8b14eab6eadd?source=rss",
+    "published": "2026-10-30T15:00:01+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "d0e4d63b9e195814dd08eeb41549b5faa815740a",
+    "source": "Yahoo!ニュース 地域",
+    "title": "【台風情報】非常に強い台風31号（インファ）最大瞬間風速65m/s 中心気圧940hPa 1日には小笠原近郊でほとんど停滞か ※雨と風のシミュレーション（気象庁）(RCC中国放送)",
+    "summary": "非常に強い勢力の台風31号は30日午後9時45現在、マリアナ諸島を時速35kmの速さで西北西へ進んでいます。【画像で確認】台風31号の予想進路と雨と風のシミュレーション気象庁によりますと、31日午前9",
+    "link": "https://news.yahoo.co.jp/articles/f132351f8b543196b479fc3951e3aa9e54f15ede?source=rss",
+    "published": "2026-10-30T14:22:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "39aef608ac4c1f378e9300059bde3babed5a1487",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習氏「公平な市場環境」要望　ドイツ大統領と会談(共同通信)",
+    "summary": "【北京、ベルリン共同】中国の習近平国家主席は30日、北京でドイツのシュタインマイヤー大統領と会談した。国営通信の新華社が伝えた。習氏は「中国は高水準な（市場の）対外開放を推進する」とした上で「進出する",
+    "link": "https://news.yahoo.co.jp/articles/d7941ebd3abbfe4d78263b4a9e82ab977780127f?source=rss",
+    "published": "2026-10-30T13:45:28+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b567cb67d06e55187db2878aad1a3732f7535db4",
+    "source": "Yahoo!ニュース IT",
+    "title": "DeepSeek、Kimi、Qwen…「高性能で安い」中華製AI、なぜ有力モデルが相次ぐのか？(リアルサウンド)",
+    "summary": "10月17日、中国のDeepSeek（ディープシーク）が新しいAIモデルを発表した。同社が公表したプログラミングなどの一部の評価では、米国の有力モデルを上回る成績を記録。しかも、開発者向けの出力料金は",
+    "link": "https://news.yahoo.co.jp/articles/cf76d16cfa8960a2a4a6c7c1d33157b7e425990a?source=rss",
+    "published": "2026-10-30T13:23:25+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c7a03723a4c3c8e1250899124fd9fa1e1c668909",
+    "source": "Yahoo!ニュース 国内",
+    "title": "【独自】中国「最大の戦略的挑戦」維持案　国家安保戦略、「脅威」は見送り(共同通信)",
+    "summary": "政府が年内に改定する安全保障関連3文書の一つ国家安保戦略で、中国の対外姿勢や軍事動向について「最大の戦略的な挑戦」とする現行の表現を維持する案が浮上していることが分かった。敵対国に用いられる例が多い「",
+    "link": "https://news.yahoo.co.jp/articles/6d0870f7411fc7a594ec9e1fb88fc4a80a214d77?source=rss",
+    "published": "2026-10-30T12:00:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "30dc7e3143108169c23b0eb7c3805b00f1fe0725",
+    "source": "Yahoo!ニュース 経済",
+    "title": "ユニクロ上海リニューアル　店舗数拡大から選択集中へ(共同通信)",
+    "summary": "【上海共同】中国・上海で30日、衣料品店ユニクロのグローバル旗艦店がリニューアルオープンした。消費が低迷する中国で、ユニクロは店舗数拡大から既存店の改装や閉鎖で選択と集中を進め、収益性を高める方向へか",
+    "link": "https://news.yahoo.co.jp/articles/37e7f2dedfd44c0b41f937fb46e08e492808dc6d?source=rss",
+    "published": "2026-10-30T11:19:35+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cf1d521984ab74c9840115693616354d737bf76f",
+    "source": "朝日新聞",
+    "title": "キオクシア、純利益が前年37倍　株価は乱高下、中国勢追い上げで影",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBZ3PL2VBZULFA029M.html?ref=rss",
+    "published": "2026-10-30T11:14:49+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "750402b5cef2a9cf03c92048ee82345aced7b502",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「まるでロケット」 電動バイクから“火柱”噴き出す　中国でバッテリー火災相次ぐ(テレビ朝日系（ANN）)",
+    "summary": "目撃されたのは、轟音（ごうおん）とともに噴き出す炎。 夜の街が騒然となりました。 現場は、中国南東部・福建省の市街地です。突然、1台の電動バイクから高さ数メートルはあろうかという火柱が。この映像がSN",
+    "link": "https://news.yahoo.co.jp/articles/97c91dac3671f82936761c35350f7033c2d844ea?source=rss",
+    "published": "2026-10-30T11:10:11+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "33fbad350f45fed67633247121b9547d07130c44",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「党への不忠や面従腹背は一掃」　中国共産党が5中総会受け会見で強調　党大会へ引き締め(産経新聞)",
+    "summary": "【北京＝三塚聖平】中国共産党は30日、前日閉幕した重要会議、第20期中央委員会第5回総会（5中総会）を受け北京で記者会見を行った。党の人事を統括する中央組織部の黄建発副部長は、「党に対して不忠、面従腹",
+    "link": "https://news.yahoo.co.jp/articles/aeb2560de626980df9b1927d9e3856f3291a6782?source=rss",
+    "published": "2026-10-30T10:46:31+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "88b193bbb92a168afb7b6ccb7f2c53c2ab3dbf37",
+    "source": "朝日新聞",
+    "title": "島根原発2号機、40年超の運転をめざす考え　中国電社長が表明",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVBZ2SX0VBZPLFA00BM.html?ref=rss",
+    "published": "2026-10-30T10:27:07+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "94baa163c82520563d882506685a6eafd7e91d05",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国共産党「不忠者」排除　幹部の厳格管理強調(共同通信)",
+    "summary": "【北京共同】中国共産党は30日、北京で記者会見を開き、第20期中央委員会第5回総会（5中総会）で採択された「厳格な党統治」に関する決定について説明した。「厳格な党統治の鍵は幹部の厳格な管理にある」とし",
+    "link": "https://news.yahoo.co.jp/articles/33a71db78a014b490f3b81aa0f82ecfa26b21fa0?source=rss",
+    "published": "2026-10-30T10:14:57+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d4807369425cd544c753f0ddb5afc9625e6184ad",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米エヌビディアCEOに中国の女性工作員が接近か　中国政府に情報を流していた疑い(テレビ朝日系（ANN）)",
+    "summary": "アメリカの半導体大手CEOに中国人の女性工作員が接近し、情報を流出させた疑いです。 黒の革ジャンがトレードマーク。AI半導体で世界を席巻するアメリカのエヌビディアのCEO（最高経営責任者）、ジェンスン",
+    "link": "https://news.yahoo.co.jp/articles/8843a8fc6d35946e98ef5904eb9c8fcf0e4f6c4e?source=rss",
+    "published": "2026-10-30T09:52:39+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3acf7aa983059dd8d566da79a6c5e47b163e5908",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ユニクロ上海が刷新　海外からの旅行客“過去最多”でインバウンド需要を意識(テレビ朝日系（ANN）)",
+    "summary": "ユニクロは海外からの旅行客が急増している中国・上海で、インバウンド客に対応する形で旗艦店をリニューアルオープンしました。来店客「（ユニクロで）毎日です。毎日買っています。私は下着も全部ユニクロです」",
+    "link": "https://news.yahoo.co.jp/articles/df92657c768d9ca7da7b7b66cc711a72521663f2?source=rss",
+    "published": "2026-10-30T09:34:25+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d7b677feefc0d8017634ed0f6a46af6680ef8698",
+    "source": "東洋経済オンライン",
+    "title": "｢中国の圧力に屈した｣とサンリオに批判の声…《｢VIVANT｣コラボ中止》が突きつけた\"ブランド防衛\"の難しさ | ライフ | 東洋経済オンライン",
+    "summary": "サンリオと人気ドラマ『VIVANT』のコラボ終了が波紋を広げています。中国描写への批判を受けての決断は､企業理念と国際的なリスク管理の難しさを浮き彫りにしました。",
+    "link": "https://toyokeizai.net/articles/-/963093?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-10-30T09:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bade3952f5de03518cc5b51406ee1a6e34ac250a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "パキスタン、台湾機の領空通過禁止措置を撤回　米国務省報道官「歓迎する」(中央社フォーカス台湾)",
+    "summary": "（ワシントン中央社）パキスタンが「一つの中国」政策を理由に台湾の航空会社の航空機に対し、自国の領空通過を一時認めなかった問題で、米国務省の報道官は29日、中央社の取材に対し、パキスタンが一転して台湾機",
+    "link": "https://news.yahoo.co.jp/articles/559d27fe1a9d4645bf1f73d047e55df4b1e15467?source=rss",
+    "published": "2026-10-30T08:54:26+00:00",
+    "matched_keywords": [
+      "中国",
+      "パキスタン"
+    ]
+  },
+  {
     "id": "9c1672f34b58f874922a26dabd236d208166ee90",
     "source": "Yahoo!ニュース 国内",
     "title": "中国船が沖縄・波照間沖EEZで海洋調査か(共同通信)",
@@ -9858,206 +10046,6 @@
     "published": "2026-10-16T15:43:01+00:00",
     "matched_keywords": [
       "ベトナム"
-    ]
-  },
-  {
-    "id": "0838c31e338ccd35a924d65cfad0e85943cc8498",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国本土からマカオへの食品密輸入事案摘発相次ぐ…運び屋による越境自家用車悪用のフードデリバリーか(マカオ新聞)",
-    "summary": "澳門海關（マカオ税関）は10月14日、水際措置の強化により、マカオと中国本土の間の通関利便性を悪用した違法な越境「運び屋」による密輸行為に対して厳格に臨む中、同月12日および13日に横琴イミグレーショ",
-    "link": "https://news.yahoo.co.jp/articles/3173ada757070e748196f52a189a5c416d7d159d?source=rss",
-    "published": "2026-10-16T13:40:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "83cc5f22505c0faa56bd01ff3eec7d7414aa2811",
-    "source": "毎日新聞",
-    "title": "マイカー自粛、クラクション24時間禁止　APEC控える中国・深圳",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261016/k00/00m/030/381000c",
-    "published": "2026-10-16T13:25:04+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7e4ca54bcc3c0b2ac90d6c4b7732b4215a52a61e",
-    "source": "朝日新聞",
-    "title": "中国、AI技術の輸出規制強化　覇権争いや悪用リスク背景に流出阻止",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASVBJ44M4VBJULFA028M.html?ref=rss",
-    "published": "2026-10-16T13:03:18+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "44a09a87f886e9d029c87a59587db77651657158",
-    "source": "Yahoo!ニュース 地域",
-    "title": "中国運輸局、岡山県の笠岡フェリーに安全確保命令　7月の漁船との衝突事故受け(山陽新聞デジタル)",
-    "summary": "岡山県笠岡市北木島沖で7月、笠岡フェリー（笠岡市一番町）のフェリー「第弐拾八大福丸」（198トン）が漁船と衝突した事故を受け、中国運輸局は16日、関係法令や安全管理規程に違反があったとして、同社に対し",
-    "link": "https://news.yahoo.co.jp/articles/a47af4cabbd11e5106988d8155ff5b10090cf3e9?source=rss",
-    "published": "2026-10-16T12:24:09+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "be897e26aa03a6d3142c187d80d9818faf26e5df",
-    "source": "Yahoo!ニュース IT",
-    "title": "中国商務部、AI大規模モデルなど40技術を輸出管理に加える案　SaaSやAPIは対象外(ビジネス＋IT)",
-    "summary": "中国の商務部と科技部は10月16日、輸出を禁止・制限する技術の目録の修訂案を公表し、AI（人工知能）、バイオ医薬、太陽光発電の3分野で計40項目を新たに加える案について意見募集を始めた。AIは大規模モ",
-    "link": "https://news.yahoo.co.jp/articles/eba8e2c4db422bd12aa4e1d64083adb019e08d12?source=rss",
-    "published": "2026-10-16T12:20:06+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "880e67944e4898d4b8db31d026588e2de477d713",
-    "source": "Yahoo!ニュース 地域",
-    "title": "SNSで「警察車両が幅寄せ」動画が拡散…広島県警がコメント「県警の車両の可能性高い」「事実関係を調査する」(RCC中国放送)",
-    "summary": "広島県警は16日、「県警の車両から幅寄せ行為を受けた」とするSNS投稿について、「県警の車両である可能性が高い」としたうえで、「事実関係を調査する」とコメントしました。【画像を見る】動画が撮影された広",
-    "link": "https://news.yahoo.co.jp/articles/353df849173776fcfd06f18e9550476e262236bb?source=rss",
-    "published": "2026-10-16T12:15:30+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ecfb1daebb57906f0c05abf0b347fc7cf127e345",
-    "source": "Yahoo!ニュース 経済",
-    "title": "1-9月アジアEV市場: インドはタタ、ベトナムはビンファスト、日本は日産がシェア1位に(オルタナ)",
-    "summary": "2026年1～9月のアジア主要7カ国（中国、タイ、ベトナム、マレーシア、インドネシア、インド、日本）の電気自動車（EV＝BEV）市場は、中国を除いて前年同期比で大幅に拡大した。とりわけ、インドはタタ・",
-    "link": "https://news.yahoo.co.jp/articles/8856ff66a7ae3172f7efa7b0198b42951466fc94?source=rss",
-    "published": "2026-10-16T11:52:01+00:00",
-    "matched_keywords": [
-      "ベトナム",
-      "中国",
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "82683a9324a9907862dc6d99179b22a6bd34cfe0",
-    "source": "Yahoo!ニュース 国際",
-    "title": "まさか同じ日の同じ場所で… 披露宴で“ドラマのような”騒動(テレビ朝日系（ANN）)",
-    "summary": "■披露宴で“ドラマのような”騒動 怒号が飛び交い、警察が呼ばれる騒ぎとなりました。撮影者「赤ちゃんが泣いてるね」 中国・貴州省にあるレストランのロビー。赤ん坊を抱えた女性が人々に囲まれ、押し問答となっ",
-    "link": "https://news.yahoo.co.jp/articles/99edfe13ba504bea9b607444f6aac4b4e5dcc06e?source=rss",
-    "published": "2026-10-16T11:51:50+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ad895df1d332d13df3e6613ac2f8755471613a25",
-    "source": "Yahoo!ニュース 国際",
-    "title": "米中間選挙に干渉疑い　イラン、ロシア、中国のXアカウント1万3000件停止(産経新聞)",
-    "summary": "X（旧ツイッター）の国際関係を担当する公式アカウントは日本時間15日、米中間選挙に関する世論に干渉していた疑いがあるイラン、ロシア、中国関連のアカウント1万3000件を停止したと発表した。偽アカウント",
-    "link": "https://news.yahoo.co.jp/articles/c1de2579024a097769c128ec7badef7a7cf28005?source=rss",
-    "published": "2026-10-16T11:15:42+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "271c64c94ab7de504c4d40d3b40d2b2450e46586",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国、AI技術の輸出規制強化へ　「特定の国標的ではない」　バイオ医薬や太陽光発電も(産経新聞)",
-    "summary": "中国政府は16日、人工知能（AI）やバイオ医薬、太陽光発電の3分野に関する輸出規制を強化する方針を発表した。3分野に関する40項目の技術が対象。AI技術が国家の安全に危害を及ぼす事態を防ぐためなどとし",
-    "link": "https://news.yahoo.co.jp/articles/9769cfb02319296d74aa404bc48bc53b701fe14a?source=rss",
-    "published": "2026-10-16T10:43:18+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "10fdc0100af74484068360889381f995457f027f",
-    "source": "朝日新聞",
-    "title": "中国、紙おむつ「ホルムアミド検出されず」　当局が調査結果を発表",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASVBJ357FVBJUHBI01BM.html?ref=rss",
-    "published": "2026-10-16T09:55:26+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b9537d6f28753448952f0da9d30fc99576097910",
-    "source": "朝日新聞",
-    "title": "中国、紙おむつ「ホルムアミド検出されず」　当局が調査結果を発表",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASVBJ357FVBJUHBI01BM.html?ref=rss",
-    "published": "2026-10-16T09:55:26+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "a77ca1ce56f3975bd54f8c089338df34b3a20b55",
-    "source": "Yahoo!ニュース 国際",
-    "title": "スクーターの親子を巨大なヒグマが猛追、逃げ道を塞がれ絶体絶命に…決死の逃亡劇を納めた防犯カメラ映像にネット民驚愕(ニューズウィーク日本版)",
-    "summary": "中国西部のチベット自治区で、スクーターに乗った母親と子どもが野生のチベットヒグマに追いかけられる事件が発生した。親子は必死に逃げたものの、前方に停車していた車に進路を塞がれ、クマに追いつかれそうになっ",
-    "link": "https://news.yahoo.co.jp/articles/3313986d76f50c8c0e32e63e486dddf4f27c3cc3?source=rss",
-    "published": "2026-10-16T09:30:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "abb60fdc5ada8c84fede9f38bdfcca88e178f115",
-    "source": "Yahoo!ニュース 国際",
-    "title": "台中市政府　台湾最大の屋内球場建設巡り、保険会社と「BOT」契約(中央社フォーカス台湾)",
-    "summary": "（台中中央社）中部・台中市政府は16日、金融大手、中国信託フィナンシャルホールディング傘下の生命保険会社「台湾人寿」と、屋内球場の建設を巡るBOT契約を結んだ。正式名称は「台湾超巨蛋」で、4万5000",
-    "link": "https://news.yahoo.co.jp/articles/eef7b4a7b8f8696a1a90437bdbd80a8d3d92a09c?source=rss",
-    "published": "2026-10-16T09:21:58+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "33563a4dfb29e24dd8bfad12bd407b0958c079e7",
-    "source": "Yahoo!ニュース 地域",
-    "title": "車が対向車線にはみ出たか　尾道市 軽乗用車とバスの正面衝突　70代男性死亡 5歳の女の子が意識不明　チャイルドシート設置しておらず　広島県尾道市(RCC中国放送)",
-    "summary": "尾道市の国道で16日、軽乗用車とバスが正面衝突し、70代の男性が死亡し、5歳の女の子が意識不明の重体となった事故で、軽乗用車が対向車線にはみ出したとみられることが警察への取材でわかりました。【画像を見",
-    "link": "https://news.yahoo.co.jp/articles/fdd14e198fb8f3720d5680c580ac33d5da325401?source=rss",
-    "published": "2026-10-16T09:07:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f3fa39730d59c9b48c45dfc31d5a9add39e766d2",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国、AI関連技術を輸出規制対象に追加(共同通信)",
-    "summary": "【北京共同】中国商務省は16日、人工知能（AI）やバイオ医薬品、太陽光発電の一部技術を輸出規制の対象に追加する方針を示した。",
-    "link": "https://news.yahoo.co.jp/articles/12a58a0816c984c33585262cb13d6104566c9f4b?source=rss",
-    "published": "2026-10-16T09:04:28+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7fb4322d03e835b1d2063eda7f4cf4c580308519",
-    "source": "Yahoo!ニュース 国際",
-    "title": "日本人記者をスパイ容疑で拘束　露ハッカー送還と関連か　身柄交換の狙い指摘(テレビ朝日系（ANN）)",
-    "summary": "日本人記者拘束から浮かぶロシアの思惑。過去には欧米と身柄交換の交渉もあった。日本の防衛力強化を批判するロシア・中国・北朝鮮の“包囲網”も指摘されている。今回の記者拘束には、ロシア側のどんな思惑があるの",
-    "link": "https://news.yahoo.co.jp/articles/1a050046967f7a83ece0c44a72933a8a6b3c1a05?source=rss",
-    "published": "2026-10-16T09:00:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "923cf3b950dbf4dfa86c4afe23f8b10d6e82fcaa",
-    "source": "毎日新聞",
-    "title": "フィリピン大統領、説明を要求　中国大使「容易に勝てる」と発言",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261016/k00/00m/030/264000c",
-    "published": "2026-10-16T08:57:30+00:00",
-    "matched_keywords": [
-      "中国"
     ]
   }
 ]
