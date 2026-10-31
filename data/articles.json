@@ -1,5 +1,27 @@
 [
   {
+    "id": "cf0aa787268900aeeccf9ed9eb0af5f2306a0372",
+    "source": "毎日新聞",
+    "title": "サンデーコラム:首都・北京に「関所」　為政者の不安感＝河津啓介・中国総局長",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261101/ddm/007/030/052000c",
+    "published": "2026-10-31T17:25:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c4bc4be1d1dabf93c83ab80301a34a9a6594d14e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "今日の歴史（11月1日）(聯合ニュース)",
+    "summary": "1911年：中国とつながる鴨緑江鉄橋が完工1986年：光州市が直轄市に昇格（現在は全南光州統合特別市）1987年：1973年に解体された海兵隊司令部を再創設1989年：ポーランドと国交樹立1999年：",
+    "link": "https://news.yahoo.co.jp/articles/0987de786ea13d6a6a656fce1fc074e613aa316a?source=rss",
+    "published": "2026-10-31T15:00:01+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "811096c1847f0b2051d01566449f4da365f4b20f",
     "source": "Yahoo!ニュース 国際",
     "title": "クアッド、経済的威圧に懸念　外相会合、AI開発・活用支援(共同通信)",
@@ -9924,17 +9946,6 @@
     "published": "2026-10-17T20:40:00+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "1afeff637ceef802e885507b03334a0ec0fcb591",
-    "source": "NHKニュース",
-    "title": "インドネシア森林火災 煙が周辺国へ拡散し影響広がる",
-    "summary": "インドネシアの森林などで続く大規模な火災の煙が、マレーシアをはじめ周辺の国にまで広がり、学校が休みになるなど影響が出ています。",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261017de61042",
-    "published": "2026-10-17T15:44:18+00:00",
-    "matched_keywords": [
-      "インドネシア"
     ]
   }
 ]
