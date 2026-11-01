@@ -1,5 +1,49 @@
 [
   {
+    "id": "12b70493406511337b80d381c75d2b53e9576509",
+    "source": "Yahoo!ニュース 国内",
+    "title": "【独自】“7年服役”伝説ハッカー語る GMO攻撃犯人像は 「素人」残された痕跡とは(テレビ朝日系（ANN）)",
+    "summary": "アメリカの刑務所内で撮られた写真に映る1人の男性、かつて100億円を超える詐欺事件を引き起こし、アメリカ社会を震撼させたベトナム人ハッカーです。7年の刑期を終え、現在はベトナムに戻ってホワイトハッカー",
+    "link": "https://news.yahoo.co.jp/articles/c0084b6c324fa26409eaa1903f5ba9b7d8403161?source=rss",
+    "published": "2026-11-01T16:09:15+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "b2d3852a896d4bb6e5e94a260a64cfdbb8924f36",
+    "source": "Yahoo!ニュース 経済",
+    "title": "【日下部保雄の悠悠閑閑】ホンダのEV(Car Watch)",
+    "summary": "軽EVが次々と登場している。中国のBYDが日本市場向けに初の軽自動車「Racco」を発表して大きな反響を呼んだのは夏のこと。日本メーカーでは日産・サクラに続き、2025年はホンダ・N-ONE e:が登",
+    "link": "https://news.yahoo.co.jp/articles/c2c4f5b21cb0f62f38ebaffecada384f89a416ba?source=rss",
+    "published": "2026-11-01T16:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "57094076a5e003232dbb18b938f54594b6484948",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "世界ランク1位・王曼昱、林詩棟ら3選手が欠場　梁靖崑らが代替出場＜卓球・WTTチャンピオンズフランクフルト2026＞(Rallys)",
+    "summary": "＜卓球・WTTチャンピオンズフランクフルト2026 日時：11月3日〜8日 場所：フランクフルト（ドイツ）＞【写真】欠場する中国選手11月1日、WTTは、WTTチャンピオンズフランクフルト2026にお",
+    "link": "https://news.yahoo.co.jp/articles/e00ab14ea6e9fcbadfe740504aa4a08d2bca7655?source=rss",
+    "published": "2026-11-01T15:14:52+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "02f53dc4f9af2d12639111f30b4e03a71930fc4f",
+    "source": "NHKニュース",
+    "title": "茨城 鹿嶋 男性4人が海に転落 1人死亡 1人不明",
+    "summary": "1日午後、茨城県鹿嶋市の防波堤で、インドネシア国籍の20代の男性4人が波にさらわれて海に転落しました。このうち2人は救助されてけがはありませんでしたが、1人が死亡し、海上保安署などが残る1人の捜索を続…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
+    "published": "2026-11-01T14:43:32+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
     "id": "6caa3ed3e580b96523b55c347912eeb2758a3f8b",
     "source": "Yahoo!ニュース 国際",
     "title": "中国国防省「侵略を美化」　VIVANT批判(共同通信)",
@@ -30,17 +74,6 @@
     "published": "2026-11-01T12:10:45+00:00",
     "matched_keywords": [
       "中国"
-    ]
-  },
-  {
-    "id": "02f53dc4f9af2d12639111f30b4e03a71930fc4f",
-    "source": "NHKニュース",
-    "title": "茨城 鹿嶋 男性4人が海に転落 1人重体 1人捜索続ける",
-    "summary": "1日午後、茨城県鹿嶋市の堤防で、インドネシア国籍の男性4人が波にさらわれて海に転落しました。\n\nこのうち2人は救助されて無事でしたが、1人が意識不明の重体となり、海上保安署などが残る1人の捜索を続けて…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261101de69207",
-    "published": "2026-11-01T12:07:42+00:00",
-    "matched_keywords": [
-      "インドネシア"
     ]
   },
   {
