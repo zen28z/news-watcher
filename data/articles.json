@@ -1,5 +1,71 @@
 [
   {
+    "id": "d95d39aba8fa9d57993b842d6ef3bd39b87fb841",
+    "source": "Yahoo!ニュース 地域",
+    "title": "長崎の中国人墓地で清掃活動、華僑や市民ら１５０人参加　副領事「継続的な日中友好にお力添えを」(長崎新聞)",
+    "summary": "長崎県日中親善協議会（会長・平田研知事）は３日、長崎市曙町の稲佐悟真寺国際墓地内の中国人墓地で清掃活動をし、華僑や一般市民ら約１５０人が斜面地に並ぶ墓石周辺の草刈りやごみ拾いをした。 日中友好を目的に",
+    "link": "https://news.yahoo.co.jp/articles/e7cdd8b34cd980397e5019ff1ffc6f405081e925?source=rss",
+    "published": "2026-11-04T01:30:21+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0c30312e92d7251e43259c7e57130614c51f0357",
+    "source": "Yahoo!ニュース 国内",
+    "title": "西アフリカに「タコつぼ漁」広めた日本人、名前が漁業調査船に　駐日大使「歴史的人物に敬意を表し命名した」(中国新聞デジタル)",
+    "summary": "西アフリカのモーリタニアでタコつぼ漁を広めた広島県三次市出身の中村正明さん（78）=東京=の名が再び海を渡る―。造船、海運などの常石グループ（広島県福山市）傘下の常石三保造船（静岡市）が建造中の同国向",
+    "link": "https://news.yahoo.co.jp/articles/82f0f0b94e8ce317b3b99ff92865ce44adfe4a5e?source=rss",
+    "published": "2026-11-04T01:17:39+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2fe662a053b5a6b317b575f3d76e2a697ca5b660",
+    "source": "Yahoo!ニュース 地域",
+    "title": "子どもの味方、今更値上げできないジュース1本50円の自販機(中国新聞デジタル)",
+    "summary": "その一つに躍る「1本50（円）」の文字に思わず足が止まり、見返した。「スパボ」の愛称で親しまれている酒店「スーパーBOX2」（広島市西区井口明神3丁目）だ。【画像】1本50円の自販機 店内にはビールや",
+    "link": "https://news.yahoo.co.jp/articles/b5d9ecf8c9f2970a6d9c25020f28a1f31abb425b?source=rss",
+    "published": "2026-11-04T01:13:45+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cf28b9f4f08c2fc9b4c92f235e135e23593cc711",
+    "source": "Yahoo!ニュース 経済",
+    "title": "CFMOTOがスクーター市場に本格参入！　新型「125SC-S」は最新技術を満載｜EICMA2026(MotorFan)",
+    "summary": "CFMOTOはスクーター市場への本格参入を象徴するモデルとして、新型「125SC-S」を発表した。近年MotoGP Moto3クラスで躍進を遂げる中国のグローバルモビリティメーカー、CFMOTO。同社",
+    "link": "https://news.yahoo.co.jp/articles/544f0a259db0e684fd8bbb63105330a7569fe8d0?source=rss",
+    "published": "2026-11-04T01:10:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f4560becbf791194df5c2acee70af8749a207a29",
+    "source": "Yahoo!ニュース 経済",
+    "title": "Momentaと組む中国の車載チップ新興、累計調達1200億円に迫る　ルノー系資本も参画(36Kr Japan)",
+    "summary": "車載AIチップを開発する中国スタートアップ「新芯航途（XHEART）」はこのほど、戦略ラウンドで資金を調達した。出資者には、中金雷諾（CICC Renault）、奇瑞汽車（Chery Automobi",
+    "link": "https://news.yahoo.co.jp/articles/075924904cfc339697dab2e08dc3dd3583bf2e44?source=rss",
+    "published": "2026-11-04T01:01:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "92698b22fb0c99900af61fdb1047e8c29a22f1ca",
+    "source": "毎日新聞",
+    "title": "映画「ロンガの海」が問う　インドネシアと日本の“未完の戦争”",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261102/k00/00m/200/136000c",
+    "published": "2026-11-04T00:00:10+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
     "id": "ec9556030e740590e3f04559b151e4a40d481821",
     "source": "毎日新聞",
     "title": "インドネシア大統領の電話盗聴の疑い　前国家警察長官を逮捕",
@@ -9100,237 +9166,6 @@
     "summary": "中国企業のDeepSeekがAIを大規模サービス展開するための推論システム「DeepInfer」をオープンソース化しました。<p><b><a href=\"https://gigazine.net/news/20261021&#45;deepseek&#45;deepinfer&#45;recipe/\">続きを読む...</a></b></p>",
     "link": "https://gigazine.net/news/20261021-deepseek-deepinfer-recipe/",
     "published": "2026-10-21T01:53:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "845fbcb9f47a335452c290ea319ff888a5cce6d9",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国のベトナム人コミュニティに「猫の肉を売ります」との投稿(中央日報日本語版)",
-    "summary": "韓国国内のベトナム人のオンラインコミュニティに、猫の肉を販売するという投稿があった。投稿者は猫の死骸の写真まで投稿し、個人メッセージで連絡するよう呼びかけていた。【写真】ベトナム人のオンラインコミュニ",
-    "link": "https://news.yahoo.co.jp/articles/2d1dd770aaab1ef36339f727fb16a758f856ddf4?source=rss",
-    "published": "2026-10-21T01:39:03+00:00",
-    "matched_keywords": [
-      "ベトナム"
-    ]
-  },
-  {
-    "id": "b0b420c49cdf5ba6a73522ea343c704c22640e70",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「トランプ政権後は変わりますか」…輸出１兆ドル時代、リスクとなった韓国の対米投資(ハンギョレ新聞)",
-    "summary": "韓国貿易協会が集計した今年9月までの韓国の輸出額は8147億2352万ドル。歴代の同月最高実績を毎月塗り替えてきた結果だ。11月20日前後に年間輸出1兆ドルを達成する見通しだ。米国、中国、ドイツに次い",
-    "link": "https://news.yahoo.co.jp/articles/e84e49b4cdf5f04a2f250c380ca7fbadb6c97650?source=rss",
-    "published": "2026-10-21T01:19:21+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "194eb544976b829a533578431fbbcb23ef9549e1",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国、富裕層の海外資産を狙う20％課税──高級ブランドの売上減と資産移動が始まる(Forbes JAPAN)",
-    "summary": "2026年10月22日は、中国の富裕層にとって重要な期限となる。中国政府が、国外信託に関する過去数年分の税金を、延滞金なしで申告・納付する期限として定めた日だ。「信託」とは、現金や株式、不動産などの財",
-    "link": "https://news.yahoo.co.jp/articles/848a26b65da42f7b46984056e21dbe1b6838ac81?source=rss",
-    "published": "2026-10-21T01:16:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6446be88157c125c2bd022550063204b91cce418",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国の人型ロボット「AGIBOT」、最大345億円を調達へ　評価額は約1兆円超、年内の香港IPOは困難か(36Kr Japan)",
-    "summary": "中国の人型ロボット（ヒューマノイド）ブランド「智元機器人（AGIBOT）」を展開する「智元創新（AgiBot Innovation）」が、新たな資金調達を進めている。中国経済メディアの財経によると、調",
-    "link": "https://news.yahoo.co.jp/articles/e994a9abe40bf1e87130464ce7ef8821bf8c0801?source=rss",
-    "published": "2026-10-21T01:02:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2ced5627c255fa2614b1d71abeed700d4a62d068",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「中国産か」と尋ねるとチャット遮断…韓国のお笑い芸人、ケジャン販売めぐる騒動で謝罪(中央日報日本語版)",
-    "summary": "韓国お笑い芸人のキム・スヨンが、ケジャン（カニの漬け物）の販売配信中に原産地を尋ねた視聴者のチャットを遮断したという騒動について謝罪した。【写真】お笑い芸人のキム・スヨンがライブ配信でケジャンを販売し",
-    "link": "https://news.yahoo.co.jp/articles/429551719cc8a05bd1a69ee38750bbf30b47ea43?source=rss",
-    "published": "2026-10-21T01:02:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "dd25978b017d258812de8caa260739af5e905ca1",
-    "source": "Yahoo!ニュース 経済",
-    "title": "欧州のバッテリーEVトラック市場はさながら戦国時代に!?　テスラや中国メーカーが参入を正式発表！(ベストカーWeb)",
-    "summary": "自動車の電動化を積極的に推進してきたのが欧州だが、このところ特に大型バッテリーEVトラックで中国や米国メーカーの参入が相次いでいる。【画像ギャラリー】米中メーカーの欧州向け大型トラック(16枚)ドイツ",
-    "link": "https://news.yahoo.co.jp/articles/4bc006daf3bb5cfcd6f4d03439e1c109af3ac508?source=rss",
-    "published": "2026-10-21T01:01:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c3dff378f6c8c841a6d35a696f4da5f3f8b629fe",
-    "source": "毎日新聞",
-    "title": "特派員の目:岩屋氏訪中で変わる？　中国レアアース規制の現実＝松倉佑輔",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261019/k00/00m/030/091000c",
-    "published": "2026-10-21T01:00:16+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6c923dc22b41ae74667fd2f682a451b3bb74fbf0",
-    "source": "Yahoo!ニュース 国際",
-    "title": "圧縮設備に挟まれ30代のネパール人労働者死亡…論山の製造業者に作業中止命令＝韓国(中央日報日本語版)",
-    "summary": "20日午後3時48分ごろ、韓国忠清南道論山市（チュンチョンナムド・ノンサンシ）のある製造業者で30代のネパール人労働者が圧縮設備に挟まれ死亡した。事故後この業者には作業中止命令が下された。常勤労働者5",
-    "link": "https://news.yahoo.co.jp/articles/496c357da6e3e15e03f37af17c0a361dcee7ce50?source=rss",
-    "published": "2026-10-21T00:36:48+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "2036d482091bfb043454d82d6855d86db3470eff",
-    "source": "Yahoo!ニュース 国際",
-    "title": "北京大学法学部ならエコノミー席を予約してビジネス席に座ってもいい？…中国人女性のあきれた機内騒動(中央日報日本語版)",
-    "summary": "エコノミークラスの航空券を購入したにもかかわらず、ビジネスクラスの座席を無断で占拠して居座り、警察に連れ出された中国人女性の動画がソーシャルメディア（SNS）で拡散し、批判を浴びている。【写真】航空機",
-    "link": "https://news.yahoo.co.jp/articles/b875eef766ff09976b1d9b6d0a686c50af6aff9b?source=rss",
-    "published": "2026-10-20T23:40:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c1bb8814ec32796e82bab0fe2d0d1303b6b9dd1c",
-    "source": "Yahoo!ニュース IT",
-    "title": "日本企業への不正アクセス、中国製AIツールの利用を確認　GMO(CNET Japan)",
-    "summary": "日本企業を狙った不正アクセスに、中国で開発されたAI侵入テストツール「ARTEX」が悪用されていた。GMOサイバーセキュリティ byイエラエが10月19日付の調査報告で明らかにした。標的として確認され",
-    "link": "https://news.yahoo.co.jp/articles/887df87eb978543ef0e428bb8f75914cee13fcab?source=rss",
-    "published": "2026-10-20T23:33:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c4367fae230f130722628891eaca737d53c662b7",
-    "source": "Yahoo!ニュース 国際",
-    "title": "中国軍出身者、北朝鮮・中国を想定した韓米合同演習を7回傍受(中央日報日本語版)",
-    "summary": "中国人民解放軍出身の中国人が、韓米両軍の主要部隊が駐留する拠点の通信を傍受し、韓米、韓米日合同演習の期間を集中的に狙っていたことが明らかになった。20日、金玟甸（キム・ミンジョン）国民の力議員室が法務",
-    "link": "https://news.yahoo.co.jp/articles/fe7ca95593853da78d5c2f840d60021971ab585a?source=rss",
-    "published": "2026-10-20T23:18:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "76486faf3e0fb782144e649a8545e3732bec2d61",
-    "source": "Yahoo!ニュース 国際",
-    "title": "【脱出者が証言】「使えなければ臓器摘出」カンボジア詐欺拠点に手術台や医療器具…“臓器売買”の痕跡(ABEMA TIMES)",
-    "summary": "タイとカンボジアの国境地帯にある巨大な特殊詐欺拠点が公開され、そこでは違法な臓器売買や腎臓摘出が行われていた疑いが持たれている。【映像】手術台や医療器具…詐欺拠点の内部の様子",
-    "link": "https://news.yahoo.co.jp/articles/fe504109693b3a925140dfb784b23b7c73cb17fd?source=rss",
-    "published": "2026-10-20T23:00:38+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "f148bb10a8bf6c4fe1cbb5b3a7ca302a5c8aaf0f",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【台風情報】大型・台風30号は「猛烈な」勢力　最大瞬間風速85m　来週本州影響か　AI予測モデルは本州直撃予想も　※雨と風のシミュレーション（気象庁）　(RCC中国放送)",
-    "summary": "台風30号は22日午前6時現在、大型で猛烈な勢力で、フィリピンの東を時速25kmの速さで西北西へ進んでいます。気象庁の発表している予報円の中心を見ると、24日（土）頃にかけて先島諸島に接近し、その後、",
-    "link": "https://news.yahoo.co.jp/articles/9dbf561cd5e729dd095f78a312302af6cffcd535?source=rss",
-    "published": "2026-10-20T23:00:34+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0209b6e98db9af33a5a7218bb831e304ea6664d3",
-    "source": "Yahoo!ニュース IT",
-    "title": "ポケット型ジンバルカメラ「Osmo Pocket 4P」に新色パールホワイト追加(BCN)",
-    "summary": "中国のDJIは10月20日に、デュアルレンズを搭載したポケット型ジンバルカメラ「Osmo Pocket 4P」の新色となる、パールホワイトモデルの日本での販売を公式オンラインショップなどで開始した。価",
-    "link": "https://news.yahoo.co.jp/articles/a178463cb0eddff1782d2e641b15bedb2fd35e9a?source=rss",
-    "published": "2026-10-20T23:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "787b4ba31c413ca65ebf651bcc81d9fc08806955",
-    "source": "NHKニュース",
-    "title": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
-    "summary": "アメリカ政府は、連邦政府の民生部門が中国のAI新興企業、ディープシークの製品やサービスを利用することを禁止すると発表しました。\n機微な情報が中国に送信されるリスクがあるためだとしています。",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261021de62564",
-    "published": "2026-10-20T22:57:55+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "439182c9c854630c149c94832eab93a7f4244265",
-    "source": "Yahoo!ニュース 国内",
-    "title": "【台風情報】九州・中国・四国地方が予報円内に...最大瞬間風速85m/s・中心気圧900Pa予想...大型で猛烈な「台風30号（チャンパー）」急カーブで本州に接近コースか【気象庁21日06時45分発表】(RSK山陽放送)",
-    "summary": "■大型で猛烈な「台風30号（チャンパー）」気象庁によりますと、大型で猛烈な強さの台風30号は、フィリピンの東を時速25kmの速さで西北西へ進んでいます。【画像でみる】31日（土）にかけての雨風シミュレ",
-    "link": "https://news.yahoo.co.jp/articles/f89653d22ab24be51f1ff9284c00a16e8b7b3b33?source=rss",
-    "published": "2026-10-20T22:55:23+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "1b1b735cc95078d8201e660a827e1c730ebb2ef9",
-    "source": "Yahoo!ニュース 経済",
-    "title": "ジープの低価格EV『ウィリス』導入？　スズキ・ジムニーに新たなライバル　軍用車ルーツのオフローダー検討中　欧州向けラインナップ刷新へ(AUTOCAR JAPAN)",
-    "summary": "ジープは、台頭する中国メーカーに対抗するため、同社の原点とも言える伝説的な軍用オフロード車『ウィリスMB』の復活を検討している。【写真】EV版ラングラーとも言える本格電動オフローダー【ジープ・リーコン",
-    "link": "https://news.yahoo.co.jp/articles/dda649c07df205dde156dce65a3fa1dc566c1f05?source=rss",
-    "published": "2026-10-20T22:45:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "40d784e52ae0095f4ab5edf1e9934b479981035b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "走行中に“腐食性物質”マークのタンクが分離→まさかの登り坂から交差点へ逆走!? 運転手もしがみつくも「なすすべなし」…ドラレコが捉えた恐怖の瞬間 中国(ABEMA TIMES)",
-    "summary": "中国・湖南省で10月11日、ドライブレコーダーが衝撃の光景を捉えた。SNSに投稿されたのは、交差点にて、タンクローリーのタンク部分が外れて走り去る様子だ。しかし、これはまさかの事態の始まりにすぎなかっ",
-    "link": "https://news.yahoo.co.jp/articles/31af6647f7d376651391822658de0c645ef4524b?source=rss",
-    "published": "2026-10-20T22:30:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "bf6c6cff319ea64adde6c16bca412b47791f4e46",
-    "source": "Yahoo!ニュース 経済",
-    "title": "岐路に立つトヨタ英国部門　サプライチェーン再編と電動化で揺らぐ2つの工場　EUとの関係、中国製EVへの輸入関税が鍵に(AUTOCAR JAPAN)",
-    "summary": "英国の北ウェールズにあるトヨタのディーサイドエンジン工場の隣には、工場本体よりも広い空き地がある。1992年の操業開始以来、将来の拡張に備えて現在もトヨタが所有し続けている。【写真】欧州のライバルに挑",
-    "link": "https://news.yahoo.co.jp/articles/4c323bd77135bf5e348eb5cfa6b62c6468b95e98?source=rss",
-    "published": "2026-10-20T22:25:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "9dd102afc2e0609b94fb726d9cb91ff54b7db13d",
-    "source": "朝日新聞",
-    "title": "中国、データ利活用進める国有企業設立　AI開発の競争力高める狙い",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASVBN4SLKVBNUHBI01KM.html?ref=rss",
-    "published": "2026-10-20T22:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "07992cababab7907b2005c87edb883a95e0253c7",
-    "source": "ITmedia 総合",
-    "title": "[ITmedia ビジネスオンライン] 「社名は言えないが……」　米半導体クアルコムが明かす、AI大手“無茶振り”と「AIスマホ覇権争い」の裏側",
-    "summary": "米QualcommのCEOが、AI大手から2028年までに「1000億パラメーターのAIモデルをスマートフォンで常時稼働させたい」と要請されたことを明かした。個人の行動履歴を握るスマホはエージェントAIの主戦場だが、現行チップやメモリー価格の壁は厚い。中国では先行してAIスマホが登場する一方、米OpenAIも独自端末の開発を急ぐ。米Appleと米Googleが築いた「OS支配」の構図が根底から揺らぎ始めている。",
-    "link": "https://www.itmedia.co.jp/business/articles/2610/21/news021.html",
-    "published": "2026-10-20T22:00:00+00:00",
     "matched_keywords": [
       "中国"
     ]
