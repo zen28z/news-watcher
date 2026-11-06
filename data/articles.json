@@ -1,5 +1,423 @@
 [
   {
+    "id": "415e2677e4fd6ff9f01af6be276c9d7ea9ae7a01",
+    "source": "毎日新聞",
+    "title": "日中はいま:高市首相・台湾有事答弁1年　所信表明、改善遠のく（その1）　中国望む「安倍ライン」霧散",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261107/ddm/001/010/130000c",
+    "published": "2026-11-06T17:03:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4966534b0540138bfabe56f70044da2e4d5bf258",
+    "source": "毎日新聞",
+    "title": "フィギュアスケート:フィギュアスケート　GP中国杯　女子SP　千葉首位、スピン進化　強みのステップも加点",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261107/ddm/035/050/063000c",
+    "published": "2026-11-06T17:02:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "30faeda7730b41460be48c66560ca998580b378a",
+    "source": "毎日新聞",
+    "title": "フィギュアスケート:フィギュアスケート　GP中国杯　女子SP　千葉首位、スピン進化",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261107/ddm/035/050/061000c",
+    "published": "2026-11-06T17:02:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "87969c24fafc0cfed821a1790fdde1cd145c3669",
+    "source": "NHKニュース",
+    "title": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
+    "summary": "フィギュアスケートのグランプリシリーズ第3戦、中国大会は男子シングル前半のショートプログラムが行われ、三浦佳生選手が首位、佐藤駿選手が2位と日本勢が好スタートを切りました。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261107de71982",
+    "published": "2026-11-06T15:51:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2b50de26f03ea9980807e86f0ae01385a8a8dede",
+    "source": "毎日新聞",
+    "title": "リンクサイド:首位発進の三浦佳生「大学で中国語の授業を…」　中国杯男子SP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261107/k00/00m/050/002000c",
+    "published": "2026-11-06T15:46:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b2ef68f296656cc977d40a02f7640152082ce4e5",
+    "source": "毎日新聞",
+    "title": "リンクサイド:100点超えの佐藤駿「こっちに来て準備が整った」　中国杯SP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261107/k00/00m/050/001000c",
+    "published": "2026-11-06T15:21:21+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "84ad2ebcad47c60b6d93a408ba33456283cfc23a",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】男子ＳＰで日本勢Ｗで100点超え！　三浦佳生が１位＆佐藤駿が２位発進(東スポWEB)",
+    "summary": "日本勢が最高のスタートを切った。フィギュアスケートのグランプリ（GP）シリーズ第3戦中国杯（6日、中国・深セン）、男子ショートプログラム（SP）が行われ、三浦佳生（明大）が102・90点で1位、佐藤駿",
+    "link": "https://news.yahoo.co.jp/articles/bfca08a96234feed8f054fd6d83fab96c220930c?source=rss",
+    "published": "2026-11-06T14:45:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "fbe0c615a94ea84d5836eae103598c7b379e7089",
+    "source": "NHKニュース",
+    "title": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
+    "summary": "いわゆる「台湾有事」をめぐる国会答弁から7日で1年となることについて、高市総理大臣は、中国との間で意思疎通を図り、建設的で安定的な関係を構築していく考えを重ねて示しました。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261106de71861",
+    "published": "2026-11-06T14:42:52+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ab7e881332f448e28f3c84ee2434d7ca2d0a0325",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】佐藤駿が自身初のSP100点超え　今季GP初戦で好発進(スポニチアネックス)",
+    "summary": "◇フィギュアスケート グランプリ（GP）シリーズ第3戦中国杯第1日（2026年11月6日 中国・深セン）GPシリーズ第3戦中国杯が開幕し、男子ショートプログラム（SP）で今季GP初戦に臨んだ26年ミラ",
+    "link": "https://news.yahoo.co.jp/articles/9f912aca512c8086f764b8d40e4c574228a4e1d6?source=rss",
+    "published": "2026-11-06T14:30:56+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "071ec731e781e503d7477beaec4fded608047f07",
+    "source": "毎日新聞",
+    "title": "佐藤駿がSP100点超え、日本男子6人目　フィギュア中国杯",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261106/k00/00m/050/420000c",
+    "published": "2026-11-06T14:22:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a8b8fbc4ec92a9696c04d94c0f07b680adf154c7",
+    "source": "毎日新聞",
+    "title": "三浦佳生が首位発進、佐藤駿、自己新で2位　中国杯男子SP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261106/k00/00m/050/419000c",
+    "published": "2026-11-06T14:21:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7a93bb526a3ceda6dcb398dceba75a29acf5aeb1",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】日本男子が会心ワンツースタート、三浦佳生は今季世界２位102・90点／中国杯(日刊スポーツ)",
+    "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第3戦中国杯＞◇6日◇深センユニバーシアードセンター◇男子ショートプログラム（SP）【写真】演技を終えガッツポーズする三浦佳生 2月のミラノ・コルティナ",
+    "link": "https://news.yahoo.co.jp/articles/b84dce9a90cefd636263acab79c863e2c5393f5e?source=rss",
+    "published": "2026-11-06T14:20:41+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6f381fc50e9c88f2a6aacaa3f2f580c48986a557",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】佐藤駿、自己ベスト101.97点で２位発進、大台突破は「１つの目標」首位は三浦佳生(日刊スポーツ)",
+    "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第3戦中国杯＞◇6日◇深センユニバーシアードセンター◇男子ショートプログラム（SP）【写真】男子SPの演技を終えた佐藤駿 ミラノ・コルティナ五輪銅メダル",
+    "link": "https://news.yahoo.co.jp/articles/0968f340db297125177418bc96276982a64f79f4?source=rss",
+    "published": "2026-11-06T14:19:35+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b9a07fc9c0c6a7ba96a441446f5891d597a41b05",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】三浦佳生「おおっ」今季自己最高102・90点に驚きの表情　会心ノーミス演技で首位発進(スポニチアネックス)",
+    "summary": "◇フィギュアスケート グランプリ（GP）シリーズ第3戦中国杯第1日（2026年11月6日 中国・深セン）GPシリーズ第3戦中国杯が開幕し、男子ショートプログラム（SP）で三浦佳生（明大）が今季自己最高",
+    "link": "https://news.yahoo.co.jp/articles/54bcc12aebe9fe47b57e1960f810a66023d9ddf4?source=rss",
+    "published": "2026-11-06T14:18:11+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f1b4e47a3c92ae27db98e0326bf8e31711750cc5",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】三浦佳生が首位発進、佐藤駿が自己ベストで２位　男子ＳＰ日本勢が１００点超え…ＧＰシリーズ・中国杯(スポーツ報知)",
+    "summary": "◆フィギュアスケート グランプリシリーズ第３戦 中国杯 第１日（６日、深セン） 男子ショートプログラム（ＳＰ）が行われ、日本勢はＧＰシリーズ第１戦フランス大会男子シングル２位の三浦佳生（明大）が１０２",
+    "link": "https://news.yahoo.co.jp/articles/381f7b661e74b3c572ce7c326bed34f6405ecd27?source=rss",
+    "published": "2026-11-06T14:14:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "8bd286c5d5474f78d3f0da8940eee213f3ae731b",
+    "source": "Yahoo!ニュース 経済",
+    "title": "金を最も買った中央銀行は？2026年1〜8月はポーランドが98トン、中国が80トン。トルコは82トン、ロシアは56トンの売り越し(LIMO)",
+    "summary": "金の価格が高い水準にあるなかで、世界の中央銀行が金を買い増しているというニュースを見聞きした人もいるのではないでしょうか。◆【画像】8月に金を買い越した中央銀行を国別で見るワールド・ゴールド・カウンシ",
+    "link": "https://news.yahoo.co.jp/articles/fcb64657c61439db17774cce47be239ab9abc32d?source=rss",
+    "published": "2026-11-06T14:05:47+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0ea5bceed4aa2dc18e121e707977b6e23b9bf71b",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "チャン・ハオチン／加藤未唯が二宮真琴／ジャン・インに逆転勝利で4強入り [香港オープン／テニス](テニスマガジンONLINE)",
+    "summary": "WTAツアー公式戦「プルデンシャル香港テニスオープン」（WTA250／中国・香港／11月2～8日／賞金総額28万3347ドル／ハードコート）の女子ダブルス準々決勝で、第2シードのチャン・ハオチン（台湾",
+    "link": "https://news.yahoo.co.jp/articles/f211cabc5439f8ada3a735383e68ffbd667c9797?source=rss",
+    "published": "2026-11-06T14:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "29a7be7677d66c7b395549ac997232b7465ebc8b",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】三浦が今季自己最高102・90点で首位発進　佐藤は自身初100点超えで2位　GP中国杯(スポニチアネックス)",
+    "summary": "◇フィギュアスケート グランプリ（GP）シリーズ第3戦中国杯第1日（2026年11月6日 中国・深セン）GPシリーズ第3戦中国杯が開幕し、男子ショートプログラム（SP）で第1戦フランス大会2位の三浦佳",
+    "link": "https://news.yahoo.co.jp/articles/ffc11e771b49cd48f1a53784065fbaeef14bda5e?source=rss",
+    "published": "2026-11-06T13:59:43+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5fe0563d53e1d96a978380505bf1d74937850d10",
+    "source": "Yahoo!ニュース 地域",
+    "title": "たくさんの花と「ありがとう」の声に包まれて　石井哲代さん（106）の葬儀　一人暮らしを続けた思いをねぎらう挨拶も　広島(RCC中国放送)",
+    "summary": "100歳を超えても一人暮らしを続け、11月4日に106歳で亡くなった、石井哲代さんの葬儀が、6日営まれました。【写真を見る】たくさんの花と「ありがとう」の声に包まれて 石井哲代さん（106）の葬儀 一",
+    "link": "https://news.yahoo.co.jp/articles/86cf72cc1cd990363a54257adf53e3cd3c6ca491?source=rss",
+    "published": "2026-11-06T13:57:17+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "63d21bd3668c61186aeb3834cd16a4220b0181f8",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "中国杯男子SPはミラノ・コルティナ冬季五輪銅の佐藤駿が２位発進　三浦佳生が１位で日本勢はともに好発進【フィギュア・GPシリーズ】(中日スポーツ)",
+    "summary": "◇６日 フィギュアスケート グランプリ（ＧＰ）シリーズ第３戦・中国杯第１日（深圳）◆鍵山優真＆佐藤駿、ご褒美の『中トロ』に舌鼓！おかわりは何貫？【実際の動画・複数】 男子ショートプログラム（ＳＰ）が行",
+    "link": "https://news.yahoo.co.jp/articles/acae5533182debdea09788a385b3fe343a3ab630?source=rss",
+    "published": "2026-11-06T13:57:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2d66e010ed563717d1c070f1392030635bd89ae5",
+    "source": "Yahoo!ニュース スポーツ",
+    "title": "【フィギュア】三浦佳生102・90点で首位発進！自己ベスト肉薄0・06点、フランス杯の雪辱／中国杯(日刊スポーツ)",
+    "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第3戦中国杯＞◇6日◇深センユニバーシアードセンター◇男子ショートプログラム（SP）【写真】男子SP 演技する三浦佳生 第1戦フランス杯2位の三浦佳生（",
+    "link": "https://news.yahoo.co.jp/articles/ce4dfb06f80dc61fada7bc83d91dc9f5f934d204?source=rss",
+    "published": "2026-11-06T13:56:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4fc3c43b2f4c63ce518c80d1b8c2aceaf398e87c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国・上海の国際輸入博で日本企業320社出展　AIやロボットなどの売り込み強化(産経新聞)",
+    "summary": "【上海＝三塚聖平】中国・上海で開催中の政府主催の総合見本市、中国国際輸入博覧会には、パナソニックホールディングス（HD）やトヨタ自動車、ユニクロを展開するファーストリテイリングなど約320社の日本企業",
+    "link": "https://news.yahoo.co.jp/articles/d9681a29c5d273eec9d847c3c9520bed03ce6f03?source=rss",
+    "published": "2026-11-06T13:22:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "2c6ad421da417481d0fabfb286fb3805f5fadea1",
+    "source": "毎日新聞",
+    "title": "リンクサイド:ゆなすみ森口澄士　自信は10段階で言うと…　中国杯ペアSP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261106/k00/00m/050/397000c",
+    "published": "2026-11-06T13:13:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "4d7384c9667db4437499e6c9d2d41d86ae888771",
+    "source": "Yahoo!ニュース 地域",
+    "title": "SNSで「警察車両が幅寄せ」動画が拡散…警察官に“反則切符”「進路変更の禁止」で　広島県警(RCC中国放送)",
+    "summary": "「県警の車両から幅寄せ行為を受けた」とする内容のSNS投稿について、広島県警は先月「県警の車両である可能性が高い」として「事実関係を調査する」としていました。【画像を見る】動画が撮影された広島市内の自",
+    "link": "https://news.yahoo.co.jp/articles/f79e847aff83924b4387050d268f4f3b7069aacf?source=rss",
+    "published": "2026-11-06T13:02:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ae1c6fa88191af7138d6c11eedcd28c910264e47",
+    "source": "Yahoo!ニュース 地域",
+    "title": "「忠海港内に車が転落している」海に車が転落　水没した車から心肺停止の高齢女性を救助　広島・竹原市(RCC中国放送)",
+    "summary": "広島県竹原市で6日夜、車が海に転落する事故がありました。水没した車から高齢女性1人が救助されましたが、女性は心肺停止だということです。【写真】事故原因を調べる竹原警察署警察と消防によりますと、6日午後",
+    "link": "https://news.yahoo.co.jp/articles/2714381d3eda5088e5a7e100b4e87ffbf2d91a6c?source=rss",
+    "published": "2026-11-06T12:54:18+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a71a2abec348092eb1509209a98750e1f6ab56f6",
+    "source": "毎日新聞",
+    "title": "「ゆなすみ」今季初戦は4位発進　フィギュア中国杯ペアSP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261106/k00/00m/050/387000c",
+    "published": "2026-11-06T12:31:30+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "57e82f525d18fc5a53152d6b7f07a4e9ce45453e",
+    "source": "Yahoo!ニュース 国内",
+    "title": "50歳で出産・野田聖子議員（66）、障害のある息子と中国へ「両親とは別の部屋で…」「頼もしくなりました」(ABEMA TIMES)",
+    "summary": "自民党の野田聖子衆議院議員（66）が、障害のある15歳の息子・真輝さんと中国を訪れ、成長を感じたエピソードを明かした。【映像】野田聖子と障害のある15歳息子の2ショット（複数カット） 2011年1月、",
+    "link": "https://news.yahoo.co.jp/articles/cf4a1a467ac5f02d98cf2be472632f8c63d2c687?source=rss",
+    "published": "2026-11-06T12:30:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7764a4763847967f95698f0ef8712b6fa7cb82a6",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国、日本とEUの化学製品調査　ダンピング疑い(共同通信)",
+    "summary": "【上海共同】中国商務省は6日、日本と欧州連合（EU）から輸入する化学製品「エチリデンノルボルネン」について、反ダンピング（不当廉売）調査を開始したと発表した。不当廉売で国内の産業に損害が出ているとの訴",
+    "link": "https://news.yahoo.co.jp/articles/88acd814efb360a71f6729961bffac0af614f532?source=rss",
+    "published": "2026-11-06T12:29:02+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "231366f3a4dd7a1d4d8f5b481f505c90a876861e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "台湾、在パプアニューギニアの窓口機関を閉鎖　「中国が介入」と非難、LNG購入停止(産経新聞)",
+    "summary": "【台北＝西見由章】台湾の外交部（外務省に相当）は6日、南太平洋の島国パプアニューギニアの首都ポートモレスビーに置いていた窓口機関「台北経済弁事処」を閉鎖し、全職員を撤収させると発表した。パプア政府は7",
+    "link": "https://news.yahoo.co.jp/articles/25fcb478697a1e38e074fdaf65fa8cf16b37c08d?source=rss",
+    "published": "2026-11-06T12:20:34+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b925e1eb8f66ee4a6aaac23b6af5d994c43b776d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "TikTok推奨機能は違法　EU見解「精神に悪影響」(共同通信)",
+    "summary": "【ブリュッセル共同】欧州連合（EU）欧州委員会は6日、中国系動画投稿アプリ「TikTok（ティックトック）」で利用者の興味に合わせた動画を推奨する「おすすめ」機能が、巨大IT規制「デジタルサービス法（",
+    "link": "https://news.yahoo.co.jp/articles/03aea70055633ee61652b2691aa833069bdd6179?source=rss",
+    "published": "2026-11-06T12:09:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c1790f1bb680865c740b9ab81d01c156b0a8cc89",
+    "source": "毎日新聞",
+    "title": "千葉百音、GP3勝目へ　強み生かして首位発進　中国杯女子SP",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261106/k00/00m/050/378000c",
+    "published": "2026-11-06T11:59:56+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "8a0d9bd573e8b39d7dab36aad4bc122c97b2a051",
+    "source": "Yahoo!ニュース 経済",
+    "title": "日ベトナム、エネ協力推進確認へ　LNG事業、原発導入計画(共同通信)",
+    "summary": "高市早苗首相とベトナム最高指導者のトー・ラム共産党書記長兼国家主席が9日の首脳会談に合わせて発表する共同声明案が判明した。エネルギー安全保障分野での協力推進を打ち出し、日本企業が参画する液化天然ガス（",
+    "link": "https://news.yahoo.co.jp/articles/61b7de46d4384e271763a650c2cb25da2eaa8d99?source=rss",
+    "published": "2026-11-06T11:47:43+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "08f5e2df2facf0317503db427134e9731973a407",
+    "source": "Yahoo!ニュース 国内",
+    "title": "日ベトナム首脳による共同声明案が判明(共同通信)",
+    "summary": "高市早苗首相とベトナムのトー・ラム共産党書記長兼国家主席が9日の首脳会談に合わせて発表する共同声明案が6日、判明した。液化天然ガスを燃料とする火力発電事業の早期実施や原発導入計画への協力を明記した。",
+    "link": "https://news.yahoo.co.jp/articles/47acaadb101d408be42eb19097151ebe212cec43?source=rss",
+    "published": "2026-11-06T11:28:39+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "04f4b111114807531a79ec233556b2f48088e6e0",
+    "source": "Yahoo!ニュース 国際",
+    "title": "北京市内で黄葉が見ごろ　伝統建築の朱色とのコントラストも(テレビ朝日系（ANN）)",
+    "summary": "中国・北京では黄葉がピークを迎え、大勢の市民でにぎわっています。北京市内では街路樹や、公園の木々などが色づき、見ごろとなっています。中国・伝統建築の朱色とイチョウの黄金色のコントラストが北京の秋を一層",
+    "link": "https://news.yahoo.co.jp/articles/b2668a697f6f4b32311596a890b1888be2447943?source=rss",
+    "published": "2026-11-06T11:19:43+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "15af239ac92337d663beee4f2e01caca16b4496d",
+    "source": "Yahoo!ニュース 国内",
+    "title": "わずか15秒で個人情報を抜き取れる…日本企業への攻撃で悪用が疑われた｢中国語AIツール｣の正体(プレジデントオンライン)",
+    "summary": "わずか15秒でサイトの弱点を突き、個人情報を抜き取る。東京のセキュリティー会社が実験用サイトで実演した、中国語のAIツール「ARTEX(アルテックス)」の性能だ。本来は企業のセキュリティー診断を目的に",
+    "link": "https://news.yahoo.co.jp/articles/e2fcfcda954d9b8a13ed1db8722c70c81c45eac8?source=rss",
+    "published": "2026-11-06T11:15:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "28ebd8666435be7e86c8b855d566321f6f55de56",
+    "source": "Yahoo!ニュース 国際",
+    "title": "北京市内で黄葉が見ごろ　伝統建築の朱色とのコントラストも(テレビ朝日系（ANN）)",
+    "summary": "中国・北京では黄葉がピークを迎え、大勢の市民でにぎわっています。 北京市内では街路樹や、公園の木々などが色づき、見ごろとなっています。 中国・伝統建築の朱色とイチョウの黄金色のコントラストが北京の秋を",
+    "link": "https://news.yahoo.co.jp/articles/3ba9887d1900771257faec797a95cd21dfdb0133?source=rss",
+    "published": "2026-11-06T11:14:53+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f2cd6a6079c2c5afcf25b52a630af335d76ad327",
+    "source": "Yahoo!ニュース IT",
+    "title": "アップル「iPhone 18」はバッテリー大型化？(アスキー)",
+    "summary": "アップルが来年前半に発売するとうわさの標準モデル「iPhone 18」は、バッテリーが大きくなり、価格も上がる可能性がある。中国のSNS微博（weibo）のリーカーDigital Chat Stati",
+    "link": "https://news.yahoo.co.jp/articles/13b96506cdce57cc3dc8a206ed2305775809d065?source=rss",
+    "published": "2026-11-06T11:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7da8392f321e97aef09a3e8ae963783ba7a5c316",
+    "source": "ITmedia 総合",
+    "title": "[ITmedia ビジネスオンライン] パナHD楠見社長「中国の伸び率は世界以上」　AI・データセンター部品の勝機は？",
+    "summary": "【上海＝三塚聖平】パナソニックホールディングスの楠見雄規社長は産経新聞などのインタビューに応じ、AI需要の高まりを受け拡大するデータセンター向け電子部品の販売について「中国の伸び率はグローバルよりも高い」と明らかにした。",
+    "link": "https://www.itmedia.co.jp/business/articles/2611/06/news080.html",
+    "published": "2026-11-06T11:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "07cdd07c50bcaff289ae34253166e9b8ce93a4c8",
     "source": "Yahoo!ニュース 地域",
     "title": "ヤマダデンキ広島本店オープン　開店前に1300人(HOME広島ホームテレビ)",
@@ -8582,72 +9000,6 @@
     "summary": "「政府の借金が102兆5000億元に達したのに、隠れ債務は2年で半分以下」――。中国政府が公表した数字は、一見矛盾した動きを示している。地方政府の隠れ債務は整理が進むが、地方では国有地使用権の譲渡収入",
     "link": "https://news.yahoo.co.jp/articles/96bad93f45188a77271950402132a5ff399e1c57?source=rss",
     "published": "2026-10-23T20:30:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "35ad91effbaa2a90c0cbca0029bb9a18c5305c52",
-    "source": "Yahoo!ニュース 地域",
-    "title": "カンボジア拠点の特殊詐欺事件　かけ子の30歳の男に懲役5年と罰金150万円　拠点で拘束された日本人29人のうちの1人　名古屋地裁(中京テレビＮＥＷＳ)",
-    "summary": "カンボジアの拠点で特殊詐欺に加担したとされる日本人のかけ子29人の内、30歳の男に名古屋地裁は、実刑判決を言い渡しました。起訴状などによりますと中川昌樹被告（30）は、仲間と共謀し、去年5月、カンボジ",
-    "link": "https://news.yahoo.co.jp/articles/aa90d2673341214831900e40de9aadb998a1f044?source=rss",
-    "published": "2026-10-23T15:35:00+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "2791d2538b30c239d86adb0b7bb6de246631d077",
-    "source": "Yahoo!ニュース 国内",
-    "title": "カンボジア拠点の特殊詐欺事件　かけ子の男に懲役5年の実刑判決　名古屋地裁(メ〜テレ（名古屋テレビ）)",
-    "summary": "カンボジアを拠点とした特殊詐欺事件で、日本に移送されたグループのかけ子の男に名古屋地裁は懲役5年の判決を言い渡しました。 起訴状などによりますと、中川昌樹被告（30）は去年5月、カンボジアから愛知県の",
-    "link": "https://news.yahoo.co.jp/articles/ffbf1018d97e31a174ae41c9ff3f5d8d91e164df?source=rss",
-    "published": "2026-10-23T15:18:01+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "d6d365ae9e77cef97e11c144761e5df3f3e9e32a",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ヒマラヤで2人の遺体発見　遭難の日本人か　15日以降日本人登山者と連絡取れず捜索(テレビ朝日系（ANN）)",
-    "summary": "ネパールのヒマラヤ山脈で行方不明になっていた2人の日本人登山者とみられる遺体が発見されました。 地元メディアなどによりますと、日本人登山者2人は、標高7000メートルを超えるネパール中部のガンガプルナ",
-    "link": "https://news.yahoo.co.jp/articles/55509d6d9e59af0446f289427e223ea0126a4373?source=rss",
-    "published": "2026-10-23T14:07:10+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "f332a82b829514f4c1d6755ccdb9ee0f686754ed",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【KNOCK OUT】中国チュームーシーフーが戦慄KO！左ヒジ炸裂、平川蓮斗が仰向けにバッタリ(イーファイト)",
-    "summary": "格闘技イベント『KNOCK OUT.69』2026年10月23日（金）東京・後楽園ホール▼第11試合 KNOCK OUT-UNLIMITED -59.0kg契約／3分3R〇チュームーシーフー（中国／郭",
-    "link": "https://news.yahoo.co.jp/articles/ea34a5f75789da7585cd66103e50a57ba978d509?source=rss",
-    "published": "2026-10-23T13:44:59+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "e6783c3cf6b53c31687eadf983fb1096299359cd",
-    "source": "NHKニュース",
-    "title": "ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か",
-    "summary": "ネパール中部の地元当局は、ヒマラヤ山脈で23日、2人が遺体で見つかったと明らかにしました。ヒマラヤ山脈では登山中だった日本人男性2人の行方が分からなくなっていて、当局はこの2人の可能性もあるとみて、確…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261023de64496",
-    "published": "2026-10-23T11:35:40+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "2f8e51d8c27ad7b4a65b298584b703e273b881e7",
-    "source": "Yahoo!ニュース 国内",
-    "title": "日・ミクロネシア首脳会談　中国念頭に連携確認　安全保障など意見交換(テレビ朝日系（ANN）)",
-    "summary": "高市総理大臣はミクロネシアのシミナ大統領と会談し、中国を念頭に、「自由で開かれたインド太平洋」の実現に向けた連携を確認しました。高市総理大臣「両国の強固な友好関係は、日系人の繋がりも含めて独立前から続",
-    "link": "https://news.yahoo.co.jp/articles/230834c4642ab430eef37121141314dce0d0472e?source=rss",
-    "published": "2026-10-23T10:57:36+00:00",
     "matched_keywords": [
       "中国"
     ]
