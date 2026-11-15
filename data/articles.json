@@ -1,5 +1,71 @@
 [
   {
+    "id": "b4cdef58a0bd9e093bb036d1a72c821c8f9a413d",
+    "source": "Yahoo!ニュース 国際",
+    "title": "“史上初”米中ロ3首脳会談　19日実施　ウクライナ戦闘終結は議題上らず(テレビ朝日系（ANN）)",
+    "summary": "ホワイトハウスは13日、トランプ大統領と習近平国家主席、プーチン大統領が19日に首脳会談を行うと発表しました。 中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議に合わせて実施されます。 3者",
+    "link": "https://news.yahoo.co.jp/articles/c52184205afc3f6ab68db5db6fa931ef496ee36b?source=rss",
+    "published": "2026-11-15T00:31:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "893fd33db1daedf0a5d92c04fda6ac09231eda86",
+    "source": "Yahoo!ニュース 経済",
+    "title": "人型ロボットの「表情」に商機　中国スタートアップ、ワイヤで動く顔を開発(36Kr Japan)",
+    "summary": "人型ロボット（ヒューマノイド）の開発で四肢や胴体の性能向上が進むなか、中国浙江省杭州市のスタートアップ「霊顔科技（Lingyan Technology）」は「顔」に商機を見いだしている。人工皮膚や小型",
+    "link": "https://news.yahoo.co.jp/articles/e2440567ba65ee7afb103767bd2fb80a57112be1?source=rss",
+    "published": "2026-11-14T23:30:32+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d3c618aa5d7c4f2dbfc72d1e374369d82d63287f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "勢いを失ったトランプ大統領と４期目続投を固めた習近平主席【寄稿】(ハンギョレ新聞)",
+    "summary": "中国共産党が先月26～29日に北京で開催した第20期中央委員会第5回全体会議（5中全会）は、習近平主席の権力基盤の強化を確認し、来秋に開催される第21回党大会での再任に向けた準備を行う場だった。会議は",
+    "link": "https://news.yahoo.co.jp/articles/9b751bd1ae4fb2160695becd5eee67902b385a93?source=rss",
+    "published": "2026-11-14T23:09:41+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6ce91dce7b53839f9c27a6c79b837d18c003a09a",
+    "source": "Yahoo!ニュース 地域",
+    "title": "福山の18歳少年が麻薬使用の疑い、再逮捕(中国新聞デジタル)",
+    "summary": "広島県警福山東署は14日、住所不定、現場作業員の少年（18）=傷害と恐喝容疑で処分保留=を麻薬取締法違反（使用）の疑いで再逮捕した。再逮捕容疑は、4月3日ごろから7月14日までの間、福山市内かその周辺",
+    "link": "https://news.yahoo.co.jp/articles/d61143396c2a93ac9eb8f3efb589bfc063e17127?source=rss",
+    "published": "2026-11-14T23:06:04+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "61ecd045b0c555bc86988feaf8dec73b83daff0b",
+    "source": "東洋経済オンライン",
+    "title": "中国軍100隻超が台湾周辺･西太平洋で｢領域拒否｣の軍事演習を展開､日本が打ち出す新たな｢拒否力｣とは何か | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "2026年､東アジア情勢が緊迫の度を増す中､ASEANやAPEC首脳会合､台湾統一地方選挙など重要な外交･安全保障イベントが立て続けに開催されます。中国の｢事前通告なし｣の大規模軍事演習は､対米･対…",
+    "link": "https://toyokeizai.net/articles/-/964731?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-11-14T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5d0d4cfcb21fca121fe7d345b87ed3fbf779edc1",
+    "source": "東洋経済オンライン",
+    "title": "中国の自動運転｢ロボタクシー｣､実証実験から本格商用化へ\"突破\"なるか…焦点は技術開発から収益モデル確立へ | ビジネス | 東洋経済オンライン",
+    "summary": "自動運転技術で世界の先端を走る中国の｢ロボタクシー｣が､実証実験の段階から本格商用化への歩みを進めています。中国最大級の｢実験場｣である広東省広州市では､完全自動運転のロボタクシーが市街地エリアでも…",
+    "link": "https://toyokeizai.net/articles/-/964458?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-11-14T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "6799af2e0cb9c31c88ca2d6a7f01bffaeb6481f8",
     "source": "NHKニュース",
     "title": "米中 関税引き下げのための「貿易委員会」初会合開く",
@@ -9620,94 +9686,6 @@
     "summary": "非常に強い勢力の台風31号は31日午前9時現在、小笠原近海をゆっくりと東南東へ進んでいます。気象庁の予報円によると、来週の後半に向きを北東に変える予想です。【画像で確認】台風31号の予想進路は 雨と風",
     "link": "https://news.yahoo.co.jp/articles/ec196e1c8a84e7a76425dea1ef32e1311c0c49b9?source=rss",
     "published": "2026-11-01T01:02:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "bc2e8f948e91ce4e7078a3b767fe7cf1ad5a05f8",
-    "source": "Yahoo!ニュース 地域",
-    "title": "地域活性化策の方策探る　津山でYEG中国大会(山陽新聞デジタル)",
-    "summary": "日本商工会議所青年部（YEG）の第44回中国ブロック大会が31日、岡山県津山市内で開かれた。中国5県の46青年部の会員を中心に約1400人が参加し、地域活性化に向けた方策などを考えた。 津山文化センタ",
-    "link": "https://news.yahoo.co.jp/articles/3b37a2696f192bbddac962e40745c054ea340bc7?source=rss",
-    "published": "2026-11-01T00:43:56+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "28b23501b02a04ec51cee22dd82ba46d68e0ab05",
-    "source": "Yahoo!ニュース 地域",
-    "title": "関東・東北・中部・北海道・近畿・中国・四国で地震　M6．1　東京、神奈川、大阪、埼玉、千葉などで揺れ　最大震度3　震源は三重県南東沖(千葉日報オンライン)",
-    "summary": "1日午前7時15分ごろ、三重県南東沖を震源とする地震があった。最大震度3、地震の規模を示すマグニチュード（M）は6．1と推定される。震源の深さは約350キロ。千葉県内は旭市、香取市、千葉市花見川区など",
-    "link": "https://news.yahoo.co.jp/articles/1d51f0edd846da95be35f492063046ba2826864c?source=rss",
-    "published": "2026-11-01T00:12:37+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "e545fba3b9b0f1e5008ff6bf34478a25fc2ddfaf",
-    "source": "Yahoo!ニュース トピックス",
-    "title": "中国 台湾周辺海底ケーブル探査か",
-    "summary": "",
-    "link": "https://news.yahoo.co.jp/pickup/6600895?source=rss",
-    "published": "2026-10-31T23:34:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "917797d95d030b697d6cb7607a957086f70e55b2",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "エムバペ騒動で中国側が「謝罪が不十分」　リーグなどスポンサー撤退危機で７００億円損失か(東スポWEB)",
-    "summary": "中国を揶揄した〝エムバペ騒動〟がスペインサッカー界に深刻な影響を及ぼすと、同国メディア「Libertad Digtal」が伝えた。 スペイン1部レアル・マドリードのフランス代表FWキリアン・エムバペが",
-    "link": "https://news.yahoo.co.jp/articles/17062aa6f2741e3c8ff80308e6b4e724c4632e95?source=rss",
-    "published": "2026-10-31T22:15:32+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "70f25fd8cdb655114f75e8894b5b580e6841333f",
-    "source": "毎日新聞",
-    "title": "等身大の中国:首都・北京に今も「関所」？安全への執着と中国政治の「不安感」",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261030/k00/00m/030/260000c",
-    "published": "2026-10-31T22:00:26+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7711608fa054ba2e5fb118a7bd53933c79cf35c4",
-    "source": "Yahoo!ニュース IT",
-    "title": "日本料理がバングラデシュで進化するとこうなる⇨揚げた海苔で具を包む“タコス風”に、「めちゃくちゃ美味しそう」の声(ハフポスト日本版)",
-    "summary": "バングラデシュの日本料理店で出会った、ユニークな料理が話題になっています。投稿したのは、Noska（@arvisnoskario01）さん。【画像】これは美味しそう…！バングラデシュで進化した日本料理",
-    "link": "https://news.yahoo.co.jp/articles/5d42f24c36b07c353c254d922abbde0557ecd71d?source=rss",
-    "published": "2026-10-31T21:40:02+00:00",
-    "matched_keywords": [
-      "バングラデシュ"
-    ]
-  },
-  {
-    "id": "c5cd1cb7b9da12fe04f77a03851e90e11886ec7a",
-    "source": "NHKニュース",
-    "title": "クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携",
-    "summary": "日米豪印4か国でつくるクアッドの外相会合がアメリカで開かれ、中国を念頭に恣意的（しいてき）な輸出規制などの経済的威圧に対する深刻な懸念を表明したうえで、自由で開かれたインド太平洋の実現に向けて具体的な…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261031de69039",
-    "published": "2026-10-31T21:17:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6627da17ac3f5c3ec73cb6186e251fceac38dee5",
-    "source": "Yahoo!ニュース 地域",
-    "title": "米子－境港間（鳥取県）の高規格道路、弓浜半島「中央ルート案」が最適と判断　「８の字ルート」の一部、新規事業化へ前進(山陰中央新報)",
-    "summary": "中海・宍道湖圏を巡る「８の字ルート」の一部で、米子、境港両市をつなぐ高規格道路を巡り、国土交通省中国地方整備局が弓浜半島の日本海側、中央部、中海側を通る３ルート案のうち、中央ルート案が最適と判断したこ",
-    "link": "https://news.yahoo.co.jp/articles/de557757327171fe480ea228c3bb681b10f74fee?source=rss",
-    "published": "2026-10-31T21:00:22+00:00",
     "matched_keywords": [
       "中国"
     ]
