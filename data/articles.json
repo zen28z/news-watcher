@@ -1,5 +1,500 @@
 [
   {
+    "id": "ad4aba5df224718fdee4582b80200414c20a0faf",
+    "source": "NHKニュース",
+    "title": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
+    "summary": "アメリカのトランプ大統領と中国の習近平国家主席は中国の※深センでことし3回目となる首脳会談を行い、米中両国が安定した関係の構築に引き続き取り組むことを確認するとともに、貿易やAIなどについて意見を交わ…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261119de78419",
+    "published": "2026-11-19T10:07:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7b3914be96466c467162cf1992276be62738cfae",
+    "source": "Yahoo!ニュース 地域",
+    "title": "11月26日頃からこの時期としては「10年に1度の著しい高温となる可能性」気温が低い日から一転 変動が大きい見込み 早期天候情報を気象庁が発表【東北・北陸・近畿・中国】(NBC長崎放送)",
+    "summary": "気象庁は10月26日（木）から12月3日（木）までの間に、この時期としては「10年に1度程度しか起きないような著しい高温となる可能性が高まっている」として【早期天候情報】を発表し、農作物の管理等に注意",
+    "link": "https://news.yahoo.co.jp/articles/314a19cf7ee2f7211dfc2263bef609450efe6d71?source=rss",
+    "published": "2026-11-19T10:07:13+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0822fa65fbcf3e9b388648f30f58ebb15cc31968",
+    "source": "Yahoo!ニュース 地域",
+    "title": "水俣病と枯れ葉剤被害学ぶ講演会を前に 学生らが事前勉強会　沖縄(沖縄ニュースQAB)",
+    "summary": "12月、水俣病とベトナム戦争で使われた枯れ葉剤の被害について考える講演会が開かれるのを前に、運営にあたる県内の大学生らが事前勉強会を開きました。 勉強会は、12月の講演会で運営を担う琉球大学と沖縄国際",
+    "link": "https://news.yahoo.co.jp/articles/b6cccd9b87ae51468fe440669a96a48a36e896e1?source=rss",
+    "published": "2026-11-19T10:06:14+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "26c1af523512973e6cc379bc810ba8037a12bb17",
+    "source": "NHKニュース",
+    "title": "【随時更新】史上初 米中ロ首脳会談終わる 中国メディア",
+    "summary": "中国の国営メディアは、中国の※深センで行われていたアメリカのトランプ大統領、習近平国家主席、ロシアのプーチン大統領による3か国の首脳会談が終了したとさきほど日本時間の午後7時前に伝えました。\n\nアメリ…",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
+    "published": "2026-11-19T10:02:32+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b851d1413ad54a23eb41a36f0a08b0b9f0bb8be9",
+    "source": "Yahoo!ニュース 国際",
+    "title": "金正恩氏は深圳に姿を現さず　前日には約2300キロ離れた咸興を視察　米朝会談に関心(産経新聞)",
+    "summary": "【ソウル＝時吉達也】19日までアジア太平洋経済協力会議（APEC）の首脳会議が開かれた中国南部・深圳に、北朝鮮の金正恩（キム・ジョンウン）朝鮮労働党総書記は姿を見せなかった。トランプ米大統領との電撃会",
+    "link": "https://news.yahoo.co.jp/articles/6176ac419a4c82a3f2fe0d9d7a67448984ae10fc?source=rss",
+    "published": "2026-11-19T09:57:17+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3e3e43f3ef9d74cb54447ba8312f5b2ad1cddc5f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "李大統領　ASEAN・APEC出席終え帰国の途に(聯合ニュース)",
+    "summary": "【ソウル聯合ニュース】韓国の李在明（イ・ジェミョン）大統領は19日、フィリピン・マニラで開かれた東南アジア諸国連合（ASEAN）関連首脳会議と中国・深圳で開催されたアジア太平洋経済協力会議（APEC）",
+    "link": "https://news.yahoo.co.jp/articles/6a163e090da31bd0b72aad4a5563f31e00c6523e?source=rss",
+    "published": "2026-11-19T09:53:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d759d0ba83f7adf0ae70bf4db5ad7182cc283d4c",
+    "source": "Yahoo!ニュース 経済",
+    "title": "米中首脳、関係安定へ行動計画で合意(共同通信)",
+    "summary": "【深セン共同】中国外務省は19日、習近平国家主席がトランプ米大統領との会談で、米中の「建設的戦略安定関係」に関する行動計画を策定することで合意したと発表した。",
+    "link": "https://news.yahoo.co.jp/articles/ad072b0bb5f4105a034638f14ccf803c085e82a5?source=rss",
+    "published": "2026-11-19T09:47:11+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "6191062028932e071bb65d254ed57134081a9688",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習氏、3カ国ハイレベル交流維持を呼びかけ(共同通信)",
+    "summary": "【深セン共同】中国の習近平国家主席は19日の米中ロ首脳会談で、3カ国のハイレベル交流を維持し、危機管理のメカニズムを確立すべきだと呼びかけた。新華社が報じた。",
+    "link": "https://news.yahoo.co.jp/articles/264f2d61465953fc124ac535c78af7cb5865d8d0?source=rss",
+    "published": "2026-11-19T09:37:50+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ba68af54b1557da9c5d52a98361bcd2bd90ab28a",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国紙のVIVANT批判がダブスタすぎて「どの口が言うの？」…それでも日本人が警戒すべき〈ちょっと危ういシーン〉(ダイヤモンド・オンライン)",
+    "summary": "中国紙が人気ドラマ『VIVANT』を批判した。反日作品を数多く作ってきた中国に言われても、と思う人は多いだろう。だが、このドラマの本当の問題点は別にある。日本人の国際社会への認識を狂わせかねない“現実",
+    "link": "https://news.yahoo.co.jp/articles/127e85e1b28e3316e4e4165438a5d6b4508c0dcb?source=rss",
+    "published": "2026-11-19T09:36:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f9e1b02c2085d056b07378249607199a0ff7bee1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【米中ロ会談】『ヤルタ会談』になぞらえる見方も…“大国は全世界に対して特別な責任を負っている”　プーチン大統領「我々は第二次世界大戦の戦勝国」　習主席「世界は運命共同体」【情報まとめ】(テレビ朝日系（ANN）)",
+    "summary": "中国・深セン市で米中ロの首脳会談が始まりました。ホスト役を務める中国の習近平主席は冒頭、「世界は運命共同体」であると述べ、米中ロが世界の模範となるべきだと訴えました。【3首脳の思惑は…】焦点は核軍縮と",
+    "link": "https://news.yahoo.co.jp/articles/5ca7a7824172d4a8772d2aebc947a0a2df7c6cdd?source=rss",
+    "published": "2026-11-19T09:36:17+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bd5887b337b83e3b95e1216ef13203d0401b3468",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロ首脳会談　習主席「世界は運命共同体」(テレビ朝日系（ANN）)",
+    "summary": "中国・深圳市で米中ロの首脳会談が始まりました。ホスト役を務める中国の習近平主席は冒頭、「世界は運命共同体」であると述べ、米中ロが世界の模範となるべきだと訴えました。 習近平主席はAPEC首脳会議に合わ",
+    "link": "https://news.yahoo.co.jp/articles/5acc6521d4552f3df82d5299c389e38d862e3d73?source=rss",
+    "published": "2026-11-19T09:33:12+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b30dbaa270705e8aaa930ee536b827ee7e4dce6f",
+    "source": "毎日新聞",
+    "title": "中国の原人、熱帯雨林に適応か　従来の絶滅説に一石",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261119/k00/00m/030/254000c",
+    "published": "2026-11-19T09:32:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5c9f4aa22a42b8f46d77dbc6d0dc5d968bb6392e",
+    "source": "毎日新聞",
+    "title": "高市首相の出迎え「簡素」？　中国外務省「適切な手配行った」",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261119/k00/00m/030/324000c",
+    "published": "2026-11-19T09:28:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "3c221ee4d7137cf5c59bfbe68a959b8ea571dee4",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロは国際秩序守るパートナーと習氏(共同通信)",
+    "summary": "【深セン共同】中国の習近平国家主席は19日の米中ロ首脳会談で、3カ国は「パートナーになるべきだ」とし、第2次大戦の戦勝国として「戦後の国際秩序を断固守るべきだ」と訴えた。新華社が報じた。",
+    "link": "https://news.yahoo.co.jp/articles/25958e1fefd1552979706d11900fe6e763d5ae7b?source=rss",
+    "published": "2026-11-19T09:24:35+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bcfe1a9a2387a192314cbb7a49e2378bfe113c1d",
+    "source": "毎日新聞",
+    "title": "空き家など15県で窃盗206件か　ベトナム人グループを逮捕・摘発",
+    "summary": "",
+    "link": "https://mainichi.jp/articles/20261119/k00/00m/040/322000c",
+    "published": "2026-11-19T09:24:33+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "6956a53ff383710de7c1cbcbc697f0d48cfaff7f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "初の米中ロ首脳会談 始まる(ABEMA TIMES)",
+    "summary": "アメリカと中国、ロシアの3首脳による史上初の会談が先ほどから始まりました。 戦後の世界秩序が大きな曲がり角を迎える懸念も出ています。【映像】米中ロ首脳会談の様子 トランプ大統領と習近平国家主席、プーチ",
+    "link": "https://news.yahoo.co.jp/articles/b4c303502c067c008cb4dafda38d879309605822?source=rss",
+    "published": "2026-11-19T09:24:16+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9f26955ab48a086c7801ecad03b1f33488f37e1f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "トランプ氏「われわれには特別な責任がある」　初の米中露首脳会談で核兵器削減を主張(産経新聞)",
+    "summary": "【深圳＝本間英士】トランプ米大統領は19日に中国・深圳（しんせん）で開催された史上初の米中露3カ国首脳会談で、「世界最大級の3カ国の首脳として、われわれには特別な責任がある。自国民だけではなく、地球全",
+    "link": "https://news.yahoo.co.jp/articles/d80642d53e67b174a883c5212b304b3d989442b2?source=rss",
+    "published": "2026-11-19T09:23:23+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f446a02d5a8e1245369b52f89f0c2f9fd1265dfb",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中首脳会談　習主席 台湾問題でアメリカを牽制(テレビ朝日系（ANN）)",
+    "summary": "19日開催された米中首脳会談で、中国の習近平国家主席は「台湾問題についてアメリカは正しい行動を貫き、大きな波乱が生じるのを避けるべきだ」と述べ、牽制（けんせい）しました。 米中首脳会談は今年3回目で、",
+    "link": "https://news.yahoo.co.jp/articles/37b5b55cb024f6d4a65598495b023892e4e8d64e?source=rss",
+    "published": "2026-11-19T09:21:59+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9b09931f2534078acae9a974ae6861562a1aee33",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「核心的利益尊重を」と習氏(共同通信)",
+    "summary": "【深セン共同】中国の習近平国家主席は19日の米中ロ首脳会談で、台湾問題を念頭に「互いの核心的利益を尊重し、内政不干渉を堅持しなければならない」と述べた。新華社が報じた。",
+    "link": "https://news.yahoo.co.jp/articles/df30fd56f2a7b287ce9eb064f5a26a5274debadf?source=rss",
+    "published": "2026-11-19T09:21:32+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "a1298501ac9a701bf0550304bc5480f81a85ebf3",
+    "source": "Yahoo!ニュース 国内",
+    "title": "｢中国籍･○○容疑者｣を見ただけで｢日本人vs.中国人｣の構図が生まれる…人が無意識に陥る心の枠組み(プレジデントオンライン)",
+    "summary": "外国人による犯罪のニュースを見たとき、私たちの頭の中では何が起きているのか。社会心理学者で福岡大学准教授の縄田健悟さんは「国籍ラベルが付くと、出来事が個人間の事件ではなく集団間の出来事として知覚されや",
+    "link": "https://news.yahoo.co.jp/articles/83b0f29671ee059dce223eca1d46f93e226bca31?source=rss",
+    "published": "2026-11-19T09:15:37+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "463b186ba98225b9cdf03c8df4d2f3d8578fa6cf",
+    "source": "NHKニュース",
+    "title": "高市首相 訪問先の中国で記者会見【動画 全編】",
+    "summary": "高市総理大臣は、訪問先の中国で記者会見しました。\n詳細をお伝えします。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261119de78187",
+    "published": "2026-11-19T09:09:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c1c9b3fcef575ff2a3ac09685d211b47ec64b662",
+    "source": "Yahoo!ニュース 国内",
+    "title": "【中継】史上初の米中露首脳会談を見守る「メディアセンター」沿道に手を振るなど上機嫌のトランプ大統領　高市首相は中国メディアから「冷遇」か　(読売テレビ)",
+    "summary": "米中露首脳会談の開始を目前に、各国の記者らが今か今かと待機する「メディアセンター」から中継でお伝えします。（報告・武藤将大 記者） こちらは、中国・深圳に設けられたメディアセンターです。 世界中からA",
+    "link": "https://news.yahoo.co.jp/articles/8a993502e983d6c98a116c58c44eb6b3ff8e8bdd?source=rss",
+    "published": "2026-11-19T09:09:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "81926feb1caedece6e614c1fa700cb7576710f39",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中首脳会談　習主席　台湾問題でアメリカを牽制(テレビ朝日系（ANN）)",
+    "summary": "きょう開催された米中首脳会談で中国の習近平国家主席は、「台湾問題についてアメリカは正しい行動を貫き、大きな波乱が生じるのを避けるべきだ」と述べ、牽制しました。米中首脳会談は今年で3回目で、史上初の開催",
+    "link": "https://news.yahoo.co.jp/articles/3396d9f794b1b8cce61a09d480d1207e77502429?source=rss",
+    "published": "2026-11-19T09:03:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bbe0af896623142dea537453da131c2905a3bcdc",
+    "source": "Yahoo!ニュース 国際",
+    "title": "3カ国「世界の平和守るべきだ」と習氏(共同通信)",
+    "summary": "【北京共同】新華社電によると、中国の習近平国家主席は19日の米中ロ首脳会談で、世界の主要大国で国連安全保障理事会常任理事国でもある3カ国が「共に世界の平和と安定を守るべきだ」と呼びかけた。",
+    "link": "https://news.yahoo.co.jp/articles/9ed06d5aa4c9d0cf30e4f905ebf3ed87807fcc4d?source=rss",
+    "published": "2026-11-19T09:02:50+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "f9e6fa3b8ea26d7d9a448a819575cf0565d25f7e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロ首脳が初会談、大国誇示　核軍縮協議か、共同文書を調整(共同通信)",
+    "summary": "【深セン共同】トランプ米大統領と中国の習近平国家主席、ロシアのプーチン大統領は19日午後、中国・深センで史上初の米中ロ首脳会談に臨んだ。核軍縮や地域紛争を巡り協議したとみられる。3首脳は国際情勢を取り",
+    "link": "https://news.yahoo.co.jp/articles/3068d1355de1a8568bace568502035b914664490?source=rss",
+    "published": "2026-11-19T09:01:29+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b012de8771b99bccd51719c4c7bae5624e1b1bbb",
+    "source": "Yahoo!ニュース 国際",
+    "title": "動画には労働者と警官隊が激しく衝突し、車に火が放たれる様子が…バングラデシュで労働者によるデモが発生、640工場に影響を及ぼすほどの大混乱に(ニューズウィーク日本版)",
+    "summary": "バングラデシュで11月17日、賃上げを求める縫製工場の労働者数千人と警官隊が衝突した。【動画】労働者と警官隊が激しく衝突、車には火が放たれる…バングラデシュで繰り広げられる抗議活動の様子AFP通信によ",
+    "link": "https://news.yahoo.co.jp/articles/27b7ee758c2d4ed8cde600342bd5031b9321e9d4?source=rss",
+    "published": "2026-11-19T09:00:15+00:00",
+    "matched_keywords": [
+      "バングラデシュ"
+    ]
+  },
+  {
+    "id": "062595b345ed04569cdcbb80b375d80fc4760108",
+    "source": "Yahoo!ニュース 国内",
+    "title": "首相が中国から帰国の途(共同通信)",
+    "summary": "【深セン共同】高市首相は19日（日本時間同）、アジア太平洋経済協力会議（APEC）首脳会議出席など一連の外交日程を終え、中国・深センの空港から政府専用機で帰国の途に就いた。",
+    "link": "https://news.yahoo.co.jp/articles/a20205a3ddb2b6b7f09e765406452830c423e884?source=rss",
+    "published": "2026-11-19T08:59:58+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1ea489db26c7d4c1c0a9005e7189e556aa27bd5c",
+    "source": "Yahoo!ニュース 国際",
+    "title": "トランプ米大統領、米中首脳会談で「台湾独立を支持しない」と発言　新華社が報道(産経新聞)",
+    "summary": "【深圳＝三塚聖平】中国国営新華社通信によると、習近平国家主席は19日に中国・深圳でトランプ米大統領と会談し、台湾問題に関し「米側は正しいことを行い続けることを堅持し、中米関係に大きな波乱が生じるのを避",
+    "link": "https://news.yahoo.co.jp/articles/4cb4eecc49b8c2d1c60dcb9797288296b853fc39?source=rss",
+    "published": "2026-11-19T08:55:47+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "831d9976e9540a89239e58a52777a7d53e765a0f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習氏「3カ国は戦勝国」と日本けん制(共同通信)",
+    "summary": "【深セン共同】中国の習近平国家主席は19日の米中ロ首脳会談で「3カ国は世界反ファシズム戦争の中核として肩を並べて戦い、偉大な勝利を収めて世界に平和と安寧をもたらした」と述べ、日本をけん制した。新華社が",
+    "link": "https://news.yahoo.co.jp/articles/1c0ea4a32b8671df13239a8c8e0bb1cb71f0c1fe?source=rss",
+    "published": "2026-11-19T08:54:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9ee5cab10f45fbc50909c34a67b2c8b9e14cab2e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中首脳会談 習主席「両国関係を発展させる」(ABEMA TIMES)",
+    "summary": "今年で3回目となる米中首脳会談が先ほど終了しました。 会談で中国の習近平国家主席は、「トランプ氏と協力し、両国関係を発展させていく」と強調したということです。【映像】習主席「両国関係を発展させていく」",
+    "link": "https://news.yahoo.co.jp/articles/f3b5048c914804a55473f9add6c739a19b0cbc69?source=rss",
+    "published": "2026-11-19T08:45:32+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "78e868397a09a84c272ee415f1713850bbe7f8de",
+    "source": "Yahoo!ニュース 国内",
+    "title": "首相、習氏と会談できず　日中正常化へ模索継続(共同通信)",
+    "summary": "【深セン共同】高市早苗首相は、中国・深センでのアジア太平洋経済協力会議（APEC）首脳会議に合わせた習近平国家主席との会談を実施できなかった。木原稔官房長官が19日の記者会見で、首脳会談は開催されてい",
+    "link": "https://news.yahoo.co.jp/articles/fed1647fa595e98712cf56f42b317b96e3308dae?source=rss",
+    "published": "2026-11-19T08:44:40+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b5ae1675277465949525509b9396799680db2108",
+    "source": "Yahoo!ニュース 国内",
+    "title": "高市首相、“握手外交”で習近平氏に伝えた内容＆プーチン大統領と30分以上会談の中身明かす(日刊スポーツ)",
+    "summary": "高市早苗首相は19日、アジア太平洋経済協力会議（APEC）首脳会議のため滞在している中国・深圳で記者会見し、直接首脳会談の機会を持てなかった中国の習近平・国家主席との間で取ったコミュニケーションの内容",
+    "link": "https://news.yahoo.co.jp/articles/6f3caf3c2ebdc3b9c987f35ed28c5f729dfa650c?source=rss",
+    "published": "2026-11-19T08:43:57+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cad62bdc7f817a9f39a142388b1a35454726c33d",
+    "source": "Yahoo!ニュース 国内",
+    "title": "会社社長装い現金詐取疑い　ベトナム人4人を逮捕、警視庁(共同通信)",
+    "summary": "東京都港区の会社社長を装ったLINE（ライン）で従業員に指示し、現金を詐取したなどとして、警視庁特別捜査課は19日までに、詐欺などの疑いで、別の会社の役員チャン・バン・チュオン容疑者（28）＝東京都豊",
+    "link": "https://news.yahoo.co.jp/articles/71116c12f8a4106dd4f2be521c2d644b5e3e243a?source=rss",
+    "published": "2026-11-19T08:43:23+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "65b8457098a4a49dbed375ec83a4b119302079db",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロ首脳会談は「画期的」と中国主席(共同通信)",
+    "summary": "【深セン共同】中国の習近平国家主席は19日、米中ロ首脳会談で「3カ国の最高指導者が史上初めて一堂に会したことは画期的だ」と述べた。新華社が報じた。",
+    "link": "https://news.yahoo.co.jp/articles/1c6fd9deb3484059878d492b72a376ab0cd88e43?source=rss",
+    "published": "2026-11-19T08:41:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "182b67b3d9547cc176901d18442849cf3ec550df",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロの3首脳が歴史的会談　トランプ氏は習氏、プーチン氏と個別会談も(BBC News)",
+    "summary": "アメリカのドナルド・トランプ大統領、中国の習近平国家主席、ロシアのウラジーミル・プーチン大統領の3首脳は19日夕、中国の深圳で会談した。米中ロ3カ国の首脳による会談は史上初めて。トランプ氏はこの日、習",
+    "link": "https://news.yahoo.co.jp/articles/aa9afbbb7832d09da4d1d8fb724e9e7c99ccda1b?source=rss",
+    "published": "2026-11-19T08:36:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d0f1ffe642493bffbb5a2923011be09255a83970",
+    "source": "Yahoo!ニュース 国際",
+    "title": "史上初の米中露首脳会談、始まる　中国・深圳で　習近平氏が主宰(産経新聞)",
+    "summary": "【深圳＝本間英士、三塚聖平】トランプ米大統領と中国の習近平国家主席、ロシアのプーチン大統領による史上初の米中露3カ国の首脳会談が19日午後、中国・深圳で始まった。中国国営新華社通信が伝えた。中国国営中",
+    "link": "https://news.yahoo.co.jp/articles/e22eb0f00af60f86186ea94c4698eecd205df72b?source=rss",
+    "published": "2026-11-19T08:35:23+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "9dc78a30d1a33b03bffd72fda80b0e5f2fa3034e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【速報】中国・深センで史上初の米中ロ首脳会談始まる　習主席が 米中ロが世界の模範となるべきと呼びかけ　核軍縮やイラン情勢など議論か(テレビ朝日系（ANN）)",
+    "summary": "中国・深セン市で米中ロの首脳会談が始まりました。ホスト役を務める中国の習近平主席は冒頭、「世界は運命共同体」であると述べ、米中ロが世界の模範となるべきだと訴えました。【動画】米・中・ロ首脳会談の様子習",
+    "link": "https://news.yahoo.co.jp/articles/b3e13bd640436d6cc21eeb8f908e1d0482b77252?source=rss",
+    "published": "2026-11-19T08:31:46+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bbb29d69b2b6f16848db7b7546d6a0315e1721a3",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習近平は笑顔で握手も…高市首相を空港で「冷遇」？　中国が見せた「歓迎格差」(ニューズウィーク日本版)",
+    "summary": "中国・深圳で11月18日に行われたアジア太平洋経済協力会議（APEC）の歓迎夕食会で、高市早苗首相と習近平国家主席が握手を交わした。【動画で比較】高市首相とトランプ大統領の歓迎の様子の違い香港紙サウス",
+    "link": "https://news.yahoo.co.jp/articles/bf0cdb353bff7f928d06d7e32a86c27b19fc347c?source=rss",
+    "published": "2026-11-19T08:31:38+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "b06abdb9f80c26c0a5caf68c5916976f3d5f6f8f",
+    "source": "Yahoo!ニュース 国際",
+    "title": "【速報】史上初　米中ロ首脳会談始まる　戦後の世界秩序大きな転換点か(テレビ朝日系（ANN）)",
+    "summary": "アメリカと中国、ロシアの3首脳による史上初の会談が19日午後から始まりました。戦後の世界秩序が大きな曲がり角を迎える懸念も出ています。 トランプ大統領と習近平国家主席、プーチン大統領は、APECが開か",
+    "link": "https://news.yahoo.co.jp/articles/dbd9beb848611318bcabc3ee590e67d5933a1055?source=rss",
+    "published": "2026-11-19T08:31:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "7268df8f8639ab1e8f791e532bc3f9be9b2a6a7b",
+    "source": "Yahoo!ニュース 国際",
+    "title": "100体超の人型ロボットが一斉にダンス、金網の中では格闘技も…中国がAPECで披露した驚きの光景(ニューズウィーク日本版)",
+    "summary": "広場にずらりと並んだ人型ロボットが、音楽に合わせて一斉に踊り始める。腕を振り、足を動かし、100体を超えるロボットが集団でダンスを披露する光景は、まるでSF映画のワンシーンのようだ。【映像】100体超",
+    "link": "https://news.yahoo.co.jp/articles/ca2f104eeda2f6500fd121511e5242f81bd2ff85?source=rss",
+    "published": "2026-11-19T08:31:10+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "021bc35decc6baa9b449e55009d3c5a030631b9e",
+    "source": "Yahoo!ニュース 国際",
+    "title": "米中ロ首脳会談始まる(共同通信)",
+    "summary": "【深セン共同】米国と中国、ロシア3カ国による首脳会談が19日、中国・深センで始まった。中国国営通信新華社が報じた。",
+    "link": "https://news.yahoo.co.jp/articles/09baf9dacc41b620be08d129226f4ef239aaad7e?source=rss",
+    "published": "2026-11-19T08:29:59+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "0c99c2d194524e0564bc64b75d148758851064b5",
+    "source": "朝日新聞",
+    "title": "農業法人への告訴状受理　特定技能で来日の男性が「虐待」訴え提出",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVCM2H6KVCMIIPE00GM.html?ref=rss",
+    "published": "2026-11-19T07:51:47+00:00",
+    "matched_keywords": [
+      "特定技能"
+    ]
+  },
+  {
+    "id": "54f247f7b394fc8ca13dd5c08af1b59498b6c8b2",
+    "source": "ハフポスト日本版",
+    "title": "「逃げて！」巨大な岩が車を直撃、リアガラス粉々に。AIと疑われるような衝撃映像、中国で間一髪の事故",
+    "summary": "<div class=\"content-list-component text\"><p>中国・四川省の山道で11月14日、巨大な岩が斜面から転がり落ち、渋滞中の乗用車を直撃する事故が起きました。車の後部は激しく損傷しましたが、乗っていた人々や近くにいた女性にけがはありませんでした。</p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6afd4dafe4b02da00c037404\">間一髪！　巨大な落石が車後部を粉々にする瞬間</a></p><p><a href=\"https://www.jfeed.com/news-world/tok5ew\" rel=\"noopener noreferrer\" target=\"_blank\">JFeed</a>は、事故が起きたのは午後5時22分ごろと報じています。理県の観光ルート付近で、止まっていた車が落石に巻き込まれました。後続車のドライブレコーダーには、巨大な岩が車の後部を直撃し、リアガラスを粉々に砕く瞬間が記録されています。 </p><p><a href=\"https://www.thesun.co.uk/news/41034640/huge-boulder-smashes-car/\" rel=\"noopener noreferrer\" target=\"_blank\">The Sun</a>によると、車のそばにいた女性は落石に気づき、「逃げて！逃げて！」と叫びながら間一髪で避難しました。車の所有者は、事故当時、親族2人が後部座席に座っていたと説明しています。 </p><p><a href=\"https://newsable.asianetnews.com/world/terrifying-near-miss-giant-rock-smashes-cars-rear-windshield-in-china-family-escapes-unhurt-watch-articleshow-m8qww9s\" rel=\"noopener noreferrer\" target=\"_blank\">Asianet News</a>は、落石の原因について、地質の風化や直前の大雨によって斜面が不安定になった可能性を伝えています。ただし、理県警察は原因を発表しておらず、調査を続けています。現場付近は落石が起きやすい山岳地帯で、以前から注意を促す標識が設置されていたということです。 </p><p>またJFeedによると、動画には当初、AIで生成されたものではないかとの疑惑も浮上しましたが、中国メディアが実際の事故だと地元当局に確認しました。当局は運転手に対し、急斜面の下で停車せず、落石に警戒するよう呼びかけています。</p><p>【あわせて読む】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5ba24e4b0653429057be5\">アラスカ上空で“巨大クラゲ”のような飛行物体を目撃⇒米軍基地付近を浮遊、専門家が指摘した正体とは</a></p><div></div></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6afd4dafe4b02da00c037404\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6afd4db7150000aa0913c019.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6afd4dafe4b02da00c037404\">【動画】「逃げて！」巨大な岩が車を直撃、リアガラス粉々に。AIと疑われるような衝撃映像、中国で間一髪の事故</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c579e4b06534290580d4\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af5c7f01800000f4694bdb5.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c579e4b06534290580d4\">電動自転車のバッテリーが突然爆発⇒住宅全焼に至った“戦慄の映像”に「まるで爆弾みたいでした」（米）</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af467a3e4b09e0b5c535c5a\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af469f4180000a52a94bc2f.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af467a3e4b09e0b5c535c5a\">白昼ショベルカーが暴走、約1時間政府施設の入口を粉々に…⇨拘束された47歳男性の動機に注目集まる（中国）</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6afd49bae4b02da00c0372c4\">...クリックして全文を読む</a></p>",
+    "link": "https://www.huffingtonpost.jp/entry/story_jp_6afd49bae4b02da00c0372c4",
+    "published": "2026-11-19T05:16:43+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "c4994d54a520ef36cecabd2cae7de8440bac4a22",
+    "source": "東洋経済オンライン",
+    "title": "【歓迎格差】トランプ米大統領は習氏が自ら出迎え､領有権対立ある比マルコス大統領でさえ高市首相より良い待遇 | 政治・経済・投資 | 東洋経済オンライン",
+    "summary": "国際会議の舞台裏で注目された､中国による各国首脳への空港での\"出迎え\"には､緻密に計算された外交メッセージが込められています。トランプ大統領を自ら迎えた習近平主席の姿や､日本･高市首相への冷淡な対応…",
+    "link": "https://toyokeizai.net/articles/-/965342?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-11-19T04:22:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "af86f4701bc87a94dbe7a48a478fbac609e23cfd",
+    "source": "朝日新聞",
+    "title": "ベトナムから特殊詐欺指示?　困窮の留学生勧誘、自宅に携帯100台",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVCL41Q2VCLUTIL02NM.html?ref=rss",
+    "published": "2026-11-19T02:30:00+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
     "id": "2344b83b0859412224346390f31dc8fe021e1d52",
     "source": "Yahoo!ニュース 国際",
     "title": "APECで中国が高市首相を冷遇…日本側「本当に失礼だ」(朝鮮日報日本語版)",
@@ -347,17 +842,6 @@
     "summary": "アメリカ、中国、ロシアの3か国の首脳による初めての会談が開かれるのを前に、ウクライナのシビハ外相は「会談で何が議論されようと、ウクライナ抜きではいかなる決定も不可能だと各国は理解しなくてはいけない」と…",
     "link": "https://news.web.nhk/newsweb/na/nd-20261119de78096",
     "published": "2026-11-18T19:47:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "26c1af523512973e6cc379bc810ba8037a12bb17",
-    "source": "NHKニュース",
-    "title": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
-    "summary": "APEC＝アジア太平洋経済協力会議が開かれている中国の※深センで19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領が、3か国の首脳による初めての会談を行います。核軍縮…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261119de78117",
-    "published": "2026-11-18T19:46:00+00:00",
     "matched_keywords": [
       "中国"
     ]
@@ -10841,270 +11325,6 @@
     "summary": "",
     "link": "https://www.asahi.com/articles/ASVC52TDRVC5UHBI01CM.html?ref=rss",
     "published": "2026-11-05T10:40:18+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "afc8eb871286e6c8eb890f2c1c2367589efd7f96",
-    "source": "Yahoo!ニュース IT",
-    "title": "BlenderもCADも動かすAI、Tencent「Hy4」が数日中に重み公開へ(PC Watch)",
-    "summary": "中国のSNS/ゲームパブリッシャー大手のTencentが繰り出す新モデルは、“世界をリードするオープンソースAIモデルの1つ”をうたう。Tencentは11月4日(中国時間)、大規模言語モデル「Ten",
-    "link": "https://news.yahoo.co.jp/articles/aa91a7b98239f6346784e232489b8e84958d2c1a?source=rss",
-    "published": "2026-11-05T10:11:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "194739e561a0fcfe1d0086224f20262730032a33",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ヘリ同士が空中衝突、エベレストのベースキャンプ付近　1人死亡(CNN.co.jp)",
-    "summary": "（CNN） 世界最高峰エベレストのネパール側のベースキャンプ付近で、着陸しようとしていたヘリコプター2機が衝突する事故があり、1人が死亡、少なくとも2人が負傷した。【映像】ヘリ同士が空中衝突、エベレス",
-    "link": "https://news.yahoo.co.jp/articles/f9bfc1ba1ef30e7b774b1968a73fd4aca7f1c394?source=rss",
-    "published": "2026-11-05T10:03:00+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "5edd5ecd3b16497ddf580a8018dfdb2c21695671",
-    "source": "ハフポスト日本版",
-    "title": "安藤優子、手作り「ザーサイ入り鶏団子鍋」が美味しそう！食欲そそるレシピに「真似します」「寒い日にぴったり」",
-    "summary": "<div class=\"content-list-component text\"><p>ジャーナリストの安藤優子さんが11月5日、自身のInstagramを更新。鶏団子とザーサイを使った鍋レシピを公開し、話題になっています。</p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6aebe216e4b08d8d4a8da5b7\" rel=\"noopener noreferrer\" target=\"_blank\">美味しそう！安藤さんのザーサイ入り「鶏団子鍋」</a></p><p>安藤さんは、「冷えてきました！ので、昨晩は鶏団子で変わりピエンロー鍋」とのコメントを添えて、テーブルに料理が並んだ写真などを投稿。</p><p>メインの鍋には、鶏団子やネギ、きのこなどの野菜がたっぷり入っており、食欲をそそります。</p><p>鶏団子の材料については「鶏肉以外にザーサイ、ネギ、生姜のすりおろし、お酒、卵、お醤油少々と、片栗粉でまとめてあります」と紹介。さらに豆腐も入れたそうで、「ふわふわで､しっかりザーサイの塩味が感じられてとっても美味しかったです」とつづりました。</p><p>鍋の味付けは、「鶏がらスープの素、酒、お塩のみ」だそう。続けて「私はこの鶏団子鍋が大好きで、鶏団子のタネは平皿に盛っておいて、食べながら丸めて煮込むスタイルです。亡き母のやり方です」と語っています。</p><p>投稿には「鶏団子のお出汁も出て美味しそう」「お鍋真似っこします」「わぁー食べたいです」「寒い日にぴったりですね！」などの声が寄せられています。</p><p>ピェンロー鍋とは、中国発祥の白菜鍋のこと。干ししいたけの戻し汁で、白菜や鶏肉、豚肉、春雨などを煮込み、ごま油を加えるのが特徴のよう<a href=\"https://www.ntv.co.jp/3min/recipe/20260205/\" rel=\"noopener noreferrer\" target=\"_blank\">です</a>。舞台芸術家の妹尾河童さんが著書『河童のスケッチブック』で紹介し、日本でも広まったといわれています。</p><p>【あわせて読みたい】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6aea8b47e4b0f78622d75c45\" rel=\"noopener noreferrer\" target=\"_blank\">篠原ともえが「御朱印帳」をデザインしたらこうなる⇨奈良の大仏と鹿に「めちゃくちゃ可愛い」「愛用してます」の声</a></p><p></p></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aebe216e4b08d8d4a8da5b7\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6a8316b723000093317c9863.jpg?cache=zWIKmcraU5&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aebe216e4b08d8d4a8da5b7\">【画像】安藤優子、手作り「ザーサイ入り鶏団子鍋」が美味しそう！食欲そそるレシピに「真似します」「寒い日にぴったり」</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ae0550de4b096363dd155d4\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aea7b23180000ad51251692.jpg?cache=n1TKVzroJf&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ae0550de4b096363dd155d4\">紅白歌合戦2026、出演者はいつ発表？直近5年の傾向から予想すると...</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad84bbde4b0ba084e135f92\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6ae2b34d180000bbb3250f86.jpeg?cache=hn8AuvYVQS&amp;ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6ad84bbde4b0ba084e135f92\">映画「ゴジラ-1.0」の海外版“幻のポスター”、「マジでかっこいい」「絶対ほしい」と世界から絶賛の声。日本版と比べると？</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6aebdda8e4b08d8d4a8da498\">...クリックして全文を読む</a></p>",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_6aebdda8e4b08d8d4a8da498",
-    "published": "2026-11-05T09:54:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "842f21f197fa5a6796c135a26ca94cbb8c25c6fd",
-    "source": "Yahoo!ニュース 地域",
-    "title": "“暖冬”でも「寒波が来ると雪は降る」冬の到来を前に園児たちが除雪機械を見学　広島・三次市(RCC中国放送)",
-    "summary": "広島県三次市で、これからのシーズン活躍する道路の除雪車などを、子どもたちが見学しました。【写真を見る】“暖冬”でも「寒波が来ると雪は降る」冬の到来を前に園児たちが除雪機械を見学 広島・三次市三次市にあ",
-    "link": "https://news.yahoo.co.jp/articles/59f2f829d804137111805801789b4daca76aa46a?source=rss",
-    "published": "2026-11-05T09:37:14+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2514f99f9929ca46f220e675cf2a5aef5324f4b5",
-    "source": "Yahoo!ニュース 国内",
-    "title": "「書道」が無形文化遺産に登録へ　「日本独自の文化を世界中に」大阪市内の教室から期待の声(ABCニュース)",
-    "summary": "日本の「書道」が、ユネスコの無形文化遺産に登録される見通しとなりました。 ユネスコの評価機関は、日本の「書道」を無形文化遺産に登録するよう勧告しました。来月初旬、中国・アモイで開催される政府間委員会で",
-    "link": "https://news.yahoo.co.jp/articles/7dd8ed8c428166c8be9523669b4cffd1155374d6?source=rss",
-    "published": "2026-11-05T09:32:48+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3a75f32aaa753da733158beacd1f197c6c79b01b",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "中国出身の異色アーティストが来日、触れずに奏でる楽器で生み出す「未知の音楽体験」(Rolling Stone Japan)",
-    "summary": "中国出身でロンドンを拠点に活動するサウンドアーティスト／作曲家、Li Yilei（リー・イーレイ）が、2年ぶり2度目となる来日ツアーを開催する。11月19日の岡山・玉野公演を皮切りに、三重・鈴鹿、名古",
-    "link": "https://news.yahoo.co.jp/articles/ac5e82fb3b9ff58971ffa892490bd9ec8fc1bb22?source=rss",
-    "published": "2026-11-05T09:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4798b14f7a99f196ac580f005e63e1083a52dc22",
-    "source": "Yahoo!ニュース IT",
-    "title": "中国当局がソフトバンクのABB買収に待った、国内の取得禁止で53.75億ドル案件に暗雲(ビジネス＋IT)",
-    "summary": "ABBは11月5日、ソフトバンクグループへのロボティクス部門売却をめぐり、中国の外国投資安全審査の担当機関が、中国国内でのABBロボティクス事業の取得を禁止したと明らかにした。取引は企業価値53.75",
-    "link": "https://news.yahoo.co.jp/articles/2ea7c73ad2e9022c14e17b6d3f8e1654a90a7f77?source=rss",
-    "published": "2026-11-05T09:25:06+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6156dbbc6664233db3a03ba6dd657f59e1389c84",
-    "source": "Yahoo!ニュース 科学",
-    "title": "世界最大の魚類ジンベイザメの謎、その「新生児」はどこで生まれてどう育つのか(Forbes JAPAN)",
-    "summary": "熱帯のインドネシア・スンバワ島サーレ湾。夜明け前に湾内を見渡すと、灯りのついた漁船があちこちに浮かび、暗闇の中で光を放っている。大きな何かが漁船の真下を通り抜けて網へと近寄ってきたせいで、1隻の漁船が",
-    "link": "https://news.yahoo.co.jp/articles/d7f3863eda8ba3d955f12e5fc213618533918f14?source=rss",
-    "published": "2026-11-05T09:00:00+00:00",
-    "matched_keywords": [
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "ecc485062892461c15e5c1f96fb18f7521ecaf4c",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「トランプ大統領の合意を議会が揺さぶるか」…米民主党圧勝受けた中国の計算(中央日報日本語版)",
-    "summary": "「片脚を引きずる北京ダックを食べる人はいますか」。北京の中国コンサルティング企業トリビウムチャイナが米国の中間選挙で惨敗したトランプ米大統領を「レーム北京ダック」に例えた。任期末の影響力低下現象を意味",
-    "link": "https://news.yahoo.co.jp/articles/57680ba1d5a112dbae2c930279f3b275e2e88333?source=rss",
-    "published": "2026-11-05T08:57:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d7305fc38888f9b077dc4b726703d7367689f495",
-    "source": "Yahoo!ニュース IT",
-    "title": "Kimi K3.1 Proの重み公開、無償で商用利用も原則可能(PC Watch)",
-    "summary": "予告通り、約3兆パラメータ級の大規模モデルの重みが公開された。Moonshot AIは11月5日(中国時間)、10月23日に発表したAIモデル「Kimi K3.1 Pro」のオープンウェイト(モデルの",
-    "link": "https://news.yahoo.co.jp/articles/c2fb06fe0b46aed0c02f5cee0ab96ce10933161e?source=rss",
-    "published": "2026-11-05T08:49:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "aece2c51394e6f639ec9791327afa42a441a1393",
-    "source": "Yahoo!ニュース 国内",
-    "title": "維新、台湾有事巡り勉強会　日本への影響、識者が解説(共同通信)",
-    "summary": "日本維新の会は5日、安全保障調査会の勉強会を国会内で開いた。「台湾侵攻に向けた中国人民解放軍の準備状況」と「台湾有事が日本有事になる様相」をテーマに保守系シンクタンクの研究員らからヒアリングした。出席",
-    "link": "https://news.yahoo.co.jp/articles/73c365d517520eecd6dca843af67062888af96f9?source=rss",
-    "published": "2026-11-05T08:32:50+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "eb79eaffd4e65414bffe3888b3463008031eb504",
-    "source": "Yahoo!ニュース 国際",
-    "title": "香港の著名民主活動家・黄氏に拘禁10年の判決　国安法違反で再び実刑(BBC News)",
-    "summary": "余美霞BBC中国語版記者（香港）、ケリー・アン記者香港の民主活動家、黄之鋒（ジョシュア・ウォン）氏が香港国家安全維持法（国安法）違反の罪に問われた裁判で、香港の裁判所は5日、黄氏が外国勢力と結託したと",
-    "link": "https://news.yahoo.co.jp/articles/c59f93e62dc2f29f6419c09e99c77858f3511447?source=rss",
-    "published": "2026-11-05T07:50:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ed9eccc7ff317c39c4501828f2741dd54acffe00",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エベレスト近くでのヘリコプター衝突事故…朝日か交信の問題の可能性(中央日報日本語版)",
-    "summary": "3日にネパールのヒマラヤにあるクンブ渓谷のペリチェ（海抜4300メートル）で発生したヘリコプター衝突事故と関連し、元操縦士が朝日による視野妨害と操縦士同士の交信に問題があった可能性を提起した。事故は午",
-    "link": "https://news.yahoo.co.jp/articles/804c3afa7d48bbc169ecefec4ef1047540fb7092?source=rss",
-    "published": "2026-11-05T07:40:35+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "5c7ea45e9ead4b0d268b6c64f29ead40b1fe9ba1",
-    "source": "毎日新聞",
-    "title": "リンクサイド:三浦佳生「ノーミスした時は、すごい点が出る」　中国杯公式練習",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261105/k00/00m/050/232000c",
-    "published": "2026-11-05T07:38:22+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d0842510934bc4b7c7e788ee1f35ae47d2c10f6a",
-    "source": "Yahoo!ニュース 国際",
-    "title": "バングラデシュで縫製工場閉鎖　賃上げを求める労働者が抗議活動(AP通信)",
-    "summary": "ナラヤンガンジ、バングラデシュ、11月5日 (AP) ー 警察や目撃者によると、バングラデシュの警察は4日、賃上げを求めて抗議活動を行う縫製工場の労働者を解散させるため、催涙ガスを発射し、スタングレネ",
-    "link": "https://news.yahoo.co.jp/articles/69213667e8481ed32a76a18e880b7d7b7341a0f4?source=rss",
-    "published": "2026-11-05T06:54:04+00:00",
-    "matched_keywords": [
-      "バングラデシュ"
-    ]
-  },
-  {
-    "id": "2d4815e0ba7df1adc95fcb2d12b0bcb783d600c6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "韓国EV輸出、中国に競争力で逆転許す…「2030年には16億ドル浸食の恐れ」(朝鮮日報日本語版)",
-    "summary": "韓国の電気自動車（EV）輸出競争力が最近2年間で急激に弱まり、中国に逆転されたことが分かった。中国の輸出拡大傾向が現在の水準で続く場合、2030年には韓国のEV輸出額の約15％に当たる16億1400万",
-    "link": "https://news.yahoo.co.jp/articles/fb385da2ef497867e036da04dee5e2ee44aab050?source=rss",
-    "published": "2026-11-05T06:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3a6f785379505056826b6298da3929e51b77efa2",
-    "source": "GIGAZINE",
-    "title": "中国・Tencentが高性能AIモデル「Hy4」を発表、オープンモデルとして公開することを約束",
-    "summary": "中国のIT大手Tencentは2026年11月4日、新たなAIモデル「Tencent Hy4」を発表しました。画像の理解やPCの操作に対応し、プログラミングや金融分析、ゲーム開発、科学研究など幅広い分野で高い性能を発揮するとしています。TencentはHy4のモデルの重みを近日中に公開する方針も明らかにしました。<p><b><a href=\"https://gigazine.net/news/20261105&#45;tencent&#45;hy4/\">続きを読む...</a></b></p>",
-    "link": "https://gigazine.net/news/20261105-tencent-hy4/",
-    "published": "2026-11-05T03:29:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "71aa9e6e143b418d9460f27ebf2cb329d0c0e8c4",
-    "source": "ITmedia 総合",
-    "title": "[ITmedia PC USER] Momax、1.85型曲面ディスプレイを備えたエントリー価格帯スマートウォッチ",
-    "summary": "ロア・インターナショナルは、中国Momax製となるAMOLEDディスプレイ採用スマートウォッチ「1-Wear Curvex」の取り扱いを発表した。",
-    "link": "https://www.itmedia.co.jp/pcuser/articles/2611/05/news061.html",
-    "published": "2026-11-05T02:50:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "9967d810846616ab2b017d199f648029878a8a13",
-    "source": "GIGAZINE",
-    "title": "Googleが130万台のAndroid TVで密かに稼働していたボットネットを解体",
-    "summary": "Googleの脅威インテリジェンスグループが、日本の警察庁やセキュリティ企業のLumenなどと連携して「x.cpe」と呼ばれる大規模なボットネットを停止させたと発表しました。Googleは中国企業が意図的にバックドアを仕込んだと判断しています。<p><b><a href=\"https://gigazine.net/news/20261105&#45;xcpe&#45;down/\">続きを読む...</a></b></p>",
-    "link": "https://gigazine.net/news/20261105-xcpe-down/",
-    "published": "2026-11-05T02:36:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "8f82add8c87eb352017353c9d9e78b79d3319b0f",
-    "source": "Yahoo!ニュース エンタメ",
-    "title": "中国出身高学歴芸人いぜん　何カ国語話せる？に回答「日本語と英語と…」告白に共演者どよめき(スポニチアネックス)",
-    "summary": "中国出身の芸人・いぜん（28）が4日放送のABCテレビ「これ余談なんですけど…」（水曜後11・10）に出演。自身が習得している外国語の数を明かし、共演者を驚かせた。 この日は高学歴インテリ芸能人として",
-    "link": "https://news.yahoo.co.jp/articles/e09f0dcfe137af1c0bb8df3c2a12ce8969fc47a6?source=rss",
-    "published": "2026-11-05T02:21:05+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "0d56204de4d762347b970c7403a21e5e5be6d16b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「ミルクティー少女」の中国の女子高生、19歳年上の男性と結婚して大富豪に(朝鮮日報日本語版)",
-    "summary": "「ミルクティー少女」という愛称で呼ばれている中国の億万長者、章沢天（ジャン・ザーティエン）が最近、香港のチャリティイベントに姿を現した。【写真】2009年当時の章沢天がミルクティーを持っている姿と、最",
-    "link": "https://news.yahoo.co.jp/articles/fbd45c302ed5c28d5c097c4e841525bb60a237d8?source=rss",
-    "published": "2026-11-05T02:20:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f1db423d7903355d9c757544d2fbf9bac531e1ca",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国のAI取引が急減速、政府は株式市場の下落を食い止めようとしている（海外）(BUSINESS INSIDER JAPAN)",
-    "summary": "かつて過熱していたAI関連株への投資が急速に巻き戻されるなか、中国政府は株式市場の下支えに乗り出している。AI関連株が軒並み売られ、ハイテク株中心の中国の株価指数「科創50（STAR 50）」はピーク",
-    "link": "https://news.yahoo.co.jp/articles/03aebb627359fac4e05982903321be924a210d72?source=rss",
-    "published": "2026-11-05T02:10:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "732e2f5cc165df813ae974b90fffa6c2024fbc5e",
-    "source": "Yahoo!ニュース 経済",
-    "title": "ヤマダデンキ、広島市に大型店　6日開業、中国地方最大(共同通信)",
-    "summary": "家電量販店大手ヤマダホールディングス（HD）は5日、広島市中心部に出店する「ヤマダデンキ広島本店」の報道陣向け説明会を開いた。家族3世代が最新製品を手に取って試せることを重視した。売り場面積は約1万2",
-    "link": "https://news.yahoo.co.jp/articles/105470be967060fe7413d01ef9f21f28a7e33c97?source=rss",
-    "published": "2026-11-05T02:09:04+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "e903ead8bb87d2638ac1e0c32fe46f5944545d2b",
-    "source": "Yahoo!ニュース 地域",
-    "title": "【速報】「炎が出ている」と通報　広島市の住宅街で火事　消防車14台が出動　逃げる際に1人がけが(RCC中国放送)",
-    "summary": "警察や消防によりますと5日午前10時半ごろ、広島市安佐南区の住宅で「炎が出ている」「黒煙が上がっている」などと複数の通報がありました。消防車14台が出動し消火にあたっています。この火事で、逃げる際に2",
-    "link": "https://news.yahoo.co.jp/articles/0406f71707c1829b11fba6a3e8215d0d33245d03?source=rss",
-    "published": "2026-11-05T02:04:14+00:00",
     "matched_keywords": [
       "中国"
     ]
