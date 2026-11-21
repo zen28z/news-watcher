@@ -1,5 +1,71 @@
 [
   {
+    "id": "47e29399d08958316c0e0cb43debbc7080aa4475",
+    "source": "Yahoo!ニュース 経済",
+    "title": "ロボットの力加減、電子スキンで学習　中国新興、物体の接近も20センチ先から検知(36Kr Japan)",
+    "summary": "触覚を再現する「電子皮膚（電子スキン）」を開発する中国のスタートアップ「途見科技（Tachin Technology）」はこのほど、プレシリーズAの2回目となる追加ラウンドで1億元（約23億円）規模の",
+    "link": "https://news.yahoo.co.jp/articles/eaf449dccd3540329ce6824fd73e4d33cb5512c7?source=rss",
+    "published": "2026-11-21T23:30:27+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "36c8c147a0c610197b715456a629c5a606ca046c",
+    "source": "Yahoo!ニュース 地域",
+    "title": "社説：米中ロの首脳会談　許されぬ身勝手な秩序作り(京都新聞)",
+    "summary": "法の支配や人権をないがしろにする大国同士で、身勝手なルールを作り、国際社会を取り仕切ることは断じて許されない。 トランプ米大統領、中国の習近平国家主席、ロシアのプーチン大統領が、史上初めての米中ロ首脳",
+    "link": "https://news.yahoo.co.jp/articles/176fb12e1fecae8c946c33ab82eccee8cc80f5fb?source=rss",
+    "published": "2026-11-21T23:09:15+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "5c4e912ec9c5f08f3e4e8e01fbd6786d952a948a",
+    "source": "NHKニュース",
+    "title": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
+    "summary": "ウクライナのゼレンスキー大統領はアメリカ、中国、ロシアによる3か国の首脳会談について「ロシアにとっては失敗に終わった」と述べ、プーチン大統領の期待どおりには進まなかったという認識を示しました。",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261122de79819",
+    "published": "2026-11-21T23:07:20+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "d4d60ea949eb3fe7aaf0bd72ed2c6bbbbad14dcd",
+    "source": "Yahoo!ニュース 国際",
+    "title": "「やっぱ中国とは仲良うしとこ......」高市\"トランプ媚び媚び戦略\"転換はあるのか？(週プレNEWS)",
+    "summary": "トランプ大統領にひたすら寄り添う外交を貫いてきた高市早苗首相。彼女にとって中間選挙での共和党の負けっぷりは想像以上の痛手になるかもしれない。【写真】茂木敏充外相はパリでルビオ国務長官と意見を交わしたで",
+    "link": "https://news.yahoo.co.jp/articles/99e7271152382a099703c93e5ab231ec183e330c?source=rss",
+    "published": "2026-11-21T21:34:49+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "cdf3941edf02461129fd7b446c7e8430af2f902c",
+    "source": "東洋経済オンライン",
+    "title": "アメリカ｢AI投資の変調｣はアジアにどう波及するか　韓国は株価急落､中国の輸出にも下押し圧力､台湾は… | ビジネス | 東洋経済オンライン",
+    "summary": "アメリカ中間選挙での民主党の大勝を受け､急拡大を続けてきたAI開発やデータセンター建設への投資が調整期を迎えるのではないかという懸念が高まっています。AIブームの恩恵に浴してきたアジア諸国にとっても…",
+    "link": "https://toyokeizai.net/articles/-/965400?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-11-21T21:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "e1a27993a688b1da33254f5bce08be62e7ba4830",
+    "source": "東洋経済オンライン",
+    "title": "傷は直視しなければ｢過去｣にはならない…インドネシア残留日本兵の孫がたどりついた真実『ロンガの海』監督に聞く | ライフ | 東洋経済オンライン",
+    "summary": "戦後､インドネシアに残留して独立戦争に参加した日本兵･黒岩通。その孫が祖父の足跡をたどるドキュメンタリー映画『ロンガの海』。小西晴子監督に聞きました。",
+    "link": "https://toyokeizai.net/articles/-/964765?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "published": "2026-11-21T20:50:00+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
     "id": "ccb91bc4e946e68df50317e8689253059de7b2c4",
     "source": "Yahoo!ニュース 国内",
     "title": "冷え込む日中関係…待遇に“格差”も　前駐中国大使に聞く　中国とどう向き合う？(テレビ朝日系（ANN）)",
@@ -11219,204 +11285,6 @@
     "summary": "特産のソラマメで手作りする豆板醤がひそかに人気を集めている。中国の調味料、豆板醤をソラマメから作る「日本初の偉業」を成し遂げたのは秋田県三種町の農家の女性。辛さだけでなく、地元産のみそを加えてコクを増",
     "link": "https://news.yahoo.co.jp/articles/48c536e5ce38269e928755f215d1d881b5248bf6?source=rss",
     "published": "2026-11-08T00:00:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "9ac089cb93025fb1d486603b9a05d1a7605d5dcf",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国車、国内失速も海外で快走　9月の輸出56％増、輸入は半減(36Kr Japan)",
-    "summary": "中国汽車工業協会が発表した税関統計によると、9月の中国の完成車輸出台数は前年同月比56.3％増（前月比12.9％増）の118万2000台、輸出額は62.0％増（同13.2％増）の207億5000万ドル",
-    "link": "https://news.yahoo.co.jp/articles/4b9937d539b24981489078bcbe59aa6d88d3154c?source=rss",
-    "published": "2026-11-07T23:30:10+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "4d5fed13a65ae8190d76e1226f2916cd508d697d",
-    "source": "Yahoo!ニュース 経済",
-    "title": "中国KOVE新型モデルを欧州で公開 軽量な原付2種も登場(くるまのニュース)",
-    "summary": "中国のバイクメーカーKOVE(コーベ)は、2026年11月3日に開幕した「EICMA2026」（ミラノショー）で、新型の「125 RALLY」「350 RALLY」「650RR」を発表しました。【画像",
-    "link": "https://news.yahoo.co.jp/articles/4df6130acbe3ae6602e014ffe6e2e09a4ea9fd9e?source=rss",
-    "published": "2026-11-07T23:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "9bea6533719c809aedb7e5e7f5b0513df4d92056",
-    "source": "ITmedia 総合",
-    "title": "[ITmedia Mobile] 折り方がZ型→G型に変わった3つ折りスマホ「HUAWEI Mate XT 2」は“iPhone Duoキラー”になるか　開けば10.2型、初の防水対応も実現",
-    "summary": "Appleの「iPhone Duo」発表の2日前、ファーウェイが中国で三つ折りスマホ「HUAWEI Mate XT 2」を発表した。折り方をZ型からG型に改め、三つ折りとして初めて防水・防塵（じん）に対応し、のぞき見を防ぐプライバシーディスプレイも備えた。その実機を現地で試した。",
-    "link": "https://www.itmedia.co.jp/mobile/articles/2611/08/news005.html",
-    "published": "2026-11-07T23:22:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "7ac103741aea24b8578f707c3e24e6f0aeea970e",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "リトルなでしこは12年ぶりのU17女子W杯優勝ならず……ナイジェリアがアフリカ勢初の戴冠(サッカーキング)",
-    "summary": "FIFA U－17女子ワールドカップモロッコ2026決勝が7日に行われ、U－17日本女子代表（リトルなでしこ）はU－17ナイジェリア女子代表と対戦した。【動画】リトルなでしこは12年ぶりの優勝に一歩届",
-    "link": "https://news.yahoo.co.jp/articles/2e08cbebe3346efee76e8ec0bf0775d3e89559c5?source=rss",
-    "published": "2026-11-07T22:45:34+00:00",
-    "matched_keywords": [
-      "ナイジェリア"
-    ]
-  },
-  {
-    "id": "e46a71719524fb6727d66f734105d0b1bf01a03d",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "「強すぎた」「驚くほど速い」決勝でリトルなでしこを圧倒した“アフリカの雄”にSNS衝撃「ブラジル・北朝鮮を破ったのも納得」「これから上の世代でも脅威になるな」(SOCCER DIGEST Web)",
-    "summary": "モロッコで開催されているU-17女子ワールドカップは現地11月７日に決勝が行なわれ、12年ぶりの優勝を目指すU-17日本女子代表が、アフリカ勢初制覇を狙うナイジェリアと対戦。１－２で敗れ、準優勝に終わ",
-    "link": "https://news.yahoo.co.jp/articles/1dd904b7f3a7a63ac3e7a91653b2fa13f349288d?source=rss",
-    "published": "2026-11-07T22:45:00+00:00",
-    "matched_keywords": [
-      "ナイジェリア"
-    ]
-  },
-  {
-    "id": "cb9b4adac763bc411aeb28a8ef8533e89ff426a8",
-    "source": "朝日新聞",
-    "title": "沖縄ではなく「琉球」　中国が繰り返す「沖縄地位未定論」のねらいは",
-    "summary": "",
-    "link": "http://www.asahi.com/articles/ASVC53HRPVC5UHBI017M.html?ref=rss",
-    "published": "2026-11-07T22:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ed20c10e5e0de973081634d7604eb9f8fbedef23",
-    "source": "朝日新聞",
-    "title": "沖縄ではなく「琉球」　中国が繰り返す「沖縄地位未定論」のねらいは",
-    "summary": "",
-    "link": "https://www.asahi.com/articles/ASVC53HRPVC5UHBI017M.html?ref=rss",
-    "published": "2026-11-07T22:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "dbda10ff53cca34c3427fdd6ea02c70d605f1eb8",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "サカーリとのシード対決を制したイアラが今季2勝目に王手、クレア・リューはキャリア2度目のツアー決勝進出 [香港オープン／テニス](テニスマガジンONLINE)",
-    "summary": "WTAツアー公式戦「プルデンシャル香港テニスオープン」（WTA250／中国・香港／11月2～8日／賞金総額28万3347ドル／ハードコート）の女子シングルス準決勝が行われ、勝ち上がったアレクサンドラ・",
-    "link": "https://news.yahoo.co.jp/articles/dc1a776005f6a2ef84dbbbe28376b04ba6152fc2?source=rss",
-    "published": "2026-11-07T22:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "fdc6dd4b9583f4b4a7a6d07f0a4d8de8e84a717f",
-    "source": "Yahoo!ニュース 地域",
-    "title": "河津町「iZoo」でコモドドラゴン公開　国内初のつがい飼育で繁殖目指す(みんなの経済新聞ネットワーク)",
-    "summary": "世界最大のトカゲ「コモドオオトカゲ」の一般公開が10月31日、体感型動物園「iZoo（イズー）」（河津町浜）で始まった。繁殖を目的にインドネシアから雄と雌の2頭が貸与されるのは国内初。絶滅危惧種に指定",
-    "link": "https://news.yahoo.co.jp/articles/1f45926d833b9d5dc702297ecd4e76aad4f0deef?source=rss",
-    "published": "2026-11-07T22:27:24+00:00",
-    "matched_keywords": [
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "00f375653f0ae5851b1f103251fa16e860951c38",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "【卓球】早田ひな、中国の“最強サウスポー”撃破で４強入り「攻撃と守備のバランス良くて初の２連覇へ準決勝は張本美和と日本対決…ＷＴＴチャンピオンズ(スポーツ報知)",
-    "summary": "◇卓球◆ＷＴＴチャンピオンズ・フランクフルト 第５日 （７日、ドイツ・フランクフルト） 女子シングルス準々決勝が行われ、世界ランキング６位で昨年大会覇者の早田ひな（日本生命）が同４位の蒯曼（かいばん、",
-    "link": "https://news.yahoo.co.jp/articles/542d8eb530d57deb93ff5926e222391187f2b574?source=rss",
-    "published": "2026-11-07T22:21:09+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ab900babd65189ced174a0059d60b5412eb3f6a1",
-    "source": "Yahoo!ニュース スポーツ",
-    "title": "リトルなでしこ、決勝で惜敗し選手たちは涙…GKが痛恨キャッチミスで失点、12年ぶりの世界一ならず(フットボールチャンネル)",
-    "summary": "FIFA U-17女子ワールドカップ（W杯）モロッコ2026の決勝、U-17日本女子代表（リトルなでしこ）対U-17ナイジェリア女子代表の試合が現地時間7日に行われ、日本は1-2で敗れた。39分にGK",
-    "link": "https://news.yahoo.co.jp/articles/1adb4c38e91593e05edec724ace9c3e2be89a28d?source=rss",
-    "published": "2026-11-07T22:18:49+00:00",
-    "matched_keywords": [
-      "ナイジェリア"
-    ]
-  },
-  {
-    "id": "94e4e440072dc5a9ad28a1d6648bd0f6ad045a84",
-    "source": "Yahoo!ニュース 国内",
-    "title": "中国で売ってないサンリオ商品まで中止に…｢VIVANT｣に激怒した中国官製メディアが見せた\"新チャイナリスク\"(プレジデントオンライン)",
-    "summary": "TBS系日曜劇場「VIVANT」に対し、中国から批判の声が上がっている。評論家の白川司さんは「中国の官製メディアの一声で、サンリオが日本人向けに日本で売る商品まで止まった。日本のエンタメ産業や民間企業",
-    "link": "https://news.yahoo.co.jp/articles/69a5ec5a31c0a5005cb3bb762508142c3a5aff0d?source=rss",
-    "published": "2026-11-07T22:15:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2655f74a11968fe84df5bccf8b1bc2b2fe333b96",
-    "source": "Yahoo!ニュース 地域",
-    "title": "「ニーズにフィットしている」なぜMAZDA3がアメリカで売れている? マツダが語る“3”つの理由　10月の販売台数も大幅増　6カ月連続で前年同月比超え(RCC中国放送)",
-    "summary": "マツダの北米事業を統括する「マツダノースアメリカンオペレーションズ（MNAO）」は3日、10月の北米の販売台数を発表しました。【画像を見る】北米で販売台数を大幅に増やしているMAZDA3MNAOにより",
-    "link": "https://news.yahoo.co.jp/articles/40550ed319ded3e6ea36351cd924052b97227f8f?source=rss",
-    "published": "2026-11-07T22:00:33+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "04e4524130a065b5be888eedfa2b846fa83a0044",
-    "source": "Yahoo!ニュース 経済",
-    "title": "「俺の金がスッカラカンになるなんて絶対ありえねえ」…中国の組織的転売屋が怖すぎる(ダイヤモンド・オンライン)",
-    "summary": "iPhone人気が爆発していた2010年代初頭の中国でアップルが特に恐れたのは、裏社会と結びついた「組織的転売屋」だった。ルイ・ヴィトンのバッグに100元札の札束をパンパンに詰め込み、数千人の出稼ぎ労",
-    "link": "https://news.yahoo.co.jp/articles/ce6c5cc105be1545ae602bd4d8cbcdc14f727378?source=rss",
-    "published": "2026-11-07T21:45:31+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "bf9d97b94265bf635e0848cacde151570cc5f646",
-    "source": "Yahoo!ニュース 国内",
-    "title": "現実は｢VIVANT｣より怖い…スパイ防止法のない日本で中国批判をした大学教授が受けた尾行､危害予告､中傷(プレジデントオンライン)",
-    "summary": "日曜劇場「VIVANT」がいよいよ最終回を迎える。静岡大学教授の楊海英さんは「劇中で繰り広げられる中国系の秘密組織シンシーと別班の攻防は、私には絵空事と思えない。尖閣問題などについての発信内容が問題視",
-    "link": "https://news.yahoo.co.jp/articles/78d54deb474d068fdbf9e157cfa7beb04aca79f4?source=rss",
-    "published": "2026-11-07T21:15:48+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "80ef21cf52f21b79ee8483c30155a096fc2c602d",
-    "source": "Yahoo!ニュース 地域",
-    "title": "運転手の仕事のため「酒やめました」ネパールへ家族残し来日、5人の外国人ドライバーと、初採用した運送会社の覚悟「彼らの力が、必要だ」(テレビ高知)",
-    "summary": "物流業界では“トラックドライバー不足”が深刻な問題となっています。こうした中、新たな担い手として、初めて「外国人ドライバー」の採用に乗り出した運送会社があります。ネパールから“覚悟”を胸に日本へやって",
-    "link": "https://news.yahoo.co.jp/articles/a4c06c26706789d50247841fa9a91753cb3cad59?source=rss",
-    "published": "2026-11-07T21:00:34+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "7dbeac4054d9bb0ffe0ad4938696cd960985070a",
-    "source": "毎日新聞",
-    "title": "AI新世紀:中国で急拡大した「AI故人」　対照的な日本で起きた変化とは",
-    "summary": "",
-    "link": "https://mainichi.jp/articles/20261105/k00/00m/040/042000c",
-    "published": "2026-11-07T21:00:14+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c0ca9dd03bb6beb3c738d3caeed7d30671392ce7",
-    "source": "東洋経済オンライン",
-    "title": "香港株式市場の｢IPOブーム｣に転機…上場延期や公募割れが続出､裏に透ける機関投資家の資金流出 | ビジネス | 東洋経済オンライン",
-    "summary": "活況を呈していた香港株式市場のIPOブームが転機を迎えています。2026年下半期以降､IPOの中止･延期や新規上場銘柄の株価の公募割れが続出。その裏には､外資系ヘッジファンドや中国本土系資金の投資戦…",
-    "link": "https://toyokeizai.net/articles/-/963539?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-11-07T21:00:00+00:00",
     "matched_keywords": [
       "中国"
     ]
