@@ -1,5 +1,228 @@
 [
   {
+    "id": "2d4eca868b667d0705eccc688712ac12341ae645",
+    "source": "Yahoo!ニュース 経済",
+    "title": "TPP、「経済的威圧」対抗へ枠組み(共同通信)",
+    "summary": "【ハノイ共同】ベトナムで開かれたTPP閣僚級会合は、重要鉱物や部品の供給規制といった「経済的威圧」に対抗するための枠組み「調整プラットフォーム」を創設した。加盟申請中の中国が念頭にあるとみられる。日本",
+    "link": "https://news.yahoo.co.jp/articles/4913fa55d4dcd8fd6d2653b64e77555ff7b5123f?source=rss",
+    "published": "2026-11-27T10:54:31+00:00",
+    "matched_keywords": [
+      "ベトナム",
+      "中国"
+    ]
+  },
+  {
+    "id": "efaf9f508112f523879d7980c1e83efe64178086",
+    "source": "Yahoo!ニュース 国際",
+    "title": "翼幅25メートルの巨大機がパイロットなしで飛行…中国の無人貨物機はここまで進化した(ニューズウィーク日本版)",
+    "summary": "中国国営中央テレビ（CCTV）は11月17日、中国が独自に開発した7トン級の大型無人貨物機「長鷹8（チャンイン8）」が初の輸送・空中投下試験に成功したと報じた。18日には、その様子を収めた映像が公開さ",
+    "link": "https://news.yahoo.co.jp/articles/497d14d43e016866427f2bec778f35a4a9fd1c33?source=rss",
+    "published": "2026-11-27T10:50:49+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "67dea747ab9ec5c8140e189c1a3a5bf8461511d2",
+    "source": "Yahoo!ニュース 経済",
+    "title": "ASEAN+3、越境デジタル決済の新プログラムと作業部会創設で合意、デジタル資産規制も協議へ(あたらしい経済)",
+    "summary": "東南アジア諸国連合（ASEAN）の加盟国と日本、中国、韓国で構成される「ASEAN+3」の財務大臣・中央銀行総裁代理が、クロスボーダー・デジタル決済に関する新たなプログラム「AMROクロスボーダー・デ",
+    "link": "https://news.yahoo.co.jp/articles/f6afb4d1ee05c5daaafce36114e4aaa866fe2506?source=rss",
+    "published": "2026-11-27T10:14:14+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "bc95d3c8f26e86e96eaf91f79a1d52ba0c7893b1",
+    "source": "Yahoo!ニュース 国際",
+    "title": "習近平の「トランプへの態度」が変わった？ 中間選挙の敗北は「中国の好機」との認識は正しいか(ニューズウィーク日本版)",
+    "summary": "米中間選挙で、アメリカの有権者はドナルド・トランプ大統領に厳しい審判を下し、共和党は連邦議会の上下両院で多数派の座を失った。11月19日にトランプと再び会談した中国の習近平（シー・チンピン）国家主席は",
+    "link": "https://news.yahoo.co.jp/articles/3b2bfd886bd2500051a46c908c719b95c6d31afb?source=rss",
+    "published": "2026-11-27T10:10:09+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ef19fa144debbdb8df712124e6938347adca75a1",
+    "source": "Yahoo!ニュース 経済",
+    "title": "中国や洪水があったタイで苦戦…トヨタ自動車の10月世界生産台数 前年同月比8.1%減と4か月連続で前年割れ(東海テレビ)",
+    "summary": "トヨタ自動車が発表した2026年10月の世界生産台数は、中国市場やタイの洪水の影響で苦戦が続き、4カ月連続の前年割れとなりました。 トヨタ自動車によりますと、10月の世界生産台数は去年の同じ月と比べて",
+    "link": "https://news.yahoo.co.jp/articles/77b8e56cc3295bfcba401cf71813ea5bf6703dc7?source=rss",
+    "published": "2026-11-27T10:09:26+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "551ba95b45986f02cff735b5231b8b8f8f1976be",
+    "source": "Yahoo!ニュース 国内",
+    "title": "トヨタ 世界での販売台数 4カ月連続で前年割れ(ABEMA TIMES)",
+    "summary": "トヨタ自動車の10月の世界での販売台数は中国での販売減少が影響し、4か月連続で前の年を下回りました。【映像】トヨタの世界販売 4カ月連続で前年を下回る トヨタによりますと、10月の世界での販売台数は8",
+    "link": "https://news.yahoo.co.jp/articles/f365165a6654f940c4efa0bfc25f404bb1c7e57e?source=rss",
+    "published": "2026-11-27T10:06:17+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "21cec9df8a93ab89f197367d770db02a009bee2a",
+    "source": "Yahoo!ニュース IT",
+    "title": "トランプ政権が新関税案発表、日本15％・中国20％ 違憲判決前の水準に(ビジネス＋IT)",
+    "summary": "米通商代表部（USTR）は2026年11月25日、製造業の構造的な過剰生産能力を理由に、日本や中国、欧州連合（EU）など14カ国・地域に対する新たな追加関税案を公表した。日本は既存関税と合算して最大1",
+    "link": "https://news.yahoo.co.jp/articles/605f70cfc8cb551b6b3d72416f3eed3bbbd98855?source=rss",
+    "published": "2026-11-27T10:05:06+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "eb64c5ad1c5b55bb5ff4e0fe329b65753befec7a",
+    "source": "Yahoo!ニュース IT",
+    "title": "エヌビディア、東南アジア4カ国へのAI半導体の出荷を停止(ギズモード・ジャパン)",
+    "summary": "中国企業の遠隔アクセスを規制するため？NVIDIA（エヌビディア）が、インドネシア、マレーシア、シンガポール、タイの4カ国向けに、高性能AI半導体を搭載したサーバーの出荷を停止するよう、製造パートナー",
+    "link": "https://news.yahoo.co.jp/articles/803b4dad729d8cea13efae83694c45c9fca956fb?source=rss",
+    "published": "2026-11-27T10:00:01+00:00",
+    "matched_keywords": [
+      "中国",
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "5cd84324c692acc25c1a7af2a4980a100d88c87e",
+    "source": "GIGAZINE",
+    "title": "有酸素運動と筋力トレーニングの順番が血糖値調節に影響するとの研究結果",
+    "summary": "運動が血糖値のコントロールに役立つことは広く知られており、ジョギングやサイクリングなどの有酸素運動と筋力トレーニングはそれぞれ異なる効果をもたらします。中国とスウェーデンの研究者らは、これらの運動をどのような順番で行うことでより高い効果を得られるかについて研究しました。<p><b><a href=\"https://gigazine.net/news/20261127&#45;workout&#45;blood&#45;sugar/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20261127-workout-blood-sugar/",
+    "published": "2026-11-27T10:00:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ba65223048bbeadc62b14a48acfe3c866256fe65",
+    "source": "Yahoo!ニュース 経済",
+    "title": "TPP、日本に事務局設置　UAEとも加盟交渉開始(共同通信)",
+    "summary": "【ハノイ共同】ベトナム・ハノイで開かれていた環太平洋連携協定（TPP）の閣僚級会合は27日、事務局に当たる「支援事務所」を創設し、当面日本に置くことを決めた。日本が協定運用や新規加盟問題などで12カ国",
+    "link": "https://news.yahoo.co.jp/articles/001a78231f84766223831de990780717bef81596?source=rss",
+    "published": "2026-11-27T09:47:29+00:00",
+    "matched_keywords": [
+      "ベトナム"
+    ]
+  },
+  {
+    "id": "ea35f8dace63767ceed74faa6b042f0327301cce",
+    "source": "朝日新聞",
+    "title": "中国EV、大衆車にも先端技術搭載で差別化　広州モーターショー開幕",
+    "summary": "",
+    "link": "https://www.asahi.com/articles/ASVCW2WBFVCWUHBI00DM.html?ref=rss",
+    "published": "2026-11-27T09:35:19+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "8437834b9b855a3412d166357190d81b63f66539",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国李首相が神田アジア開発銀行総裁と会談(テレビ朝日系（ANN）)",
+    "summary": "中国の李強首相はアジア開発銀行の神田真人総裁と会談し、「パートナーシップを一層、強化していきたい」と述べました。 李強首相は26日、北京の人民大会堂で神田総裁と会談し、笑顔で握手を交わしました。 中国",
+    "link": "https://news.yahoo.co.jp/articles/fa8f9189d4df5689ae188da3894bdfc4286c547e?source=rss",
+    "published": "2026-11-27T08:35:54+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "1796cb9fc1c23a3c05dfe5acc20dfb4fad8ed9e2",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国とイランの「反米ネットワーク」が米国内で交差？　制裁対象の銀行口座が映す不可解な協力関係の謎(ニューズウィーク日本版)",
+    "summary": "中国とイランの政治工作ネットワークが、アメリカ国内で手を組み、アメリカの覇権や政策に揺さぶりをかけている──。そんな驚きの事実が明らかになった。【動画】米下院が公開した、シンガム関連NPOへの調査につ",
+    "link": "https://news.yahoo.co.jp/articles/01cf72ddd05bfee074f696cece41f8f43a0f7873?source=rss",
+    "published": "2026-11-27T08:30:49+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "77bf4fe4b0aacf45c6b2f4164f49cee29cc4f3ca",
+    "source": "Yahoo!ニュース 国際",
+    "title": "太陽光だけで最長30時間飛行、翼幅8メートル…中国が開発した大型ドローンが初飛行に成功(ニューズウィーク日本版)",
+    "summary": "中国北西部で、太陽光だけをエネルギー源とする新型ドローンが初飛行に成功した。中国国営中央テレビ（CCTV）の映像ニュース部門が11月20日、機体の姿を公開した。【映像】翼幅8メートル、太陽光だけで飛ぶ",
+    "link": "https://news.yahoo.co.jp/articles/08c576d94332ef5ef24f60c205ba9e8c35dadcdd?source=rss",
+    "published": "2026-11-27T08:30:41+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "afda25f7354d062e608115bc4fdb0c6cab0237ff",
+    "source": "Yahoo!ニュース 国際",
+    "title": "中国 李強首相が神田アジア開発銀行総裁と会談 「パートナーシップを一層強化」(テレビ朝日系（ANN）)",
+    "summary": "中国の李強首相はアジア開発銀行の神田真人総裁と会談し、「パートナーシップを一層、強化していきたい」と述べました。李強首相は26日、北京の人民大会堂で神田総裁と会談し、笑顔で握手を交わしました。中国メデ",
+    "link": "https://news.yahoo.co.jp/articles/05904091c18cc02362aee7848516adbdfc18abbc?source=rss",
+    "published": "2026-11-27T08:15:42+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "ee7e845071b157ea6dafcf5b2a94a086c6a49f4c",
+    "source": "GIGAZINE",
+    "title": "NVIDIAがシンガポールなど東南アジア4カ国へのサーバー出荷停止をDELLやSupermicroなどに指示",
+    "summary": "NVIDIAがDELLやSupermicroといったメーカーに対し、シンガポール、マレーシア、インドネシア、タイの東南アジア4カ国にNVIDIA製半導体を搭載したサーバーを出荷しないよう指示したことがわかりました。東南アジア諸国が、NVIDIA製半導体を何とかして入手したい中国にとっての中継地になっており、アメリカの商務省が対策に乗り出したためです。<p><b><a href=\"https://gigazine.net/news/20261127&#45;nvidia&#45;stops&#45;chips&#45;shipments&#45;to&#45;south&#45;east&#45;asia/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20261127-nvidia-stops-chips-shipments-to-south-east-asia/",
+    "published": "2026-11-27T08:15:00+00:00",
+    "matched_keywords": [
+      "中国",
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "0a46ad4a4ac531dd7be1f0dc697c6f47d786f6e0",
+    "source": "Yahoo!ニュース 国際",
+    "title": "暗闇と浸水の中で続く捜索活動　インドネシア無許可金鉱で16人死亡(AP通信)",
+    "summary": "ボゴール、インドネシア、11月27日 (AP) ー 違法金鉱の浸水で16人の遺体が収容され、依然として10人が閉じ込められているとみられる事故で、救助隊は26日、水位の上昇や暗闇、滑りやすく狭い地形と",
+    "link": "https://news.yahoo.co.jp/articles/c9893d2a0c7248f1de0c004bf0e0b8fe83756ba3?source=rss",
+    "published": "2026-11-27T07:14:56+00:00",
+    "matched_keywords": [
+      "インドネシア"
+    ]
+  },
+  {
+    "id": "fdf8797c1254c1c2268cac580c46a6de0178adfe",
+    "source": "Yahoo!ニュース 国際",
+    "title": "ネパール洪水から早くも3カ月　厳しい冬を前に生活再建が課題(AP通信)",
+    "summary": "カトマンズ、ネパール、11月27日 (AP) ー ネパール北部を壊滅的な洪水と土石流が襲ってから3カ月がたち、被害の大きさはいまも色濃く残っている。家屋はがれきと化し、道路は寸断され、地域全体が復興に",
+    "link": "https://news.yahoo.co.jp/articles/3447aaf278fb4aabd53c18407d7ca0e87561899d?source=rss",
+    "published": "2026-11-27T07:10:08+00:00",
+    "matched_keywords": [
+      "ネパール"
+    ]
+  },
+  {
+    "id": "c356018653c3961cbc15a57e32df904eeb14cfca",
+    "source": "GIGAZINE",
+    "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
+    "summary": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。<p><b><a href=\"https://gigazine.net/news/20261127&#45;talkie&#45;ai&#45;chat&#45;app/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20261127-talkie-ai-chat-app/",
+    "published": "2026-11-27T05:57:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
+    "id": "72a70c2bac02232410e59ba4b6e8b59b5b4b790d",
+    "source": "GIGAZINE",
+    "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
+    "summary": "世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています。<p><b><a href=\"https://gigazine.net/news/20261127&#45;asml&#45;ceo&#45;warn&#45;to&#45;export&#45;ban/\">続きを読む...</a></b></p>",
+    "link": "https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/",
+    "published": "2026-11-27T03:35:00+00:00",
+    "matched_keywords": [
+      "中国"
+    ]
+  },
+  {
     "id": "061a182f73a04dc7a5cf8f91fdd962f6f4573d0f",
     "source": "Yahoo!ニュース 国際",
     "title": "隣の米兵が撃たれて即死、ジャングルで毒槍の罠に落ちたことも…当時20代だったカメラマンが「9回の命の危機に瀕しても」ベトナム戦争を撮り続けた理由(文春オンライン)",
@@ -9749,361 +9972,6 @@
     "summary": "アメリカは高性能AIチップの中国への輸出を制限しており、中国も輸入を制限しています。しかし、AI研究組織のUnemployment Labsが複数の中国製AIモデルを分析した結果、制限対象GPUを用いて開発された痕跡が発見されました。<p><b><a href=\"https://gigazine.net/news/20261113&#45;china&#45;ai&#45;nvidia&#45;blackwell&#45;gpu/\">続きを読む...</a></b></p>",
     "link": "https://gigazine.net/news/20261113-china-ai-nvidia-blackwell-gpu/",
     "published": "2026-11-13T11:23:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f0a175c12a5901c50488d88f8a3f0f9007502d32",
-    "source": "Yahoo!ニュース 地域",
-    "title": "ジャグリング世界大会優勝の望月ゆうさくさん　小学生に相手を尊重する大切さを伝える(ＯＡＢ大分朝日放送)",
-    "summary": "ジャグリングの世界大会で優勝した経験を持つ望月ゆうさくさんが、県の人権啓発の取り組みの一環として、大分市の小学校でパフォーマンスを披露しました。望月さんは、中国ゴマとも呼ばれる「ディアボロ」をひもで自",
-    "link": "https://news.yahoo.co.jp/articles/48f19c34ed9fc78e5ab36f61aa964c2813f487e8?source=rss",
-    "published": "2026-11-13T10:30:04+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "6946611ef308fa28517f8fb9029ab89dccc7454b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "ジェンスン・フアンCEOを巡る中国スパイ事件、韓国なら摘発できたか【11月12日付社説】(朝鮮日報日本語版)",
-    "summary": "米半導体大手エヌビディア（NVIDIA）のジェンスン・フアン最高経営責任者（CEO）を巡る不倫スキャンダルは、単なるゴシップではない。中国国家安全部（MSS）に取り込まれた女性実業家が、ジェンスン・フ",
-    "link": "https://news.yahoo.co.jp/articles/9b0c7b79cc54a8f3251fb1dccb44ac7d50398a13?source=rss",
-    "published": "2026-11-13T10:25:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "454800467bcb5aec9030e18d98ac140c69ab330c",
-    "source": "Yahoo!ニュース 経済",
-    "title": "フアンCEO電撃辞任でNVIDIA時価総額75兆円消失　中国APECにて米中関係に影響は　日本は大国間の動きの中で“仲間外れ”?【解説】(MBSニュース)",
-    "summary": "AI向け半導体で圧倒的シェアを誇り、世界経済を牽引してきたアメリカの大手半導体企業「エヌビディア」のジェンスン・フアンCEOが、12日付で辞任しました。フアン氏を巡っては、中国の工作員とされる女性との",
-    "link": "https://news.yahoo.co.jp/articles/351b9ff7f8547c45e7ddf8673903fe487147eed8?source=rss",
-    "published": "2026-11-13T10:19:13+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3f8c4310119e67d0abba0fdda3037899b542714a",
-    "source": "Yahoo!ニュース 経済",
-    "title": "日産、中国で新型PHV　現地開発・生産で巻き返し(共同通信)",
-    "summary": "【珠海共同】日産自動車は13日、中国でプラグインハイブリッド車（PHV）「NX7」を発表した。若者をターゲットとした5人乗りの小型スポーツタイプ多目的車（SUV）。中国で開発・生産を手がける「Nシリー",
-    "link": "https://news.yahoo.co.jp/articles/fb2125469adf4f6b37f8f5eceeae80b6dd376998?source=rss",
-    "published": "2026-11-13T10:05:41+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "c38f5f3ea92dacc96e1a8eb6ab47086586bcc964",
-    "source": "NHKニュース",
-    "title": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
-    "summary": "アメリカの半導体大手、「エヌビディア」は中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられたジェンスン・フアン氏がCEOを辞任したと発表しました。会社は暫定のCEOを任命しましたが、…",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261113de75212",
-    "published": "2026-11-13T09:53:38+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "f6b7fbe8c96be190914eaf8f9103eb444ce00e28",
-    "source": "Yahoo!ニュース 国内",
-    "title": "特定技能の運用方針　「給食業」を別分野へ　政府有識者会議取りまとめ(テレビ朝日系（ANN）)",
-    "summary": "政府は、外国人の在留資格の運用方針について、給食業の分野移管などを盛り込んで改正した運用方針を取りまとめました。 政府は13日の有識者会議で、外国人の在留資格「特定技能」と、技能実習に代わり来年4月か",
-    "link": "https://news.yahoo.co.jp/articles/a8b04ae1eaacd22e7b50098158d51a3d8a030704?source=rss",
-    "published": "2026-11-13T09:51:18+00:00",
-    "matched_keywords": [
-      "技能実習",
-      "特定技能"
-    ]
-  },
-  {
-    "id": "6c41349005b0dc67041f4d8170e074b3de37843e",
-    "source": "Yahoo!ニュース 国内",
-    "title": "特定技能の運用方針「給食業」を別分野へ　政府有識者会議取りまとめ(テレビ朝日系（ANN）)",
-    "summary": "政府は、外国人の在留資格の運用方針について、給食業の分野移管などを盛り込んで改正した運用方針を取りまとめました。政府は13日の有識者会議で、外国人の在留資格「特定技能」と、技能実習に代わり来年4月から",
-    "link": "https://news.yahoo.co.jp/articles/2eed526f8417f7eaf4e8e1ed599c73e8a5a9b493?source=rss",
-    "published": "2026-11-13T09:51:02+00:00",
-    "matched_keywords": [
-      "技能実習",
-      "特定技能"
-    ]
-  },
-  {
-    "id": "de1a99445ee52808a32c7bc09be984c727f134e6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "軍用ドローンに中国製チップ　テック企業の経営者夫妻を国家安全法違反で起訴／台湾(中央社フォーカス台湾)",
-    "summary": "（台中中央社）中国製のICチップを軍用無人機（ドローン）に不正に混入したとして、台湾台中地方検察署（地検）は11日、中部・台中市のテクノロジー企業の経営者とその妻を国家安全法違反などで起訴し、それぞれ",
-    "link": "https://news.yahoo.co.jp/articles/c19ef33e77b77d54a3cd60f2d9e6502910caa687?source=rss",
-    "published": "2026-11-13T09:43:25+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2b45467029a01fffd8a4b921e7cbba06e229a2cc",
-    "source": "Yahoo!ニュース 経済",
-    "title": "山陰道に導入される“巨大バルーン通せんぼシステム”、その驚きの「起動の様子」を公式が公開…効果は？(乗りものニュース)",
-    "summary": "国土交通省 中国地方整備局 鳥取河川国道事務所の公式SNSアカウントは、10月23日に山陰道・瑞穂宝木ICにて行われた「エアー遮断機」動作確認の様子を動画で公開しています。どういったものなのでしょうか",
-    "link": "https://news.yahoo.co.jp/articles/c64df32851402317384715372331dc4f27b7e2ef?source=rss",
-    "published": "2026-11-13T09:12:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "96071295acd22d50982f8681dc47f11ad07c4e8c",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアのフアンCEO辞任の衝撃　中国籍女性のスパイ疑惑　半導体“横流し”？(テレビ朝日系（ANN）)",
-    "summary": "日本時間12日夜、アメリカの半導体大手・エヌビディアのジェンスン・フアンCEO（63）の辞任が発表され、衝撃が広がっている。フアン氏を巡っては中国のスパイと疑われる女性との関係に加え、社内の女性幹部と",
-    "link": "https://news.yahoo.co.jp/articles/1a884bd3fc8fadc88d06053fdb44b2a318961c7f?source=rss",
-    "published": "2026-11-13T09:00:36+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "b17af0e13860a2a34382986b5e8e8e7bf0b16852",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアCEO辞任、側にいたのは“中国工作員”疑惑の不倫相手 巧妙化するハニートラップとスパイ工作から日本は守れるか 識者の見解は(ABEMA TIMES)",
-    "summary": "半導体大手エヌビディア（NVIDIA）のジェンスン・フアンCEOが辞任、時価総額が一時急落した。引き金とみられているのが、自身の相次ぐ不倫問題と、相手女性の一人に浮上した中国情報機関とのスパイ疑惑だ。",
-    "link": "https://news.yahoo.co.jp/articles/2755b3f670fbcda113144a62b701eab18b52031a?source=rss",
-    "published": "2026-11-13T09:00:35+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "ccaf01077f0d3f9ef5e67c47a0e5bea59aa49bd2",
-    "source": "Yahoo!ニュース 国際",
-    "title": "習近平が台湾統一を「必ず実現」と宣言…トランプとの首脳会談直前に強硬姿勢を示す「狙い」とは(ニューズウィーク日本版)",
-    "summary": "中国の習近平国家主席が台湾統一に向けた強い決意を改めて表明した。習は11月12日、北京で開催された孫文の生誕160周年記念式典で、「祖国の完全統一は必ず実現しなければならず、必ず実現できる」と宣言。台",
-    "link": "https://news.yahoo.co.jp/articles/5a264d4d847ba25275a86e9263738782cd0e83db?source=rss",
-    "published": "2026-11-13T08:31:05+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "22a2ad4626784634c719ecef3642fdda3164d129",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアのフアン前CEO、中国スパイ疑惑の女性との関係について米議会説明に同意(Forbes JAPAN)",
-    "summary": "エヌビディアのジェンスン・フアン前最高経営責任者（CEO）は、中国のスパイと疑われる女性との関係について米議会で説明することに同意した。米下院の超党派組織、中国特別委員会のジョン・ムーレナー委員長がN",
-    "link": "https://news.yahoo.co.jp/articles/82fb52f30cee3072eafda8fbfdaa7e757b6d3f7d?source=rss",
-    "published": "2026-11-13T08:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "fa34e8ee264e681868b01fc3e0669a0c624e74af",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアCEOの不倫相手、中国政府のスパイだったのか？　確証は依然得られず(CNN.co.jp)",
-    "summary": "（CNN） 米半導体大手エヌビディアの最高経営責任者（CEO）だったジェンスン・フアン氏の不倫相手、中国人実業家のアリス・フアン氏が中国政府とどう関わっていたかについて、米情報当局は依然として捜査を続",
-    "link": "https://news.yahoo.co.jp/articles/1a957e85d0c2ef62ff8304f3993d8ae7ba75ffef?source=rss",
-    "published": "2026-11-13T08:06:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "90794f3a489be51c285904e6b0c9d7eb23339168",
-    "source": "ハフポスト日本版",
-    "title": "アラスカ上空で“巨大クラゲ”のような飛行物体を目撃⇒米軍基地付近を浮遊、専門家が指摘した正体とは",
-    "summary": "<div class=\"content-list-component text\"><p>アメリカ・アラスカ州で、巨大なクラゲのような謎の飛行物体が目撃され、注目を集めています。物体からは触手のようなものが垂れ下がり、空中を浮遊する様子が動画に収められました。</p><p>【動画】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5baa4e4b01d00edac06f6\">空に「巨大なクラゲ」？ 奇妙に浮遊する謎の物体</a></p><p><a href=\"https://www.dailymail.com/sciencetech/article-16278729/ufo-hovers-alaska-military-base.html\" rel=\"noopener noreferrer\" target=\"_blank\">Daily Mail</a>によると、撮影されたのは6月15日午後10時13分ごろ。サラ・ジェーン・オズボーンさんがアンカレッジで虹を撮影していた際、遠くの木々の上空に黒い物体を発見しました。</p><p>物体は米軍のエルメンドルフ・リチャードソン統合基地付近にあったとみられ、複数の触手のようなものを動かしながら浮遊。約3分後に姿を消したそうです。</p><p>オズボーンさんは「現れた時と同じくらい、あっという間に消えた」と証言。夫と約30分間周辺を捜索しましたが、凧を飛ばしていた人物などは見つからなかったといいます。</p><p>一方、<a href=\"https://www.newsnationnow.com/us-news/west/tentacled-ufo-alaska/\" rel=\"noopener noreferrer\" target=\"_blank\">NewsNation</a>の取材に対し、UFO研究家のベン・ハンセン氏は「凧や気球のようなものが考えられる」と説明。元UAPタスクフォース分析官のサラ・ガム氏も「未確認ではあるものの、高高度気球の可能性が最も高い」との見解を示しました。</p><p>物体の正体は特定されておらず、軍事活動や地球外生命体との関連性も確認されていません。</p><p>【あわせて読む】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af467a3e4b09e0b5c535c5a\">白昼ショベルカーが暴走、約1時間政府施設の入口を粉々に…⇨拘束された47歳男性の動機に注目集まる（中国）</a></p><div></div></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5baa4e4b01d00edac06f6\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af6c4b3180000665e94c070.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5baa4e4b01d00edac06f6\">【動画】アラスカ上空で“巨大クラゲ”のような飛行物体を目撃⇒米軍基地付近を浮遊、専門家が指摘した正体とは</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aeda9eee4b037ca1033687c\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aedb07f1b0000e919d13015.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aeda9eee4b037ca1033687c\">窓に寄りかかっただけで…ホテル7階の窓枠が外れ、26歳女性が転落死。事故直前の様子を防犯カメラが記録（ブラジル）</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aed8ed5e4b08d8d4a8f855f\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aed8fc21b0000a118d1300a.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aed8ed5e4b08d8d4a8f855f\">走行中の車からタイヤが外れ、猛スピードで歩道へ…⇨19歳学生の頭に直撃、瞬間を防犯カメラが捉える（チリ）</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5ba24e4b0653429057be5\">...クリックして全文を読む</a></p>",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_6af5ba24e4b0653429057be5",
-    "published": "2026-11-13T08:05:46+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "212439f110e201b9dbf41ea8473281d0f55f6e82",
-    "source": "Yahoo!ニュース 国際",
-    "title": "“カリスマCEOリスク”とは？エヌビディア不倫で時価総額84兆円消失…フアン前CEO辞任→リスクが大きすぎる不倫のワケを弁護士が分析「万能感持つ人も」「バレていない期間が成功体験に」(ABEMA TIMES)",
-    "summary": "アメリカの半導体大手NVIDIA（エヌビディア）は、ジェンスン・フアンCEOが辞任したことを発表した。【映像】ピンクドレスの女性と顔を近づけ…疑惑の“スパイ不倫”の瞬間 フアン氏をめぐっては、中国の情",
-    "link": "https://news.yahoo.co.jp/articles/37675dcf119880725597f13b95b5387ad9fc71cc?source=rss",
-    "published": "2026-11-13T07:54:14+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "992b61ca272ae0a9e0d2b33c4f93b875a3502c45",
-    "source": "東洋経済オンライン",
-    "title": "ラトニック商務長官に追及の矛先､商務省産業安全保障局は機能していたのか？ エヌビディア問題で対中規制に焦点 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "米エヌビディアCEO解任劇は､AI半導体の中国流出疑惑を巡り米商務省や政権中枢を揺るがす事態へと発展しています。",
-    "link": "https://toyokeizai.net/articles/-/964757?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-11-13T07:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "12cdd52315b5f0c55085874d1bc9ae0af1f77ad0",
-    "source": "ハフポスト日本版",
-    "title": "頭も体も真っ白なのに、尻尾だけ“三毛”の猫に…⇒「うちの子も！」「しっぽチャームの魅力」と反響続々",
-    "summary": "<div class=\"content-list-component text\"><p>「しっぽだけ三毛でほとんど白の猫ってなんていうんでしょうか？白三毛かなと思ってたんですが、ほぼ白なんですよねぇ」</p><p>そんなX上での問い掛けに、3.5万件の「いいね」が寄せられました。</p><p>【画像】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af6b316e4b0476a159afd00\" rel=\"noopener noreferrer\" target=\"_blank\">しっぽがチャームポイント！珍しい毛色の猫</a></p><p>投稿したのは、飼い主の青子さん（@awokobluehige）。</p><p>2枚の写真には、11歳の愛猫「ましろ」ちゃんの姿が収められています。ましろちゃんは生後6カ月の時に、保護活動をしている人からお迎えした猫だそう。</p><p>投稿でつづられているとおり、尻尾にだけ白・黒・茶色の毛が混ざっていて、それ以外は真っ白な体をしています。</p><p>この投稿には、同じような毛色をした猫を飼っているユーザーから写真付きで「うちのにゃんこもしっぽ三毛です！」「しっぽチャームの魅力たるや…」など共感の声が続々と寄せられました。</p><p>この反響について、飼い主は「何気ない投稿だったのですが、白ベース×尻尾三毛のかわいい猫さんの写真をたくさん送ってもらえたり、中国での呼称を教えていただいたりと思いのほか反響をいただき、びっくりしました。それと同時にありがたかったです」とコメントしました。　　</p><p>【あわせて読みたい】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af6a102e4b0653429069395\" rel=\"noopener noreferrer\" target=\"_blank\">9キロの愛猫の威力…！躍動感たっぷりに紹介した投稿に「素晴らしきデカニャンコ」「骨格が立派！」と大反響</a></p></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af6b316e4b0476a159afd00\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af6b2f6180000485a94c066.jpg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af6b316e4b0476a159afd00\">【画像】頭も体も真っ白なのに、尻尾だけ“三毛”の猫に…⇒「うちの子も！」「しっぽチャームの魅力」と反響続々</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aec2dffe4b0dcee62e2c736\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aec30df180000d291251a7b.jpg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aec2dffe4b0dcee62e2c736\">ササミを盗んだ2匹の猫。「もうあげるよ」と渡したら…⇒予想外の行動に飼い主も「なんなのwww」</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af672fae4b0476a159ae5cc\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af67383150000422913b961.jpg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af672fae4b0476a159ae5cc\">愛犬がまさかの「パンどろぼう」化！ 猛ダッシュで逃走するも…「逃げ足が早い」「パン落として行くの爆笑」</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af6b267e4b065342906987e\">...クリックして全文を読む</a></p>",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_6af6b267e4b065342906987e",
-    "published": "2026-11-13T07:11:11+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "d052051ad0ec4597bd0ecb863f63dcb45381979e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "日本と正式会談予定なし　APEC出席の台湾代表(共同通信)",
-    "summary": "【台北共同】18日に中国で始まるアジア太平洋経済協力会議（APEC）に台湾代表として出席するパソコン大手、宏碁（エイサー）の創業者施振栄氏は13日、高市早苗首相との正式会談の予定はないと記者団に述べた",
-    "link": "https://news.yahoo.co.jp/articles/98f38181983974a688292d5350b59394e8b6b6c5?source=rss",
-    "published": "2026-11-13T06:51:55+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "55a77d9db432c3239b786a0f5892f0d339966a5e",
-    "source": "Yahoo!ニュース 国際",
-    "title": "アリス・フアン氏は中国国家安全省の「チップチーム」要員…「情報トップが直接指揮」（2）(中央日報日本語版)",
-    "summary": "アリス・フアン氏が所有していた香港企業が2024年、メガスピードのインドネシア子会社からエヌビディアの半導体を輸入したとの報道も出た。香港の現地メディア「hk01」によると、アリス・フアン氏はシンガポ",
-    "link": "https://news.yahoo.co.jp/articles/b41d05654d0ad1217e0d10487d1c1c0ee5d67f8a?source=rss",
-    "published": "2026-11-13T06:45:09+00:00",
-    "matched_keywords": [
-      "中国",
-      "インドネシア"
-    ]
-  },
-  {
-    "id": "9699eb33e3a3d60d12eff6c0d938a4733bc64fa6",
-    "source": "Yahoo!ニュース 国際",
-    "title": "アリス・フアン氏は中国国家安全省の「チップチーム」要員…「情報トップが直接指揮」（1）(中央日報日本語版)",
-    "summary": "エヌビディア（NVIDIA）のジェンスン・フアン前最高経営責任者（CEO）の不倫相手とされる中国人女性アリス・フアン（中国名・黄楽）氏が、中国の最高情報機関である国家安全省の半導体専門工作組織に所属し",
-    "link": "https://news.yahoo.co.jp/articles/3a036797f089750833842904a3186946764a07bd?source=rss",
-    "published": "2026-11-13T06:44:57+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3fe7291251363fc0d41007a29461ede976db12da",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアCEO辞任 米商務長官の進退協議か(ABEMA TIMES)",
-    "summary": "半導体大手エヌビディアのフアンCEOの辞任を受けて、アメリカのラトニック商務長官の進退が協議されていると報じられました。【映像】フアン前CEOと中国のスパイと疑われる女性 ロイター通信は12日、関係者",
-    "link": "https://news.yahoo.co.jp/articles/eb328b99d0cf0515b7731ae965fcca8acbfc66f6?source=rss",
-    "published": "2026-11-13T06:36:17+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "2a3417a8b678ff63c5de71536bb0e1e8a6d73188",
-    "source": "ハフポスト日本版",
-    "title": "電動自転車のバッテリーが突然爆発⇒住宅全焼に至った“戦慄の映像”に「まるで爆弾みたいでした」（米）",
-    "summary": "<div class=\"content-list-component text\"><p>アメリカ・オレゴン州トラウトデールで11月5日、電動自転車のバッテリーが突然爆発し、住宅が全焼する火災が発生しました。住人6人は無事に避難しましたが、飼い猫1匹が死亡しました。爆発の瞬間は、住人が撮影した映像に記録されています。</p><p>【動画】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c7f5e4b0914f133d0112\" rel=\"noopener noreferrer\" target=\"_blank\">バッテリーが突然爆発。15歳の息子が撮影した衝撃映像</a></p><p><a href=\"https://www.koin.com/local/multnomah-county/it-was-like-a-bomb-e-bike-explosion-displaces-6-kills-cat/\" rel=\"noopener noreferrer\" target=\"_blank\">KOIN 6 News</a>によると、火災が起きたのは木造2階建ての住宅。15歳のプレストン・ウィリアムズさんが、電動自転車のバッテリーを充電器につながずリビングに置いていたところ、異臭が漂い、破裂するような音が聞こえ始めました。</p><p>ウィリアムズさんは「動画を撮って様子を見ることにしました。すると、あちこちからパンパンと音が鳴り始めました。まるで爆弾みたいでした」と同局に語っています。</p><p>撮影開始から数秒後、バッテリーが爆発し、リビングに炎が広がりました。母親は2階の住人に危険を知らせ、全員が避難しました。</p><p><a href=\"https://katu.com/news/local/caught-on-camera-e-bike-battery-explosion-engulfs-troutdale-home\" rel=\"noopener noreferrer\" target=\"_blank\">KATU</a>によると、周辺に消火栓がなく、消防隊は給水車の応援を受けて消火活動にあたりました。火災調査の結果、リチウムイオン電池の爆発が原因だと判明したといいます。</p><p><a href=\"https://www.kgw.com/article/news/local/family-escapese-bike-battery-explosion-sparks-fire-troutdale-home/283-98b140c2-7aef-4db7-97d3-11d89d414876\" rel=\"noopener noreferrer\" target=\"_blank\">KGW8</a>によると、オレゴン州では2020〜2025年にリチウムイオンバッテリー関連の火災が649件発生。当局は異常な発熱や膨張、異臭、煙などが確認された場合、使用を中止するよう呼びかけています。</p><p>【あわせて読む】<a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af467a3e4b09e0b5c535c5a\">白昼ショベルカーが暴走、約1時間政府施設の入口を粉々に…⇨拘束された47歳男性の動機に注目集まる（中国）</a></p><div></div></div><!-- start relEntries --><div class=\"related-entries related-entries--thumbs related-entries--recirc yr-related-entries\"><h3 class=\"related-entries__head\">Related...</h3><ul class=\"related-entries__list\"><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c7f5e4b0914f133d0112\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6af5c7fd15000036f613b73c.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c7f5e4b0914f133d0112\">【動画】電動自転車のバッテリーが突然爆発⇒住宅全焼に至った“戦慄の映像”に「まるで爆弾みたいでした」（米）</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aeda9eee4b037ca1033687c\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aedb07f1b0000e919d13015.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aeda9eee4b037ca1033687c\">窓に寄りかかっただけで…ホテル7階の窓枠が外れ、26歳女性が転落死。事故直前の様子を防犯カメラが記録（ブラジル）</a></li><li class=\"related-entries__list__item yr-related-entry\"><a class=\"related-entries__image\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aed8ed5e4b08d8d4a8f855f\"><img class=\"related-entries__image__src\" src=\"https://img.huffingtonpost.com/asset/6aed8fc21b0000a118d1300a.jpeg?ops=480_270\" /></a><a class=\"related-entries__title entry__link--omit yr-card-headline\" href=\"https://www.huffingtonpost.jp/entry/story_jp_6aed8ed5e4b08d8d4a8f855f\">走行中の車からタイヤが外れ、猛スピードで歩道へ…⇨19歳学生の頭に直撃、瞬間を防犯カメラが捉える（チリ）</a></li></ul></div><!-- end relEntries --><p><a href=\"https://www.huffingtonpost.jp/entry/story_jp_6af5c579e4b06534290580d4\">...クリックして全文を読む</a></p>",
-    "link": "https://www.huffingtonpost.jp/entry/story_jp_6af5c579e4b06534290580d4",
-    "published": "2026-11-13T04:09:29+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "aa21040cd556da0d04f1cfff1c3ae020641e3812",
-    "source": "Yahoo!ニュース 国際",
-    "title": "「20代の頃はすっぴん、飾り気のない服装」…ジェンスン・フアン氏の不倫相手の過去の姿(中央日報日本語版)",
-    "summary": "エヌビディアのジェンスン・フアン最高経営責任者（CEO）の不倫相手とされ、中国のスパイではないかとも疑われているアリス・フアン氏（中国名・黄楽）の過去の経歴が、インターネット上で再び注目を集めている。",
-    "link": "https://news.yahoo.co.jp/articles/0d5eac19f5b7f031c629ccacc6728f2aadfa4c21?source=rss",
-    "published": "2026-11-13T02:54:30+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "1cab4270ee929eeee198da504517da89a9b41224",
-    "source": "Yahoo!ニュース 地域",
-    "title": "太陽光発電施設から銅線８８キロを盗んだ疑い　カンボジア国籍の男を逮捕送検(khb東日本放送)",
-    "summary": "宮城県白石市の太陽光発電施設から銅線約８８キロを盗んだとして、カンボジア国籍の男が逮捕送検されました。",
-    "link": "https://news.yahoo.co.jp/articles/253a60d36e94e1056d3449c2d20ef8437a3bd265?source=rss",
-    "published": "2026-11-13T02:51:27+00:00",
-    "matched_keywords": [
-      "カンボジア"
-    ]
-  },
-  {
-    "id": "2be667b2cddf7a4fdf487e70466678f6c2c5861b",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エヌビディアCEO不倫相手の「謎すぎる」経歴　やはり「中国のスパイ」か？(クーリエ・ジャポン)",
-    "summary": "エヌビディアCEOとの不倫が発覚した渦中の中国人女性アリス・フアン。中国のスパイ疑惑が持たれているが、彼女の素性はほとんどわかっていない。年齢や出身地、学歴、職歴の多くは未確認で、現在の所在も不明。「",
-    "link": "https://news.yahoo.co.jp/articles/9c1107fcb96a9d0e6c86af2f074569d7487bb7f8?source=rss",
-    "published": "2026-11-13T02:45:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "a5a2698be739983c83b92cd5fb1e078671cdcdfd",
-    "source": "Yahoo!ニュース 経済",
-    "title": "鉄鋼主力商社　4社過去最高益　4―9月7社営業増益(日刊産業新聞)",
-    "summary": "鉄鋼主力商社9社の2026年4―9月期連結決算が12日に出そろい、営業利益を公表する8社のうち7社が増益となり、4社が過去最高益となった。中国の鋼材輸出増加による国際マーケットの混乱が続く中、米国など",
-    "link": "https://news.yahoo.co.jp/articles/eacab95d289e44c2accf5a98d40a7fad82c092cf?source=rss",
-    "published": "2026-11-13T02:36:53+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "449419633a9ae19f4e62bd8f3f54212755855d30",
-    "source": "Yahoo!ニュース 国際",
-    "title": "エベレスト冬季単独登頂に挑むドイツ人登山家…「成功確率は20％」（1）(中央日報日本語版)",
-    "summary": "2019年冬からエベレスト（8849メートル）の冬季登頂に挑戦してきたドイツ人登山家ヨスト・コブシュ氏（34）が、2年ぶりにネパールに戻ってきた。目標は、酸素ボンベを使わず、西稜ルートを通って単独でエ",
-    "link": "https://news.yahoo.co.jp/articles/46bbe5d257ae4544ad0bf97858a7e1103f726921?source=rss",
-    "published": "2026-11-13T02:34:50+00:00",
-    "matched_keywords": [
-      "ネパール"
-    ]
-  },
-  {
-    "id": "fbd577a603ea6e38f66b1c91955aa92dd703b19b",
-    "source": "Yahoo!ニュース 科学",
-    "title": "中国が「長征2号丁」を打ち上げ　宇宙科学計画「太空探源」の技術試験衛星を軌道投入(sorae 宇宙へのポータルサイト)",
-    "summary": "CASC（中国航天科技集団）は日本時間2026年11月11日、中国・甘粛省の酒泉衛星発射センターから「長征2号丁」ロケットを打ち上げ、搭載されていた「探源計画探路者衛星（CAS Pathfinder-",
-    "link": "https://news.yahoo.co.jp/articles/4a3f96e82e507a75ce24621e594abeb47a205cb5?source=rss",
-    "published": "2026-11-13T02:30:02+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "63b54276906c670e8c257ca09e9af3458ec2bfb3",
-    "source": "東洋経済オンライン",
-    "title": "超党派で半導体規制に乗り出したアメリカ議会…中国に巨大生産拠点を持つサムスン電子､SKハイニックス､日本にも影響 | 政治・経済・投資 | 東洋経済オンライン",
-    "summary": "アメリカ議会で審議中の対中半導体規制｢3法案｣。エヌビディアCEOの辞任を受け､審議･成立に向けた動きが加速する可能性があります。これは､中国市場に大きな生産拠点を持つサムスン電子やSKハイニックス…",
-    "link": "https://toyokeizai.net/articles/-/964681?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "published": "2026-11-13T02:30:00+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "292134b3f1353cbbd856d8dbba707e09965c8797",
-    "source": "Yahoo!ニュース 国際",
-    "title": "2人目の“不倫疑惑”報道も　エヌビディアCEO辞任発表　トランプ氏が後継指名？(テレビ朝日系（ANN）)",
-    "summary": "AI半導体業界に激震です。アメリカの半導体大手エヌビディアがジェンスン・フアンCEO（63）の辞任を発表しました。中国のスパイ疑惑がある女性に続き、社内の女性幹部との不倫疑惑も浮上していました。■2人",
-    "link": "https://news.yahoo.co.jp/articles/e4442a70917f03cd8f2d43e4dd78de942242f761?source=rss",
-    "published": "2026-11-13T02:25:01+00:00",
-    "matched_keywords": [
-      "中国"
-    ]
-  },
-  {
-    "id": "3f2199990da90928234e4df38a182c085473812f",
-    "source": "NHKニュース",
-    "title": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
-    "summary": "ドイツの大手自動車メーカー、メルセデス・ベンツグループは、中国メーカーとの競争の激化などを背景にコストの削減が急務だとして、ドイツ国内の工場の閉鎖を検討せざるを得ないとの認識を明らかにしました。",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168",
-    "published": "2026-11-13T02:16:00+00:00",
     "matched_keywords": [
       "中国"
     ]
